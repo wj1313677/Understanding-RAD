@@ -1,0 +1,28 @@
+name: Convert DOCX to Markdown
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '*.docx'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install pandoc -y
+
+      - name: Convert DOCX to Markdown
+        run: pandoc RAD\ General\ Description.docx -o RAD-General-Description.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add RAD-General-Description.md
+          git commit -m "Convert DOCX to Markdown"
+          git push
