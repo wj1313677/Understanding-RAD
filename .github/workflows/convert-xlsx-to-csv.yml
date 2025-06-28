@@ -1,1 +1,50 @@
-hi
+name: Convert XLSX to CSV
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '*.xlsx'
+
+jobs:
+  convert-xlsx-to-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install Required Python Libraries
+        run: pip install pandas openpyxl
+
+      - name: Convert XLSX to CSV
+        run: |
+          python -c "
+import pandas as pd
+import os
+
+# Get all .xlsx files in the repository
+xlsx_files = [f for f in os.listdir('.') if f.endswith('.xlsx')]
+
+for xlsx_file in xlsx_files:
+    # Load the Excel file
+    excel_data = pd.ExcelFile(xlsx_file)
+
+    # Iterate through all worksheets and save each as a CSV file
+    for sheet_name in excel_data.sheet_names:
+        df = excel_data.parse(sheet_name)
+        output_csv = f'{xlsx_file.replace(".xlsx", "")}_{sheet_name}.csv'
+        df.to_csv(output_csv, index=False)
+"
+      - name: Commit and Push CSV Files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add *.csv
+          git commit -m "Convert XLSX to CSV files"
+          git push origin HEAD
