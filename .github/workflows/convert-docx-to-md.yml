@@ -20,9 +20,11 @@ jobs:
         run: pandoc RAD\ General\ Description.docx -o RAD-General-Description.md
 
       - name: Commit and Push Changes
+        env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add RAD-General-Description.md
-          git commit -m "Convert DOCX to Markdown"
-          git push
+            git config --global user.name "GitHub Actions"
+            git config --global user.email "actions@github.com"
+            git add RAD-General-Description.md
+            git commit -m "Convert DOCX to Markdown"
+            git push origin HEAD
