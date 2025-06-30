@@ -1,4 +1,4 @@
-name: Convert Files
+name: Convert xslx to csv Files
 
 on:
   push:
