@@ -1,0 +1,27 @@
+name: Convert XLSX to CSV
+
+on:
+  push:
+    paths:
+      - '**/*.xlsx'
+  workflow_dispatch:
+
+jobs:
+  convert-xlsx-to-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas openpyxl
+
+      - name: Convert XLSX to CSV
+        run: |
+          python scripts/convert_xlsx_to_csv.py
