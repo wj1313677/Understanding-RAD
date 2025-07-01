@@ -1,0 +1,228 @@
+"Change
+Ind.","Valid
+From","Valid
+Until",RAD Application ID,Condition,Explanation,"Time
+Applicability",NAS / FAB,"Release
+Date","Special Event and 
+Crisis"
+AMD,2506 [12 JUN 2025],UFN,EG_TP,SID / STAR Requirements,"Exceptions     = Type Mil
+For AD's where SID/STARs are published: 
+- last RP of the SID shall be used as the first RP of filed route 
+- first RP of the STAR shall be used as the last RP of filed route
+   EXC when using Night Time DCTs which join at an intermediate point on a STAR
+   EXC for the following ADs:
+   EGLD/LL/WU: When using a EGLD/LL/WU STAR the use of the STAR initial waypoint is mandatory EXC for:
+   TFC DEP EGKK may join the ALESO1H STAR at BIG
+   TFC DEP EGNM which may join the HON1H STAR at TOBID
+   TFC DEP EGBB/BE/NX which may join  HON1H STAR at WCO 
+  WEZKO
+  TFC DEP EGBP/DM/VA/VN which may join  SIRIC1H STAR at NIGIT (RNAV1) or the HAZEL1H STAR at OCK (RNAV5)
+   EGKK: When using a EGKK STAR the use of  STAR initial waypoint is mand exc for:
+   TFC via SITET which may join SIRIC1G STAR at MID 
+TFC DEP EGBP/VA/VN which may join  SIRIC1G STAR at NIGIT (RNAV1) or the GWC1G STAR at GWC (RNAV5)
+     TFC DEP MIDLANDS_GROUP, EGBG/BK may join the KIDLI1G STAR at MID
+TFC DEP EGKB/MC/LC/TO which may join the KONAN2G at LARCK
+   EGSC/SS: When using a EGSC/SS STAR the use of the STAR initial waypoint is mandatory except for:
+    TFC DEP EGBE/BW via WCOWEZKO which may join the SILVA1L at BOMBO 
+TFC DEP EGLC may join the DET2A at LOFFO.
+EGGW: When using a EGGW STAR the use of the STAR initial waypoint is mandatory except for:
+    TFC using the DET2A may join the STAR at LOFFO
+   EGBB/BE: When using a EGBB/BE STAR the use of the STAR initial waypoint is mandatory except for
+   TFC DEP EGGP/NR which may join the WAL1B STAR at CREWE
+   TFC via WAL not above FL085 in EG which may join the WAL1B STAR at CREWE
+   TFC DEP EGSH (above FL155)/ SS/WU which may join the HEMEL1B at BUZAD
+   TFC via night direct AVANT DCT CPT or DEP EGBG/BJ/BK/BP/NE/NX/SH (BLW FL155)/TC/TK/VN which may join the HEMEL1B STAR at HON
+   TFC DEP EGGW/LC/LL/SC which may join the HEMEL1B STAR at WELIN
+   TFC via night direct RAPIX/GALSO DCT WELIN which may join the HEMEL1B STAR at WELIN
+EGKB/LC: When using a EGKB/LC STAR the use of the STAR initial waypoint is mandatory except for
+     DEP EGGW/MC/SC/SH/SS/WU may join the SUMUM1C STAR at LOGAN
+   TFC Via SITET may join the  NEVIL1C STAR at NETVU
+   DEP EGBE / BW may join the  SILVA1C STAR at BOMBO
+   DEP EGBG/BK/NX and TFC with RFL BLW FL075 may join the HON1C STAR at TIXEX
+   DEP FARNBOROUGH_GROUP, EGHO/HR may join the SAM1C STAR at EVEXU
+   DEP EGKA may join the SAM1C STAR at SOXUX
+   DEP EGKK / LL / LC / KB / MC may join the AVANT1C at GODLU
+TFC via LAKEY DCT MAMUL DCT MOGLI DCT ODVOD may join the LISTO STAR at ODVOD
+EGHH/HI: When using a EGHI/HH STAR the use of the STAR initial waypoint is mandatory except for:
+   DEP EGKB/LC/MC/TO or via KONAN/RINTI which may join the ELDAX1S at NOTGI   
+   DEP HO/HQ/KK/LL/SH/TE/TK/WU/FARNBOROUGH_GROUP or traffic via GIBSO which may file SAM DCT EGHI or BIA DCT EGHH
+EGPH: When using a EGPH STAR the use of  STAR initial waypoint is mandatory except for:
+   TFC via TRN which may join the TUNSO1E STAR at TLA
+   EGPF: When using a EGPF STAR the use of  STAR initial waypoint is mandatory except for:
+   TFC via SAB DCT TLA which may join the AGPED1G STAR at TLA
+EGMC: When using a EGMC STAR the use of  STAR initial waypoint is mandatory except for:
+   DEP EGGW/SC/SH/SS/TB/WU which may join the SUMUM1S STAR at LOGAN
+   Traffic via RINTI may join SOVAT1S STAR at ATSAP
+   TFC via SITET may join NEVIL1S STAR at NETVU
+   DEP EGHO/HR, FARNBOROUGH_GROUP which may join the SAM1S STAR at EVEXU
+   DEP EGKA which may join the SAM1S STAR at SOXUX
+   DEP EGBE / BW which may join the  SILVA1S STAR at BOMBO
+EGNX: When using a EGNX STAR the use of the STAR initial waypoint is mandatory exc for:
+   TFC via AVANT DCT VELAG which may join the HEMEL1E STAR at VELAG
+   TFC DEP EGGW/EGKB/EGKK/EGLC/EGLL/EGMC/EGMD/EGSC/EGSS/EGTO/EGWU which may join the HEMEL1E STAR at WELIN
+   TFC via GALSO/RAPIX DCT WELIN which may join the HEMEL1E STAR at WELIN
+   TFC via SUMUM (below FL155)/SOVAT/RINTI which may join the HEMEL1E STAR at WELIN
+   DEP EGNR which may join the WAL2E STAR at  NUGRA (RNAV1) or route via ROKUP DCT EGNX (RNAV5)
+TFC DEP EGCN may join the LIBSO1E STAR at DESIG (RNAV1) or route via ROKUP DCT EGNX (RNAV5)
+TFC DEP EGLL with ARR EGKK may join the KIDLI1G at MID
+EGCC ARR: TFC may join the OTBED1M at BURNI when DEP EGNM.
+TFC via MONTY may join the AXCIS1M at MONTY.
+TFC via DTY DCT SAPCO or DEP EGBB/EGBE/EGBG/EGBJ/EGNX/EGSH may join the ELVOS1M at TNT.
+   TFC via RINTI/SUMUM BLW FL105 or DEP EGKK/EGTR BLW FL105 may join the ELVOS1M at TNT.
+   TFC DEP EGNJ may join the OTBED1M at GOLES.
+EGGP ARR:.
+TFC via MONTY may join the PEPZE1L at MONTY 
+EGBB ARR: TFC may join the HEMEL1B at HON when DEP  EGBG, EGBJ, EGBK, EGNE, EGNX, EGSH, EGTC, EGTK, EGVN OR VIA BOLRO, GARMI, KOTEM, ORIST.
+EGNT: When using the EGNT POL1N STAR the use of the STAR initial waypoint is mandatory EXC for: TFC via DONAX/ALAVA/ROLEX/NELSA DCT GOKOV which may join the STAR at GOKOV.",H24,EG,08 MAY 2025,
+AMD,2506 [12 JUN 2025],UFN,LF_LIM_AD,Limits,"For the following airfields (where SIDs and STARs are published)   LFAC / LFAQ / LFAT / LFAV / LFAY / LFBA / LFBD / LFBE / LFBF / LFBH / LFBI / LFBL / LFBO / LFBP / LFBT / LFBU / LFBZ / LFCK / LFCR / LFDN / LFEA / LFEQ / LFEY / LFFI / LFFO/ LFGA / LFHY / LFJL / LFJR / LFKB / LFKC / LFKF / LFKJ / LFLA / LFLB / LFLC /  LFLH / LFLL / LFLM / LFLN / LFLP / LFLS  / LFLX / LFLY / LFMA / LFMD /LFMH / LFMI / LFMK / LFML / LFMN / LFMP / LFMQ / LFMT / LFMV / LFOA /  LFOB /LFOD/  LFOE / LFOH / LFOJ / LFOK / LFOO / LFOU  / LFOP / LFOQ / LFOT / LFOV / LFOZ / LFPB  / LFPG / LFPM / LFPN / LFPO / LFPT / LFPV / LFQA / LFQB / LFQE / LFQG / LFQM / LFQQ / LFQT / LFRE / LFRG / LFRI / LFRK / LFRM / LFRQ / LFRS / LFRV / LFRZ / LFSB / LFSD / LFSG / LFSI / LFSL / LFST / LFTH / LFTW / LFTZ / LFOR
+Departures/Arrivals  DCT = 0NM
+DEP/ARR LFBC / LFBN / LFBK / LFBR / LFBS / LFBX / LFCA / LFCB / LFCC / LFCD / LFCH / LFCG / LFCI / LFCJ / LFCL / LFCN / LFCO / LFCP / LFCQ / LFCS / LFCW / LFCX / LFCY / LFCZ / LFDA / LFDB / LFDC / LFDH / LFDI / LFDJ / LFDK / LFDM / LFDP / LFDR / LFDT / LFDU / LFDX / LFEL / LFFK / LFGB / LFHE / LFHH / LFHP / LFHS / LFHV / LFHX / LFID / LFIL / LFIM / LFIV / LFKO / LFKT / LFKS / LFLD / LFLG / LFLO / LFLR / LFLU /  LFLV / LFLW / LFMF / LFMW / LFMY / LFOA / LFOR / LFSM /LFWM /LFWO  / LFXB DCT= 0NM
+DEP/ARR LFMC / LFTF  DCT = 30NM
+DEP/ARR LFSP DCT = 40NM
+DEP  LFEB / LFEC / LFED / LFER / LFES /  LFFW /  LFOM / LFRB / LFRC / LFRD / LFRF / LFRH /LFRJ / LFRL / LFRN / LFRO / LFRP / LFRT / LFRU / LFRW /LFSS / LFTQ DCT  = 0NM
+DEP/ARR LFSM  DCT =  0NM
+ARR LFAD / LFFE / LFFQ / LFPA / LFPE / LFPF / LFPH / LFPK / LFPL / LFPP / LFPQ / LFPX / LFPZ / LFQB / LFXU DCT = 0NM
+AD Departures/Arrivals DCT = 50NM",H24,LF,14 MAY 2025,
+AMD,2506 [12 JUN 2025],UFN,LF_TP,SID / STAR Requirements,"For AD's:
+LFAC / LFAQ / LFAT / LFBA / LFBD / LFBE / LFBF /  LFBH / LFBI / LFBL / LFBO / LFBP / LFBT / LFBU / LFBZ/ LFCK / LFCR / LFDN / LFJL / LFKC / LFKF / LFKJ / LFLB / LFLC / LFLL / LFLN / LFLO / LFLP / LFLS  / LFLX / LFLY / LFMD / LFMH / LFMA / LFMI / LFMK / LFML / LFMN / LFMP / LFMQ / LFMT / LFMV  / LFOA / LFOB / LFOJ / LFOK / LFOP / LFOT / LFPB / LFPG / LFPM / LFPN / LFPO / LFPT / LFPV / LFQB / LFQQ / LFQT / LFRG / LFRK / LFRS  / LFSB  / LFSL / LFST / LFTH / LFTW / LFTZ
+-       The last RP of the SID shall be filed as the first RP of the route,
+-      The first RP of the STAR shall be filed as the last RP of the route.",H24,LF,14 MAY 2025,
+,,,EB_LIM_AD,Limits,"EB**  ARR/DEP DCT  20NM 
+(EBBR, EBMB) ARR/DEP DCT 30 NM
+ARR/DEP EBKT DCT 0 NM
+ARR/DEP ELLX DCT 10NM",H24,EB,29 AUG 2024,
+,,,ED_LIM_AD,Limits,"1. ED** ARR DCT 30NM EXC (EDAH, EDAZ, EDDB, EDDF, EDDG, EDDH, EDDK, EDDL, EDDM, EDDN,  EDDP, EDDS, EDDV, EDDW, EDHI, EDHK, EDHL, EDLP, EDLN, EDLW, EDNY, EDSB, EDTL, EDVE, EDXW, EDAY, EDFH, EDTD, EDTM) ARR DCT 0NM
+
+2. ED** DEP DCT 10NM EXC (EDAH, EDAZ, EDDB, EDDF, EDDG, EDDH, EDDK, EDDL, EDDM, 
+EDDN, EDDP, EDDS, EDDV, EDDW, EDHI, EDHK, EDHL, EDLP, EDLN, EDLW, EDNY, EDSB, EDTL, EDVE, EDXW, EDAY, EDAC, EDBH, EDBM, EDBN, EDDC, EDDE, EDDN, EDHL, EDMO, EDVK) DEP DCT 0NM
+
+3. ET** ARR/DEP DCT 40NM EXC
+   a. ETNL ARR DCT 0NM
+   b. ETNS ARR/DEP DCT 0NM",H24,ED,24 APR 2025,
+,,,EE_LIM_AD,Limits,"1. EE** ARR/DEP DCT 80NM EXC
+   a. (EETN, EEEI) ARR/DEP DCT 0NM
+   b. EETU ARR/DEP DCT = 40NM",H24,EE,28 JAN 2025,
+,,,EF_LIM_AD,Limits,"1. EF** ARR/DEP DCT = 0NM EXC 
+   a. (EFAA, EFAH, EFAL, EFEJ, EFEU, EFFH, EFFO, EFGE, EFHF, EFHH, EFHL, EFHM, EFHN, EFHO, EFHP, EFHS, EFHV, EFHY, EFII, EFIK, EFIM, EFIT, EFJE, EFJM, EFKG, EFKH, EFKJ, EFKM, EFKN, EFKO, EFKR, EFKV, EFKY, EFLA, EFLL, EFLN, EFME, EFMH, EFMN, EFMS, EFNS, EFNU, EFOP, EFPA, EFPE, EFPI, EFPJ, EFPK, EFPL, EFPN, EFPR, EFPT, EFPU, EFPY, EFRA, EFRH, EFRN, EFRU, EFRV, EFRY, EFSE, EFSO, EFSU, EFTO, EFTS, EFTV, EFVI, EFVL, EFVP, EFVT, EFWB, EFYL) = ARR/DEP DCT 50NM
+   b. (EFEK, EFJV, EFKA, EFLR) = ARR/DEP DCT 100NM",H24,EF,28 JAN 2025,
+,,,EG_LIM_AD,Limits,"AD  Departures/Arrivals DCT  = 50NM
+EGAA / EGBB / EGBJ (except below FL105)/ EGCC / EGCN / EGFF (except below FL105) / EGGD (except below FL105) / EGGW / EGHL / EGJA / EGJB / EGJJ / EGKB / EGKK / EGLC / EGLF / EGLK / EGLL / EGMC / EGNH / EGNT / EGNX / EGPF / EGPH /  EGPK / EGSC / EGSS / EGTD / EGTE (except below FL105) / EGTF / EGVO / EGWU Departures/Arrivals DCT = 0NM
+EGNM / EGNS / EGSU / EGTC / EGTK  Departures  = 0NM  Arrivals   = 50NM
+EGGP Departures = 30NM / Arrivals = 0NM
+EGLD / EGHH / EGHI / EGSY Departures = 50NM / Arrivals = 0NM",H24,EG,09 FEB 2023,
+,,,EH_LIM_AD,Limits,"EHBD / EHBK / EHEH / EHGG / EHLE Departures/Arrivals  DCT  = 0NM
+Other AD's:  Departure/Arrivals DCT  = 30NM (Except 1. where SID/STAR is available 
+2. RFL above FL055)",H24,EH,24 NOV 2023,
+,,,EH_TP,SID / STAR Requirements,"The use of SID/STARs is mandatory.
+SIDs/STARs shall be completely followed within EHAAFIR, leaving or joining at an intermediate point is not permitted.
+
+SIDs are compulsory for DEP EHAM with RFL above FL055  Except via KUDAD and then WOODY with ARR EBBR, BERGI, IDRID 
+SIDs are compulsory for DEP EHRD with RFL above FL055, except  ARR EHAM 
+STARs  are compulsory for ARR EHAM with RFL above FL055, except DEP AMSTERDAM_GROUP 
+STARs are compulsory for ARR EHRD with RFL above FL055 ",H24,EH,03 SEP 2023,
+,,,EI_LIM_AD,Limits,"AD ARR/DEP  DCT   = 50NM
+ EICK / EIDW / EIDL / EIKN / EIME / EINN / EISG / EIWF / EIWT Departures/Arrivals DCT = 0NM
+ EIKY  DEP  DCT     = 0NM
+            ARR DCT     = 50NM",H24,EI,19 JUN 2024,
+,,,EK_LIM_AD,Limits,"1. EK** ARR/DEP DCT 100NM EXC
+     a. (EKBI,  EKKA, EKYT) ARR  DCT 0NM
+     b. (EKCH, EKRK) ARR/DEP DCT 26NM
+     c. (EKKU, EKKV, EKMS, EKSO, EKSR, EKTB, EKVG) ARR/DEP DCT 50NM",H24,EK,21 AUG 2024,
+,,,EN_LIM_AD,Limits,"AD Departures/Arrivals DCT =  100NM
+ENGM Departures/Arrivals DCT = 0NM (except local flights within OSLO_GROUP)
+ENBR Departures/Arrivals DCT = 0NM (except DEP/ARR ENBR / ENSO / ENUL / ENBH / ENFJ / ENBG)
+ENZV Departures/Arrivals DCT = 0NM (except DEP/ARR ENZV / ENHD / ENSO / ENSX / ENUL / ENHX / ENBH / ENFJ / ENBG)
+ENVA Departures/Arrivals DCT = 0NM (except local flights within TRONDHEIM_GROUP)
+ENCN  Departures/Arrivals DCT = 0NM (except local flights within KJEVIK_GROUP)
+ENRY / ENTO Departures/Arrivals DCT = 0NM (except local flights within FARRIS_GROUP and ENGM)
+ENTC Departures/Arrival DCT = 0NM (except DEP/ARR ENDU / ENSR / ENTC )
+ENBO Departures/Arrivals DCT = 0NM (except 1. DEP/ARR ENBO / ENMS / ENRA 2. DEP ENST / ENBN / ENRS)
+ENDU Departures/Arrival DCT = 0NM (except DEP/ARR ENDU,ENEV,ENTC)
+ENEV Departures/Arrival DCT = 0NM (except DEP/ARR ENDU,ENEV)",H24,EN,06 JAN 2022,
+,,,EP_LIM_AD,Limits,"EP** ARR/DEP DCT 50NM EXC (EPBY, EPGD, EPKK, EPKT, EPLB, EPLL, EPMO, EPPO, EPRA,  EPRZ, EPSC, EPSY, EPPW, EPWA, EPWR, EPZG) ARR/DEP  DCT 0NM",H24,EP,15 OCT 2024,
+,,,ES_LIM_AD,Limits,"ES** ARR/DEP DCT = 100NM EXC
+(ESGG,  ESMS, ESSA, ESSB) ARR/DEP DCT = 26NM",H24,ES,28 JAN 2025,
+,,,EV_LIM_AD,Limits,"EV** ARR/DEP DCT = 0NM EXC
+ARR/DEP EVRA & FLT-TYPE (M)",H24,EV,28 JAN 2025,
+,,,EY_LIM_AD,Limits,"EY** ARR/DEP DCT = 50NM EXC
+(EYKA, EYVI) ARR/DEP DCT = 0NM",H24,EY,28 JAN 2025,
+,,,GC_LIM_AD,Limits,Departures/Arrivals DCT =  0NM,H24,GC,,
+,,,GC_TP,SID / STAR Requirements,"For AD's  where SID/STARs are published: 
+- the last RP of the SID shall be filed as the first RP of the route 
+- the first RP of the STAR shall be filed as the last RP of the route",H24,GC,,
+,,,GM_LIM_AD,Limits,"1. GM** ARR/DEP DCT = 50NM EXC
+   a. (GMAD, GMFO, GMME, GMMN, GMTT, GMMX) ARR/DEP DCT = 0NM
+   b. GMMZ ARR DCT = 0NM
+   c. GMTN ARR/DEP DCT = 20NM",H24,GM,28 JAN 2025,
+,,,LA_LIM_AD,Limits,"LA** ARR/DEP DCT 50NM
+LATI  ARR/DEP DCT 0NM",H24,LA,21 AUG 2024,
+,,,LB_LIM_AD,Limits,"LB** ARR/DEP DCT = 50NM EXC
+(LBBG, LBGO, LBPD, LBSF, LBWN) = 0NM",H24,LB,28 JAN 2025,
+,,,LC_LIM_AD,Limits,LC** ARR/DEP DCT 0NM,H24,LC,29 JAN 2025,
+,,,LD_LIM_AD,Limits,"LD** ARR/DEP DCT 50NM EXC (LDDU, LDPL, LDRI, LDSB, LDSP, LDZA, LDZD) ARR/DEP DCT 0NM",H24,LD,18 SEP 2024,
+,,,LD_TP,SID / STAR Requirements,"The use of SID/STARs is mandatory where published.  SIDs/STARs shall be completely followed within LDZO FIR, leaving or joining at an intermediate point is not permitted.",H24,LD,18 SEP 2024,
+,,,LE_LIM_AD,Limits,"Departures/Arrivals DCT =  0NM
+LEAO / LEBT / LEEC / LELO Departures/Arrivals = 50NM
+LXGB = 0 NM",H24,LE,,
+,,,LE_TP,SID / STAR Requirements,"For AD's  where SID/STARs are published: 
+- the last RP of the SID shall be filed as the first RP of the route 
+- the first RP of the STAR shall be filed as the last RP of the route",H24,LE,,
+,,,LG_LIM_AD,Limits,"1. LG** ARR/DEP DCT 50NM EXC
+     a. (LGAL, LGAV, LGBL, LGHI, LGIR, LGKC, LGKF, LGKL, LGKO, LGKR, LGKV, LGKZ, LGLM, LGMK, LGMT, LGPZ, LGRP, LGRX,   LGSK, LGSM, LGSR, LGST, LGSY, LGTS, LGZA) ARR/DEP DCT 0NM
+     b. (LGIO, LGKP, LGML) DEP DCT 0NM
+     c. LGSA ARR/DEP DCT 0NM EXC ARR LGSA & FLT-TYPE (M)",H24,LG,07 OCT 2024,
+,,,LG_TP,SID / STAR Requirements,"(Military traffic is exempt except DEP LGSA)
+
+For AD's: LGAL / LGAV / LGBL / LGHI / LGIR / LGKC / LGKF / LGKL / LGKO / LGKR / LGKV / LGKZ / LGLM / LGMK / LGMT / LGPZ /  LGRP / LGRX / LGSA / LGSK / LGSM / LGSR / LGST / LGSY / LGTS / LGZA
+SIDs/STARs shall be completely followed, leaving or joining at an intermediate point is not permitted",H24,LG,11 MAR 2025,
+,,,LH_LIM_AD,Limits,"1. LH** ARR/DEP DCT = 50NM EXC
+   a. LHPR ARR/DEP DCT = 30NM
+   b. LHBP ARR/DEP DCT = 0NM",H24,LH,28 JAN 2025,
+,,,LI_LIM_AD,Limits,AD   Departures/Arrivals DCT  = 0NM,H24,LI,,
+,,,LI_TP,SID / STAR Requirements,"The use of SID/STARs is mandatory where published. 
+SIDs/STARs shall be completely followed within Italian airspace, leaving or joining at an intermediate point is not permitted
+- Exemptions for the above are city pairs LIMC-LIML/LIML-LIMC/LIMC-LIMF/LIMF-LIMC
+",H24,LI,02 SEP 2023,
+,,,LJ_LIM_AD,Limits,"(LJCE, LJLJ, LJMB, LJPZ) ARR/DEP DCT 0NM",H24,LJ,27 JUL 2024,
+,,,LK_LIM_AD,Limits,LK** ARR/DEP DCT 0NM,H24,LK,02 AUG 2024,
+,,,LL_LIM_AD,Limits,"LL** ARR/DEP DCT 0NM EXC FLT-TYPE (M) & (LLEK, LLHS, LLHB, LLRD) ARR/DEP DCT 50NM",H24,LL,26 SEP 2024,
+,,,LM_LIM_AD,Limits,LM** ARR/DEP DCT 0NM,H24,LM,12 SEP 2024,
+,,,LO_LIM_AD,Limits,LO** ARR/DEP DCT 0NM,H24,LO,17 JUL 2024,
+,,,LP_LIM_AD,Limits,"1. LP** ARR/DEP DCT = 0NM (SID & STAR) EXC
+LPLA ARR/DEP DCT = 50NM
+2. LP** ARR/DEP DCT = 25NM NO (SID & STAR)",H24,LP,28 JAN 2025,
+,,,LQ_LIM_AD,Limits,"1. LQSA ARR/DEP DCT 45NM
+2. LQBK ARR/DEP DCT 30NM
+3. LQMO ARR/DEP DCT 35NM
+4. LQTZ ARR/DEP DCT 40NM",H24,LQ,28 JAN 2025,
+,,,LR_LIM_AD,Limits,"1. LR** ARR/DEP DCT = 35NM EXC
+   a. (LRAR, LRBS,  LRCK, LRCL, LROP, LRSB, LRTM, LRTR) ARR/DEP DCT = 0NM
+   b. LRBC ARR DCT = 0NM
+   c. LRBC DEP DCT = 17NM
+   d. (LRBM, LRCV, LROD, LRSM, LRTC) ARR/DEP DCT = 17NM
+   e. (LRBV, LRIA, LRSV) DEP DCT = 0NM
+   f. (LRIA, LRSV) ARR DCT = 17NM
+   g. LRBV ARR DCT = 24NM",H24,LR,28 JAN 2025,
+,,,LS_LIM_AD,Limits,LS** ARR/DEP DCT 0NM,H24,LS,06 MAR 2025,
+,,,LT_LIM_AD,Limits,LTAI / LTBH / LTBJ / LTBS Departure/Arrival DCT = 0nm,H24,LT,,
+,,,LT_TP,SID / STAR Requirements,"DCT only allowed within the confines of the TMAs
+For AD's where SID/STARs are published: 
+- the last RP of the SID shall be filed as the first RP of the route 
+- the first RP of the STAR shall be filed as the last RP of the route",H24,LT,,
+,,,LU_LIM_AD,Limits,"1. LU** ARR/DEP DCT 50NM EXC
+a. LUKK ARR/DEP DCT 0NM
+b. FLT-TYPE (X)",H24,LU,12 SEP 2024,
+,,,LW_LIM_AD,Limits,LW** ARR/DEP DCT = 0NM,H24,LW,28 JAN 2025,
+,,,LY_LIM_AD,Limits,"1. LY** ARR/DEP DCT = 50NM EXC
+   a. (LYBE, LYBT, LYKV, LYNI, LYPG, LYPT, LYTV, LYUZ, LYVR) ARR/DEP DCT = 0NM
+   b. (BKPR, LYPR) ARR/DEP DCT = 34NM",H24,LY,28 JAN 2025,
+,,,LZ_LIM_AD,Limits,"(LZIB, LZKZ, LZPP LZSL LZTT) ARR/DEP DCT 0NM
+
+(LZ** EXC LZIB, LZKZ, LZPP LZSL LZTT) ARR/DEP DCT 30NM",H24,LZ,27 JUL 2024,
+,,,UG_LIM_AD,Limits,"ARR/DEP (UGKO, UGSB, UGTB) DCT 0 NM",H24,UG,29 AUG 2024,
+,,,UK_LIM_AD,Limits,"Departures/Arrivals DCT  =  0 NM
+Exceptions - Type of Flight Mil",H24,UK,,
+,,,UK_TP,SID / STAR Requirements,"For ADs where SID/STARs are published: 
+- the last PT of the SID shall be used as the first PT of the filed route;
+- the first PT of the STAR shall be used as the last PT of the filed route.
+Exceptions - Type of Flight Mil",H24,UK,,
