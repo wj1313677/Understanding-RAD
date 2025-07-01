@@ -15,11 +15,7 @@ AMD,2506 [12 JUN 2025],25 OCT 2025 [2510],NM2074,,,,LHCCFIR,"NOT AVBL FOR TFC
 2. DEP LI** AND-THEN ARR (LROP, LRBS, LRCV)","(LYTSA11, LYTSA11Z, LYTSA12, LYTSA12Z) NOT ACT",C,"Summer 2025 measures to offload Hungary in the summer
 When the LYTSA11/Z, LYTSA12/Z are NOT active, traffic should route VIA LY. When the areas are active traffic should be allowed to file via LH, due to the very limited routing options, otherwise.","Possible suspension on D-1 due to convective weather
 To avoid reject on reroute via LH when TSAs are active, Ref loc for item 1 is LR-LH BDRY and Ref loc for item 2 is LH-LR BDRY",LHCCACC,NM,10 JUN 2025,Summer2025
-DEL,23 JUN 2025 [2506],UFN,NM2074,,,,LHCCFIR,"NOT AVBL FOR TFC
-1. DEP (LROP, LRBS, LRCV) AND-THEN ARR LI**
-2. DEP LI** AND-THEN ARR (LROP, LRBS, LRCV)","(LYTSA11, LYTSA11Z, LYTSA12, LYTSA12Z) NOT ACT",C,"Summer 2025 measures to offload Hungary in the summer
-When the LYTSA11/Z, LYTSA12/Z are NOT active, traffic should route VIA LY. When the areas are active traffic should be allowed to file via LH, due to the very limited routing options, otherwise.","Possible suspension on D-1 due to convective weather
-To avoid reject on reroute via LH when TSAs are active, Ref loc for item 1 is LR-LH BDRY and Ref loc for item 2 is LH-LR BDRY",LHCCACC,NM,20 JUN 2025,Summer2025
+DEL,23 JUN 2025 [2506],UFN,NM2074,,,,,,,,,,,,,
 NEW,21 JUN 2025 [2506],UFN,LC2125,,,,"(PASOS, LAKTO, RASDA)","NOT AVBL FOR TFC
 DEP HE** & RFL ABV FL345 IN LC",H24,S,Create a common level gap ,,LCCCACC,LC,20 JUN 2025,
 NEW,21 JUN 2025 [2506],UFN,LC2126,,,,"(PASOS, LAKTO, RASDA)","NOT AVBL FOR TFC
