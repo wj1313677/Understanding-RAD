@@ -6,9 +6,6 @@
 
     1.  The Route Availability Document (RAD) is created based on:
 
-```{=html}
-<!-- -->
-```
 a.  COMMISSION REGULATION (EU) No 255/2010 of 25 March 2010 laying down
     common rules on air traffic flow management, Article 4 - General
     obligations of Member States, paragraph 4; and
@@ -29,33 +26,28 @@ b.  COMMISSION IMPLEMENTING REGULATION (EU) No 123/2019 of 24 January
         document, which integrates both structural and ATFCM
         requirements, geographically and vertically.
 
-```{=html}
-<!-- -->
-```
+
 2.  **BASIC PRINCIPLES**
 
-```{=html}
-<!-- -->
-```
-1.  The objective of the RAD is to facilitate flight planning, in order
+3.  The objective of the RAD is to facilitate flight planning, in order
     to improve ATFCM, while allowing aircraft operators' flight planning
     flexibility. It provides a single, fully integrated and co-ordinated
     routeing scheme. Except where otherwise specified the RAD affects
     all areas where the Network Manager provides ATFCM services.
 
-2.  The RAD enables States/FABs/ANSPs to maximise capacity and reduce
+4.  The RAD enables States/FABs/ANSPs to maximise capacity and reduce
     complexity by defining restrictions that prevent disruption to the
     organised system of major traffic flows through congested areas with
     due regard to Aircraft Operator requirements.
 
-3.  The RAD is designed as a part of the Network Manager (NM) ATFCM
+5.  The RAD is designed as a part of the Network Manager (NM) ATFCM
     operation. It is organising the traffic into specific flows to make
     the best use of available capacity. Whilst, on its own, it will not
     guarantee the protection of congested ATC sectors during peak
     periods, it should facilitate more precise application of tactical
     ATFCM measures.
 
-4.  The RAD should also assist the Network Manager in identifying and
+6.  The RAD should also assist the Network Manager in identifying and
     providing re-routeing options. Global management of the demand will,
     potentially, lead to an overall reduction of delays. It is important
     to note that to achieve this, some re-distribution of the traffic
@@ -63,21 +55,18 @@ b.  COMMISSION IMPLEMENTING REGULATION (EU) No 123/2019 of 24 January
     result in modified traffic/regulations in some areas where, under
     normal circumstances, they would not be seen.
 
-5.  The content of the RAD shall be agreed between the Network Manager
+7.  The content of the RAD shall be agreed between the Network Manager
     and the Operational Stakeholders through an appropriate Cooperative
     Decision Making (CDM) process.
 
-6.  The RAD is subject to continuous review by the Network Manager and
+8.  The RAD is subject to continuous review by the Network Manager and
     the Operational Stakeholders to ensure that the requirements are
     still valid and take account of any ATC structural or organisational
     changes that may occur.
 
-7.  The RAD is updated each AIRAC cycle following a structured standard
+9.  The RAD is updated each AIRAC cycle following a structured standard
     process of:
 
-```{=html}
-<!-- -->
-```
 a.  Requirement;
 
 b.  Validation;
@@ -85,9 +74,6 @@ b.  Validation;
 c.  Publication by the Network Manager in cooperation/coordination with
     all Operational Stakeholders.
 
-```{=html}
-<!-- -->
-```
 8.  The RAD is only applicable to the IFR part of the Flight Plan.
 
 9.  Each State shall ensure that the RAD is compatible with their AIP
@@ -98,55 +84,32 @@ c.  Publication by the Network Manager in cooperation/coordination with
     document, collating, coordinating, validating and publishing it,
     following the CDM process as described in this section.
 
-```{=html}
-<!-- -->
-```
 3.  **STRUCTURE**
 
-```{=html}
-<!-- -->
-```
-1.  **Document structure**
+4.  **Document structure**
 
-```{=html}
-<!-- -->
-```
 1.  The RAD consists of:
 
-```{=html}
-<!-- -->
-```
 a.  General description;
 
 b.  **Annex 1 -- Area Definition**
 
 c.  **Annex 2 -- Traffic Flow Rules, which includes three sub-annexes:**
 
-```{=html}
-<!-- -->
-```
 i.  **Annex 2A -- Flight Level Capping Rules**
 
 ii. **Annex 2B -- Local and Cross-border Capacity and Structural Rules**
 
 iii. **Annex 2C -- FUA Traffic Flow Rules**
 
-```{=html}
-<!-- -->
-```
 d.  **Annex 3 -- Flight Planning Facilitation Options, which includes
     two sub-annexes:**
 
-```{=html}
-<!-- -->
-```
+
 i.  **Annex 3A -- Aerodrome Connectivity Options**
 
 ii. **Annex 3B -- En-route DCT Options**
 
-```{=html}
-<!-- -->
-```
 e.  **Annex 4 -- Special Events and Crises**
 
     1.  **General description**
@@ -318,9 +281,7 @@ process.
 2.  **Traffic Flow Rules and Flight Planning Facilitation Options
     Structure**
 
-```{=html}
-<!-- -->
-```
+
 1.  **Compostion**
 
 ####### Each restriction is hierarchical and specific and has been arranged to facilitate parsing of the information into computer systems.  {#each-restriction-is-hierarchical-and-specific-and-has-been-arranged-to-facilitate-parsing-of-the-information-into-computer-systems. .unnumbered}
@@ -341,9 +302,7 @@ process.
     sector/s within an ATC unit), etc.) there are 3 (three) main types
     of restrictions:
 
-```{=html}
-<!-- -->
-```
+
 a)  Not available for ...
 
 > [Flight planning]{.underline} via restricted object [is
@@ -363,9 +322,7 @@ c)  Compulsory for ...
     of traffic, there are 2 (two) types of restrictions - inclusive and
     exclusive:
 
-```{=html}
-<!-- -->
-```
+
 a.  INCLUSIVE restriction - traffic must meet [ALL]{.underline} of the
     conditions to be subject to the restriction. The implicit logical
     operator between the listed conditions is an "AND" - Logical
@@ -409,20 +366,14 @@ b.  EXCLUSIVE restriction - traffic only needs to meet [ONE]{.underline}
 |       |              |                                              |
 |       |              | 2.  Via ... Except                           |
 |       |              |                                              |
-|       |              | ```{=html}                                   |
-|       |              | <!-- -->                                     |
-|       |              | ```                                          |
 |       |              | a.  ARR ......                               |
 |       |              |                                              |
 |       |              | b.  DEP.....                                 |
 |       |              |                                              |
-|       |              | ```{=html}                                   |
-|       |              | <!-- -->                                     |
-|       |              | ```                                          |
 |       |              | 3.  Via ... with .....                       |
 +-------+--------------+----------------------------------------------+
 
-4.  Usage of combinations and terms in utilization expression
+1.  Usage of combinations and terms in utilization expression
 
 > If circumstances allow or if it is required for better expression of
 > the utilization, the 3 (three) usage types can be combined as follows:
@@ -574,16 +525,16 @@ f.  If the combination of elements is [exclusive]{.underline}, it can
 +-------+--------------+----------------------------------------------+
 | UL1   | AAAAA -      | 1.  *Only available for traffic*             |
 |       | BBBBB        |                                              |
-|       |              | ```{=html}                                   |
-|       |              | <!-- -->                                     |
-|       |              | ```                                          |
+|       |              |                                              |
+|       |              |                                              |
+|       |              |                                              |
 |       |              | a.  ARR ....Via...                           |
 |       |              |                                              |
 |       |              | b.  ARR... Via...                            |
 |       |              |                                              |
-|       |              | ```{=html}                                   |
-|       |              | <!-- -->                                     |
-|       |              | ```                                          |
+|       |              |                                              |
+|       |              |                                              |
+|       |              |                                              |
 |       |              | 2.  *Not available for traffic*              |
 |       |              |                                              |
 |       |              | DEP ....                                     |
@@ -612,9 +563,7 @@ g.  The word "except" used in expression of utilization can also be used
 h.  The 2 (two) [combination of elements]{.underline} types might also
     be used alone or in combination.
 
-```{=html}
-<!-- -->
-```
+
 5.  The term Requested FL (RFL) is used for RAD purposes and refers to
     the actual requested cruising level as specified in the ICAO flight
     plan field 15. Where it is used it shall be applied only to the
@@ -671,9 +620,7 @@ h.  The 2 (two) [combination of elements]{.underline} types might also
 
 10. 
 
-```{=html}
-<!-- -->
-```
+
 1.  Definition
 
 > RAD restrictions, except if otherwise mutually agreed by the
@@ -688,9 +635,7 @@ b)  ATS route segment or DCT starting from or ending at boundary
 c)  cross-border ATS route segment via boundary significant point or
     cross-border DCT.
 
-```{=html}
-<!-- -->
-```
+
 2.  The referenced significant point shall be located on common boundary
     between two adjacent airspaces. The concerned airspaces might be
     FIRs/UIRs or ACCs/UACs or CTAs/UTAs or FABs or combination of them.
@@ -723,9 +668,7 @@ c)  ICAO nationality letters for location indicators assigned to the
     code or vice-versa followed by 4 (four) digit number (LWBM1001,
     DULY1001).
 
-```{=html}
-<!-- -->
-```
+
 6.  First two letters are identifying the State / FAB / ANSP performing
     the ATC action, while the second two letters - State / FAB / ANSP
     affected by that action**.**
@@ -733,9 +676,7 @@ c)  ICAO nationality letters for location indicators assigned to the
 7.  The Maastricht UAC restrictions are considered as cross-border and
     shall be identified as follows:
 
-```{=html}
-<!-- -->
-```
+
 a)  inside AoR: ICAO nationality letters for location indicators
     assigned to the relevant State (EB, ED EH) and 2 (two) letters "YX"
     followed by 4 (four) digit number (EBYX1009);
@@ -745,10 +686,7 @@ b)  outside AoR: 2 (two) letters "YX" and ICAO nationality letters for
     letter Regional / FAB naming convention prefix code followed by 4
     (four) digit number (YXED1001, YXIU1002).
 
-***~~\
-~~***
-
-8.  Coordination
+1.  Coordination
 
 > Cross-border restrictions shall be coordinated between the NRCs of the
 > States/FABs/ANSPs concerned BEFORE submission for inclusion in the
@@ -852,9 +790,7 @@ b)  outside AoR: 2 (two) letters "YX" and ICAO nationality letters for
     has a FLOW ELEMENT attached to it. A FLOW ELEMENT is defined as
     affecting either:
 
-```{=html}
-<!-- -->
-```
+
 a.  Departures from an Airfield/Group/Area;
 
 b.  Arrivals to an Airfield/Group/Area;
@@ -863,9 +799,7 @@ c.  Traffic flying between Airfields/Groups/Area;
 
 d.  Overflying traffic.
 
-```{=html}
-<!-- -->
-```
+
 3.  **Time periods**
 
     1.  The time periods are in Co-ordinated Universal Time (UTC) used
@@ -892,15 +826,11 @@ d.  Overflying traffic.
 
 4.  **Definition of limits expressed by FL**
 
-```{=html}
-<!-- -->
-```
+
 1.  The vertical limits shall be expressed as follows (ref. ERNIP Part
     1):
 
-```{=html}
-<!-- -->
-```
+
 a.  above the lower limit or minimum en-route altitude and below FL290 -
     VFR flight levels in accordance with ICAO Annex 2, Appendix 3, page
     1 (e.g. FL035 or corresponding altitude... FL285);
@@ -913,36 +843,26 @@ c.  above FL410 or above FL290 in non RVSM areas - number representing
     the layer/ intermediate level between IFR flight levels ending on
     ..0 (e.g. FL420 ...FL500 ... ).
 
-```{=html}
-<!-- -->
-```
+
 5.  **Expression of abbreviated words meaning Departure and
     Destination**
 
-```{=html}
-<!-- -->
-```
+
 1.  In all Appendixes and Pan-European Annex, if and when used and
     required the expression of abbreviated words meaning Departure and
     Destination from/to certain airport/s or in/outside FIR/UIR /
     ACC/UAC / ATC Units shall be used based on ICAO Doc. 8400 -
     Abbreviations and Codes as follows:
 
-```{=html}
-<!-- -->
-```
+
 a.  DEP - code meaning "Depart" *or* "Departure";
 
 b.  ARR - code meaning "Arrive" *or* "Arrival".
 
-```{=html}
-<!-- -->
-```
+
 4.  **PERIOD OF VALIDITY**
 
-```{=html}
-<!-- -->
-```
+
 1.  The routeing organisation is permanently effective and applies daily
     H24, except where otherwise specified. When it can be identified
     that capacity is surplus to demand the RAD restrictions may be
@@ -953,14 +873,10 @@ b.  ARR - code meaning "Arrive" *or* "Arrival".
     will always be co-ordinated through the CDM process between the
     Network Manager and its Operational Stakeholders.
 
-```{=html}
-<!-- -->
-```
+
 5.  **APPLICATION**
 
-```{=html}
-<!-- -->
-```
+
 1.  The RAD will be fully integrated into the Network Manager
     Operational systems, including IFPS, through the Route Restrictions
     computer model. Any changes to the Pan-European Annex will
@@ -971,14 +887,10 @@ b.  ARR - code meaning "Arrive" *or* "Arrival".
     automatically by IFPS until such time as the system can be updated
     at the appropriate AIRAC date.
 
-```{=html}
-<!-- -->
-```
+
 6.  **CDM PROCESS**
 
-```{=html}
-<!-- -->
-```
+
 1.  Amendments to the General Description of the RAD, or the period of
     validity, shall be co-ordinated between the Network Manager and the
     Operational Stakeholders via the RAD Management Group (RMG) and
@@ -1039,9 +951,7 @@ b.  ARR - code meaning "Arrive" *or* "Arrival".
 
 7.  **TEMPORARY CHANGES**
 
-```{=html}
-<!-- -->
-```
+
 1.  Temporary changes due to exceptional circumstances (e.g. major
     equipment failure, industrial action or large-scale military
     exercises) may necessitate the suspension of part of the RAD for
@@ -1052,14 +962,10 @@ b.  ARR - code meaning "Arrive" *or* "Arrival".
     traffic affected, the period of activation and the corresponding
     routeings.
 
-```{=html}
-<!-- -->
-```
+
 8.  **FLIGHT PLANNING**
 
-```{=html}
-<!-- -->
-```
+
 1.  The RAD defines restrictions on routes/points, through specified
     areas during the published period of validity. Aircraft operators
     planning flights through these areas must flight-plan in accordance
@@ -1095,9 +1001,7 @@ b.  ARR - code meaning "Arrive" *or* "Arrival".
 
 9.  **ROUTEING SCENARIOS**
 
-```{=html}
-<!-- -->
-```
+
 1.  For each area expected to be critical, a number of flows could be
     identified, for which other routeings are available, that follow the
     general scheme, but avoid the critical area. These are known as
@@ -1114,14 +1018,10 @@ b.  ARR - code meaning "Arrive" *or* "Arrival".
 
 4.  The list of available scenarios is promulgated on the NM NOP portal.
 
-```{=html}
-<!-- -->
-```
+
 10. **PUBLICATION**
 
-```{=html}
-<!-- -->
-```
+
 1.  The RAD is created in accordance with ICAO publication procedures
     and is published on the NM NOP website, 34 days in advance prior to
     the relevant AIRAC cycle.
@@ -1129,9 +1029,7 @@ b.  ARR - code meaning "Arrive" *or* "Arrival".
 2.  Each State may promulgate the RAD by any one of the following
     methods:
 
-```{=html}
-<!-- -->
-```
+
 a.  Publish the RAD in its entirety as an AIP Supplement (the onus is on
     > the State to ensure that the RAD is kept up to date);
 
@@ -1182,14 +1080,10 @@ c.  Publish reference to the NM NOP website in the AIP.
     aeronautical information publications shall be fully consistent with
     this common reference document.
 
-```{=html}
-<!-- -->
-```
+
 11. **TACTICAL OPERATIONS**
 
-```{=html}
-<!-- -->
-```
+
 1.  The Network Manager in conjunction with the FMPs will monitor the
     actual situation during the day of operation to ensure the RAD is
     achieving the balance of traffic required.
@@ -1228,14 +1122,10 @@ c.  Publish reference to the NM NOP website in the AIP.
     request that the restriction in question be DISABLED in ENVironment
     so that there will not be a check at IFPS.
 
-```{=html}
-<!-- -->
-```
+
 12. **RAD REVIEW**
 
-```{=html}
-<!-- -->
-```
+
 1.  The NM RAD Team is responsible for coordination of the entire RAD
     review process.
 

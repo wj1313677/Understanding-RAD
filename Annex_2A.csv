@@ -1,0 +1,1695 @@
+ID,"From
+(ADEP)","Crossing
+Airspace","To
+(ADES)",Condition,"Flight Level
+Capping","Time
+Applicability",Categorisation,"Operational
+Goal",Remarks,"Release
+Date","Special Event and 
+Crisis"
+EG4133,MIDLANDS_GROUP,EG,MIDLANDS_GROUP,,NOT ABV FL95,H24,C,To achieve realistic planning levels,,25 JUN 2025,
+EK4003,ENGM,EK,EKCH,,FL335,05:00-19:00,C,To avoid sector overload,,19 JUN 2025,
+LF4199,PARIS_GROUP,"(ED, LF)",EDDM,VIA  LUPEN,RFL FL355,H24 ,C,traffic orientation ,,26 JUN 2025,
+LF4299,EDDM,"(ED, LF)",PARIS_GROUP,VIA LUPEN ,RFL FL355,H24 ,C,capacity enhancer   ,,26 JUN 2025,
+ED4248,EDDM,ED,EDDW,"VIA (EDMMGER, EDMMHAL)",RFL FL315,H24,C,to keep this traffic on easterly routing clear of EDUU sectors,,17 JUN 2025,
+ED4062,EDDF,"(ED, EB)",EB**,,FL225,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,28 MAY 2025,
+ED4199,"(DUESSELDORF_GROUP, FRANKFURT_GROUP, EDFZ)","(ED, LS)","(LFLB, LFLI, LFLJ, LFLP, LSGG, LSGS, LSZA, LSZL, LSZS)",VIA EDUUUTAW,"RFL FL315
+----------
+RFL FL355","AIRAC APR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT-AIRAC MAR
+H24",C,"FLAS, LoA KUAC-Skyguide",,28 MAY 2025,
+ED4223,EHAM,"(ED, EH)",EDDM,,FL355,"AIRAC APR - FIRST AIRAC OCT
+H24",C,summer measure to off load EDUUFFM3C,summer measure,28 MAY 2025,
+EDYX4050,HAMBURG_GROUP,ED,"(EDDG, EDLW)",,FL245,05:00-20:00 (04:00-19:00),C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,28 MAY 2025,
+EDYX4052,"(EDDG, EDLW)",ED,HAMBURG_GROUP,,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,28 MAY 2025,
+EB4005,BRUSSELS_GROUP,"(EBURUIR,_x000D_
+LFFFUIR)",PARIS_GROUP,,FL195,H24,C,"To comply with LoA transfer conditions for this specific city pair, keeping traffic in the lower airspace",,29 AUG 2024,
+EB4012,EBBR,"(EB, ED)",EDDK,,FL175,H24,C,To comply with LoA transfer conditions for this specific city pair.,,29 AUG 2024,
+EB4013,EBOS,"(EB, EH)","(EHEH, EHBD, EHAM, EHRD, EHLE)",,FL125,H24,C,LOA compatibility      ,,25 OCT 2024,
+EB4014,EBAW,"(EB, EH)",EHRD,,FL055,H24,C,LOA compatibility    ,,25 OCT 2024,
+EB4015,EBBR,EB,EBAW,,RFL FL075,H24,S,to keep the tfc at Brussels Approach,,12 MAY 2025,
+EB4016,EBAW,EB,EBBR,,RFL FL075,H24,S,to keep the tfc at Brussels Approach,,12 MAY 2025,
+EBEG4003,BRUSSELS_GROUP,"(EB, EGTTLMU)","(EGBJ, EGLL, EGVA, EGVN,EGWU)",,FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace,,29 AUG 2024,
+EBLF4009,"(EDFH, FRANKFURT_GROUP,DUESSELDORF_GROUP)","(EB, ED, EH, LF)","(PARIS_GROUP, LILLE_GROUP, BEAUVAIS_GROUP)",,FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a busy airspace,,29 AUG 2024,
+EBYX4000,BRUSSELS_GROUP,EB,"(LFST, LFSG)",,FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace..,,29 AUG 2024,
+EBYX4001,LFST,"(EB, EH)","(BRUSSELS_GROUP, AMSTERDAM_GROUP)",,FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace,,29 AUG 2024,
+EBYX4002,EHAM,"(EB, ED, EH)","(LFST, LFGA,EDTL)",VIA EBBUCTA,FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace,CM,29 AUG 2024,
+EBYX4003,"(EHAM, EHRD)","(EB, ED, EH)","(LFOH, LFRG)",,FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace,,29 AUG 2024,
+EBYX4004,EBOS,"(EB, ED, EH)",EDDK,,FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace,,29 AUG 2024,
+ED4003,"(EBLG, EHBK, EHBD)","(EB, ED)","(EDDS, EDFM, EDFV, EDRY, EDSB, EDTM, EDTY)",,FL245,H24,C,LoA constraint       ,,27 JUN 2025,
+ED4004,PRAGUE_GROUP,"(ED, LK)","(EDDS, ETOU)",,FL265,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4005,DUESSELDORF_GROUP,ED,"(EDDN, EDDS, EDDV, EDSB)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4007,EDDK,"(EB, ED)","(BRUSSELS_GROUP, EBLG, ELLX)",,FL165,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4018,"(EDAB, EDAC, EDBM, EDDC, EDDP)",ED,"(HAMBURG_GROUP, EDHK)",,FL285,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4020,EDDB,"(ED, LK)","(PRAGUE_GROUP, LKKV, LKPD)",,FL275,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4021,"(HAMBURG_GROUP, EDDV, EDHK, EDVE)","(ED, LK)",EPSC,,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4022,"(EKCH, EKRK, ESMS)",ED,EPSC,VIA ED,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4025,EDDP,ED,ELLX,"EXC VIA (KUMER, POVEL)",FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,07 JUL 2024,
+ED4026,EDDK,"(ED, EH)","(EDDG, EDDL, EDLM, EDLN, EDLV, EHEH)",,FL115,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4027,"(EDDW, FRIESLAND_GROUP, HAMBURG_GROUP)",ED,"(HAVEL_GROUP, MUERITZ_YZ_GROUP, EDDB)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4029,"(EDDM, EDMA, EDME, EDMO, EDMS, ETSI, ETSN)",ED,"(EDDV, EDVE, EDBC, EDBM, ETNW)",,FL305,H24,C,LoA and OLDI constraint.,,05 AUG 2024,
+ED4037,"(EKRN, ESMS)",ED,EDDB,,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4038,"(HAVEL_GROUP, EDDB)",ED,"(EDDR, EDDS, EDFM, EDJA, EDRY, EDRZ, EDSB, EDTY)",VIA BAMKI,FL315,H24,C,"LoA constraint, deparding traffic needs to descend again missing proper OLDI exchange between ATC centers if higher then FL315.",,05 AUG 2024,
+ED4039,"(EDDM, EDM*, ETSI)",ED,EDDK,EXC VIA SULUS,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4041,"(EDDV, EDVE, EDDW, EDDB, ETNL, EDBH, EDBN, HAVEL_GROUP)",ED,EDDN,,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4043,EDDP,ED,EDDS,,FL265,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace and LoA matters",,07 JUL 2024,
+ED4045,"(EDDV, EDVE, EDLI, EDLP)",ED,"(EDDM, EDMA, EDMO, ETSI)","VIA (SULUS, GALMA)",FL315,H24,S,limited FL to fit to LoA and OLDI constraints.,,05 AUG 2024,
+ED4046,"(EDDV, EDDW, EDVE, FRIESLAND_GROUP)",ED,FRANKFURT_GROUP,VIA ROBAR,FL195,H24,C,"To avoid complexity overhead WRB with crossing traffic east/west and EDDF DEPs to the north. Up to FL230 possible on tactical basis, but not assured.",,05 AUG 2024,
+ED4047,EDDN,ED,EDDH,,FL345,"AIRAC APR - FIRST AIRAC OCT
+H24",C,To avoid top upper layers of KUAC and MUAC during summer.,,07 JUL 2024,
+ED4048,EDDN,ED,"(EDDW, EDDV, EDVE, ETNW)",,FL305,H24,S,LoA and OLDI constraint.,,05 AUG 2024,
+ED4052,"(EDDW, EDWI)",ED,"(FRIESLAND_GROUP, HAMBURG_GROUP, EDDV, EDVE, ETHB, ETHC, ETHS, ETNW)",,FL105,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4053,"(EKCH, EKRK, EKRN, ESMS)",ED,HAMBURG_GROUP,VIA ROSOK,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4054,"(EDDM, EDMA, EDME, EDMO, EDMS, ETSI, ETSN)",ED,"(EDKZ, EDLA, EDLP, EDLW, EDVK)",,FL305,H24,C,LoA and OLDI constraint.,,05 AUG 2024,
+ED4056,EDGGFIR,ED,LOWS,VIA KOSEK,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,07 JUL 2024,
+ED4059,EDDC,ED,EDDS,,FL305,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,07 JUL 2024,
+ED4060,LKPR,ED,"(EDDK, EDKZ, EDLA, EDLW, EDVK)",VIA RAPET,FL315,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,30 APR 2025,
+ED4063,EDDF,ED,"(LFSB, LFST)",,FL235,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4064,EDDF,ED,ELLX,,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,07 JUL 2024,
+ED4066,"(EDLI, DUESSELDORF_GROUP EXC EDDK, EDDL)","(ED, LO)",LOWS,EXC VIA TIVDA,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4068,EDDF,ED,"(EDDV, EDVE)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4071,EDDF,"(ED, LF, LI, LO, LS)","(LIME, LIPX, LIPZ)",VIA UTABA,FL315,H24,S,Prevention of vertical transfer from EDMMACC to EDUUUAC (LoA and ATM system constraint),,27 JUN 2025,
+ED4072,EDDF,ED,"(EDDB, EDDC)",,RFL FL315,H24,S,Levelcap to avoid system issues at EDMM ACC. (to avoid calculation above Munich ACC) ,,05 AUG 2024,
+ED4073,EDDS,ED,EDDE,,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,07 JUL 2024,
+ED4074,"(EDDV, EDVE)",ED,"(EDFM, FRANKFURT_GROUP)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4076,"(EDDK, EDDL)","(ED, LK, LO)",LOWS,"EXC VIA (TIVDA,BOMBI T104 DKB)",FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4077,"(EDDB, HAVEL_GROUP)","(EB, ED)","(EDGGFIR, ELLX)",VIA ESEGU,FL315,H24,C,To prevent vertical profile entering EDUUUTA due to LoA/OLDI constraints,,05 AUG 2024,
+ED4078,EDDM,ED,EDDW,,FL365,H24,C,To off-load EDUUERL sector,,07 JUL 2024,
+ED4080,EDDS,"(ED, LI, LO, LS)","(LIMC, LIML, LIME, LIPA, LIPE, LIPH, LIPK, LIPO, LIPU, LIPX, LIPZ)",VIA KUNOD,FL315,H24,C,To avoid not possible vertical profile entering EDUUUTA,,05 AUG 2024,
+ED4082,HAMBURG_GROUP,ED,EDDK,VIA OSN,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,07 JUL 2024,
+ED4083,"(HAVEL_GROUP, BERLIN_YZ_GROUP, EDDB)",ED,FRANKFURT_GROUP,VIA ORTAG,FL285,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4085,(DUESSELDORF_GROUP EXC EDDK),ED,EDDW,,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4092,LKPR,"(ED, LK)",EDDL,VIA RAPET,FL365,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To reduce complexity and off-load top upper layers during summer. ,,05 AUG 2024,
+ED4093,DUESSELDORF_GROUP,"(ED, LK)","(LOWL, LOWS)",,FL355,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load upper sectors of EDUUUTA.,,05 AUG 2024,
+ED4094,"(EBBR, EBCI, EBLG, EHBK, EHEH, ELLX)","(EB, ED)","(EDDM, EDM*, EDNY, EDJA)",,FL355,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load upper sectors of EDUUUTA,,05 AUG 2024,
+ED4095,EDDM,"(EB, ED, EH)","(EBBR, EHEH)",,FL325,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load upper sectors of EDUUUTA,,05 AUG 2024,
+ED4096,LSZH,"(ED, LS)","(DUESSELDORF_GROUP, EDDV, EDDW)",VIA ETAGO,FL345,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load upper sectors of EDUUUTA,,05 AUG 2024,
+ED4099,DUESSELDORF_GROUP,"(ED, LK)","(LKPR, LOWW)",VIA EDUUUTAC,FL355,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load upper sectors of EDUUUTA,,27 JUN 2025,
+ED4100,"(EDDB, HAVEL_GROUP)",ED,EDGGFIR,VIA GALMA,FL265,H24,C,to reduce complexity in EDMMCTA,,05 AUG 2024,
+ED4102,"(EDDV, EDVE)",ED,"(EDDB, BERLIN_YZ_GROUP)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4120,EDDN,"(ED, LF)",LFPG,,FL325,"AIRAC APR - FIRST AIRAC OCT
+05:00-21:00 (04:00-20:00)",C,Summer measure to off-load EDUUUTA.,,05 AUG 2024,
+ED4128,"(EBBR, EBCI, EBLG, EHBK, EHEH, ELLX)","(EB, ED)","(LKPR, LOWW)","VIA (EDUUUTAC, EDUUUTAW)",FL355,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load upper sectors of EDUUUTA,,27 JUN 2025,
+ED4129,"(EDDN, EDDS)","(ED, EH)",EHAM,,FL345,H24,C,To off-load upper sectors of EDUUUTA and EDYYUAC,,05 AUG 2024,
+ED4130,"(EDDM, EDMA, EDMO, ETSI)",ED,"(EDDL, EDDG, EDLV)",,FL325,H24,C,"To off-load EDUUUTA and reduce complexity, 
+note other more restrictive level cap for DEP EDDM with ARR DUESSELDORF_GROUP (day, summer) or RE2101",,05 AUG 2024,
+ED4131,"(EDDB, EDDH, EDDV, EDDW)","(ED, LF, LS)","(LSZH, LFSB)",,FL355,H24,C,To off-load upper sectors of EDUUUTA.,,05 AUG 2024,
+ED4134,EDDL,"(ED, LS)",LSZH,"1. VIA DODEN 
+2. VIA KUMIK","1. FL315  
+2. FL235",H24,C,"To off-load upper sectors of EDUUUTA. 
+4F transition  - additional measures",4flight,05 AUG 2024,
+ED4136,LKPR,"(EB, ED, LK)","(EBBR, EBCI)",VIA RAPET,FL345,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load upper sectors of EDUUUTA reducing complexity,,05 AUG 2024,
+ED4137,LSZH,"(ED, LS)",EDDB,,FL365,"AIRAC APR - FIRST AIRAC OCT 
+H24",C,To off-load top layers of EDUUUTA reducing complexity,,05 AUG 2024,
+ED4138,"(EDDB, BERLIN_YZ_GROUP)",ED,"(ED**, ET**)","VIA (GALMA, PEROX)",FL265,H24,C,to reduce complexity in EDMMCTA,,05 AUG 2024,
+ED4139,"(EDDB, BERLIN_YZ_GROUP)",ED,"(FRANKFURT_GROUP, ELLX)",VIA ESEGU,FL245,H24,C,to reduce complexity,,05 AUG 2024,
+ED4141,EDVE,ED,"(EDDW, FRIESLAND_GROUP)",,FL185,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4142,LKPR,"(ED, LK)",LSZH,,"FL355
+","H24
+",C,"To off-load upper sectors of EDUUUTA.
+",,05 AUG 2024,
+ED4148,"(EDDN, EDDS, EDDV, EDSB)",ED,DUESSELDORF_GROUP,,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4150,"(EDDS, EDFM, EDFV, EDRY, EDSB, EDTM, EDTY)","(EB, ED)","(BRUSSELS_GROUP, EBLG, EHEH, EHBK, EHBD)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,27 JUN 2025,
+ED4152,"(FRIESLAND_GROUP, HAMBURG_GROUP, EDDV, EDVE, ETHB, ETHC,  ETHS, ETNW)",ED,"(EDDW, EDWI)",,FL105,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4153,EPSC,ED,"(EKCH, EKRK, ESMS)",VIA ED,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4154,HAMBURG_GROUP,ED,"(EKCH, EKRK, EKRN, ESMS)",VIA ROSOK,FL285,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4156,EDDN,ED,"(BRUSSELS_GROUP, EBLG, EHBK, EHEH, ELLX)",,"1. FL245
+----------
+2. FL285","1. 04:00-21:45 (03:00-20:45)
+----------
+2. 21:45-04:00 (20:45-03:00)",C,"To avoid short entering EDUUUAC increasing complexity  during daytime, but allow FL280 during night.",,27 JUN 2025,
+ED4157,"(HAMBURG_GROUP, EDHK)",ED,"(EDAB, EDAC, EDBM, EDDC, EDDP)",,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4158,"(HAVEL_GROUP, MUERITZ_YZ_GROUP, EDDB)",ED,"(EDDW, FRIESLAND_GROUP, HAMBURG_GROUP)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4159,EPSC,"(ED, LK)","(HAMBURG_GROUP, EDDV, EDHK, EDVE)",,FL285,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+ED4160,EDDF,"(ED, LK)",PRAGUE_GROUP,,FL305,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4161,"(EDDS, ETOU)","(ED, LK)",PRAGUE_GROUP,,FL265,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Karlsruhe UAC airspace",,05 AUG 2024,
+ED4165,EDDM,ED,ELLX,"1. VIA REKDI  _x000D_
+2. VIA AMOSA _x000D_
+3. VIA INBED","1. FL325
+2,3. FL245","1. AIRAC NOV - AIRAC MAR
+05:00-21:00 (04:00-20:00)
+2. H24
+3. AIRAC APR - LAST AIRAC OCT
+05:00-21:00 (04:00-20:00)",C,"To off-load EDUUUTA. In winter upper routing is possible,  but only if via REKDI (via INBED DCT REKDI DCT COSJE, RAD ANNEX 3B refers). During summer (via INBED) or in general via AMOSA, the citypair is capped below FL245).",,07 JUL 2024,
+ED4168,EDDS,ED,"(EDDB, BERLIN_YZ_GROUP)","VIA (TABAT, PEROX)",FL275,H24,C,To off-load  EDUUUTA,,05 AUG 2024,
+ED4171,"(EDDH, EDNY, LSZH, LSZR)","(ED, LK, LS)",PRAGUE_GROUP,,FL355,H24,C,To reduce complexity and due to  LoA agreements for transfer of  ARR Prague group,,10 FEB 2025,
+ED4173,PRAGUE_GROUP,"(ED, LK)",EDDH,,FL365,H24,C,To avoid top sectors EDUU,"eNM19
+EDUU",05 AUG 2024,
+ED4176,EDDN,ED,EDVK,VIA SULUS L604,FL195,"AIRAC APR - FIRST AIRAC OCT
+H24",C,to offload EDMMBBG sector,,07 JUL 2024,
+ED4181,EDDB,"(ED, LF, LS)","(LFSB, LSZH)","VIA 
+1. BAMKI Z117 KEGOS
+2. VAGAB",FL315,H24,S,"Traffic of listed citypairs via listed routings cannot enter EDUUUTAE above FL315 and shall not climb thereafter. Note: higher RFL is available for routings via EDUUFRAE and IBAGA (see connecting routes DEP EDDB in ED3813, but see also FL cap max FL355 in ED4131 )",,05 AUG 2024,
+ED4182,EDXW,ED,"(EDDW, EDDV)",VIA ELSOB,FL245,H24,C,to offload EDYYUAC     ,,05 AUG 2024,
+ED4183,EDDF,"(ED, LO)","(LOWS, LOWI)",,FL295,H24,C,LoA and OLDI constraint. Traffic can file RFL290 via LAMPU DCT NOMBO.,,05 AUG 2024,
+ED4184,EDDF,"(ED, LK, LO)",LOWL,,FL315,H24,C,LoA and OLDI constraint. Traffic can file RFL310 via LAMPU DCT NOMBO or via SULUS.,,05 AUG 2024,
+ED4185,"(EDDM, EDM*, ETSI)",ED,EDDK,VIA SULUS,FL305,H24,C,To offer alternative routing higher than FL245,,05 AUG 2024,
+ED4186,"(EDDS, EDTY, EDDN, EDQ*)","(ED, LI, LO)","(LO**, LJ**, LDZA, LDRI, LDPL, LDLO, LIMP, LIPE, LIPK, LIME, LIPZ, LIPH, LIPX, LIPO, LIPA, LIPB, LSZS, LSZA)","VIA (EDMMWLD,  EDMMNDG, EDUUCHI1K, EDUUDON1D, EDUUISA1I)",RFL FL335,H24,S,"To avoid very high RFLs not maching LoA and OLDI constraints for DEP and ARR within one sector group (climbing and descending through ACCs and  the vertical sub sectors in EDUU). 
+Note: more restrictive caps for certain citypairs might overlap due to capacity.",RFL Checking,05 AUG 2024,
+ED4187,"(PRAGUE_GROUP, LKPD)","(ED, LK, LI, LO)","(LD**, LJ**, LIP*, LIM*)","VIA (EDUUALP1L, EDUUCHI1K, EDUUDON1D)",RFL FL365,H24,S,To avoid very high RFLs not maching LoA and OLDI constraints for DEP and ARR within one sector group (climbing and descending through ACCs and  the vertical sub sectors in EDUU).,RFL Checking,05 AUG 2024,
+ED4188,"(EDDF, EDDR, EDF*, EDSB, EDRY, EDRZ, ETAR)",ED,"(LO**, LJ**, LDZA, LDRI, LDPL, LDLO, LIME, LIMP, LIPE, LIPK, LIPZ, LIPH, LIPX, LIPO, LIPA, LIPB, LSZS, LSZA)",VIA RIDAR,RFL FL355,H24,S,"To avoid high RFLs not maching LoA and OLDI constraints for DEP and ARR within one sector group (climbing and descending through ACCs and  the vertical sub sectors in EDUU).
+Note further restrictive caps for capacity reasons.",RFL Checking,05 AUG 2024,
+ED4189,"(EDDF, EDDS)","(ED, LO)","(LOWG, LOWW)",EXC VIA VEMUT,RFL FL315,"AIRAC APR - FIRST AIRAC OCT
+H24",C,"To avoid FPLs with high RFLs on-loading EDUU South sectors 
+(usually FPLs use FL330 or lower for EDDS-LOWW and for EDDF an option via VEMUT with max FL355 is available) ",,08 MAY 2025,
+ED4190,EDDP,ED,EDVK,,FL245,H24,S,To ensure correct sector sequence.,,07 JUL 2024,
+ED4191,EDDN,ED,"(EDNY, LSZH, LFSB, LFST, LSZR)",,FL245 ,H24,S,To ensure traffic staying in Langen FIR,,05 AUG 2024,
+ED4192,"(LIP*, LIM*)","(LI, ED)",EDDB,VIA TIVDA,FL365,H24,S,To avoid climb and descent in short sequence. LoA requirement Praha for transfer at intermediate level.,,27 JUN 2025,
+ED4193,"(EDDF, EDDS, EDDN, EDFM, EDSB, EDTY)","(ED, LI)","(LIM*, LIPH, LIPX, LIPZ)",VIA EDMMCTA,FL315,"AIRAC JUN - FIRST AIRAC OCT 
+H24",C,Summer EDUU measures. To off load EDUU sectors. ,Still to be verified after EDMM_NEW ATM,27 JUN 2025,
+ED4196,DUESSELDORF_GROUP,ED,EDDM,,RFL FL355,LAST AIRAC OCT - AIRAC MAR H24,S,"The citypair is limited due to internal transfer procedures and ATM system constraints. The use of RFL is required, as 2 PTRs push the trajectory below FL355 (high RFL -although FL not calculated- would trigger ATM system issues)",RFL Checking,16 JUL 2024,
+ED4197,DUESSELDORF_GROUP,ED,"(EDDR, EDFH, EDRZ)",VIA ROPUV,FL105,H24,S,SID requirement       ,,05 AUG 2024,
+ED4200,"(EDDF, DUESSELDORF_GROUP)","(ED, LS)",LIMC,VIA EDUUUTAW ,FL335,"AIRAC APR - FIRST AIRAC OCT
+H24",C,"summer FLAS, LoA KUAC-Skyguide",,05 AUG 2024,
+ED4201,DUESSELDORF_GROUP,ED,"(LSZH, LSZR, EDNY, EDTM, LFSB)",VIA EDUUUTAW ,FL315,"AIRAC APR - FIRST AIRAC OCT
+H24",C,"to avoid unrealistic vertical profiles, not covered by internal climb and descend - transfer procedures. For EDDL see also ED4134.",,05 AUG 2024,
+ED4205,"(EDDS, EDJA, EDNY, EDSB, EDTL, EDTY, ETAR, LFGA, LFGB, LFSB, LFSM, LFST, LSMA, LSMD, LSME, LSZB, LSZG, LSZH, LSZR, LSZS)","(ED, LS, LO)",LOWW,"VIA (BIRGI, UMVEG)",RFL FL355,H24,S,"To avoid very high RFLs not maching LoA and OLDI constraints for DEP and ARR within one sector group or sector (structural limitation). 
+Note, more restrictive caps might overlap due to capacity.",RFL Checking,05 AUG 2024,
+ED4206,"(EDDS, EDJA, EDNY, EDSB, EDTL, EDTY, ETAR, LFGA, LFGB, LFSB, LFSM, LFST, LSMA, LSMD, LSME, LSZB, LSZG, LSZH, LSZR, LSZS)","(ED, LS, LO)","(LO**, LJ**, LD**)",VIA INPUL,RFL FL335,H24,S,"To avoid high RFLs not maching LoA and OLDI constraints for DEP and ARR within one sector group or sector (structural limitation). 
+ARR LJ**, LD** normally route via GEDSO. 
+Note, more restrictive caps might overlap due to capacity.",RFL Checking,05 AUG 2024,
+ED4207,"(EDDS, EDJA, EDNY, EDSB, EDTL, EDTY, ETAR, LFGA, LFGB, LFSB, LFSM, LFST, LSMA, LSMD, LSME, LSZB, LSZG, LSZH, LSZR, LSZS)","(ED, LS, LO)","(LIP*, LJ*, LDLO, LDPL, LDRI, LDZA, LO** EXC LOWW))","VIA (BIRGI, UMVEG, GEDSO)",RFL FL335,H24,S,"To avoid very high RFLs not maching LoA and OLDI constraints for DEP and ARR within one sector group or sector (structural limitation). 
+Note the separate and more restrictive seasonal levelcaps for capacity reasons (e.g. LOED4000 several DEPs to LJLJ).",RFL Checking,05 AUG 2024,
+ED4208,EDDF,"(ED, EP)","1. EPPO
+2. EPWR","1. VIA KOBUS
+2. VIA LASIS",FL315,H24,S,To avoid re-entries and ATM calculation issues (including OLDI) with new ATM system at EDMMACC. Higher RFL on alternative routings are available.,,05 AUG 2024,
+ED4209,LSZH,"(LS, ED, LO)",LOWW,,RFL FL315,"AIRAC APR - FIRST AIRAC OCT
+H24",C,To off-load frequently regulated EDUU sectors creating high delay,,20 MAR 2025,
+ED4210,LOWW,"(LO, ED, LS)",LSZH,,RFL FL305,"AIRAC APR - FIRST AIRAC OCT
+H24",C,"To off-load frequently regulated EDUU sectors creating high delay. 
+ATTN: use route via TRAUN L856 NEGRA below FL305. (TRAUN DCT KONIN will be not valid)",,20 MAR 2025,
+ED4211,EDDF,"(ED, LO, LI)","(LIM*, LIP*, LO**)","VIA (BERAS, GAMSA)",FL315,"AIRAC JUN - AIRAC SEP
+(03:00-22:00)",C,To off-load frequently regulated EDUU sectors creating high delay.,,05 AUG 2024,
+ED4213,LKPR,"(ED, LO, LI)","(LIM*, LIP*)",VIA BERAS,FL315,"AIRAC MAY - AIRAC SEP
+(03:00-22:00)",C,To off-load frequently regulated EDUUALP1L sector  creating high delay.,,27 JUN 2025,
+ED4214,"(EBLG, EDDF, EDFE, EDFH, EDDR, EDRZ, ELLX, DUESSELDORF_GROUP)","(ED, LI)","(LIP*, LIM*)","VIA (BATUB, DINKU, GAMSA, NOMBO, RIDAR, UTABA)",FL335,"AIRAC JUN - AIRAC SEP _x000D_
+(03:00-22:00)",C,"To off-load upper sectors of EDUUUAC and reduce complexity. Alternative route options with higher RFL are also available. Note, also structural FL caps (MAX FL355) might overlap.",,05 AUG 2024,
+ED4215,"(EBBR, EBCI)","(ED, LI)","(LIP*, LIM*)","VIA (BATUB, DINKU, GAMSA, NOMBO, UTABA) ",FL355,"AIRAC JUN - AIRAC SEP _x000D_
+(03:00-22:00)",C,To off-load upper sectors of EDUUUAC. Alternative route options with higher RFL are also available.,,27 JUN 2025,
+ED4216,"(EBBR, EBCI)","(ED, LO)","(LDZA, LDPL, LDRI, LDLO)","VIA (GEDSO, UMVEG, BIRGI) ",FL355,"AIRAC JUN - AIRAC SEP _x000D_
+(03:00-22:00)",C,"To off-load upper sectors of EDUUUAC and reduce complexity (on routings via these 3 points on KUAC-LOVV interface). Alternative route options with higher RFL are also available. Note, also structural FL caps might overlap.",,27 JUN 2025,
+ED4217,"(EBLG, EDDF, EDFE, EDFH, EDDR, EDRZ, ELLX, DUESSELDORF_GROUP)","(ED, LO)","(LDZA, LDPL, LDRI, LDLO)","VIA (GEDSO, UMVEG, BIRGI) ",FL335,"AIRAC JUN - AIRAC SEP _x000D_
+(03:00-22:00)",C,"To off-load upper sectors of EDUUUAC and reduce complexity (on routings via these 3 points on KUAC-LOVV interface). Alternative route options with higher RFL are also available. Note, also structural FL caps might overlap.",,27 JUN 2025,
+ED4218,EDDM,"(ED, LS)",LSZH,,FL305,H24,S,To avoid unrealistic vertical profile on this short route. Reducing complexity and ATS system issues in Munich ACC.,,05 AUG 2024,
+ED4219,LOWL,"(LO,ED)",EDDF,,FL315,H24,S,To prevent system issues when flights are climbing above FL315 and re-enter EDMM from above.,,05 AUG 2024,
+ED4221,EDDP,"(ED, LK, LO)","(EDMMCTA, LOWL)",,RFL FL315,H24,C,To avoid unrealistic vertical profile on this short route and furthermore avoid Karlsruhe UAC airspace. ,,16 APR 2025,
+ED4222,"(LIP*, LIM*)",ED,LKPR,VIA DOLUP,FL315,"AIRAC APR - FIRST AIRAC OCT _x000D_
+05:00-21:00 (03:00-22:00)",C,"To offload EDUU SOUTH. 
+Traffic can file either below FL315 or laterally around.","summer measure
+",05 AUG 2024,
+ED4224,"(EDDH, EDDV, EDDW)",ED,LOWS,VIA EDUUSAL1A,FL375,H24,C,avoid onload in SAL and ERL top sectors,,05 AUG 2024,
+ED4225,"(EDDH, EDDW)",ED,EDDM,VIA EDUUSAL1A,FL355,H24,C,to avoid onload in top sectors,,05 AUG 2024,
+ED4226,EDDM,ED,EDDH,VIA EDUUSAL1A,FL365,H24,C,to avoid onload in top sectors,,07 JUL 2024,
+ED4227,"(LSZH, LSMD)","(ED, LS)",EDDM,,RFL FL245,H24,S,To limit planning option to actually flown levels to minimize deviation between flight planning and execution phase and increase network stability.,,08 MAR 2025,
+ED4228,EBBR,ED,EDDP,VIA EDUUUTAC,FL355,AIRAC APR - FIRST AIRAC OCT 05:00-21:00 (04:00-20:00) ,C,To off-load upper sectors of EDUUUAC,,27 JUN 2025,
+ED4229,EBBR,ED,EDDN,VIA EDUUUTA,FL315,AIRAC APR - FIRST AIRAC OCT H24,C,To off-load middle sectors of EDUUUAC on short routings.,,07 AUG 2024,
+ED4230,DUESSELDORF_GROUP,ED,EDDM,,FL315,AIRAC APR-FIRST AIRAC OCT H24,C,To off-load middle sectors of EDUUUTA.,,16 JUL 2024,
+ED4231,DUESSELDORF_GROUP,ED,LOWI,,RFL FL375,LAST AIRAC OCT - AIRAC MAR H24,S,"The citypair is limited due to internal transfer procedures and ATM system constraints. The use of RFL is required, as 2 PTRs push the trajectory below FL375 (high RFL -although FL not calculated- would trigger ATM system issues)",,16 JUL 2024,
+ED4232,DUESSELDORF_GROUP,ED,LOWI,,FL355,AIRAC APR - FIRST AIRAC OCT H24,C,To off-load upper sectors of EDUUUTA.,,16 JUL 2024,
+ED4233,MUNICH_GROUP,ED,EDDF,,FL245,H24,C,"to keep flow within vertical limits of Langen ACC upon handover
+",,05 SEP 2024,
+ED4234,EDMO,ED,"(EDDK, EDLW, EDLA, EDKZ, EDLP, EDLI, EDFQ, EDDL)",,FL305,H24,S,Levelcap to avoid system issues at EDMM ACC. (to avoid calculation above Munich ACC) ,,16 SEP 2024,
+ED4235,ELLX,"(ED,EL)",EDDF,,RFL FL245,H24,S,To limit planning option to actually flown levels to minimize deviation between flight planning and execution phase and increase network stability.,,08 MAR 2025,
+ED4236,EDDF,"(ED,EL)",ELLX,,RFL FL245,H24,S,To limit planning option to actually flown levels to minimize deviation between flight planning and execution phase and increase network stability.,,08 MAR 2025,
+ED4237,"(LIPH, LIPO, LIPX, LIPZ)",ED,"(LSZH, LSMD)",VIA ED,FL305 ,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,30 APR 2025,
+ED4238,"(LOWG, LOWW)","(ED, LO)",EDDF,EXC VIA LK ,RFL FL305,AIRAC APR - FIRST AIRAC OCT H24,C,To offload EDUUUTAS.,,08 MAY 2025,
+ED4239,PRAGUE_GROUP,"(ED, LK)",ELLX,,RFL FL345,H24,C,To offload upper sectors of EDUUUTA. ,,03 APR 2025,
+ED4240,LSZH,"(ED, LS)",EDDK,VIA EDUUUTA,RFL FL345,H24,C,To offload EDUUUTA upper sectors.,,06 MAY 2025,
+ED4241,"(EDDV, EDVE)",ED,"(EDDS, EDJA, EDMA, EDMO, EDSB, EDTL, EDTM, EDTY, ETSI, ETSL, ETSN)",,RFL FL355,H24,C,To offload upper sectors of EDUUUTA.,,16 APR 2025,
+ED4242,EDDL,ED,EDDF,,RFL FL235,H24,C,To keep traffic within lower airspace.,,16 APR 2025,
+ED4243,EDDB,ED,EDXW,,RFL FL245,EDR201EZ ACT,S,Applicability to avoid airspace infringements & keep traffic clear of EDR201E when active.,,16 APR 2025,
+ED4244,"(EDDH, EDHL)",ED,EDXW,,RFL FL105,EDR201EZ ACT,S,Applicability to avoid airspace infringements & keep traffic clear of EDR201E when active.,,16 APR 2025,
+ED4245,EDXW,ED,"(EDDH, EDHL)",,RFL FL105,EDR201EZ ACT,S,Applicability to avoid airspace infringements & keep traffic clear of EDR201E when active.,,16 APR 2025,
+ED4246,LSZH,"(ED, EP, LK, LS)",EPWR,VIA LKAACTA,RFL FL355,H24,C,according to LoA procedures and to offload EDUUUTAS ,,08 MAY 2025,
+EDLI4000,"(LIM*, LIP*)","(ED, LI, LO)","(EDDF, EDFH, EDDK, EDLW, EDLP, ELLX)",VIA EDUUUTAS,FL345,"AIRAC APR - FIRST AIRAC OCT  
+H24",C,Summer EDUU measures. To reduce workload in EDUU sectors (and off loading upper layers). ,,05 AUG 2024,
+EDLI4001,"(LIM*, LIP*)","(ED, LI, LO)","(EBBR, EBCI)",VIA EDUUUTAS,FL365,"AIRAC APR - FIRST AIRAC OCT  
+H24",C,Summer EDUU measures. To reduce workload in EDUU sectors (and off loading upper layers). ,,27 JUN 2025,
+EDLK4000,EDDV,"(ED, LK, LO)",LOWW,"VIA (OMELO, HDO)",FL355,H24,C,LoA constraint max FL350 at listed points (and ATM-system limitation to fulfil the LoA constraint),,05 AUG 2024,
+EDLK4001,EDDF,"(ED, LK, LO)",LOWW,VIA VEMUT,FL355,H24,C,LoA constraint max FL350 at listed point (and ATM-system limitation to fulfil the LoA constraint),,05 AUG 2024,
+EDLO4000,LSZH,"(ED, LJ, LO, LS)","(LOWG, LOWK, LOWL, LOWS)","VIA (LOVVCTA, EDUUALP1L)",FL315,H24,C,Levelcap to avoid system issues at EDMM ACC (to avoid calculation above Munich ACC).,,27 JUN 2025,
+EDLO4001,"(LJLJ, LOWG, LOWK, LOWL, LOWS)","(ED, LJ, LO, LS)",LSZH,"VIA (LOVVCTA, EDUUALP1L)",FL305,"AIRAC APR - FIRST AIRAC OCT
+05:00-21:00 (04:00-20:00)",C,Summer measure to off-load EDUUALP1L sector ,,05 AUG 2024,
+EDYX4012,HAMBURG_GROUP,ED,"(EDDR, EDFM, EDFV, EDRY, EDRZ)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+EDYX4026,EHAM,ED,"(EDDV, EDDW)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,27 JUN 2025,
+EDYX4030,PARIS_GROUP,"(EB, ED, LF)",EDDN,,FL315,"AIRAC APR - FIRST AIRAC OCT
+H24",C,To off-load upper sectors of EDUUUTA,,05 AUG 2024,
+EDYX4034,FRANKFURT_GROUP,ED,"(EDDW, FRIESLAND_GROUP)",,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+EDYX4036,"(EDDV, EDDW)","(EB, ED, EH)",BRUSSELS_GROUP,VIA ABAMI,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 AUG 2024,
+EDYX4038,EDDK,ED,EDDP,,FL235,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Maastricht UAC airspace",,07 JUL 2024,
+EDYX4039,"(EDDV, EDDW)",ED,EHAM,,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,27 JUN 2025,
+EDYX4040,EDDW,ED,EDDK,,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,07 JUL 2024,
+EDYX4043,"(BRUSSELS_GROUP, EHEH)","(EB, ED)","(EDDS, EDSB)","1. VIA EDYYUTA
+2. NOT VIA EDYYUTA","1. FL315
+2. FL245",H24,C,LoA constraint to match descent into Langen ACC.,,05 AUG 2024,
+EDYX4044,EHEH,"(EB, ED)","(EDFM, EDFV, EDRY, EDTM, EDTY)",,FL245,H24,C,LoA constraint      ,,05 AUG 2024,
+EDYX4045,DUESSELDORF_GROUP,EDYYHUTA,EDDC,,FL355,05:00-21:00 (04:00-20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,07 JUL 2024,
+EDYX4046,EDDM,"(ED, EH)
+",EHAM,,FL365,H24,C,To off-load upper sectors of EDUUUAC and EDYYUAC,,05 AUG 2024,
+EDYX4047,"(EDAH, EDBC, EDBH, EDBM, EDBN, EDCD, EDDB, ETNL)",ED,"(EDFQ, EDLI, EDLP, EDVK)",,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Maastricht UAC airspace",,05 AUG 2024,
+EDYX4048,EDDB,ED,"(EDDR, EDFH, EDFM, EDFV, EDRY, EDRZ)",VIA WRB,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Maastricht UAC airspace",,05 AUG 2024,
+EDYX4049,"(EDFQ, EDLI, EDLP, EDVK)",ED,"(EDAH, EDBC, EDBH, EDBM, EDBN, EDCD, EDDB, ETNL)",,FL245,H24,C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To avoid Maastricht UAC airspace",,05 AUG 2024,
+EDYX4051,EDDW,ED,DUESSELDORF_GROUP,,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,07 JUL 2024,
+EDYX4053,"(EDDW, FRIESLAND_GROUP)","(ED, EH)","(EDDR, EDFH, EDFM, EDFV, EDRY, EDRZ, ETAR)",VIA WRB,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,27 JUN 2025,
+EDYX4054,PARIS_GROUP,"(LF, EDYYBUTA, ED, LK)","(ED**, LKPR)",VIA ROPUV,FL315,H24,S,To avoid unexpected steep step climbs via EDUU sub sectors. Traffic can select a routing via VALEK above FL315 instead for higher RFL.,,05 AUG 2024,
+EDYX4059,BRUSSELS_GROUP,"(EB, ED)",EDVK,,RFL FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace.,,03 APR 2025,
+EG4002,LONDON_GROUP except (EGKB/KK),"EGTTFIR, ","(MANCHESTER_GROUP, EGCN/NH/NJ/NM/NO)",,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4009,"(MANCHESTER_GROUP, EGCN, EGNE, EGNH, EGNM, EGNO, EGNT, EGNV)",EG,SCOTTISH_GROUP,,RFL FL245,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,10 FEB 2025,
+EG4017,EGBB/BE,EG,(EGPXFIR except (EGPD)),,Not above FL285,10:00..16:00 (09:00..15:00),C,To ensure correct sector coordination and realistic profile.,,08 SEP 2021,
+EG4018,"EG** except (BELFAST_GROUP, EGP*, EGQ*)",EGTTUIR,"(SEVERN_GROUP, EGTE)",,Not above FL295,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4019,"(BELFAST_GROUP, SCOTTISH_GROUP)",EGTTUIR,"(MANCHESTER_GROUP, EGCN, EGNH, EGNM, EGNO)",,RFL FL255,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,10 FEB 2025,
+EG4025,"(MANCHESTER_GROUP, MIDLANDS_GROUP, EGCN/NE/NH/NJ/NO)",EG,"(FARNBOROUGH_GROUP, LONDON_GROUP, EGHH/HI/HR/KA/KR/LD/LM/SG/SU/TR)",,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,11 NOV 2022,
+EG4027,SEVERN_GROUP,EG,"EG** except (BELFAST_GROUP, EGP*, EGQ*)",,Not above FL285,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4029,(EGCN/NH/NJ/NM/NO/NT/NV),"EGTTUIR, EH","(EB**, EH**, EDDG/DK/DL/GS/LE/LN/LP/LW/WE/WF/WI)",,NOT ABV FL355,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,28 DEC 2023,
+EG4035,"(EGNT, EGNV, EGPF, EGPH, EGPK)","(EGTTFIR, EGPXUIR)",MIDLANDS_GROUP,,RFL FL275,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,10 FEB 2025,
+EG4039,"(DUBLIN_GROUP, EICM)",EG,"(MANCHESTER_GROUP, EGCN/NH/NM/NO)",,RFL NOT ABV FL275,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,01 AUG 2023,
+EG4042,"(FARNBOROUGH_GROUP, LONDON_GROUP, MIDLANDS_GROUP, EGHH/HI/TK)",EG,EHRD,,Not above FL215,H24,C,To ensure correct standing agreements and profiles are complied with.,,08 SEP 2021,
+EG4046,AMSTERDAM_GROUP,"EG, EH",EGMD,,Not above FL215,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4047,LONDON_GROUP,EG,EH**,via VABIK,Not above FL235,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4048,"(LONDON_GROUP, EGTC)",EG,BRUSSELS_GROUP,"via (KONAN, VABIK)",Not above  FL245,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4050,(HAAMSTEDE_GROUP),EGTTUIR,"(FARNBOROUGH_GROUP, LONDON_GROUP, EGHH/HI)",,Not above FL245,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4054,"EGTTFIR except (MANCHESTER_GROUP, EGCN/NM/NV)",EG,"(PARIS_GROUP, LFOB/OP/RG)",,Not above FL295,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4055,EGNS,EG,MIDLANDS_GROUP,,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4063,"(FARNBOROUGH_GROUP, LONDON_GROUP, EGHH/HI)",EGTT35PEM,"(BELFAST_GROUP, EGPF/PH/PK)",via LIPGO,Not above FL325,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4064,"(EGTTFIR except (LONDON_GROUP,  EGTC))",EGTTUIR,"(BRUSSELS_GROUP, PARIS_GROUP, EH**)",via VABIK,Not above FL295,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4065,MIDLANDS_GROUP,EGTTUIR,PARIS_GROUP,,Not above FL295,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4066,EGTTFIR,EGTTUIR,"(EB**, EH**, PARIS_GROUP)",via KOK,Not above FL295,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4067,EBAW,EGTTUIR,EGNT/NV,,Not above FL355,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4070,"(MANCHESTER_GROUP, EGCN/NH/NJ/NM/NO/SH)",EGTTUIR,(BELFAST_GROUP),,Not above FL245,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4071,BELFAST_GROUP,EGTTUIR,(EGNJ/NT/NV/SH),,Not above FL275,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4072,"(DUBLIN_GROUP, EICM)",EGTTUIR,"(MIDLANDS_GROUP, EGNJ/NT/NV/SH)",,Not above FL275,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4073,"(MANCHESTER_GROUP, MIDLANDS_GROUP, EGCN/NH/NJ/NL/NM/NO/NT/NV/SH)",EGTTUIR,"(DUBLIN_GROUP, EICM)",,Not above FL285,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4076,JERSEY_GROUP,EG,"(EGKK/LD/LL/TK/WU, FARNBOROUGH_GROUP)",,Not above FL235,H24,C,To ensure correct standing agreements and profiles are complied with.,,08 SEP 2021,
+EG4077,BELFAST_GROUP,EG,"(BRIZE_GROUP, SEVERN_GROUP, EGTE/UL/UN)",,Not above FL335,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4078,EGBB,EG,EGTE,except via SAM,Not above FL165,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4081,"(BRIZE_GROUP, FARNBOROUGH_GROUP, LONDON_GROUP, EGHH/HI)",EGTTUIR,(EGNT/NV),,Not above FL345,H24,C,To ensure realistic flight profile.,,16 FEB 2022,
+EG4082,"(LONDON_GROUP, FARNBOROUGH_GROUP, EGHH/HI/KA/SG/TK/VN)",EG,"(LONDON_GROUP, FARNBOROUGH_GROUP, EGHH/HI/KA/SG/TK/VN)","except type HUM, M and except type (Test, Training, Calibration flights)",Not above FL095,H24,C,Realistic flight planning levels between city pairs due to distances between the city pairs and complexities in the London TMA.,,11 MAY 2022,
+EG4087,"(EGBJ/TE, SEVERN_GROUP)",EGTTUIR,BELFAST_GROUP,,Not above FL285,H24,C,Traffic may be Tactically Level Capped during busy periods,"Traffic may be Tactically Level Capped during busy periods,  Midlands_Group split from this RAD into new EG4176  to make better use for Dynamic RAD capability checking",09 FEB 2023,
+EG4088,"(FARNBOROUGH_GROUP, LONDON_GROUP, MIDLANDS_GROUP, EGHH/HI)",EG,"(EHBK, HAAMSTEDE_GROUP  except (EHRD))",,Not above FL215,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4089,(EGKB/LC/MC/SC/SS/TO),"EG, EH",EHAM,,Not above FL215,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4091,"(MANCHESTER_GROUP, EGCN/NH/NM/NO/NJ/NT/NV)",EG,"(EHAM/BK/GG/HO/LW/TE, LFAV/QI/QO/QQ/QT)",VIA LAMSO,NOT ABV FL355,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,28 DEC 2023,
+EG4092,(EGTTFIR except (EGCC/CN/GP/NJ/NM/NV)),EG,JERSEY_GROUP,"via (LELNA, ORTAC)",Not above FL295,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4093,(EGNH/NO),"EGTTFIR, EGTTUIR","(BRIZE_GROUP, EGTK)",,Not above FL195,06:30..21:30 (05:30..20:30),C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4096,(EGHH/HI),"EGTTFIR, EGTTUIR",(EGBB/BE),,Not above FL175,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4097,EG**,EG,EI**,via LIFFY,Not above FL165,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4103,"(EGP*, EGQ*)",EGTTUIR,"(EGSH/TE/TK/UL/UN, BRIZE_GROUP, SEVERN_GROUP)",via DCS,Not above FL335,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4104,SEVERN_GROUP,EG,EGMD,,Not above FL215,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4105,SEVERN_GROUP,EG,"(EGGW, EGSC, EGSS)",VIA SIRIC,NOT ABV FL195,H24,C,To keep traffic with TC Capital,,05 AUG 2023,
+EG4106,FARNBOROUGH_GROUP,EG,EGNO,,Not above FL245,H24,C,To ensure correct standing agreements and profiles are complied with.,,08 SEP 2021,
+EG4107,"(BRIZE_GROUP, LONDON_GROUP, EGTC/TK)",EG,MIDLANDS_GROUP,,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4108,EGGW,"EGTTFIR, EGTTUIR",EGTC,,Not above FL045,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4110,(EGNM),EG,"(EGHH/HI, FARNBOROUGH_GROUP, LONDON_GROUP)",,Not above FL235,"SAT, SUN, HOL 
+MON..FRI 10:00..06:30 (09:00..05:30)",C,To ensure realistic flight profiles and reflect operational procedures.,,25 MAR 2023,
+EG4111,EGNM,EG,(EGHR/KA/KR/LD/LM/SG/SU/TR),,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4112,EGNM,EG,"(EGHH/HI, FARNBOROUGH_GROUP, LONDON_GROUP)",,Not above FL195,MON..FRI except (HOL) 06:30..10:00 (05:30..09:00),C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4113,EGKK,EG,EGSH,,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4114,EGSH,EG,EGKK,,Not above FL135,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4115,(EGHQ/TE),EG,(FARNBOROUGH_GROUP),via SAM,Not above FL165,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4116,BELFAST_GROUP,EGTTUIR,MIDLANDS_GROUP,,Not above FL275,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4117,LONDON_GROUP,EG,EH** except (EHAM),via REDFA,Not above FL235,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4118,"LONDON_GROUP EXC (EGKB, EGLC, EGMC, EGSC, EGSS, EGTO)","(EG, EH)",EHAM,VIA REDFA,NOT ABV FL295,H24,C,"This traffic will still be transferred to Amsterdam at max FL240, but will now be able to file up to FL290 in Sector 12 EGTT12CLN",,05 AUG 2023,
+EG4119,EGBJ,EG,(FARNBOROUGH_GROUP),,Not above FL155,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4120,LONDON_GROUP,EG,"(LILLE_GROUP, EBOS/FN/KT)",,Not above FL175,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4121,"(FARNBOROUGH_GROUP, EGHH/HI/HJ/HO/HR)",EG,"(LILLE_GROUP, EBOS/FN/KT)",,Not above FL155,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4122,EGPE,EG,(EGNH/NL/NO),,Not above FL255,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4124,SEVERN_GROUP,EG,"(EGP*, EGQ*)",,Not above FL325,"00:00..05:59 (23:00..04:59) 
+09:01..23:59 (08:01..22:59)",C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4125,SEVERN_GROUP,EG,"(EGP*, EGQ*)",,Not above FL285,06:00..09:00 (05:00..08:00),C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4126,JERSEY_GROUP,EG,MIDLANDS_GROUP,,Not above FL295,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4128,EGFH/GD/SY,EG,EGKB/LC,,Not above FL175,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4129,EGFF,EG,EGKB/LC,,Not above FL215,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4131,"(EGGW, EGWU)",EG,EBKT,,NOT ABV FL135,H24,C,To reduce the complexity and workload for TC East / South having to descend flightsfrom EGGW / EGWU to meet the required flight profile.,,05 AUG 2023,
+EG4132,SCOTTISH_GROUP,EG,"(DUBLIN_GROUP, EGNT, EGNV, EICM)",,RFL FL255,H24,C,To prevent vertical profile from entering Prestwick upper sectors and to reflect realistic profile.,,10 FEB 2025,
+EG4134,MIDLANDS_GROUP,EG,MANCHESTER_GROUP,,NOT ABV FL105,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4135,MANCHESTER_GROUP,EG,MIDLANDS_GROUP,,NOT ABV FL95,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4136,"(MANCHESTER_GROUP, EGCN, EGNH, EGNM)",EG,"(MANCHESTER_GROUP, EGCN, EGNH, EGNM)",,NOT ABV FL85,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4137,"SCOTTISH_GROUP (EXC EGPN, EGQL)",EG,"SCOTTISH_GROUP (EXC EGPN, EGQL)",,NOT ABV FL85,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4138,BELFAST_GROUP,EG,BELFAST_GROUP,,NOT ABV FL85,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4139,EGNT,EG,LONDON_GROUP,,NOT ABV FL285,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4140,(SEVERN_GROUP),"(EB, EG, EH)","(EB**, EH**)",VIA REDFA,NOT ABV FL295,"AIRAC MAR-31 OCT
+06:40-15:00 (05:40-14:00) ",C,To alleviate complexity and reduce workload. Restriction applies between the March AIRAC and 31st October during the listed times.,,29 MAR 2024,
+EG4141,"(EGBJ, EGBP)",EG,LONDON_GROUP,,NOT ABV FL155,H24,C,To reflect standing agreements and ensure correct sector capture.,,05 AUG 2023,
+EG4142,MIDLANDS_GROUP,EG,"(EGCN, EGNE, EGNM)",,NOT ABV FL105,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4143,"(EGCN, EGNE, EGNM)",EG,MIDLANDS_GROUP,,NOT ABV FL095,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4144,"(MIDLANDS_GROUP, EGNE)",EG,"(EGKK, EGLL, EGGW, EGSS, EGWU)",,NOT ABV FL155,H24,C,To achieve realistic planning levels,,05 AUG 2023,
+EG4145,"(EGHH, EGHI)","EG, LF",JERSEY_GROUP,VIA LELNA,NOT ABV FL185,H24,C,To ensure correct sector coordination and FDP,,05 AUG 2023,
+EG4146,"(DUBLIN_GROUP, EICM)",EG,SCOTTISH_GROUP,,NOT ABV FL255,H24,C,"To prevent vertical profile from entering
+ Prestwick upper sectors.",,05 AUG 2023,
+EG4147,"(EHAM, EHBK, EHGG, EHHO, EHLW, EHTE, LFAV, LFQI, LFQO, LFQQ, LFQT)",EG,"(MANCHESTER_GROUP, EGCN, EGNH, EGNM, EGNO, EGNJ, EGNT, EGNV)","VIA (ENZEN, RAVLO)",NOT ABV FL355,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,10 FEB 2025,
+EG4148,EGTE,EG,EGBB,except via SAM,Not above FL165,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4149,EGMD,"EG, EH",AMSTERDAM_GROUP,,Not above FL215,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4150,EGHQ,EGTTUIR,EGMC,,Not above FL285,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4151,"(BRIZE_GROUP, EGTK)","EGTTFIR, EGTTUIR",(EGNH/NO),,Not above FL195,06:30..21:30 (05:30..20:30),C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4152,MIDLANDS_GROUP,EG,EGNS,,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,14 APR 2022,
+EG4153,"(EGHQ, EGTE)",EG,SEVERN_GROUP,,NOT ABV FL095,H24,C,To reflect realistic profile and ensure correct sector capture.,,05 AUG 2023,
+EG4154,(SEVERN_GROUP),EG,"(EGHQ, EGTE)",,NOT ABV FL095,H24,C,To reflect realistic profile and ensure correct sector capture.,,05 AUG 2023,
+EG4155,EGSH,EG,EHAM,"EXC VIA (LAMSO, MOLIX)",NOT ABV FL215,H24,C,To ensure correct sector coordination and achieve realistic planning levels,,05 AUG 2023,
+EG4156,EGNX,EG,(EGPXFIR except (EGPD/PE)),,Not above FL285,10:00..16:00 (09:00..15:00),C,To ensure correct sector coordination and realistic profile.,,08 SEP 2021,
+EG4157,EGKA,EG,(EGHH/HI),,not-above FL075,H24,C,To reflect current procedures and ensure this traffic files at the ATC preferred FL of FL070.,"Request from Ops, Farnborough ATC and Southampton ATC.",08 SEP 2021,
+EG4158,EGSH,EG,EGGW/EGSS/EGNX,,Not Above FL175,H24,S,To ensure realistic flight planning levels,"observation raised by ATC due to no FDP, OBS ID 420",06 MAY 2023,
+EG4159,JERSEY_GROUP,EG,"(SEVERN_GROUP, EGBJ)",,Not above FL245,H24,C,To reflect realistic profile and ensure correct sector capture.,,08 FEB 2023,
+EG4160,"SEVERN_GROUP, EGBJ",EG,JERSEY_GROUP,,Not above FL245,H24,C,To reflect realistic profile and ensure correct sector capture.,,08 FEB 2023,
+EG4161,"MANCHESTER_GROUP, (EGNO, EGNH, EGNL)",EG,"(SEVERN_GROUP, EGTE)",,FL245,H24,C,To reflect realistic profile and ensure correct sector capture.,,07 MAR 2025,
+EG4162,"(SEVERN_GROUP, EGTE)",EG,EGCC,,Not above FL205,H24,C,To reflect realistic profile and ensure correct sector capture.,,08 FEB 2023,
+EG4163,"(SEVERN_GROUP, EGTE)",EG,"(EGGP, EGNR)",,Not above FL185,H24,S,To reflect realistic profile and ensure correct sector capture.,,08 FEB 2023,
+EG4164,"(EGTE, SEVERN_GROUP)",EG,"(MANCHESTER_GROUP, EGCN, EGNM, EGNO, EGNH, EGNL)",,FL245,H24,C,To reflect realistic profile and ensure correct sector capture.,,07 MAR 2025,
+EG4165,"SEVERN_GROUP, EGTE",EG,JERSEY_GROUP,"acft-eqpt NOT (D1, D2, D3, D4, O1, O2, O3, O4)_x000D_
+Via SKERY",Not above FL095,H24,C,To reflect realistic profile and ensure correct sector capture.,,08 FEB 2023,
+EG4166,JERSEY_GROUP,EG,"SEVERN_GROUP, EGTE","acft-eqpt NOT (D1, D2, D3, D4, O1, O2, O3, O4)_x000D_
+Via SKERY",Not above FL105,H24,C,To reflect realistic profile and ensure correct sector capture.,,08 FEB 2023,
+EG4167,"SEVERN_GROUP, EGTE",EG,JERSEY_GROUP,"acft-eqpt NOT (D1, D2, D3, D4, O1, O2, O3, O4)_x000D_
+Via BIGNO",Not above FL115,H24,C,To reflect realistic profile and ensure correct sector capture.,,08 FEB 2023,
+EG4168,EGNX,EG,EGSH,,Not above  FL195,H24,S,To ensure realistic flight profiles and correct FDP.,,17 JUN 2022,
+EG4169,SEVERN_GROUP,EG,"(EGGW, EGSC, EGSS)",Via NUCHU,Not above FL145,H24,S,To reflect operational procedures.,,08 FEB 2023,
+EG4171,EGTK,EG,"	LILLE_GROUP, EBOS/FN/KT",,Not above FL195,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,01 SEP 2022,
+EG4172,"EGLC, EGMC, EGTO",EG,EGSH,,Not above FL155,H24,S,To reflect realistic flight profile.,,14 SEP 2022,
+EG4173,"(EGLL, EGLD, EGKK, EGWU, EGGW, EGHH, EGHI), FARNBOROUGH_GROUP",EG,DUBLIN_GROUP,"Via (NIRIF, LIPGO, VATRY)",Not above FL355,H24,C,To avoid Sector 35 and ensure realistic profile.,,08 FEB 2023,
+EG4174,EI**,EG,"(EGLL, EGKK, EGWU, EGLD, EGHI, EGHH, EGMC), FARNBOROUGH_GROUP","Via (BAKUR, RUKOH, ENJEX, BANBA, EVRIN)",Not above FL355,H24,C,To avoid Sector 35 and ensure realistic profile.,,08 FEB 2023,
+EG4175,"(EGSC, EGSS), FARNBOROUGH_GROUP",EG,"SEVERN_GROUP, EGTE",,Not above FL205,H24,S,To reflect realistic profile and ensure correct sector capture.,,29 APR 2023,
+EG4176,MIDLANDS_GROUP,EGTTUIR,BELFAST_GROUP,,Not above FL285,H24,C,Traffic may be Tactically Level Capped during busy periods,"Traffic may be Tactically Level Capped during busy periods, Slit from EG4087 for use with Dynamic RAD.",09 FEB 2023,
+EG4177,"(EGGW, EGKK)",EG,SEVERN_GROUP,,NOT ABV FL195,H24,C,To reflect realistic profile and ensure correct sector capture.,,29 APR 2023,
+EG4178,"(EGGW, EGKK)",EG,EGTE,,NOT ABV FL205,H24,C,To reflect realistic profile and ensure correct sector capture.,,29 APR 2023,
+EG4179,MANCHESTER_GROUP,EG,"(DUESSELDORF_GROUP, EDFQ)",VIA LAMSO,NOT ABV FL355,H24,C,LoA constraint to match agreement between London AC and Maastricht UAC. To ensure correct sector coordination and achieve realistic planning levels. To off-load EGTT11NOR sector.,,28 DEC 2023,
+EG4180,MIDLANDS_GROUP,EG,"(DUESSELDORF_GROUP, EDFQ)",VIA LAMSO,NOT ABV FL355,H24,C,LoA constraint to match agreement between London AC and Maastricht UAC. To ensure correct sector coordination and achieve realistic planning levels. To off-load EGTT11NOR sector.,,28 DEC 2023,
+EG4181,SEVERN_GROUP,EG,"EGKK, EGLL",,FL145,H24,C,To reflect operational procedures and realistic profile.,,17 JUL 2024,
+EG4182,EIDG   ,EG,EG**,"VIA (BOFUM, LIFFY, ENDEQ, DEXEN)",FL245,H24,S,"Flights DEP EIDG and ARR EG** via BOFUM, LIFFY, ENDEQ, DEXEN shall file below FL245 to remain in EGPXIOM",,17 JUL 2024,
+EG4183,EG**        ,EG,EIDG,VIA BAGSO,FL245,H24,S,Traffic DEP EG** and ARR EIDG via BAGSO shall file below FL245 to remain in EGPXIOM,,17 JUL 2024,
+EG4184,EGNL,EG,"(FARNBOROUGH_GROUP,LONDON_GROUP, EGHH, EGHI) ",,FL275,H24,S,To ensure realistic flight profiles and reflect operational procedures. Max FL270 Southbound to exclude from EGTT07WIR,,07 MAR 2025,
+EG4185,"(FARNBOROUGH_GROUP, LONDON_GROUP, EGHH, EGHI)",EG,EGNL,,NOT ABV FL285,H24,S,To ensure realistic flight profiles and reflect operational procedures. Max FL280 northbound to exclude from EGTT07WIR,,07 MAR 2025,
+EGEB4044,BRUSSELS_GROUP,"(EB, EG)","(EGGW, EGKB, EGLC, EGMC, EGSC, EGSS, EGTC, EGTO)",,FL215,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace,,29 AUG 2024,
+EGEB4045,"(EGHH, EGHI, FARNBOROUGH_GROUP)",EG,BRUSSELS_GROUP,VIA KOK,FL235,H24,C,To avoid the complexity of climbing and immediately descending traffic in a very busy airspace,,29 AUG 2024,
+EGEH4001,"(EHAM, EHRD)","(EG, EH)","(EGKB, EGLC, EGMC, EGTO)",,FL205,H24,C,segregate traffis flows,,04 JUN 2025,
+EGEH4002,"(EHAM, EHEH)","(EGTTUIR, EHAAFIR)","(FARNBOROUGH_GROUP, LONDON_GROUP, EGBJ, EGHH, EGHI, EGVA, EGVN)",,FL245,H24,C,segregate traffis flows,,05 JUN 2025,
+EGLF4051,"(LONDON_GROUP, FARNBOROUGH_GROUP)","(EG, LF)","(LFOB, LFOP, ROISSY_GROUP)",,FL265,H24,C,To ensure realistic flight profiles and reflect operational procedures.,,18 OCT 2024,
+EGYX4000,LONDON_GROUP,"EB _x000D_
+ED _x000D_
+EGTTEAST _x000D_
+EGTT02LUE _x000D_
+EH _x000D_
+LFEE4N",DUESSELDORF_GROUP,,Not above FL335,05:00..00:00 (04:00..23:00),C,LoA constraint to match agreement between London AC and Maastricht UAC. To ensure correct sector coordination and achieve realistic planning levels.,,14 APR 2022,
+EGYX4001,(EGKB/MD/SH/UL/UN/TC/YM),"EB _x000D_
+ED _x000D_
+EGTTEAST _x000D_
+EGTT02LUE _x000D_
+EH _x000D_
+LFEE4N",DUESSELDORF_GROUP,,Not above FL335,05:00..00:00 (04:00..23:00),C,LoA constraint to match agreement between London AC and Maastricht UAC. To ensure correct sector coordination and achieve realistic planning levels.,,14 APR 2022,
+EGYX4002,MANCHESTER_GROUP,"EB _x000D_
+ED _x000D_
+EGTTEAST _x000D_
+EGTT02LUE _x000D_
+EH _x000D_
+LFEE4N","(DUESSELDORF_GROUP, EDFQ)",VIA REDFA,NOT ABV FL335,H24,C,LoA constraint to match agreement between London AC and Maastricht UAC. To ensure correct sector coordination and achieve realistic planning levels. ,,28 DEC 2023,
+EGYX4003,MIDLANDS_GROUP,"EB _x000D_
+ED _x000D_
+EGTTEAST _x000D_
+EGTT02LUE _x000D_
+EGTT34DTS _x000D_
+EH _x000D_
+LFEE4N","(DUESSELDORF_GROUP, EDFQ)",VIA REDFA,NOT ABV FL335,H24,C,LoA constraint to match agreement between London AC and Maastricht UAC. To ensure correct sector coordination and achieve realistic planning levels. ,,28 DEC 2023,
+EGYX4004,DUESSELDORF_GROUP,"EB _x000D_
+ED _x000D_
+EGTTEAST _x000D_
+EGTT02LUE _x000D_
+EH _x000D_
+LFEE4N",LONDON_GROUP,,Not above FL335,05:00..00:00 (04:00..23:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,14 APR 2022,
+EGYX4005,DUESSELDORF_GROUP,"EB _x000D_
+ED _x000D_
+EGTTEAST _x000D_
+EGTT02LUE _x000D_
+EH _x000D_
+LFEE4N",(EGKB/MD/SH/UL/UN/TC/YM),,Not above FL335,05:00..00:00 (04:00..23:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,14 APR 2022,
+EH4001,"(EHBK, EHEH, EHHV, EHKD, EHLE, EHRD, EHTX, EHWO)","(EB, EH, LF)",PARIS_GROUP,,FL245,H24,C,segregate traffis flows,,25 OCT 2024,
+EH4002,EHAM,"(EB, ED, EH)",ELLX,,FL245,H24,C,segregate traffis flows,,25 OCT 2024,
+EH4004,AMSTERDAM_GROUP,"(EB, ED, EH)","(DUESSELDORF_GROUP, EDFH)",,FL235,H24,C,segregate traffis flows,,25 OCT 2024,
+EH4005,"(EHAM, EHLE)",EH,"(EHBD, EHBK, EHEH, EHRD)",,RFL FL075,H24,S,segregate traffis flows,,25 OCT 2024,
+EH4007,EHAM,"(EB, EH, LF)",PARIS_GROUP,,FL305,H24,C,segregate traffis flows,,25 OCT 2024,
+EH4009,"(DUESSELDORF_GROUP, EDFH)","(EB, ED, EH)",AMSTERDAM_GROUP,,FL235,H24,C,segregate traffis flows,,25 OCT 2024,
+EH4010,"(EHBD, EHBK, EHEH, EHRD)",EH,"(EHAM, EHLE)",,FL075,H24,S,segregate traffis flows,,25 OCT 2024,
+EH4011,ELLX,"(EB, ED, EH)",EHAM,,FL245,H24,C,segregate traffis flows,,25 OCT 2024,
+EH4014,"(EHEH, EHBD, EHAM, EHRD, EHLE)","(EB, EH)",EBOS,,RFL FL125,H24,S,segregate traffic flows,,25 OCT 2024,
+EH4016,EHRD,"EB, EH",EBAW, ,WITH RFL NOT ABV FL055,H24,S,"segregate traffic flows, keeping below ATS routes",,25 OCT 2024,
+EH4017,EHRD,EHMCTMAG2,EBOS,via COA,with-rfl-not-above FL055,H24,S,segregate traffic flows,,25 OCT 2024,
+EI4003,EI**,EISNUIR,EI**,,FL245,H24,S,To reduce complexity within FIR,,19 JUN 2024,
+EI4004,EI**,EISNUIR,EGNS,,FL245,H24,S,To reduce complexity and minimise interace issues,,19 JUN 2024,
+EK4000,EKCH,EK,EKYT,EXC FLT-TYPE(X),FL285,H24,C,To ensure correct sector co-ordination. Training flights are excepted.,,21 AUG 2024,
+EK4001,EKBI    ,EK,ENGM    ,,FL355,05:00-19:00,C,To avoid sector overload.,,26 MAY 2025,
+EK4002,ENGM,EK,EKBI,,FL365,05:00-19:00,C,To avoid sector overload.,,26 MAY 2025,
+EKYX4000,EKCH,"ED, EK",EDDV,,FL295,H24,C,LoA constraint to match agreement between Copenhagen ACC and Maastricht UAC.,,21 AUG 2024,
+EN4000,"(ENZV, ENHD)","(EN, EK)",EKCH,,RFL FL315,"AIRAC MAY - AIRAC SEP
+08:00-16:00",C,To reduce complexity and offload higher airspace,,24 APR 2025,
+EN4001,EKCH,"(EN, EK)","(ENZV, ENHD)",,RFL FL325,"AIRAC MAY - AIRAC SEP_x000D_
+08:00-16:00",C,To reduce complexity and offload higher airspace,,24 APR 2025,
+EP4001,EPWA,LK,LOWW,,Not above FL345,H24,S,To reflect condition from LoA between ATC units.,,08 JUL 2022,
+EP4004,EPWWFIR,ED,"(EDAB, EDAC, EDBM, EDBN, EDDC, EDDP, EDVE, ETNL)",VIA SUBIX,Not above FL285,H24,C,To prevent entering higher EPWW ACC sector layer  for short amount of time. To balance traffic demand in ACC sectors.,,10 MAY 2023,
+EP4009,"(EKCH, ESMS)","EP, ES",EPGD,"via (ELPOL, RUMAR)",Not above FL335,H24,S,"To reduce sector complexity.
+To avoid short sector clipping",,08 JUL 2022,
+EP4011,EPWWFIR,"(ED, EK, EP, LK, LO)","(EKRN, EDAH, EDDB, EDDC, EDDP, ETNL, LKKV, LKMT, LKPR, LOWW)",,FL365,DYNAMIC,C,To prevent entering high layer of ACC sectors in EPWW FIR for a short period of time,,18 DEC 2024,
+EP4012,"(EKRN, EDAH, EDDB, EDDC, EDDP, ETNL, LKKV, LKMT, LKPR, LOWW)","(ED, EK, EP, LK, LO)",EPWWFIR,,FL365,DYNAMIC,C,To prevent entering high layer of ACC sectors in EPWW FIR for a short period of time,,18 DEC 2024,
+EP4013,"EPWWFIR EXC (EPKK, EPKT, EPRZ)","(ED, EK, EP, ES)","(EKCH, ESMS)",,NOT ABV FL365,H24,C,To prevent entering high layer of ACC sectors in EPWW FIR for a short period of time,,05 AUG 2023,
+EP4014,"(EKCH, ESMS)","(ED, EK, EP, ES)","EPWWFIR EXC (EPKK, EPKT, EPRZ)",,NOT ABV FL365,H24,C,To prevent entering high layer of ACC sectors in EPWW FIR for a short period of time,,05 AUG 2023,
+EP4015,EPWWFIR,"(EP, EY, LZ, UK, UM)","(LZIB, LZTT, UKLL, UMBB, UMGG, EYKA, EYVI, UMKK)",,NOT ABV FL365,H24,C,To prevent entering high layer of ACC sectors in EPWW FIR for a short period of time,,05 AUG 2023,
+EP4016,"(LZIB, LZTT, UKLL, UMBB, UMGG, EYKA, EYVI, UMKK)","(EP, EY, LZ, UK, UM)",EPWWFIR,,NOT ABV FL365,H24,C,To prevent entering high layer of ACC sectors in EPWW FIR for a short period of time,,05 AUG 2023,
+EP4017,EP**,EP,EP**,,FL365,DYNAMIC,S,To prevent entering high layer of ACC sectors in EPWW FIR for a short period of time,,18 DEC 2024,
+LE4001,"(LEBL, LELL, LERS)",LE,BALEARES_GROUP,,RFL FL195,H24,C,To be consistent with LoA LECB-LECP,,15 JAN 2025,
+LE4004,BARCELONA_GROUP,LE,"(CANTABRICO_GROUP, LFBZ)",,RFL FL295  ,H24,C,LoA LECB-LECM       ,,14 JAN 2025,
+LE4005,BARCELONA_GROUP,LE,MADRID_GROUP,,RFL FL295,H24,S,To be consistent with LECB-LECM LoA,,15 JAN 2025,
+LE4006,LEIB,LE,VALENCIA_GROUP,,RFL FL175,H24,C,To be consistent with LoA LECP-LECL,,11 FEB 2025,
+LE4007,LEIB,LE,"(LEBL, LELL, LERS)",,RFL FL245,H24,C,To be consistent with LoA LECB-LECP,,15 JAN 2025,
+LE4010,MADRID_GROUP,LE,MALAGA_GROUP,,RFL FL315,H24,S,To be consistent with LECS-LECM LoA,,15 JAN 2025,
+LE4011,MADRID_GROUP,LE,SEVILLE_GROUP,,RFL FL315,H24,S,To be consistent with LECS-LECM LoA,,15 JAN 2025,
+LE4015,LEIB,LE,PALMA_GROUP,,RFL FL105,H24,S,LECP internal procedures,,15 JAN 2025,
+LE4016,PALMA_GROUP,LE,LEMH,,RFL FL135,H24,S,LECP internal procedures,,15 JAN 2025,
+LE4019,LPPR,LE,MADRID_GROUP,VIA ADORO,RFL FL285,H24,C,To be consistent with LPPC-LECM LoA        ,,15 JAN 2025,
+LE4020,"(LEAL, LELC, LEAB, LEMI)",LE,BARCELONA_GROUP,,RFL FL305,H24,C,"LECB internal procedures to offload upper sectors, and ensure realistic profiles",,15 JAN 2025,
+LE4021,BALEARES_GROUP,LE,"(LEDA, LEZG, LEGE)",,RFL FL245,H24,C,To be consistent with LoA LECB-LECP,,15 JAN 2025,
+LE4022,LEVC,LE,BARCELONA_GROUP,,RFL FL285,H24,C,"LECB internal procedures to offload upper sectors, and ensure realistic profiles",,15 JAN 2025,
+LE4023,LEBL,LE,LEAM,,RFL FL315,FRI 16:30 (15:30)-MON 08:00 (07:00),C,LECB internal procedures to offload upper sectors.,,15 JAN 2025,
+LE4024,"(PALMA_GROUP, LEIB)",LE,CANTABRICO_GROUP,,RFL FL335,05:00-22:00 (04:00-22:00),C,To be consistent with LECB-LECM LoA,,15 JAN 2025,
+LE4025,"(LELC, LEMI)",LE,LEVC,,RFL FL235,05:00-22:00 (04:00-22:00),C,"LECL internal procedures to offload upper sectors, and ensure realistic profiles",,15 JAN 2025,
+LE4026,MADRID_GROUP,LE,VALENCIA_GROUP,,RFL FL305,H24,C,"LECL-LECM & LECB-LECM LoAs, and to avoid upper sectors",,15 JAN 2025,
+LE4027,"(PALMA_GROUP, LEMH, LESL)",LE,VALENCIA_GROUP,,RFL FL245,H24,C,To be consistent with LoA LECP-LECL,,11 FEB 2025,
+LE4028,LEGE,LE,"(PALMA_GROUP, LEIB)",,RFL FL305,H24,C,To be consistent with LoA LECB-LECP,,15 JAN 2025,
+LE4030,LEDA,LE,BALEARES_GROUP,,RFL FL305,H24,C,To be consistent with LoA LECB-LECP,,15 JAN 2025,
+LE4031,BARCELONA_GROUP,LE,BARCELONA_GROUP,,RFL FL195,H24,C,"LECB internal procedures to offload upper sectors, and ensure realistic profiles",,15 JAN 2025,
+LE4032,MADRID_GROUP,LE,"(GALICIA_GROUP, LEAS)",,RFL FL315,H24,C,LECM internal procedures to reduce complexity,,15 JAN 2025,
+LE4033,GCGM,LE,GCLP,,RFL FL125,H24,C,To reflect realistic profile and ensure correct sector capture,,15 JAN 2025,
+LE4034,BALEARES_GROUP,LE,MADRID_GROUP,,RFL FL315,H24,S,To be consistent with LECB-LECM LoA,,15 JAN 2025,
+LE4036,CANTABRICO_GROUP,LE,SEVILLE_GROUP,,RFL FL335,06:00-21:00 (05:00-21:00),C,To offload LECMTLU & LECMDGU sectors,,15 JAN 2025,
+LE4037,CANTABRICO_GROUP,LE,MALAGA_GROUP,,RFL FL335,06:00-21:00 (05:00-21:00),C,To offload LECMTLU & LECMDGU sectors,,15 JAN 2025,
+LE4038,"(LE**, LP**)",LE,BALEARES_GROUP,VIA BCN,RFL FL345,"LAST AIRAC MAR-FIRST AIRAC OCT
+H24",C, Letter of Agreement LECB-LECM,,15 JAN 2025,
+LE4039,MADRID_GROUP,LE,BALEARES_GROUP,,RFL FL325,H24,S,To be consistent with LECB-LECM LoA,,15 JAN 2025,
+LE4040,CANTABRICO_GROUP,LE,BARCELONA_GROUP,,RFL FL305,H24,C,To be consistent with LoA LECB-LECM       ,,15 JAN 2025,
+LE4041,MADRID_GROUP,LE,BARCELONA_GROUP,,RFL FL305,H24,S,To be consistent with  LECB-LECM LoA,,15 JAN 2025,
+LE4042,LEMH,LE,PALMA_GROUP,,RFL FL125,H24,S,LECP internal procedures,,15 JAN 2025,
+LE4043,VALENCIA_GROUP,LE,LEIB,,RFL FL165,H24,C,To be consistent with LoA LECP-LECL,,11 FEB 2025,
+LE4046,BARCELONA_GROUP,LE,"(LEAL, LELC, LEAB, LEMI)",,RFL FL305,H24,C,"LECB internal procedures to offload upper sectors, and ensure realistic profiles",,15 JAN 2025,
+LE4047,PALMA_GROUP,LE,LEIB,,RFL FL115,H24,S,LECP internal procedures,,15 JAN 2025,
+LE4048,MALAGA_GROUP,LE,MADRID_GROUP,,RFL FL325,H24,S,To be consistent with LECS-LECM LoA,,15 JAN 2025,
+LE4049,SEVILLE_GROUP,LE,MADRID_GROUP,,RFL FL325,H24,S,Sevilla Group to Madrid group max FL325,,15 JAN 2025,
+LE4050,"(GALICIA_GROUP, LEAS)",LE,MADRID_GROUP,,RFL FL305,H24,C,LECM internal procedures to reduce complexity,,15 JAN 2025,
+LE4052,VALENCIA_GROUP,LE,"(PALMA_GROUP, LEMH, LESL)",,RFL FL245,H24,C,To be consistent with LoA LECP-LECL,,11 FEB 2025,
+LE4053,MALAGA_GROUP,LE,CANTABRICO_GROUP,,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload LECMTLU & LECMDGU sectors,,15 JAN 2025,
+LE4054,SEVILLE_GROUP,LE,CANTABRICO_GROUP,,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload LECMTLU & LECMDGU sectors,,15 JAN 2025,
+LE4055,GCLP,LE,GCGM,,RFL FL125,H24,C,To reflect realistic profile and ensure correct sector capture,,15 JAN 2025,
+LE4057,LEGE,LE,"(LEMH, LESL)",,RFL FL245,H24,C,To be consistent with LoA LECB-LECP,,15 JAN 2025,
+LE4058,"(PALMA_GROUP, LEMH)",LE,"(LEBL, LELL, LERS, LESU)",,RFL FL185,H24,C,To comply with LoA LECB-LECP,,15 JAN 2025,
+LE4059,BARCELONA_GROUP,LE,LEVC,,RFL FL285,H24,C,"LECB internal procedures to offload upper sectors, and ensure realistic profiles",,15 JAN 2025,
+LE4060,VALENCIA_GROUP,LE,MADRID_GROUP,,RFL FL305,H24,C,"LECL-LECM & LECB-LECM LoAs, and to avoid upper sectors",,15 JAN 2025,
+LE4061,LEVC,LE,"(LELC, LEMI)",,RFL FL235,05:00-22:00 (04:00-22:00),C,"LECL internal procedures to offload upper sectors, and ensure realistic profiles",,15 JAN 2025,
+LE4063,"(LEMH, LESL)",LE,LEIB,,RFL FL245,H24,S,LECP internal procedures,,15 JAN 2025,
+LE4064,LEIB,LE,"(LEMH, LESL)",,RFL FL245,H24,S,LECP internal procedures,,15 JAN 2025,
+LE4065,BALEARES_GROUP,LE,"(LFBD, PYRENEES_GROUP, TOULOUSE_GROUP)",,RFL FL345,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To reduce complexity in GO sectors,,15 JAN 2025,
+LE4066,"(LEMD, LEVC)",LE,LFMP,,RFL FL305,H24,C,To offload LECBP2R and LECBGO1 sectors,,15 JAN 2025,
+LE4067,CANTABRICO_GROUP,LE,VALENCIA_GROUP,,RFL FL335,06:00-21:00 (05:00-21:00),C,To offload LECMACC upper sectors,,15 JAN 2025,
+LE4068,CANTABRICO_GROUP,LE,MADRID_GROUP,,RFL FL335,H24,C,To ensure realistic profiles and reduce complexity,,15 JAN 2025,
+LE4069,CANTABRICO_GROUP,LE,"(GALICIA_GROUP, LEAS)",,RFL FL335,H24,C,To ensure realistic profiles and reduce complexity,,15 JAN 2025,
+LE4070,"(GALICIA_GROUP, LEAS)",LE,CANTABRICO_GROUP,,RFL FL345,H24,C,To offload upper sectors and reduce complexity,POST COVID,15 JAN 2025,
+LE4071,SEVILLE_GROUP,LE,"(GALICIA_GROUP, LEAS)",VIA LECMACC,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,15 JAN 2025,
+LE4072,MADRID_GROUP,LE,CANTABRICO_GROUP,,RFL FL345,H24,C,To offload upper sectors and to reduce complexity,POST COVID,15 JAN 2025,
+LE4073,VALENCIA_GROUP,LE,CANTABRICO_GROUP,,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,15 JAN 2025,
+LE4074,LESU,LE,LEPA,,RFL FL175,H24,C,LoA LECPACC/LECBACC ,,15 JAN 2025,
+LE4076,MADRID_GROUP    ,LE,BORDEAUX_GROUP,,RFL FL345,H24,C,To avoid complexity on LECMDGU sector due to profiles vertically entering / exiting the sector within a short distance. LECM - LFBB LoA.,,15 JAN 2025,
+LE4077,BORDEAUX_GROUP,LE,MADRID_GROUP,,RFL FL335,H24,C,To avoid complexity on LECMPAU sector due to profiles vertically entering / exiting the sector within a short distance. Internal procedures.,,15 JAN 2025,
+LE4078,LEBZ,LE,"(BARCELONA_GROUP, VALENCIA_GROUP)",,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload LECMTLU sector,,18 MAR 2025,
+LE4079,MALAGA_GROUP    ,LE,"(GALICIA_GROUP, LEAS)",,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,15 JAN 2025,
+LE4080,"(GALICIA_GROUP, LEAS)",LE,MALAGA_GROUP,,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,15 JAN 2025,
+LE4081,VALENCIA_GROUP,LE,"(GALICIA_GROUP, LEAS)",,RFL FL335,"06:00-21:00 (05:00-21:00)_x000D_
+",C,To offload upper sectors and to reduce complexity,,15 JAN 2025,
+LE4082,"(GALICIA_GROUP, LEAS)",LE,VALENCIA_GROUP,,RFL FL345,"06:00-21:00 (05:00-21:00)_x000D_
+",C,To offload upper sectors and to reduce complexity,,15 JAN 2025,
+LE4083,"(GALICIA_GROUP, LEAS)",LE,SEVILLE_GROUP,,RFL FL345,"06:00-21:00 (05:00-21:00)_x000D_
+",C,To offload upper sectors and to reduce complexity,,15 JAN 2025,
+LE4084,LPPR,"(LE, LF, LP)","(BORDEAUX_GROUP, TOULOUSE_GROUP)",,RFL FL345 ,"SUMMER 05:00-21:00
+ ",C,To offload upper sectors and to reduce complexity ,,02 APR 2025,
+LE4085,"(BORDEAUX_GROUP, TOULOUSE_GROUP)","(LE, LF, LP)",LPPR,,RFL FL335 ,"SUMMER 05:00-21:00
+",C,To offload upper sectors and to reduce complexity,,02 APR 2025,
+LE4086,LEMD,"(LE, LP)",LPPT,,RFL FL335 ,10:00-15:00 (09:00-15:00),C,To offload upper sectors ,,15 JAN 2025,
+LE4087,LPPT,"(LP, LE)",LEMD,,RFL FL325,10:00-15:00 (09:00-15:00),C,To offload upper sectors,,15 JAN 2025,
+LE4088,LEBL,LE,DAAG,,RFL FL335,H24,C,To offload upper sectors in LECBACC,,15 JAN 2025,
+LE4089,DAAG,LE,LEBL,,RFL FL345,H24,C,To offload upper sectors in LECBACC,,15 JAN 2025,
+LE4090,LEVC,LECBCTA,"(LFMP, LFML, LFMT)",,RFL FL305,SUMMER SUN-FRI (08:30-12:00) & SAT (08:30-14:00),S,"To off-load upper sectors and creative FPLs
+ ",,15 JAN 2025,
+LE4091,"(LFMP, LFML, LFMT)",LECBCTA,LEVC,,RFL FL305,"SUMMER SUN-FRI (08:30-12:00) & SAT (08:30-14:00)_x000D_
+",S,"To off-load upper sectors and creative FPLs
+",,15 JAN 2025,
+LE4092,"(BARCELONA_GROUP, VALENCIA_GROUP)",LE,LEBZ    ,,RFL FL335   ,06:00-21:00 (05:00-21:00),C,To offload LECMTLU sector,,18 MAR 2025,
+LE4093,LPPR,LE  ,CANTABRICO_GROUP,,"RFL FL345_x000D_
+",06:00-21:00 (05:00-21:00),C,To offload upper sectors and to avoid sector cliping,,15 JAN 2025,
+LE4094,CANTABRICO_GROUP,LE,LPPR,,RFL FL335,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to avoid sector clipping,,15 JAN 2025,
+LE4095,SEVILLE_GROUP,LE,BARCELONA_GROUP,VIA LECMCTA,RFL FL345,SAT-SUN 06:00-21:00 & SUMMER (05:00-21:00),C,To offload LECMTLU sector,,15 JAN 2025,
+LE4096,BARCELONA_GROUP,LE,SEVILLE_GROUP,VIA LECMCTA,RFL FL335,"SAT-SUN 06:00-21:00 & SUMMER (05:00-21:00)_x000D_
+_x000D_
+",C,To offload LECMTLU sector,,15 JAN 2025,
+LE4097,GCTS,GCCCCTA,GCLP,,RFL FL105,H24,S,To adjust flows/levels after NIVARIA project,,15 JAN 2025,
+LE4098,GCLP,GCCCCTA,GCTS,,RFL FL105,H24,S,To adjust flows/levels after NIVARIA project,,15 JAN 2025,
+LE4100,"(GMTT, GMTN, GMMW, GMFO, LXGB)",LE,LEMD    ,VIA MORAL,RFL FL345,H24,S,To allocate LEMD arrivals,,15 JAN 2025,
+LE4101,MALAGA_GROUP,LE,BALEARES_GROUP,"VIA (ASTRO, OLPOS)",RFL FL325,H24,C,To offload LVU sector,,15 JAN 2025,
+LE4102,BALEARES_GROUP,LE,MALAGA_GROUP,"VIA (ASTRO, OLPOS)",RFL FL325,H24,C,To offload LVU sector,,15 JAN 2025,
+LE4103,"(LPFR, SEVILLE_GROUP, LXGB, GMTN, GMTT)",LE,LEZG,,"RFL FL345_x000D_
+",H24,S,To segregate traffic flows ,,15 JAN 2025,
+LE4104,LPPR,"(LE, LP)","(VALENCIA_GROUP, LEIB)",,RFL FL325  ,"SUMMER 05:00-21:00_x000D_
+",C,To offload upper sectors and to reduce complexity,,02 APR 2025,
+LE4105,"(VALENCIA_GROUP, LEIB)","(LE, LP)",LPPR,,RFL FL335,SUMMER 05:00-21:00,C,To offload upper sectors and to reduce complexity,,02 APR 2025,
+LE4106,CENTRO_GROUP,LE,BALEARES_GROUP,,RFL FL345,"06:00-21:00 (05:00-21:00)_x000D_
+",C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4107,CENTRO_GROUP    ,LECMCTA,VALENCIA_GROUP,,RFL FL325,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4108,CENTRO_GROUP,LE,"(MALAGA_GROUP, SEVILLE_GROUP)",,RFL FL335,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4109,BALEARES_GROUP,LE,CENTRO_GROUP    ,,RFL FL335,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4110,VALENCIA_GROUP,LECMCTA,CENTRO_GROUP,,RFL FL315,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4111,"(MALAGA_GROUP, SEVILLE_GROUP)",LE,CENTRO_GROUP,,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4112,BALEARES_GROUP,LE,LEAS,,RFL FL335,SAT-SUN 06:00-21:00 & SUMMER (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4113,LEAS,LE,BALEARES_GROUP,,RFL FL345,SAT-SUN 06:00-21:00 & SUMMER (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4114,LEZG,LECMCTA,"(GALICIA_GROUP, CANTABRICO_GROUP, CENTRO_GROUP, LEAS)",,RFL FL335,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4115,"(GALICIA_GROUP, CANTABRICO_GROUP, CENTRO_GROUP, LEAS)",LECMCTA,LEZG,,RFL FL345,06:00-21:00 (05:00-21:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LE4116,"(GMTT,GMTN)","(GM, LE)",CANTABRICO_GROUP    ,,RFL FL345,"SUMMER 05:00-21:00_x000D_
+",C,To offload upper sectors and to reduce complexity,,02 APR 2025,
+LE4117,CANTABRICO_GROUP,"(GM, LE)","(GMTT,GMTN)",,RFL FL335   ,"SUMMER 05:00-21:00_x000D_
+",C,To offload upper sectors and to reduce complexity,,02 APR 2025,
+LE4118,"(MALAGA_GROUP, SEVILLE_GROUP)  ","(LE, LF)",LFBD,,RFL FL345,"SUMMER 05:00-21:00_x000D_
+",C,To offload upper sectors and to reduce complexity,,02 APR 2025,
+LE4119,LFBD,"(LE, LF) ","(MALAGA_GROUP, SEVILLE_GROUP)",,RFL FL335,"SUMMER 05:00-21:00_x000D_
+",C,To offload upper sectors and to reduce complexity,,02 APR 2025,
+LE4120,MADRID_GROUP,"(LE, LF)",LFRS    ,VIA LECMPAI,RFL FL345,SUMMER  05:00-21:00,C,To offload LECM upper sectors,,02 APR 2025,
+LE4121,LFRS,"(LF, LE)",MADRID_GROUP    ,VIA LECMPAI,RFL FL335,SUMMER 05:00-21:00,C,To offload LECM upper sectors,,02 APR 2025,
+LE4122,LFBD,"(LE,LF)",VALENCIA_GROUP,VIA LECMACC,RFL FL335,"06:00-21:00 (05:00-21:00)_x000D_
+",C,To offload LECM upper sectors,,04 APR 2025,
+LE4123,VALENCIA_GROUP ,"(LE,LF)",LFBD,VIA LECMACC,RFL FL345,"06:00-21:00 (05:00-21:00)_x000D_
+",C,To offload LECM upper sectors,,04 APR 2025,
+LELP4000,BARCELONA_GROUP,"(LE, LP)","(GALICIA_GROUP, LEAS, CENTRO_GROUP, LPPR)",VIA LECMCTA,RFL FL335,05:00-22:00 (04:00-22:00),S,LECB-LECM LoA       ,,18 MAR 2025,
+LELP4001,MADRID_GROUP,"(LECMUIR, LP)",LPPR,,RFL FL315,H24,S,LPPC-LECM LoA               ,,15 JAN 2025,
+LELP4002,LPPR,"(LECMUIR, LP)",MADRID_GROUP,,RFL FL325,H24,S,LPPC-LECM LoA              ,,15 JAN 2025,
+LELP4003,"(GALICIA_GROUP, LEAS, CENTRO_GROUP, LPPR)",LECMCTA,BARCELONA_GROUP,,RFL FL325,05:00-22:00 (04:00-22:00),C,To offload upper sectors and to reduce complexity,,18 MAR 2025,
+LF4004,CLERMONT_FERRAND_GROUP,LF,"(PARIS_GROUP, LFOB)",,Not above FL185,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4008,"(BRUSSELS_GROUP, LFQQ)",LF,LFLC,,Not above FL255,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4011,"(LONDON_SOUTH_GROUP,EGSG)","(EG, LF, LS)","(LYON_GROUP, STRASBOURG_GROUP, SAINT_YAN_GROUP, CHAMBERY_GROUP, BASEL_GROUP, LFLX)","EXC VIA (DIK, KONAN, REDFA)",FL295,H24,C,"LOA between EGTT/LFRR and SKI SCENARIO
+",,22 JAN 2025,
+LF4017,BARCELONA_GROUP,LF,"GENEVA_AREA, GENEVA_GROUP",,"NOT ABV FL345
+----------
+NOT ABV FL325","H24
+----------
+AIRAC MAR - FIRST AIRAC OCT
+H24",C,LFMMACC - FDPS limitation,,23 APR 2024,
+LF4023,BORDEAUX_AREA,LF,LILLE_GROUP,,FL345,03:00-23:00 (02:00-22:00),C,To offload LFBBACC and LFRRACC upper sectors,,11 AUG 2024,
+LF4033,"MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP",LF,ORLY_GROUP,,NOT ABV FL345,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload LFMMACC  upper sectors,,23 APR 2024,
+LF4035,LFMMFIR,LF,BARCELONA_GROUP,EXC VIA NAKIS,NOT ABV FL305,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload LFMMACC upper sectors,,23 APR 2024,
+LF4039,"(LFOE, LFOP)",LF,GENEVA_GROUP,,FL305,AIRAC JUN - LAST AIRAC OCT 03:00-23:00 (02:00-22:00) ,C,To optimize use of available capacity,,18 NOV 2024,
+LF4040,"(PARIS_GROUP, LFOB)",LF,RENNES_GROUP,,Not above FL235,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4042,"(PARIS_GROUP, LFOB)",LF,CHAMBERY_GROUP,,Not above FL275,03:00..23:00 (02:00..22:00) ,C,To avoid complexity climbing/descending trafic,,15 JUN 2021,
+LF4043,"(PARIS_GROUP, LFOB)",LF,EB**,,Not above FL245,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4044,"(PARIS_GROUP, LFOB)","EB, ED, LF","(DUESSELDORF_GROUP, EBLG, EDDF/FE/FM/FZ, EHBK/WO, ETOU/SB)",,Not above FL235,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4058,"(PARIS_GROUP, LFOB, LFPM)","EB, EH, LF",(EHAM/EH/RD),,Not above FL305,H24,C,revisionprintemps                              ,,21 MAR 2024,
+LF4060,"(PARIS_GROUP, LFOB)",LF,"(EDDR/FH/RZ, ETAD/AR, ELLX)",,Not above FL195,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4061,"(PARIS_GROUP, BEAUVAIS_GROUP)",LF,"(LESO, LEBB,  BORDEAUX_AREA) EXC (LFCR, BORDEAUX_GROUP)",VIA LFBBUBDX,FL355,"AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,"To offload LFBBACC upper sectors
+",,10 FEB 2025,
+LF4062,"(PARIS_GROUP, BEAUVAIS_GROUP)",LF,"(LFCR, BORDEAUX_GROUP)",,NOT ABV FL335,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper sectors,,05 AUG 2023,
+LF4063,"(PARIS_GROUP, LFOB)",LFFRAC,LYON_GROUP,,Not above FL275,03:00..23:00 (02:00..22:00),S,To avoid complexity climbing/descending trafic,,16 FEB 2022,
+LF4065,"(PARIS_GROUP, LFOB)",LF,"(NANTES_GROUP, LFBH)",,Not above FL275,H24,S,To avoid short yoyo profile,,01 DEC 2022,
+LF4072,"(PARIS_GROUP, LFOB)",LF,"(GENEVA_AREA, GENEVA_GROUP)",,Not above FL275,2022 03:00..23:00 (02:00..22:00) ,C,To avoid complexity climbing/descending trafic,,15 JUN 2021,
+LF4074,"(PARIS_GROUP, LFOB)",LF,CLERMONT_FERRAND_GROUP,,NOT ABV FL255,H24,C,To offload LFBBACC sectors,,05 AUG 2023,
+LF4076,LFRRFIR,LF,"LILLE_GROUP, EBKT/CV",,Not above FL285,H24,S,To optimize use of available capacity,,04 NOV 2022,
+LF4077,LFRRFIR,LF,"(GENEVA_GROUP, MONTPELLIER_GROUP, RHONE_GROUP)",,NOT ABV FL355,H24,C,"To offload LFRRACC and LFBBACC upper sectors
+",,12 JAN 2024,
+LF4078,RENNES_GROUP,LF,"PARIS_GROUP, LFOB",,Not above FL195,H24,C,Maintain short flight into LFRN sectors,,08 SEP 2021,
+LF4079,LFRRFIR,LF,"(BASEL_GROUP, STRASBOURG_GROUP)",,"FL275
+----------
+FL335","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,"2. MAC seasonality   
+",,11 AUG 2024,
+LF4084,"(BASEL_GROUP, LSGG, LSZH)",LFEECTAE,"(EBAW, EBBR, EBCI, EBKT, EBMB, EBZW, EDDF, EDDG, EDDK, EDDL, EDFE, EDFM, EDFZ, EDLA, EDLE, EDLM, EDLP, EDLV, EDLS, EDLW, EDVK, EDWO,
+EHBD, EHEH, EHGR, EHVK, EHWO, ETNG, ETNN, ETOU)",VIA LFEECTAE,NOT ABV FL315,	H24,C,"to follow LoA requirements 
+",,05 AUG 2023,
+LF4086,LILLE_GROUP,LF,LYON_GROUP,,Not above FL295,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4087,"MILANO_GROUP EXC (LIME, LIMP, LSZS)","LI, LF, LE",BARCELONA_GROUP,,NOT ABV FL335,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,"To offload upper sectors, to reduce complexity
+Loa between LIMM and LFMMACC",,23 APR 2024,
+LF4088,MILANO_GROUP,LF,"LEMH, LESL, PALMA_GROUP",VIA DIVKO,NOT ABV FL355,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4089,"(LIP*, LIME, LIMP, LIRP, LIRQ, LSZS)","(LE, LF, LI)",BARCELONA_GROUP,VIA LFMMBB,FL350,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,05 JUN 2025,
+LF4094,"(FARNBOROUGH_GROUP, LONDON_GROUP, EGHH, EGHI)","EG, LF",LFRRFIR,,NOT ABV FL295,H24,C,"To avoid the complexity of climbing and immediately descending traffic in a very busy airspace
+",,13 JUN 2024,
+LF4096,"(LONDON_GROUP, FARNBOROUGH_GROUP)","(EG, LF)","(BORDEAUX_AREA, LFLC, LESO)",,FL355,H24,C,"To offload LFRRACC and LFBBACC upper secTors
+",,11 AUG 2024,
+LF4099,"GENEVA_AREA, GENEVA_GROUP","LS, LF, LE",BARCELONA_GROUP,EXC VIA NAKIS,NOT ABV FL355,"AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,To offload LFMMACC upper sectors,,23 APR 2024,
+LF4100,GENEVA_GROUP,LF,DEAUVILLE_GROUP,,Not above FL285,03:00..23:00 (02:00..22:00),C,To optimize use of available capacity,,04 NOV 2022,
+LF4105,GENEVA_GROUP,LF,ORLY_GROUP,,Not above FL265,H24,C,To avoid complexity climbing/descending trafic,,21 JUN 2022,
+LF4108,LYON_GROUP,LF,EB**,via CLM,Not above FL305,03:00..23:00 (02:00..22:00),C,To avoid complexity climbing/descending trafic,,15 JUN 2021,
+LF4109,LYON_GROUP,LF,DEAUVILLE_GROUP,,Not above FL285,03:00..23:00 (02:00..22:00),C,To optimize use of available capacity,,04 NOV 2022,
+LF4110,LYON_GROUP,LF,LILLE_GROUP,,"FL305
+
+----------
+FL285","AIRAC NOV-AIRAC FEB
+03:00-23:00 
+
+----------
+AIRAC MAR-LAST AIRAC OCT
+02:00-22:00",C,"2. MAC seasonality 
+",,18 OCT 2024,
+LF4115,NANTES_GROUP,LF,"(PARIS_GROUP, DEAUVILLE_GROUP)",,Not above FL245,H24,C, 	Airspace decomplexification strategy,,12 AUG 2022,
+LF4120,"MONTPELLIER_GROUP, PROVENCE_GROUP, RHONE_GROUP",LF,"EDNY, LS**, LFEEFIR",,"NOT ABV FL305
+
+----------
+NOT ABV FL325","AIRAC MAR - FIRST AIRAC OCT
+H24
+
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,"Loa LFMMACC/LSAG
+To reduce complexity",,23 APR 2024,
+LF4123,"(PARIS_GROUP, LFOB)",LF,(LFSG/SN/SX),,Not above FL195,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4125,"(GENEVA_AREA, GENEVA_GROUP)",LF,"(NICE_GROUP, TOULON_GROUP)",via VEVAR,Not above FL235,03:00..23:00 (02:00..22:00),C,To optimize use of available capacity,,04 NOV 2022,
+LF4126,NANTES_GROUP,LF,BORDEAUX_GROUP,,NOT ABV FL195,H24,C,To offload LFBBACC secTors,,05 AUG 2023,
+LF4127,TOULON_GROUP,"LF, LS, ED","EDNY, LS**, LFSB, LFSM",VIA LTP,"NOT ABV FL305
+","AIRAC MAR - FIRST AIRAC OCT
+H24
+",C,To reduce complexity in LFMMACC.,,23 APR 2024,
+LF4128,"(EDDS/FM/TD, ETAR, STRASBOURG_GROUP)",LF,"(LFJR/RG/RK/RM/RN, LFO*)",,Not above FL285,03:00..23:00 (02:00..22:00),C,To optimize use of available capacity,,04 NOV 2022,
+LF4131,BASEL _GROUP,LF,"(ELLX, EDFH)",,FL195,03:00..23:00 (02:00..22:00),C,capacity for higher sectors,,07 OCT 2024,
+LF4132,"MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP","LFMMACC, LFFFACC","LILLE_GROUP, ROISSY_GROUP, LFOB, LFOP",,"NOT ABV FL385
+----------
+NOT ABV FL345","H24
+----------
+AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,LFMMACC - FDPS limitation - Capacity,,23 APR 2024,
+LF4137,EHAM,"EB, LF",LFLC,,Not above FL315,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4138,"(PARIS_GROUP, BEAUVAIS_GROUP)",LF,"(MONTPELLIER_GROUP,  RHONE_GROUP)",,NOT ABV FL355,03:00-23:00 (02:00-22:00),C,"To offload LFBBACC upper sectors
+Revisionprintemps",,26 DEC 2023,
+LF4139,"(CHAMBERY_GROUP, LYON_GROUP)",LF,LFPB,"via (PIBAT,  MOU)",Not above FL185,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4140,"(LFBH, LFBI, LFBN, LFDN)","LF, EG",SEVERN_GROUP,,NOT ABV FL345,H24,C,To optimize use of available capacity,,13 JUN 2024,
+LF4149,"(BORDEAUX_AREA EXC (LFBO, LFBP, LFBT, LFBZ)",LF,ORLY_GROUP,,"FL285
+
+----------
+FL345","AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+
+----------
+LAST AIRAC OCT - AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,"To offload LFBBACC upper sectors
+",,11 AUG 2024,
+LF4150,"(BORDEAUX_AREA, LESO, LEBB)",LF,"(BEAUVAIS_GROUP,  ROISSY_GROUP)",VIA LFBBUBDX,FL345,"AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,To offload LFBBACC upper sectors,,10 FEB 2025,
+LF4157,"(BORDEAUX_AREA, LFLC)",LF,BARCELONA_GROUP,,FL345,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper secTors,,11 AUG 2024,
+LF4159,"(NICE_GROUP, TOULON_GROUP)",LF,LIEA/EO,,Not above  FL295,04:00..22:00,C,To optimize use of available capacity,,04 NOV 2022,
+LF4166,"(PARIS_GROUP, LFOB)",LF,LFOK,,Not above FL125,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4167,(BORDEAUX_GROUP),LF,"(LFBH, LFBN)",,NOT ABV FL115,H24,C,To offload LFBBACC secTors,,05 AUG 2023,
+LF4168,BORDEAUX_GROUP,LF,BIARRITZ_GROUP,,NOT ABV FL145,H24,C,To offload LFBBACC secTors,,05 AUG 2023,
+LF4169,PYRENEES_GROUP,LF,"(BIARRITZ_GROUP, TOULOUSE_GROUP)",,NOT ABV FL145,H24,C,To offload LFBBACC secTors,,05 AUG 2023,
+LF4170,"NICE_GROUP, TOULON_GROUP","LF, LI",ROME_GROUP,,NOT ABV FL305,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload upper sectors in LFMMACC,,23 APR 2024,
+LF4171,TOULOUSE_GROUP,LF,"(LFCR, LFLW)",,NOT ABV FL145,H24,C,To offload LFBBACC secTors,,05 AUG 2023,
+LF4174,"(POITIERS_GROUP, LIMOGES_GROUP)",LF,EBBUFIR,,Not above FL285,03:00..23:00 (02:00..22:00),C,capacity enhancer,,24 DEC 2021,
+LF4175,"(CHAMBERY_GROUP, LYON_GROUP)","(EB, ED, EH, LF)","(EBAW, EBBR, EBCI, EBKT, EBMB, EBZW, EDDF, EDDG, EDDK, EDDL, EDFE, EDFM, EDFZ, EDLA, EDLE, EDLM, EDLP, EDLV, EDLS, EDLW, EDVK, EDWO,
+EHBD, EHEH, EHGR, EHVK, EHWO, ETNG, ETNN, ETOU)",VIA LFEECTAE,NOT ABV FL325,H24 ,C,"to follow LoA requirements
+Candidate for Dynamic RAD trial 2021",,05 JAN 2024,
+LF4177,"(CHAMBERY_GROUP, LYON_GROUP, SAINT_YAN_GROUP)",LF,"(MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP)",,Not above FL295,H24,C,revisionprintemps,,20 JAN 2022,
+LF4178,(DEAUVILLE_GROUP),LF,"(CHAMBERY_GROUP, GENEVA_GROUP, LYON_GROUP)",,Not above FL295,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4179,"GENEVA_GROUP, LYON_GROUP, LFLB, LFLC, LFLP",LF,BASTIA_GROUP,,"NOT ABV FL335
+----------
+NOT ABV FL355","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,To offload upper sectors in LFMMACC,,23 APR 2024,
+LF4185,CHAMBERY_GROUP,LF,DEAUVILLE_GROUP,,Not above FL285,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4186,CHAMBERY_GROUP,LF,LILLE_GROUP,,Not above FL305,H24,C,traffic orientation,,15 JUN 2021,
+LF4187,"BORDEAUX_AREA EXC (BIARRITZ_GROUP, TOULOUSE_GROUP)",LF,"(CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, LYON_GROUP)",,"FL285
+
+----------
+FL345","AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+
+----------
+LAST AIRAC OCT - AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,To offload LFBBACC upper sectors,,11 AUG 2024,
+LF4189,LFRRFIR,LF,"(CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, LYON_GROUP)",,NOT ABV FL345,H24,C,To offload LFBBACC upper secTors,,05 AUG 2023,
+LF4192,"(BORDEAUX_AREA, LFLC, LESO)",LF,RENNES_GROUP,,"FL285
+----------
+
+FL325","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,"To offload LFBBACC and LFRRACC upper sectors
+",,11 AUG 2024,
+LF4193,"(BORDEAUX_AREA, LFLC, LESO) EXC (BORDEAUX_GROUP)",LF,NANTES_GROUP,,"FL285
+
+----------
+FL325","AIRAC MAR - FIRST AIRAC OCT
+H24
+
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",S,"to offload LFBBACC upper sectors
+-------------------
+due to FDPS limitations
+",,11 AUG 2024,
+LF4197,"(EBBR, EDDK/DL)","EB, ED, LF","(LFSB, LSGG/ZH)",VIA LFEECTAE,NOT ABV FL315,H24 ,C,traffic orientation ,,05 JAN 2024,
+LF4201,"(EGTTFIR EXC (LONDON_SOUTH_GROUP, EGHH, EGHI))","EG, LF, LS","(LFLB, LFLI, LFLP, LFLS, LSGG, LSGL, LSGS)",,NOT ABV FL355,"14 DEC 24 - 6 APR 2025
+SAT-SUN 06:00-18:00 (05:00-17:00)",C,SKI                 ,,24 OCT 2024,
+LF4203,"(LFLB, LFLL, LFLP, LFLS, LFLY)",LF,"(LFPB, LFPN, LFPT, LFPV)",,NOT ABV FL185,"14 DEC 24 - 6 APR 2025
+SAT-SUN 06:00-18:00 (05:00-17:00)",C,SKI                 ,,24 OCT 2024,
+LF4204,"(LFLL, LFLS, LFLY, LFLB, LFLP)",LF,LFPG,,NOT ABV FL265,"14 DEC 24 - 6 APR 2025
+SAT-SUN 06:00-18:00 (05:00-17:00)",C,SKI                 ,,24 OCT 2024,
+LF4206,LSGS,LF,LFP*,,NOT ABV FL305,"14 DEC 24 - 6 APR 2025
+SAT-SUN 06:00-18:00 (05:00-17:00)",C,SKI                 ,,24 OCT 2024,
+LF4209,BASTIA_GROUP,LF,"MONTPELLIER_GROUP, PROVENCE_GROUP",,NOT ABV FL285,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload LFMMACC upper secTors,,23 APR 2024,
+LF4212,POITIERS_GROUP,LF,PARIS_GROUP,,Not above FL195,03:00..23:00 (02:00..22:00),C,To optimize use of available capacity,,04 NOV 2022,
+LF4215,LONDON_GROUP,"EG, LF","(LFBI, LFBL, LFBU, LFLX, LFOT)",,NOT ABV FL275,H24,C,To optimize use of available capacity,,13 JUN 2024,
+LF4216,PROVENCE_GROUP,LF,"(NICE_GROUP, TOULON_GROUP)",,Not above FL115,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4219,NICE_GROUP,LF,TOULON_GROUP,,Not above FL115,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4221,(LFMD/MN),LF,LFTZ,,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4222,LILLE_GROUP,LF,LFRRFIR,,"FL275
+----------
+FL315","AIRAC MAR - FIRST AIRAC OCT
+H24
+
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,2. MAC seasonality  ,,11 AUG 2024,
+LF4223,EGTTFIR,"(EG, LF)",LFSD,,FL355,H24 ,C,traffic orientations,,11 AUG 2024,
+LF4224,LFLC,LF,LFLN,,Not above FL115,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4226,BARCELONA_GROUP,"LE, LF, LI","LIME, LIMP, LIPE, LIPX, LIQS, LIRQ, LSZA, LSZL, LSZS",VIA NOSTA,NOT ABV FL345,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC,,23 APR 2024,
+LF4227,"(GENEVA_AREA, GENEVA_GROUP)",LF,LILLE_GROUP,,NOT ABV FL325,H24,C,To avoid complexity climbing/descending trafic,,03 OCT 2023,
+LF4228,(LFBA/CI/CK/DJ/BR),LF,(LFBA/CI/CK/DJ/BR),,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4229,LFMK,LF,(LFDJ/BR),,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4230,(LFBA/CI),LF,LFMK,,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4231,LFMK,LF,LFBA,via AGN,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4232,"(ZURICH_AREA, LFEEFIR)",LF,PARIS_GROUP,via RLP,Not above FL195,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4233,"AJACCIO_GROUP, BASTIA_GROUP",LF,"LFOE, LFOH, LFOK, LFOP, LFRC, LFRG, LFRK",,FL345,"AIRAC MAR - FIRST AIRAC OCT
+04:00 - 22:00",C,To optimize use of available capacity,,21 OCT 2024,
+LF4234,"BASTIA_GROUP, LFKO",LF,"ROISSY_GROUP, LFOB",,NOT ABV FL365,"AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,To offload upper sectors in LFMMACC and LFFFACC.,,23 APR 2024,
+LF4236,PROVENCE_GROUP,LF,TOULOUSE_GROUP,,NOT ABV FL285,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper secTors,,05 AUG 2023,
+LF4237,LFBD,LF,LFML,,NOT ABV FL355,03:00-23:00 (02:00-22:00),C,"To offload LFBBACC upper secTors
+Revisionprintemps",,05 AUG 2023,
+LF4238,"(LFBO, LFBP, LFBT, LFBZ, LESO, LEBB)",LF,ORLY_GROUP,VIA LFBBUBDX,"FL345
+
+----------
+FL365","AIRAC MAR-FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+
+----------
+LAST AIRAC OCT-AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,"To offload LFBBACC upper sectors
+",,10 FEB 2025,
+LF4239,LFMP,LF,ORLY_GROUP,,NOT ABV FL345,"AIRAC MAR-FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,To offload LFBBACC upper secTors,,20 APR 2024,
+LF4240,ORLY_GROUP,LF,(LFLA/OK/QB),,Not above FL115,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4241,"AJACCIO_GROUP, LIEA, LIEO",LF,"LYON_GROUP, GENEVA_AREA, GENEVA_GROUP, LFLB, LFLP","VIA (PIGOS, LFMMFF)",NOT ABV FL345,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4242,"LYON_GROUP, GENEVA_AREA, GENEVA_GROUP, LFLB, LFLP",LF,"AJACCIO_GROUP, LIEA, LIEO",VIA KOLON,NOT ABV FL355,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4243,PROVENCE_GROUP,"LF, LI",ROME_GROUP,,NOT ABV FL305,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4247,"(BASEL_GROUP, STRASBOURG_GROUP)",LF,LFRRFIR,,"FL285
+----------
+FL345","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,Seasonal procedure   ,,11 AUG 2024,
+LF4250,"(GENEVA_GROUP, LYON_GROUP, LSZH, LSZB, BASEL_GROUP)",LF,"(EBLG, EHBK, EDFH, EDLN, ELLX, ETAD, ETSB, EBSP)",VIA LFEECTAE,NOT ABV FL305,H24,C,to follow LoA requirements ,,05 AUG 2023,
+LF4251,BASEL_GROUP,LF,"(EBLG, EHBK, EDLN)",,Not above FL305,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4253,LFML,LF,LFBD,,NOT ABV FL365,03:00-23:00 (02:00-22:00),C,"To offload LFBBACC upper secTors
+Revisionprintemps",,05 AUG 2023,
+LF4254,"(MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP)",LF,(EBKT/CV),"via (BULOL, MOPEM)",Not above FL345,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4255,BRUSSELS_GROUP,LF,LYON_GROUP,via LESDO,Not above FL295,H24 ,C,capacity enhancer,,24 DEC 2021,
+LF4256,"(LFRRFIR, JERSEY_GROUP)",LF,"(EDDF, EDDG, EDDK, EDFM, EDDL, EDLP, EDLV, EDLW, EH** EXC EHBK)",VIA LFRRCTA,FL345,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,SW Axis management  ,,11 AUG 2024,
+LF4260,BIARRITZ_GROUP,LF,"(CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, LYON_GROUP)",,NOT ABV FL345,03:00-23:00 (02:00-22:00),C,"To offload LFBBACC upper sectors
+Revisionprintemps",,05 AUG 2023,
+LF4261,"(BORDEAUX_AREA, LFOT, LESO)",LF,GENEVA_GROUP,,FL345,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper secTors,,11 AUG 2024,
+LF4263,"(PARIS_GROUP, BEAUVAIS_GROUP)",LF,"(LIMC, LSZA/ZL/ZS)",VIA LFEECTAE,NOT ABV FL335,H24,C,To optimize use of available capacity,,05 JAN 2024,
+LF4264,PARIS_GROUP,LF,LFJL,via MMD,Not above FL245,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4265,"(PARIS_GROUP, LFOB)","(ED, LF, LS)","(EDDS, EDTD)",VIA LUPEN,NOT ABV FL295,"AIRAC NOV-AIRAC FEB
+H24",C,Seasonal procedure   ,,05 AUG 2023,
+LF4266,(EDDS/TD),LF,"(PARIS_GROUP, LFOB)",via LUPEN,Not above FL245,H24,C,capacity for higher sectors,,09 JUL 2021,
+LF4268,STRASBOURG_GROUP,LF,"(PARIS_GROUP, LFOB)",,"FL245
+
+----------
+FL285","AIRAC MAR-LAST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+
+----------
+AIRAC NOV-AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,Seasonal procedure    ,,18 OCT 2024,
+LF4271,"(LYON_GROUP, CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, SAINT_YAN_GROUP)",LF,"(LYON_GROUP, CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, SAINT_YAN_GROUP)",,WITH RFL NOT ABV FL145,H24,C,"Loa LFLL/LFMM, to comply with the internal system",,05 AUG 2023,
+LF4272,"(PARIS_GROUP, LFOB)",LF,"(EDDS, EDTD)",VIA LUPEN,FL255,"AIRAC MAR-LAST AIRAC OCT
+H24",C,"Seasonal procedure
+SEE LF4265
+",,18 OCT 2024,
+LF4273,BASEL_GROUP,LF,"(ELLX, EDFH)",,NOT ABV FL305,23:00-03:00 (22:00-02:00),C,SEE LF4131          ,,05 AUG 2023,
+LF4275,"(PARIS_GROUP, LFOB)",LF,STRASBOURG_GROUP,,"FL255
+
+----------
+FL295","AIRAC MAR-LAST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+
+----------
+AIRAC NOV-AIRAC FEB 
+03:00-23:00 (02:00-22:00)",C,"Seasonal procedure          
+",,18 OCT 2024,
+LF4277,"(EDDL, EDDF, EDFH, EDDK, EDLP, EDDG, EDLV, EDLW, EDFM, EDLA, EDWO, EDLS, EDVK, EDFE, EDFZ, ETNG, ETOU, ELLX, LFST)","(EB, ED, EH, LF)","(LFO*, LFRG, LFRK, LFRM, LFJR, LFLX, LFQG, LFLD, LFLA, EGJJ, EGJB)",,FL315,"AIRAC MAR - FIRST AIRAC OCT 
+H24",C,traffic orientations,,11 AUG 2024,
+LF4278,LFEEFIR,LF,"(LIMOGES_GROUP, POITIERS_GROUP, LFQG)",VIA TRO B373 MOU ,FL195,H24,C,To optimize use of available capacity,,07 OCT 2024,
+LF4279,ELLX,LF,"(EGHH, EGHI, EGHL, EGLF, EGLK, EGTF, EGVO, EGTD, EGKB, EGKA, EGLC, EGLD, EGMC, EGMD, EGSG, EGSX, EGTO, EGTR)",VIA LFEE5R,"FL345
+
+----------
+
+FL305","AIRAC NOV - AIRAC FEB
+H24
+
+----------
+AIRAC MAR - LAST AIRAC OCT
+H24",C,capacity for higher sectors,,18 OCT 2024,
+LF4280,"(ELLX, EDDS)",LF,"(EGDM, EGDY, EGBP, EGKK, EGLL)",VIA LFEE5R,"FL365
+
+----------
+
+FL345","AIRAC NOV - AIRAC FEB
+H24
+
+----------
+
+AIRAC MAR - LAST AIRAC OCT
+H24",C,traffic orientation    ,,18 OCT 2024,
+LF4281,"(PARIS_GROUP, LFOB, LFLX)",LF,"(BORDEAUX_AREA, LFMP, LFMT, LFML, LFMI, LFMV, LFMU, LEBB, LESO)",VIA LFBBUBDX,FL295,DYNAMIC,C,"SW Axis Management
+To offload LFBBACC upper secTors",DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,10 FEB 2025,
+LF4282,LSGG,LF,"(EGKB, EGHH, EGHI, EGLC, EGLF)",VIA LFEECTA,FL345,"AIRAC MAR - LAST AIRAC OCT 
+14:00-21:00",C,traffic orientation   ,,18 OCT 2024,
+LF4284,"(EDDF, EDDM, EDSB, EDTL)",LF,EG**,VIA LFEECTA,FL345,"AIRAC APR - LAST AIRAC OCT 
+H24",C,capacity for higher sectors,,18 OCT 2024,
+LF4285,"(BASEL_GROUP, LS** EXC (LSGG))",LF,"(EGKB, EGHH, EGHI, EGLC, EGLF, EGKA, EGLD, EGMC, EGMD, EGSG, EGSX, EGTF, EGTO, EGTR, EGHL, EGHO, EGHQ, EGHR, EGLK, EGVO, EGTD)",VIA LFEECTA,FL345,"AIRAC APR - LAST AIRAC OCT 
+H24",C,traffic orientation   ,,18 OCT 2024,
+LF4286,TOULOUSE_GROUP,LF,MONTPELLIER_GROUP,,NOT ABV FL195,H24,C,To offload LFBBACC upper secTors,,05 AUG 2023,
+LF4287,BARCELONA_GROUP,LF,"(SEVERN_GROUP, FARNBOROUGH_GROUP, EGKB, EGKK, EGLC, EGLL, EGMC, EGTO, EGWU)",VIA LFRRCTA,NOT ABV FL345,"AIRAC MAR-FIRST AIRAC OCT
+09:00-13:00",C,"SW Axis Management
+To offload LFBBACC and LFRRACC upper secTors",,20 APR 2024,
+LF4288,BORDEAUX_GROUP,LF,LFSB/ST,,Not above FL345,03:00..23:00 (02:00..22:00),C,"To offload LFBBACC upper secTors
+Revisionprintemps",To offload LFBBACC upper secTors,16 FEB 2022,
+LF4289,EGTTFIR,"EG, LF",BASEL_GROUP,,Not above FL335,H24,C,"LOA LFEE-LFRR
+",,08 SEP 2021,
+LF4290,"(EHAM,EHEH, EHRD)","(EH, LF)",LYON_GROUP,VIA LESDO,FL295,"AIRAC APR - LAST AIRAC OCT
+H24",C,traffic orientation ,,18 NOV 2024,
+LF4291,"LFMMFIR EXC (LFKF, LFKJ, LFKO)",LF,"(LFBK, LFLC, LFLD, LFLV, LFLX, LFMH, LFOA, LFOJ, LFOZ, LFQG)",,NOT ABV FL305,H24,C,Loa between LFMM and LFBB,,05 AUG 2023,
+LF4293,"(LFLB,LFLP)",LF,"(LFLL, LFLS, LFLY)",,NOT ABV FL085,H24,C,LOA LFLB/LFLL        ,,05 AUG 2023,
+LF4294,TOULOUSE_GROUP,LF,"(CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, LYON_GROUP)",,NOT ABV FL295,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper sectors,,05 AUG 2023,
+LF4295,"(LONDON_SOUTH_GROUP, EGHH, EGHI)","(EG, LF)","(LFLL, LFLY, LFLU)",VIA ODEBU,"1.FL275
+2.FL315","1. 14 DEC 24 - 6 JAN 2025
+05:00-20:00 (04:00-19:00)
+2. 7 JAN 25 - 6 APR 2025
+05:00-20:00 (04:00-19:00)",C,"SKI
+Revisionprintemps",,24 OCT 2024,
+LF4296,"(LFLL, LFLS, LFLY, LFLB, LFLP)",LF,LFPO,,NOT ABV FL185,"14 DEC 24 - 6 APR 2025
+SAT-SUN 06:00-18:00 (05:00-17:00)",C,SKI                 ,,24 OCT 2024,
+LF4297,(LFLL/LS/LY/LB/LP),LF,LFPO,,Not above FL225,"01 JAN.. 31 JAN and 02 MAR..15 APR
+SAT..SUN 
+06:00..18:00 (05:00..17:00)",C,winter city pair linked with LF4296,,26 NOV 2021,
+LF4298,EG**,"EG, LF",BORDEAUX_GROUP,via sect:LFRRMQ,Not above FL355,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4300,"(AJACCIO_GROUP, BASTIA_GROUP)",LF,"(AJACCIO_GROUP, BASTIA_GROUP)",,Not above FL145,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4301,"NICE_GROUP, TOULON_GROUP",LF,"AJACCIO_GROUP, BASTIA_GROUP",,NOT ABV FL245,"LAST AIRAC OCT - AIRAC FEB
+H24",C,To offload upper sectors in LFMMACC,,23 APR 2024,
+LF4302,"NICE_GROUP, TOULON_GROUP",LF,"LFKJ, LFKO, LFKG, BASTIA_GROUP",,NOT ABV FL145,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload  LFMMACC.,,23 APR 2024,
+LF4303,"NICE_GROUP, TOULON_GROUP",LF,LFKF,"ENG-TYPE (PISTON, TURBOPROP)",NOT ABV FL195,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4304,"NICE_GROUP, TOULON_GROUP",LF,"LFKF, LIRS, LIRP","EXC ARR (LIRS, LIRP) VIA USANO",NOT ABV FL245,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4305,"NICE_GROUP, TOULON_GROUP",LF,ROME_GROUP,,NOT ABV FL345,"LAST AIRAC OCT - AIRAC FEB
+H24",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4306,(BASTIA_GROUP),LF,"(MONTPELLIER_GROUP, PROVENCE_GROUP)",,Not above FL325,"AIRAC NOV..AIRAC FEB
+H24",C,To optimize use of available capacity,,04 NOV 2022,
+LF4307,LFKB,LF,(NICE_GROUP),except via AKUTI,Not above FL145,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4309,"(GENEVA_AREA, GENEVA_GROUP)","(LE, LF, LS)",BARCELONA_GROUP,VIA NAKIS,NOT ABV FL335,H24,C,To comply with internal system in LFBB,,05 AUG 2023,
+LF4310,LFMMFIR,LF,BARCELONA_GROUP,VIA NAKIS,NOT ABV FL295,H24,C,To comply with internal system in LFBB,,05 AUG 2023,
+LF4311,"BASTIA_GROUP, AJACCIO_GROUP, NICE_GROUP",LF,LFBO,,NOT ABV FL305,"AIRAC MAR - FIRST AIRAC OCT
+10:00-14:00 (09:00-13:00)",C,"To offload LFMMM1
+LFMMACC",,23 APR 2024,
+LF4313,LFMMFIR,LF,"(BORDEAUX_AREA, LESO)",,FL345,"AIRAC MAR - FIRST AIRAC OCT
+ 06:00-21:00",C,"MAC
+To offload LFMMACC and LFBBACC upper sectors.
+",,11 AUG 2024,
+LF4314,"(RENNES_GROUP, NANTES_GROUP)","EB, ED, LF","(EB**, EDFH, EDDR, EDLN, EDRT, EDRZ, EHBK, ELLX, ETAD, ETAR, ETSB, LFJL)",VIA LFRRCTA,NOT ABV FL325,H24,C,LOA between LFEE  LFFF LFRR,,13 JUN 2024,
+LF4315,"(BARCELONA_GROUP, LEBB, LESO,  BORDEAUX_AREA)","(EB, ED, LE, LF)","(EB**, EDFH, EDDR, EDLN, EDRT, EDRZ, EHBK, ELLX, ETAD, ETAR, ETSB, LFJL)",VIA LFBBCTA,FL345,"AIRAC MAR - FIRST AIRAC OCT
+06:00-21:00",C,"SW Axis management, 
+To  offload LFBBACC upper sectors",,11 AUG 2024,
+LF4316,"(BORDEAUX_AREA, LESO)","(LF, LI)",LIM*,,FL345,"AIRAC MAR - FIRST AIRAC OCT
+06:00-21:00",C,"SW Axis management, MAC measure to offloard LFBBX4 sector at critical hour
+",,11 AUG 2024,
+LF4317,LONDON_SOUTH_GROUP,"(EG, LE, LF)",BARCELONA_GROUP,,NOT ABV FL355,"AIRAC MAR-FIRST AIRAC OCT
+09:00-13:00",C,"SW Axis management, MAC measure to offloard LFBBX4 sector at critical hour
+",,20 APR 2024,
+LF4318,"(EBBR, EBCI, LILLE_GROUP, LFOB)","(EB, LE, LF)","(BORDEAUX_AREA, LFMP, LFMT, LFML, LFMI, LFMV, LFMU, LEBB, LESO)",VIA RESMI,FL345,"AIRAC APR - FIRST AIRAC OCT
+06:20-08:45 (05:20-07:45) & 10:20-19:15 (09:20-18:15)",C,To offload LFBBACC upper sectors,,05 JUN 2025,
+LF4319,"(BORDEAUX_AREA, LESO)","(EGTTUIR, LF)","(LONDON_SOUTH_GROUP, SEVERN_GROUP, EGSS, EGSC)",,FL345,"AIRAC MAR - FIRST AIRAC OCT
+09:00-13:00",C,SW Axis management MAC 18  ,,11 AUG 2024,
+LF4320,"(BORDEAUX_AREA, LESO)","(EB, ED, EH, LF, LS) ","(EDDF, EDDG, EDDL, EDFM, EDLP, EDLV, EDLW, EH** EXC EHBK)",,FL365,"AIRAC MAR - FIRST AIRAC OCT
+06:00-21:00",C,"SW Axis management
+To offload upper sectors in LFBBACC and LFMMACC.",,11 AUG 2024,
+LF4321,"(BARCELONA_GROUP, LEBB, LFBD, LFBE, LFBO, LFBT, LFBZ, LFCR, LFMK, LFSL)","(EB, ED, EH, LECBCTA, LF) ","(EDDF, EDDG, EDDL, EDFM, EDLP, EDLV, EDLW, EH** EXC EHBK)",VIA LFRRCTA,NOT ABV FL365,"AIRAC MAR-FIRST AIRAC OCT
+09:00-13:00",C,SouthWest Axis management,,20 APR 2024,
+LF4322,"(BARCELONA_GROUP, LEBB)","(EB, ED,EH, LECBCTA, LF)","(EDDF, EDDG, EDDL, EDFM, EDLP, EDLV, EDLW, EH** EXC EHBK)",VIA LFBBCTA,NOT ABV FL365,"AIRAC MAR-FIRST AIRAC OCT
+06:00-21:00",C,To offload LFBBACC and LFRRACC upper sectors,,20 APR 2024,
+LF4324,"(BARCELONA_GROUP, LFBZ, LEBB)","(LECBCTA, LF)","(EGSS, EGGW, EGSC)",VIA LFRRCTA,FL365,"AIRAC MAR - FIRST AIRAC OCT
+09:00-13:00",C,"SW Axis management MAC  
+",,11 AUG 2024,
+LF4325,LFRS,LF,"(LFMP, LFTW)",,"NOT ABV FL345
+----------
+NOT ABV FL365","AIRAC MAR-FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+----------
+LAST AIRAC OCT-AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,"To offload LFBBACC upper sectors
+",,20 APR 2024,
+LF4326,"(LFRS, LFOT)","(LE, LF)","(MONTPELLIER_GROUP, PROVENCE_GROUP, RHONE_GROUP, BARCELONA_GROUP)",,"NOT ABV FL345
+----------
+NOT ABV FL365","AIRAC MAR-FIRST AIRAC OCT
+06:00-21:00
+----------
+LAST AIRAC OCT-AIRAC FEB
+06:00-21:00",C,"SW Axis management, MAC measure to offload LFBBUAC upper sectors
+",,20 APR 2024,
+LF4327,"(BARCELONA_GROUP, LEZG)","(LE, LF)",LF**,VIA LFBBCTA,NOT ABV FL345,"AIRAC MAR-FIRST AIRAC OCT
+05:00-21:00",C,"SW Axis management
+To  offload LFBBACC upper sectors",,20 APR 2024,
+LF4328,LFEEFIR,"LFEECTA, LFFFCTA","(LFOK, LFQA, LFQB, LFLA)",,FL195,H24,C,To optimize use of available capacity,,07 OCT 2024,
+LF4329,EB**,"(EB, LF)","(BORDEAUX_AREA, LESO)",,FL355,H24,C,To optimize use of available capacity,,11 AUG 2024,
+LF4330,LILLE_GROUP,LF,"(BORDEAUX_AREA, LESO)",,FL335,H24 ,C,To optimize use of available capacity,,11 AUG 2024,
+LF4331,"(PARIS_GROUP, LFOB)",LF,"(BASEL_GROUP, LSZH)",,FL335,"AIRAC MAR - LAST AIRAC OCT
+H24",C,traffic orientation   ,,18 OCT 2024,
+LF4332,"(PARIS_GROUP, LFOB)","(EDUUCTA, LFEECTA, LSAZUTA)","(EDDS, EDJA, EDNL, EDNY, EDTM, ETHL, LSZR)",VIA BEGAR,FL315,"AIRAC MAR - LAST AIRAC OCT
+H24",C,traffic orientation   ,,18 OCT 2024,
+LF4333,LFRRFIR,LF,"(LFRRFIR, DEAUVILLE_GROUP, JERSEY_GROUP, POITIERS_GROUP)",,Not above FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic,To avoid the complexity of climbing and immediately descending traffic,28 DEC 2023,
+LF4334,STRASBOURG_GROUP,LF,LYON_GROUP,VIA LFEECTAE,NOT ABV FL255,H24,C,capacity for higher sectors,,05 JAN 2024,
+LF4335,STRASBOURG_GROUP,LF,GENEVA_GROUP,LFEECTAE,NOT ABV FL235,H24,C,capacity for higher sectors,,05 JAN 2024,
+LF4336,BASEL_GROUP,LF,"(STRASBOURG_GROUP, LFJL)",,Not above FL145,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4337,"(ELLX, EDFH)",LF,BASEL _GROUP,,FL195,03:00..23:00 (02:00..22:00),C,capacity enhancer      ,,13 NOV 2024,
+LF4338,"(ELLX, EDFH)",LF,BASEL _GROUP,,NOT ABV FL305,23:00-03:00 (22:00-02:00),C,SEE LF4131             ,,05 AUG 2023,
+LF4340,NANTES_GROUP,LF,"(BORDEAUX_AREA EXC (BORDEAUX_GROUP), LFLC, LESO)",,"FL295
+----------
+FL335","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT -  AIRAC FEB
+H24",C,"to offload LFBBACC upper sectors
+-------------------
+due to FDPS limitations",,11 AUG 2024,
+LF4341,RENNES_GROUP,LF,"(BORDEAUX_AREA, LFLC, LESO)",,"FL295
+----------
+FL335","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,"To offload LFBBACC and LFRRACC upper sectors
+",,11 AUG 2024,
+LF4342,"(LFRRFIR, DEAUVILLE_GROUP, JERSEY_GROUP, POITIERS_GROUP)",LF,LFRRFIR,,Not above FL245,H24,C,To avoid the complexity of climbing and immediately descending traffic,To avoid the complexity of climbing and immediately descending traffic,28 DEC 2023,
+LF4343,BASTIA_GROUP,LF,"GENEVA_GROUP, LYON_GROUP, LFLB, LFLC, LFLP",EXC VIA TOP,FL305,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To optimize use of available capacity,,21 OCT 2024,
+LF4344,BASTIA_GROUP,LF,"(GENEVA_GROUP, LYON_GROUP, LFLB/LP)",except via TOP,Not above FL345,"AIRAC NOV..AIRAC FEB
+H24",C,To optimize use of available capacity,,04 NOV 2022,
+LF4345,"(BASEL_GROUP, LSZH)",LF,"(PARIS_GROUP, LFOB)",,Not above FL335,H24,C,capacity for highers sectors,,09 JUL 2021,
+LF4346,"(LFOK, LFQA, LFQB, LFLA)",LF,LFEEFIR,,FL195,H24,C,To optimize use of available capacity,,07 OCT 2024,
+LF4347,"(LFMP, LFTW)",LF,LFRS,,"NOT ABV FL345
+----------
+NOT ABV FL365","AIRAC MAR-FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+----------
+LAST AIRAC OCT-AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,"To offload LFBBACC upper sectors
+",,20 APR 2024,
+LF4348,"(MONTPELLIER_GROUP, PROVENCE_GROUP, RHONE_GROUP, BARCELONA_GROUP)","(LE, LF)","(LFRS, LFOT)",,"NOT ABV FL345
+----------
+NOT ABV FL365","AIRAC MAR-FIRST AIRAC OCT
+06:00-21:00
+----------
+LAST AIRAC OCT-AIRAC FEB
+06:00-21:00",C,"SW Axis management, MAC measure to offload LFBBUAC upper sectors
+",,20 APR 2024,
+LF4349,GENEVA_GROUP,LF,"(BORDEAUX_AREA, LFOT, LESO)",,FL345,03:00-23:00 (02:00-22:00),C,"To offload LFBBACC upper secTors
+Revisionprintemps",,11 AUG 2024,
+LF4351,"(BORDEAUX_AREA, LESO)",LF,LFMMFIR,,FL345,"AIRAC MAR - FIRST AIRAC OCT
+06:00-21:00",C,"MAC
+To offload upper sectors in LFMMACC and  LFBBACC.
+",,11 AUG 2024,
+LF4352,"(BORDEAUX_AREA, LESO)",LF,"(LFRS, LFRN)",VIA LFRRCTA,FL325,05:00-00:00 (04:00-23:00),C,"SW Axis management, MAC measure
+Revisionprintemps",,11 AUG 2024,
+LF4353,BARCELONA_GROUP,LF,LFMMFIR,,NOT ABV FL305,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload LFMMACC upper sectors,,23 APR 2024,
+LF4355,"(MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP)",LF,"(CHAMBERY_GROUP, LYON_GROUP, SAINT_YAN_GROUP)",,Not above FL305,H24,C,revisionprintemps,,12 SEP 2021,
+LF4357,"AJACCIO_GROUP, BASTIA_GROUP",LF,"NICE_GROUP, TOULON_GROUP",,NOT ABV FL245,"LAST AIRAC OCT - AIRAC FEB
+H24",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4358,"LFKJ, LFKO, LFKG, BASTIA_GROUP",LF,"NICE_GROUP, TOULON_GROUP",,NOT ABV FL145,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload LFMMACC sectors.,,23 APR 2024,
+LF4359,LFKF,LF,"NICE_GROUP, TOULON_GROUP","ENG-TYPE (PISTON, TURBOPROP)",NOT ABV FL195,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4360,LFKF,LF,"NICE_GROUP, TOULON_GROUP",,NOT ABV FL245,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4362,"(CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, LYON_GROUP)",LF,"BORDEAUX_AREA EXC (BIARRITZ_GROUP, TOULOUSE_GROUP)",,"FL295
+
+----------
+FL345","AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+
+----------
+LAST AIRAC OCT - AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,To offload LFBBACC upper sectors,,11 AUG 2024,
+LF4363,"(CLERMONT_FERRAND_GROUP, LYON_GROUP)",LF,TOULOUSE_GROUP,,NOT ABV FL295,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper sectors,,22 NOV 2024,
+LF4364,"(GENEVA_GROUP, MONTPELLIER_GROUP, PROVENCE_GROUP, RHONE_GROUP)",LF,LFRRFIR,,"NOT ABV FL345
+----------
+NOT ABV FL365","AIRAC MAR-FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+----------
+LAST AIRAC OCT-AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,"To offload LFRRACC and LFBBACC upper sectors
+",,20 APR 2024,
+LF4365,BORDEAUX_GROUP,LF,NANTES_GROUP,,NOT ABV FL195,H24,C,To offload LFBBACC secTors  ,,05 AUG 2023,
+LF4366,BARCELONA_GROUP,LF,"(BORDEAUX_AREA, LFLC)",,FL345,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper secTors,,11 AUG 2024,
+LF4367,"(LFBH, LFBN)",LF,BORDEAUX_GROUP,,NOT ABV FL115,H24,C,To offload LFBBACC secTors   ,,05 AUG 2023,
+LF4368,BIARRITZ_GROUP,LF,BORDEAUX_GROUP,,NOT ABV FL145,H24,C,To offload LFBBACC secTors  ,,05 AUG 2023,
+LF4369,"(BIARRITZ_GROUP, TOULOUSE_GROUP)",LF,PYRENEES_GROUP,,NOT ABV FL145,H24,C,To offload LFBBACC secTors  ,,05 AUG 2023,
+LF4370,"(LFCR, LFLW)",LF,TOULOUSE_GROUP,,NOT ABV FL145,H24,C,To offload LFBBACC secTors ,,05 AUG 2023,
+LF4371,"(CHAMBERY_GROUP, CLERMONT_FERRAND_GROUP, LYON_GROUP)",LF,LFRRFIR,,"NOT ABV FL345
+----------
+NOT ABV FL365","AIRAC MAR-FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)
+----------
+LAST AIRAC OCT-AIRAC FEB
+03:00-23:00 (02:00-22:00)",C,"To offload LFBBACC upper sectors
+",,20 APR 2024,
+LF4372,"(CLERMONT_FERRAND_GROUP, LYON_GROUP)",LF,BIARRITZ_GROUP,,NOT ABVe FL345,03:00-23:00 (02:00-22:00),C,"To offload LFBBACC upper secTors
+Revisionprintemps",,22 NOV 2024,
+LF4373,MONTPELLIER_GROUP,LF,TOULOUSE_GROUP,,NOT ABV FL195,H24,C,To offload LFBBACC upper secTors,,05 AUG 2023,
+LF4374,"(LFLL, LFLS, LFLY)",LF,"(LFLB, LFLP)",,NOT ABV FL085,H24,C,LOA LFLB/LFLL        ,,05 AUG 2023,
+LF4375,LFRRFIR,"EG, LF","(FARNBOROUGH_GROUP, LONDON_GROUP, EGHH, EGHI)",,NOT ABV FL285,H24,C,"To avoid the complexity of climbing and immediately descending traffic in a very busy airspace
+",,13 JUN 2024,
+LF4376,"(LIME, LIMF, LIML, LIMW, LIMZ)",LF,LFST,"VIA (LSAZCTA, LSAZUTA)",FL315,"AIRAC JUN - LAST AIRAC OCT
+05:00-21:00 (04:00-20:00)",C,revisionprintemps      ,,18 OCT 2024,
+LF4377,(LFSG/SN/SX),LF,"(PARIS_GROUP, LFOB)",,Not above FL195,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4378,SEVERN_GROUP,"(EG, LF)","(LFBH, LFBI, LFBN, LFDN)",,FL345,H24,C,To optimize use of available capacity,,11 AUG 2024,
+LF4379,LIEA/EO,LF,"(NICE_GROUP, TOULON_GROUP)",,Not above  FL305,04:00..22:00,C,To optimize use of available capacity,,04 NOV 2022,
+LF4380,LFOK,LF,"(PARIS_GROUP, LFOB)",,Not above FL125,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4381,EBBUFIR,LF,"(POITIERS_GROUP, LIMOGES_GROUP)",,FL285,"AIRAC JUN - LAST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,revisionprintemps      ,,18 OCT 2024,
+LF4382,"(NICE_GROUP, TOULON_GROUP)",LF,PROVENCE_GROUP,,Not above FL115,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4383,TOULON_GROUP,LF,NICE_GROUP,,Not above FL115,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4384,LFTZ,LF,(LFMD/MN),,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4385,LFLN,LF,LFLC,,Not above FL115,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4386,(LFDJ/BR),LF,LFMK,,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4387,"(EDDF, EDDG, EDDK, EDFM, EDDL, EDLP, EDLV, EDLW, EH** EXC (EHBK)",LF,LFRRFIR,VIA LFRRCTA,NOT ABV FL345,"
+H24",C,SW Axis management  ,,05 AUG 2023,
+LF4388,"(STRASBOURG_GROUP, LFJL)",LF,BASEL_GROUP,,Not above FL145,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4389,BASTIA_GROUP,LF,"(PYRENEES_GROUP, TOULOUSE_GROUP)",,Not above FL325,"AIRAC MAR-FIRST AIRAC OCT
+H24",C,"To offload LFBBACC and LFMMACC upper sectors.Comply with LOA
+",,20 APR 2024,
+LF4390,"(LYON_GROUP, CHAMBERY_GROUP)",LF,"(PARIS_GROUP, LFOB)",,Not above FL305,03:00..23:00 (02:00..22:00) ,C,To avoid complexity climbing/descending trafic,,15 JUN 2021,
+LF4391,LFSD/GJ,"EG, LF",EGTTFIR,,Not above FL345,H24,C,capacity enhancer,,24 DEC 2021,
+LF4392,"(BREST_GROUP,JERSEY_GROUP)","(EG, LF)",TOULOUSE_GROUP,,NOT ABV FL355,H24,C,To offload LFRRNU sector     ,,05 AUG 2023,
+LF4393,LFMN,LF,LFMD,,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4394,LFMD,LF,LFMN,,Not above FL075,H24,C,To optimize use of available capacity,,04 NOV 2022,
+LF4395,LFST,LF,LFBD,,NOT ABV FL335,H24 ,C,"to offload LFBBP34 sectors
+",to offload LFBBACC upper sectors,05 AUG 2023,
+LF4396,MONTPELLIER_GROUP,LF,BASTIA_GROUP,,NOT ABV FL295,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,to offload LFMME2 sector. To reduce complexity,,23 APR 2024,
+LF4397,"AJACCIO_GROUP, BASTIA_GROUP",LF,"ORLY_GROUP, LILLE_GROUP",,NOT ABV FL345,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LF4398,"(MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP)",LF,LFOE/OH/OK/RC/RG/RK,,Not above FL345,03:00..23:00 (02:00..22:00),C,To optimize use of available capacity,,04 NOV 2022,
+LF4399,"PARIS_GROUP, LFOB",LF,"(EGKB, EGLC, EGMC, EGMD, EGMH, EGSC, EGSX, EGTO, EGTR)",via RATUK,not-above FL265,H24,C,LOA LFFF/LFEE,,06 MAR 2025,
+LF4406,"(PARIS_GROUP, LFOB)",LFFRASW,LYON_GROUP,,Not above FL255,H24,S,To avoid LFBB sectors,,16 FEB 2022,
+LF4407,"(NANTES_GROUP, LFRN)",LFBBUBDX,"(LYON_GROUP, GENEVA_GROUP)",,NOT ABV FL295,"AIRAC APR-FIRST AIRAC OCT
+09:30-11:00 (08:30-10:00)",C,To offload LFBBR2 sector in LFBBACC,To offload LFBBACC upper sectors,20 APR 2024,
+LF4408,"(LYON_GROUP, GENEVA_GROUP)",LFBBUBDX,"(NANTES_GROUP, LFRN)",,NOT ABV FL295,"AIRAC APR-FIRST AIRAC OCT
+09:30-11:00 (08:30-10:00)",C,To offload LFBBR2 sector in LFBBACC,To offload LFBBACC upper sectors,20 APR 2024,
+LF4409,MONTPELLIER_GROUP,LFBBUBDX,NANTES_GROUP,,NOT ABV FL295,"AIRAC APR-FIRST AIRAC OCT
+09:30-11:00 (08:30-10:00)",C,To offload LFBBR2 sector in LFBBACC,To offload LFBBACC upper sectors,20 APR 2024,
+LF4410,NANTES_GROUP,LFBBUBDX,MONTPELLIER_GROUP,,NOT ABV FL295,"AIRAC APR-FIRST AIRAC OCT 
+09:30-11:00 (08:30-10:00)",C,To offload LFBBR2 sector in LFBBACC,To offload LFBBACC upper sectors,20 APR 2024,
+LF4411,"(LFBO, LFBP, LFBT, LFBZ)",LF,ORLY_GROUP,,FL295,DYNAMIC,C,To offload LFBBR2 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,10 FEB 2025,
+LF4413,GENEVA_GROUP,LF,"MONTPELLIER_GROUP, RHONE_GROUP, PROVENCE_GROUP, LFMP",,FL295,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,Capacity measure to offload upper sectors,,21 OCT 2024,
+LF4414,LFJR,LFFFORGY,PARIS_GROUP,,NOT ABV FL195,H24,S,prevent unrealistic FPL,,09 APR 2023,
+LF4415,LIEO,LF,"NICE_GROUP, LFTH",,NOT ABV FL245,"AIRAC JUN-AIRAC AUG
+H24",C,To offload sector: LFMMEK,,01 AUG 2023,
+LF4416,GENEVA_GROUP,LFFFUJ,"ROISSY_GROUP, LFOB",,NOT ABV FL345,H24,S,To avoid complexity climbing/descending trafic,During SKI Season LFLF4235/4239 takes precedence.,08 SEP 2023,
+LF4417,LFML,LF,LFMT,,NOT ABV FL145,H24,S,FDPS limitation - to ensure that all ATC units concerned receive flight plan information,,30 SEP 2023,
+LF4418,NICE_GROUP,LFMMDD,LEIB,,NOT ABV FL355,AIRAC MAY-AIRAC SEP,C,"To offload LFMMDH
+LoA LFMM LECB: FL330 max at SORAS",,15 NOV 2023,
+LF4419,"(LFRG, LFOH,LFRK)",LF,"(LFPG, LFPB, LFPT, LFOB, LFOE, LFOP)",,FL115,H24,C,keep this trafic in Rennes/Lille APP,,26 FEB 2024,
+LF4420,"(LFOE, LFOP)",LF,"(LFRG, LFOH, LFRK)",,FL115,H24,C,to keep this traffic with Lille/Rennes APP,,18 APR 2024,
+LF4422,"(PARIS_GROUP, BEAUVAIS_GROUP)",LF,PROVENCE_GROUP,,NOT ABV FL355,"AIRAC MAR-FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,To offload LFBBACC upper sectors,,20 APR 2024,
+LF4424,LFRRFIR,LF,PROVENCE_GROUP,,NOT ABV FL355,"Last SUN in MAR at 01:00 - Last SUN in OCT at 01:00
+",C,To offload LFRRACC and LFBBACC upper sectors,,12 JAN 2024,
+LF4425,LFOB,LF,LFOP,,4500ft,H24,S,traffic organisation,,26 FEB 2024,
+LF4426,LFOP,LF,LFOB,,5500ft,H24,S,traffic organisation,,26 FEB 2024,
+LF4427,PARIS_GROUP,LF,"LFOP,LFOE",,FL115,H24,S,traffic organisation,,17 APR 2024,
+LF4428,LFL*,"(LF,EB)",EH**,VIA LFEE5R,NOT ABV FL305,"AIRAC APR..26 OCT
+(05:00..22:00)",C,To offload busy sectors in LFEE,,14 MAR 2024,
+LF4429,LEBB,LF,ORLY_GROUP,,Not above FL365,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To offload LFBBACC upper sectors,,17 MAY 2024,
+LF4430,"(AJACCIO_GROUP, LIEO)",LF,MONTPELLIER_GROUP,,"1. FL305
+2. FL345","1. AIRAC MAR - FIRST AIRAC OCT
+H24
+2. LAST AIRAC OCT - AIRAC FEB
+H24",S,To offload LFMMACC upper sectors,,04 OCT 2024,
+LF4431,CHAMBERY_GROUP,LF,BIARRITZ_GROUP,,FL365,03:00-23:00 (02:00-22:00),C,To offload LFBBACC upper sectors,,22 NOV 2024,
+LF4432,CHAMBERY_GROUP,LF,TOULOUSE_GROUP,,"1. FL295
+2. FL345","1. AIRAC MAR - FIRST AIRAC OCT 03:00-23:00 (02:00-22:00)
+2. LAST AIRAC OCT - AIRAC FEB 03:00-23:00 (02:00-22:00)",C,To offload LFBBACC upper sectors,,22 NOV 2024,
+LF4433,"(EGSG, LONDON_GROUP EXC EGSS, EGSC)","(EG, LF, LS)","(LSZH, LSMD)","EXC VIA (DIK, KONAN, REDFA)",FL295,DYNAMIC ,C,Traffic organization,SESAR CONCERTO trial,22 JAN 2025,
+LF4434,"(EGSG, LONDON_GROUP EXC EGSS, EGSC)","(EG, LF, LS)","(LSZH, LSMD)","EXC VIA (DIK, KONAN, REDFA)",FL345,DYNAMIC,C,Traffic organization,SESAR CONCERTO trial,22 JAN 2025,
+LF4435,"(EGSG, LONDON_GROUP EXC EGSS, EGSC)","(EG, LF, LS)","(LSZH, LSMD)","EXC VIA (DIK, KONAN, REDFA)",FL365,DYNAMIC,C,Traffic organization,SESAR CONCERTO trial,22 JAN 2025,
+LF4436,"(LFQQ, EBBR, EBCI, PARIS_GROUP, LFOB)",LF,"LFMN, LFMD, LFTH, LFTZ",VIA LFBBUBDX,FL355,DYNAMIC,C,To lessen complexity of LFBBP14 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,10 FEB 2025,
+LF4437,"(EHAM, EHRD, EHEH, ELLX, EDFH)",LF,"LESO, LEBB, BORDEAUX_AREA, LFMMFIR EXC (AJACCIO_GROUP, BASTIA_GROUP, LFKT)",VIA LFBBP14 ,FL355,AIRAC APR-FIRST AIRAC OCT 10:20-19:15 (09:20-18:15),C,To lessen complexity of LFBBP14 sector,,05 JUN 2025,
+LF4438,LFRS,LF,"(LFLL, LFMT, LFMP, LFML, LSGG)",VIA LFBBUBDX,FL295,DYNAMIC,C,To offload LFBBR2 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,10 FEB 2025,
+LF4439,"(LFLL, LFMT, LFMP, LFML, LSGG)",LF,LFRS,VIA LFBBUBDX,FL295,DYNAMIC,C,To offload LFBBR2 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,10 FEB 2025,
+LF4440,LFBD,LF,LFML,VIA LERGA,FL295,DYNAMIC,C,To offload LFBBR2 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,10 FEB 2025,
+LF4441,LFRS,LF,"(LFMN, LFTH, LFMD, LFTZ)",VIA LFBBUBDX,FL355,DYNAMIC,C,To offload LFBBL4 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,10 FEB 2025,
+LF4442,"(LONDON_SOUTH_GROUP, EGTE, EGHH, EGHI)",LF,"(LEBL, LERS)","VIA (LFRRQX, LFBBL15)",FL355,DYNAMIC,C,To offload LFBBL4 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,05 JUN 2025,
+LF4443,"(LONDON_SOUTH_GROUP, EGTE, EGHH, EGHI)",LF,"(LEPA, LEIB, LEMH)","VIA (LFRRQX, LFBBL15)",FL355,DYNAMIC,C,To offload LFBBL4 sector,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,05 JUN 2025,
+LF4444,"(LONDON_SOUTH_GROUP, SEVERN_GROUP, EGHH, EGHI, EGSS, EGSC)",LF,"(LF**, LEBB, LESO, LEGE, LEBL, LERS)","VIA (LFRRQX, LFBBL15)",RFL FL335,"AIRAC MAR - FIRST AIRAC OCT
+06:00-08:30 (05:00-07:30)",C,To offload LFBBL3/LFRRQXI,,05 JUN 2025,
+LF4445,EHAM,LF,"LESO, LEBB, BORDEAUX_AREA, LFMMFIR EXC (AJACCIO_GROUP, BASTIA_GROUP, LFKT)",VIA LFBBP14,FL355   ,AIRAC APR-FIRST AIRAC OCT 06:20-08:45 (05:20-07:45),C,To lessen complexity of LFBBP14 sector,,05 JUN 2025,
+LF4446,DEAUVILLE_GROUP,LFBBUBDX,LFBO,VIA SOPIL,FL295,AIRAC MAR - FIRST AIRAC OCT H24,C,To offload LFBBL2 sector in LFBBACC,,19 APR 2025,
+LF4447,DEAUVILLE_GROUP,LFBBUBDX,LFMT,VIA SOPIL,FL335,AIRAC MAR - FIRST AIRAC OCT H24,C,To offload LFBBL3 sector from LFBBACC,,19 APR 2025,
+LF4449,"(LEBL, LEGE, LERS)","(LE, LF, LI)","(LIRF, LIRA)",,RFL FL345,"AIRAC JUN - AIRAC AUG
+H24",C,To offload upper sectors in LFMMACC (DH),,01 MAY 2025,
+LF4450,"(LIRF, LIRA, LIRP, LIRN)
+","(LE, LF, LI)","(LEBL, LEGE, LERS)
+",,RFL FL355,"AIRAC JUN - AIRAC AUG
+H24",C,To offload upper sectors in LFMMACC (DH),,01 MAY 2025,
+LF4451,LIM*,"(LE, LF, LI)","(LEPA, LEMH, LEIB)",VIA LFMMEE,RFL FL355,"AIRAC JUN - AIRAC AUG
+H24",C,To offload upper sectors in LFMMACC (E3),,01 MAY 2025,
+LF4452,LIM*,"(LE, LF, LI)","(LEBL, LEGE, LERS)",,RFL FL295,"AIRAC JUN - AIRAC AUG
+H24",C,To offload LFMMACC B2 sector,,01 MAY 2025,
+LF4454,LFLL,LF,LFK*,VIA LFMMBB,RFL FL295,"AIRAC JUN - AIRAC AUG
+H24",C,"To offload LFMMACC sector B2
+",,01 MAY 2025,
+LF4455,LSGG,"(LF, LS, LE)","(LEBL, LEGE, LERS)",VIA LFMMAA,RFL FL295,"AIRAC JUN - AIRAC AUG
+H24",C,"To offload LFMMACC sector A2
+",,01 MAY 2025,
+LF4456,LF**,LF,"(LFMN, LFTH, LFTZ, LFMD)",VIA LFMMWW,RFL FL355,"AIRAC JUN - AIRAC AUG 
+05:00-22:00",C,To offload LFMMW3 (05:00-22:00),,01 MAY 2025,
+LFEG4048,"(PARIS_GROUP, LFOB)",LF,"(EGBB, EGBE, EGNX)",,FL265,"AIRAC JUN - LAST AIRAC OCT
+H24",C,Capacity optimisation,,18 NOV 2024,
+LFEG4051,"(PARIS_GROUP, LFOB)",LF,"(EGGW, EGKB, EGKK, EGLC, EGLL, EGMC, EGSS, EGWU)",,FL245,"AIRAC MAR - LAST AIRAC OCT
+H24",C,Capacity optimisation,,18 NOV 2024,
+LFEG4052,"(LONDON_SOUTH_GROUP, EGHH, EGHI)","(EG, EB, EL, LF, LS)","(LFLI, LSGG, LSGL, LSGS)",VIA LFFFUIR,RFL FL335,"7 JAN 2025 - 6 APR 2025
+05:00-20:00 (04:00-19:00)",C,SKI                 ,,21 FEB 2025,
+LFEG4053,"(PARIS_GROUP, LFOB)",LF,JERSEY_GROUP,,NOT ABV FL195,H24,C,LOA LFRR/LFFF               ,,05 AUG 2023,
+LFEG4054,JERSEY_GROUP,LF,"(PARIS_GROUP, LFOB)",,NOT ABV FL195,H24,C,LOA LFRR/LFFF             ,,05 AUG 2023,
+LFLE4000,BARCELONA_GROUP,"LE, LF, LI","LIRP, LIM* EXC (LIME, LIMP)",VIA STP,NOT ABV FL305,"AIRAC APR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LFLE4001,"LEMH, LESL, PALMA_GROUP","LE, LF, LI","LIRP, MILANO_GROUP EXC (LIME, LIMP)",VIA STP,NOT ABV FL345,"AIRAC APR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LFLE4002,"BARCELONA_GROUP, LEMH",LF,"LFSB, LFST, LSZ*, LSM*, EDDS, EDNY",,NOT ABV  FL345,"AIRAC APR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload LFMMF3 and LFMMB3 (LFMMACC),,23 APR 2024,
+LFLE4003,"LEAL, LEIB, LEPA, LEVC","LE, LF, LI","LSAZACC, LFSB, EDNY",VIA IRMAR,NOT ABV FL365,"AIRAC APR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload LFMMF4 and LFMMB4 (LFMMACC),,23 APR 2024,
+LFLI4001,"LIED, LIEE",LF,"LIM*, LIPE, LIPO, LIPX","VIA (MEGER, TORTU)",NOT ABV FL305,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,09 JUL 2024,
+LFLI4002,"LIED, LIEE",LF,"LIP* EXC (LIPE, LIPO, LIPX)","VIA (MEGER, TORTU)",NOT ABV FL345,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LFLI4003,"LIEA, LIEO",LF,"LIP* EXC (LIPE, LIPO, LIPX)","VIA (MEGER, TORTU)",NOT ABV FL345,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LFLI4004,"LIEA, LIEO",LF,"LIM*, LIPE, LIPO, LIPX","VIA (MEGER, TORTU)",NOT ABV FL305,"AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,23 APR 2024,
+LFLS4083,"(BASEL_GROUP, LSMD, LSZA, LSZH, LSZR, LSZS)","(LF, LS, LE)",BARCELONA_GROUP,,"RFL FL335
+----------
+RFL FL355","AIRAC MAR - FIRST AIRAC OCT
+05:00-23:00 (04:00-22:00)
+----------
+LAST AIRAC OCT - AIRAC FEB
+05:00-23:00 (04:00-22:00)",C,To offload upper sectors in LFMMACC.,,14 MAR 2025,
+LFLS4134,"(LSGG, LSGL, LFLI)","(LF, LS)","(LFPB, LFPN, LFPO, LFPT, LFPV)",,RFL FL185,"14 DEC 2024 - 6 APR 2025
+SAT-SUN 06:00-18:00 (05:00-17:00)",C,SKI                 ,,14 MAR 2025,
+LFLS4138,"(EDDS, EDNY, LS**, LFS*, LFJL)","(LS, ED, LF)","(MONTPELLIER_GROUP, PROVENCE_GROUP, RHONE_GROUP)",,"RFL FL315
+----------
+RFL FL355","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,To offload upper sectors in LFMMACC.,,14 MAR 2025,
+LFLS4236,"(AJACCIO_GROUP, BASTIA_GROUP, MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP)","(LF, LS)","(BRUSSELS_GROUP, EBLG)",,RFL FL345,"AIRAC MAR - FIRST AIRAC OCT
+03:00-23:00 (02:00-22:00)",C,To offload upper sectors in LFMMACC.,,14 MAR 2025,
+LFLS4238,"(AJACCIO_GROUP, BASTIA_GROUP, MONTPELLIER_GROUP, NICE_GROUP, PROVENCE_GROUP, RHONE_GROUP, TOULON_GROUP)",LF,BRUSSELS_GROUP,EXC VIA LSAGUAC,RFL FL345,03:00-23:00 (02:00-22:00),C,"FDPS limitation
+linked to LFLS4236",,14 MAR 2025,
+LFLS4239,"(LSGG, LSGL, LFLI)","(LF, LS)",LFPG,ENG-TYPE (J),NOT ABV FL285,"14 DEC 2024 - 6 APR 2025
+SAT-SUN 06:00-18:00 (05:00-17:00)",C,"SKI                   
+   ",,14 MAR 2025,
+LFLS4241,"(LFP*, LFOB)","(LF, LS)",LIM*,"VIA (BEGAR, DEVDI)",RFL FL315,H24,S,offload LFEXKHE and LSAZM4567,,14 MAR 2025,
+LFYX4000,"(EDDK, EDDL, EDLN, EDLV, EHEH)",LF,LYON_GROUP,VIA LFEECTAE,NOT ABV FL335,H24 ,C,"LoA LFEE MUAC           
+",,05 JAN 2024,
+LG4000,LG**,LG,LG**,,FL325,04:30-21:30,C,To optimize use of available capacity,,19 SEP 2024,
+LH4000,"(LRCL, LRTR, LRSB, LRTM)",LH,"(MUNICH_GROUP, LO**)",VIA LHCCCTA,FL345,"AIRAC JUL-AIRAC SEP
+(08:00-14:00)
+",C,To alleviate traffic complexity in LHUHT sectors,,22 AUG 2024,
+LI4002,"(LIBD, LIBR)",LI,"(LIR* , LIC*)",,RFL FL325,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",S,To offload upper sectors ,,20 MAR 2025,
+LI4022,"(GENEVA_GROUP, LYON_GROUP, LSZ* except (LSZA))","LI, LF",LIP*,,Not above FL335,H24,C,to offload upper sectors and to reduce complexity ,,16 MAR 2023,
+LI4023,LIBP,LI,"(LIP*, LIME, LIML)",,RFL FL305,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",C,to offload upper sectors and to reduce complexity ,,20 MAR 2025,
+LI4027,"(LIM*, LSZA)",LI,(LIP*),,RFL FL305,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",C,to offload upper sectors and to reduce complexity ,,20 MAR 2025,
+LI4032,(LIP*),LI,"(LIM*, LSZA)",,RFL FL305,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",C,to offload upper sectors and to reduce complexity ,,20 MAR 2025,
+LI4033,"(MUNICH_GROUP, LOW*)","(LI, LI, LO, LS)",LFM*,,RFL FL355,H24,S,to offload upper sectors and to reduce complexity ,,28 MAR 2025,
+LI4036,"(LIM*, LIP* )",LI,LIR*,,RFL FL335,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",C,to offload upper sectors and to reduce complexity ,,20 MAR 2025,
+LI4049,"LIR* (EXC LIRN, LIRI)",LI,"(LIM* , LSZA, LIP*)",,RFL FL325,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",S,to offload upper sectors and to reduce complexity ,,20 MAR 2025,
+LI4056,LIP*,"LI,LF","(GENEVA_GROUP, LYON_GROUP, LSZ* except (LSZA))",,Not above FL325,H24,C,to offload upper sectors and to reduce complexity ,,16 MAR 2023,
+LI4057,"(LIR* , LIC*)",LI,"(LIBD, LIBR)",,RFL FL335,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",S,To offload upper sectors ,,20 MAR 2025,
+LI4058,"(LIP*, LIM*)",LI,LIBP,,RFL FL315,"AIRAC MAY - AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00) ",S,to offload upper sectors and to reduce complexity ,,20 MAR 2025,
+LI4064,"(LIM*, LIP*)",LI,(LIB* EXC LIBC),,RFL FL355,"AIRAC MAY - FIRST AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00)",C,To offload upper sectors and to reduce complexity,,10 MAY 2025,
+LI4065,LIC*,LI,LIR*,,RFL FL345,"AIRAC MAY - FIRST AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00)",S,to reduce complexity,,10 MAY 2025,
+LI4066,LIEO,LI,"(LIM*, LIRQ, LIRP, LIP* EXC LIPQ)",,RFL FL325,"AIRAC MAY - FIRST AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00)",S,to offload upper sectors and to reduce complexity ,,10 MAY 2025,
+LI4067,"(LIEA, LIEE, LIED)",LI,"(LIM*, LIRQ, LIRP, LIP* EXC LIPQ)",,RFL FL345,"AIRAC MAY - FIRST AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00)",S,to offload upper sectors and to reduce complexity ,,10 MAY 2025,
+LI4068,"(LIRN, LIRI)",LI,"(LIM*, LSZA, LIP*)",,RFL FL345,"AIRAC MAY - FIRST AIRAC OCT_x000D_
+05:00-23:00 (03:00-23:00)",S,to offload upper sectors and to reduce complexity ,,10 MAY 2025,
+LI4069,"(LIM*, LIP*, LSZA, LSZH, LIRP, LIRQ)",LIPPCTA,LOWW,,RFL FL345,"AIRAC MAR - FIRST AIRAC OCT_x000D_
+05:00-21:00",C,To offload  LIPP layer 57,,10 MAY 2025,
+LI4070,LOWW,LIPPCTA,"(LIM*, LIP*, LSZA, LSZH, LIRP, LIRQ)",,NOT ABV FL345,"AIRAC MAY - FIRST AIRAC OCT_x000D_
+05:00..23:00 (03:00..23:00) ",C,To offload LIPP layer 57,,20 MAR 2025,
+LK4022,LKKV,LK,LKPD,,RFL FL165,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LK4041,BRNO_GROUP,LK,LKMT,,RFL FL125,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LK4053,LKMT,LK,BRNO_GROUP,,RFL FL125,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LK4056,LKPD,LK,LKKV,,RFL FL165,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LK4058,"(EDM*, EDDM, EDDN, EDDF, EDDR, EDAC, EDDB, EDVE, EDDC, EDDE, EDDP)","(ED, LK, LZ, LH, LO)","(LK**, LZ**, LH**, LO**)",VIA LKAAFIR,RFL FL355,H24,C,"To unload HT sectors
+ATM system limitations",,01 MAR 2025,
+LK4064,LK**,LK,LK**,,RFL FL305,H24,C,ATM system limitations and capacity reasons,,01 MAR 2025,
+LK4073,"(LZ**, LH**, LO**)","(ED, LK, LZ, LH, LO)","(EDM*, EDDM, EDDN, EDDF, EDDR, EDAC, EDDB, EDVE, EDDC, EDDE, EDDP)",VIA LKAAFIR,RFL FL345,H24,C,"To unload HT sectors
+ATM system limitations",,01 MAR 2025,
+LK4074,"(LOWW, LOWL)","(LO, LK, ED, EP)","(EDAC, EDDB, EDDC, EDDE, EDDP, EDDN, EPWR, EPKK, EPKT)",VIA LKAAFIR,RFL FL305,H24,C,To unload MHT sectors.,,01 MAR 2025,
+LK4075,"(EDAC, EDDB, EDDC, EDDE, EDDP, EDDN, EPWR, EPKK, EPKT)","(ED, EP, LK, LO)","(LOWW, LOWL)",VIA LKAAFIR,RFL FL305,H24,C,To unload MHT sectors.,,01 MAR 2025,
+LK4076,EDDM,"(ED, LK, EP)",EPWA,VIA LKAAFIR,RFL FL355,H24,C,To unload HT sectors.,,01 MAR 2025,
+LK4077,"(EDDN, EDDM)","(ED, LK, EP)",EPWR,VIA LKAAFIR,RFL FL295,H24,C,To unload MHT sectors,,01 MAR 2025,
+LK4078,EPWR,"(ED, LK, EP)","(EDDN, EDDM)",VIA LKAAFIR,RFL FL305,H24,C,To unload MHT sectors,,01 MAR 2025,
+LK4079,PRAGUE_GROUP,"(LK, ED)",EDDB,,RFL FL205,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,22 FEB 2025,
+LK4080,PRAGUE_GROUP,"(LK, ED)","(LOWI, LOWL, LOWS)",,RFL FL305,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,05 MAR 2025,
+LK4081,LKMT,"(LK, EP)","(EPKK, EPKT)",,RFL FL125,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LK4082,"(EPKK, EPKT)","(EP, LK)",LKMT,,RFL FL125,H24,S,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LK4083,LK**,"(LK,ED)","(EDAC, EDAY, EDAZ, EDBC, EDBM, EDCY, EDDB, EDDC, EDDE, EDDM, EDDN, EDDP, EDDR, EDDS, EDFE, EDFM, EDFV, EDFQ, EDFZ, EDGS, EDJA, EDM*, EDRY, EDTY, EDVE, ETOR, ETSN)",,RFL FL305,H24,S,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,16 APR 2025,
+LK4085,PRAGUE_GROUP,"(LK, EP)","(EPPO, EPWR)",,RFL FL305,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,22 FEB 2025,
+LK4086,PRAGUE_GROUP,"(LK, LO, LH)",LH**,VIA LOVVCTA,RFL FL305,H24,C,ATM system limitations,,22 FEB 2025,
+LK4087,LK**,"(LK, LO)",LO**,,RFL FL305,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,01 MAR 2025,
+LK4088,LO**,"(LO, LK)",LK**,,RFL FL305,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,01 MAR 2025,
+LK4090,PRAGUE_GROUP,"(LK,ED)",EDDN,,RFL FL225,H24,S,To prevent planning unrealistic climb due to LoA constraint and ATM system limitations,,22 FEB 2025,
+LK4091,PRAGUE_GROUP,"(LK, ED)",EDDC,,RFL FL125,H24,S,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,22 FEB 2025,
+LK4092,EDDC,"(ED, LK)",PRAGUE_GROUP,,RFL FL125,H24,S,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,22 FEB 2025,
+LK4094,LOWW,LK,"(EPWA, EPMO, EPWR, EPKT, EPKK)",,RFL FL355,H24,S,To prevent unrealistic profiles,,10 APR 2025,
+LKED4005,"(EDDM, EDM*, ETSI, LOWI, LOWL, LOWS)","(ED,LK)","(EDAC, EDDB, EDDC, EDDE, EDDP, EDAZ, EDAY, EDVE, EDBM)",VIA LKAACTA,RFL FL305,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,01 MAR 2025,
+LKED4010,"(EDDF, EDDM, EDDE, EDDP, EDDB, EDDC, EDDN, EDDS, EDMV, EDMS)","(ED, LK, EP)","(EPKK, EPKT)",VIA LKAACTA,RFL FL355,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,01 MAR 2025,
+LKED4011,"(EDAC, EDDC, EDDE, EDDP, EDAZ, EDAY, EDVE, EDBM,
+EDAB, EDBC, EDCY)","(ED, LK)","(MUNICH_GROUP, EDJA, EDMS, EDMV, ETSN, ETSI, LO**)",VIA LKAACTA,RFL FL305,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,01 MAR 2025,
+LKED4012,EDDB,"(ED, LK)","(EDDM, EDM*, ETSI, LOWI, LOWL, LOWS)",VIA LKAAFIR,"RFL FL305
+----------
+RFL FL345","AIRAC APR - FIRST AIRAC OCT H24
+----------
+LAST AIRAC OCT - AIRAC MAR H24",C,"To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.
+To stay clear of Prague middle sector and be compliant with LoA.",,01 MAR 2025,
+LKED4017,"(EPKK, EPKT)","(EP, LK, ED)","(EDDF, EDDM, EDDE, EDDP, EDDB, EDDC, EDDN, EDDS, EDMV, EDMS)",VIA LKAACTA,RFL FL345,H24,C,"To prevent planning unrealistic climb due to LoA constraint or capacity reasons
+ATM system limitations",,01 MAR 2025,
+LKED4019,ED**,"(ED, LK, EP)","(EPWR, EPPO)",VIA LKAACTA,RFL FL355,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LKED4020,"(EPWR, EPPO)","(EP, LK, ED)",ED**,VIA LKAACTA,RFL FL345,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LKEP4024,EPWA,"(EP, LK, ED)",EDDM,VIA LKAAFIR,RFL FL345,H24,C,To unload HT sectors.,,01 MAR 2025,
+LKLO4017,PRAGUE_GROUP,"(LK, LO)",LOWW,,RFL FL185,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,22 FEB 2025,
+LKLO4028,"(EDAC, EDDB, EDDC, EDDE, EDDP, EP**)","(ED, LK, LO)","(LDZA, LJLJ, LJMB)",VIA LKAAFIR,RFL FL355,H24,C,"To unload HT sectors.
+ATM system limitations.",,01 MAR 2025,
+LKLO4030,LOWW,"(LK, LO)",PRAGUE_GROUP,,RFL FL225,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,22 FEB 2025,
+LKLZ4012,"(LH**, LZ**)","(LH, LK, LZ)",LK**,VIA LZBBACC,RFL FL305,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LKLZ4013,LK**,"(LH, LK, LZ)","(LH**, LZ**)",VIA LZBBACC,RFL FL305,H24,C,To prevent planning unrealistic climb due to LoA constraint or capacity reasons,,01 MAR 2025,
+LM4000,"(HLLM, HLLT)","(HL, LM)",LMML,,FL285,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4001,LMML,"(LM, HL)","(HLLT, HLLM)",,FL295,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4002,LMML,"(LM, HL)",HLMS,,FL295,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4003,HLMS,"(HL, LM)",LMML,,FL285,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4004,LMML,"(LI, LM, DT)","(DTTA, DTTB)",,FL245,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4005,LMML,"(LI, LM, DT)","(DTNH, DTTX)",,FL225,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4006,LMML,"(LI, LM, DT)",DTMB,,FL205,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4007,LMML,"(LI, LM, DT)",DTTJ,,FL265,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4008,"(DTTA, DTTB)","(DT, LI, LM)",LMML,,FL235,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4009,"(DTNH, DTTX)","(DT, LI, LM)",LMML,,FL215,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4010,DTMB,"(DT, LI, LM)",LMML,,FL195,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4011,DTTJ,"(DT, LI, LM)",LMML,,FL255,H24,C,To facilitate descent to ADES in alignment with LOA.,,11 NOV 2024,
+LM4012,"(LICC, LICZ)","(LI, LM)",LICD,,FL155,H24,S,To facilitate descent to LICD in alignment with LoA,,11 NOV 2024,
+LMLI4000,"(LICJ, LICT)","(LI, LM)",LMML,,FL255,H24,C,To offload upper sectors in LIRRACC,,12 SEP 2024,
+LMLI4002,LMML,"(LI, LM)","(LICJ, LICT)",,FL245,H24,C,To offload upper sectors in LIRRACC,,12 SEP 2024,
+LMLI4003,LICD,"(LM, LI)",LMML,,FL135,H24,C,To offload upper sectors in LIRRACC,,11 NOV 2024,
+LMLI4004,LMML,"(LM, LI)","(LICC, LICZ)",,FL145,H24,C,To offload upper sectors in LIRRACC.,,11 NOV 2024,
+LMLI4005,LMML,"(LM, LI)",LICB,,FL105,H24,C,To offload upper sectors in LIRRACC,,11 NOV 2024,
+LMLI4006,"(LICC, LICZ)","(LM, LI)",LMML,,FL155,H24,C,To offload upper sectors in LIRRACC,,11 NOV 2024,
+LMLI4007,LICB,"(LM, LI)",LMML,,FL095,H24,C,To offload upper sectors in LIRRACC.,,11 NOV 2024,
+LMLI4008,LICG,"(LI, LM)",LMML,,FL135,H24,C,To offload upper sectors in LIRRACC.,,12 SEP 2024,
+LMLI4009,LMML,"(LI, LM)",LICG,,FL145,H24,C,To offload upper sectors in LIRRACC,,12 SEP 2024,
+LMLI4010,LMML,"(LI, LM)",LICD,,FL145,H24,C,To offload upper sectors in LIRRACC,,12 SEP 2024,
+LMLI4011,LICD,"(LI, LM)","(LICC, LICZ)",,FL145,H24,C,To offload upper sectors in LIRRACC.,,12 SEP 2024,
+LO4001,EDDM,"ED, LO","LOWW, LZIB",,FL295,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4002,"LOWW, LZIB","ED, LO","EDDS, EDFM, EDSB, EDDN, EDTY",,FL345,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4003,"LOWW, LZIB","ED, LO","EDDM, EDM*",,FL305,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4004,LOWW,"(ED, LO, LS)","(EDTD, EDTL, EDTM, LSMD, LSZH, LSZS)",VIA  LOVVB17,FL365,H24,C,To reduce complexity.,,07 JAN 2025,
+LO4006,LOWW,"ED, LO, LS","EDJA, EDNY, LSZR",VIA LOVVB16,FL345,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4007,LOWW,LO,LOWI,EXC VIA STAR (SBG),FL305,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4009,LOWW,LO,LOWG,,FL165,H24,C,DEPs LOWW shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4012,LOWW,LO,LKTB,,FL125,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4013,LOWL,LO,"LOWI, LOWG, LOWK, LOWW",,FL165,H24,C,DEPs LOWL shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4014,LOWW,LOVVCTA,"LIM*, LIP*",VIA DETSA,FL345,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4019,LOWI,LO,LOWW,,FL295,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4020,LOWL,LO,LOWS,,FL125,H24,C,DEPs LOWL shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4023,LOWG,LO,LOWK,,FL125,H24,C,DEPs LOWG shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4026,LOWS,LO,LOWI,VIA SID (RTT),FL125,H24,C,DEPs LOWS shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4027,LOWI,LO,LOWS,VIA SID (UNKEN),FL125,H24,C,DEPs LOWI shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4028,EDDM,"ED, LO",LOWL,,FL195,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4029,EDDM,"ED, LO",LOWS,,FL125,H24,C,DEPs EDDM shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4030,EDDM,"ED, LI, LJ, LO","LIPQ, LJLJ, LOWG, LOWK",VIA LOVVCTA,FL295,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4031,LOWK,"ED, LO",EDDM,,FL245,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4032,LOWG,"ED, LO",EDDM,,FL305,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4033,"LIPQ, LJLJ","ED, LI, LJ, LO",EDDM,VIA LOVVCTA,FL305,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4035,EDDM,"ED, LH, LO, LZ",LHBP,VIA LOVVCTA,FL335,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4036,LH**,"ED, LJ, LO",EDDM,VIA LOVVCTA,FL345,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4037,EDDM,"ED, LD, LI, LJ, LO",LDZA,VIA LOVVCTA,FL345,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4038,EDDM,"ED, LD, LJ, LO, LQ",LQ**,VIA LOVVCTA,FL355,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4039,LJ**,"LI, LJ, LO, LS",LSZH,VIA LOVVCTA,FL345,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4040,LOWS,LO,LOWW,VIA MASUR,FL165,H24,C,DEPs LOWS shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4041,LOWW,LO,LOWI,VIA STAR (SBG),FL225,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4042,"LKTB, LKKU",LO,LOWW,,FL125,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4043,LDZA,"ED, LD, LI, LJ, LO",EDDM,VIA LOVVCTA,FL345,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4044,LOWL,"ED, LO",EDDM,,FL195,H24,C,To reduce complexity.,,17 JUL 2024,
+LO4045,LOWS,"ED, LO",EDDM,,FL125,H24,C,DEPs LOWS shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4046,LOWK,LO,LOWG,,FL125,H24,C,DEPs LOWK shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4047,"LOWI, LOWG, LOWK, LOWW",LO,LOWL,,FL165,H24,C,DEPs LOWI/WG/WK/WW shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4048,LOWS,LO,LOWL,,FL125,H24,C,DEPs LOWS shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4049,LOWG,LO,LOWW,,FL145,H24,C,DEPs LOWG shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4050,"EDDF, EDDN, EDDS, EDTY, EDQ*, EDJA, EDNY, LSZH, LSZR, LSZS, LSMD",LO,LHBP,VIA LOVVCTA,FL355,"AIRAC MAR - FIRST AIRAC OCT
+05:00-22:00 (04:00-21:00)",C,For traffic balancing,,17 JUL 2024,
+LO4052,LOWW,LO,"LOWK, LOWS",,FL165,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,DEPs LOWW shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4053,"LOWK, LOWS",LO,LOWW,,FL165,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,DEPs LOWK/WS shall stay outside of ACC Wien sectors.,,17 JUL 2024,
+LO4054,LOWW,"ED, LO",LSZH,,FL305,"AIRAC JUN - AIRAC SEP
+SAT, SUN (03:00 - 22:00) & FRI (13:00 - 22:00)",C,To reduce complexity in LOVV due to EDUU RAD.,,17 JUL 2024,
+LO4055,LHBP,"(LH, LO, ED)","(EDDM, EDMA, EDMO)",VIA LOVVCTA,FL305,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4056,"(LIME, LIPX, LIPO, LIPH, LIPZ)","(LI, LO, LK, EP)","(EPKK, EPKT, EPWR)",VIA LOVVCTA,FL355,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4057,LHBP,"(LH,LO, ED)","(FRANKFURT_GROUP, EDDS, EDDN)",VIA LOVVCTA,FL345,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4058,"(EPKK, EPKT, EPWR)","(EP, LK, LO, LI, LS, LJ, LD)","(LIME, LIPX, LIPH, LIPZ, LIPO, LIPE, LSZS, LSZH, LIPB, LDPL)",VIA LOVVCTA,FL365,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4059,"(LIP*, LIM*)","(LI, LO, LZ)","(LOWW, LZIB)",VIA LOVVCTA,FL345,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4060,"(EDDM, EDM*)","(ED, LO, LK, EP)","(EPKK, EPKT, EPWR)",VIA LOVVCTA,FL335,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4061,"(EPKK, EPKT, EPWR)","(EP, LK, LO, ED)","(EDDM, EDM*)",VIA LOVVCTA,FL325,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4062,LZIB,"(LZ, LO, LI, LS, LD)","(LIME, LIPX, LIPO, LIPH, LIPZ, LIPE, LSZS, LSZH, LIPB, LDPL)",VIA LOVVCTA,FL365,H24,C,To unload higher sectors and reduce complexity.,,31 JUL 2024,
+LO4063,(LDPL),"(LD, LJ, LO, LK, EP)","(EPKK, EPKT, EPWR)",VIA LOVVCTA,FL355,H24,C,To unload higher sectors and reduce complexity.,,02 AUG 2024,
+LO4064,"(LIM*,LIP*)","(LI, LO, LK)",LK**,VIA LOVVCTA,RFL FL345,H24,C,To reduce complexity.,,06 JUN 2025,
+LO4065,LK*,"(LK, LO, LI)","LIM*,LIP*",VIA LOVVCTA,RFL FL345,H24,C,To reduce complexity.,,06 JUN 2025,
+LOED4000,"(EDDF, EDDN, EDDS, EDTY, EDQ*, EDJA, EDNY, LSZH, LSZR, LSZS, LSMD)",LO,LJLJ,"VIA (LOVVW17, LOVVB17)",FL315,"AIRAC MAR - FIRST AIRAC OCT
+05:00-22:00 (04:00-21:00)",C,For traffic balancing. Summer measure,,13 JAN 2025,
+LOLZ4000,LOWW,LO,LZIB,,7500FT,H24,C,To reduce complexity.,,17 JUL 2024,
+LOLZ4001,LZIB,LO,LOWW,,6500FT,H24,C,To reduce complexity.,,17 JUL 2024,
+LS4001,"(MUNICH_GROUP, EDJA, EDNL, ETHL, ETSI, ETSL, LOWI)","(ED, LO, LS, LF)","(GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC, LFLL, LFLS, LFLU, LFLY, LFLP, LFLB, LFKA, LFLJ, LFMH)","VIA (LSAGUAC, LSAZUTA)",RFL FL315,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4008,"(BASEL_GROUP, LS**)","(LF, LS)",LSGS,,RFL FL195,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4012,LFST,"(LF, LS)","(GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC)","VIA (LSAGUAC, LSAZM17) & VIA BENOT",RFL FL245,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4013,"(LIMC,LIME, LIMF, LIML, LIMW, LIMZ)","(LI, LS, LF)",LFST,GILIR,RFL FL325,05:00-21:00 (04:00-20:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4014,"(LIMC, LIME, LIMF, LIML, LIMW, LIMZ, LSZA, LSZL, LSZS)","(LI, LS, LF)","(LFLB, LFLL,  LFLP, LFLS, LFLU, LFLY,  LFKA, GENEVA_GROUP, GENEVA_AREA EXC LSGC)","VIA (AOSTA, BANKO, KUKEV, RONOP)",RFL FL225,05:00-21:00 (04:00-20:00),C,LoA Milano Geneva agreement,,14 MAR 2025,
+LS4015,"(GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC)","(LF, LI, LS)","(LFMC, LFMD, LFMF, LFMN, LFTF, LFTH, LFTZ)",,RFL FL235,05:00-21:00 (04:00-20:00),C,LoA LFMM-LSAG Areement,,14 MAR 2025,
+LS4016,GENEVA_GROUP,"(LF, LS)","(LFLS, LFHS, LFHV, LFLL, LFLM, LFLN, LFLO, LFLY)",EXC ARR LFLS & ACFT-PBN (CONV),RFL FL085,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4017,GENEVA_GROUP,LS,"(BASEL_GROUP, LSMD)",,RFL FL165,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4026,"(LSZB, LSZG)","(LF, LS, LI)","(LFMD, LFMN, LFMF, LFMC, LFTF, LFTH, LFTZ, LIMC, LSZA, LSZL, LSZS)",VIA LSAGUTA,RFL FL315,05:00-21:00 (04:00-20:00),S,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4027,"(LFMD, LFMN, LFMF, LFMC, LFTF, LFTH, LFTZ)","(LF, LI, LS)","(LFGJ, LFGI, LFSD, LFLH, LSZH, LSZF, LSZR, EDNY, EDTD, EDTM, BASEL_GROUP)",VIA IRMAR,RFL FL305,05:00-21:00 (04:00-20:00),C,LoA LFMM-LSAG Agreement,,14 MAR 2025,
+LS4029,"(ZURICH_AREA, LSGC, LIMC, LIME, LIML)","(LI, LS, ED, LF)","(EDDS, EDNY, EDRY, EDSB, EDT*, ETAR, BASEL_GROUP, LFST)",VIA LSAZUTA,RFL FL245,05:00-21:00 (04:00-20:00),C,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4030,EDFH,"(ED, LS, LF)","(LFHO, LFMC, LFMI, LFML, LFMO, LFMQ, LFMT, LFMU, LFMV, LFMY, LFTF, LFTH, LFTW, LFTZ)",VIA GILIR,RFL FL355,"AIRAC MAR - FIRST AIRAC OCT
+ 05:00-21:00 (04:00-20:00)",C,LoA LFEE-LSAG        ,,14 MAR 2025,
+LS4034,"(LIMC, LIME, LIML, LSZA)","(LI, LS, LF)","(LFGJ, LFLH, LFSD, LSGC)","VIA (AOSTA, PUNSA)",RFL FL285,05:00-21:00 (04:00-20:00),C,LoA LIMM to LSAG Agreement,,14 MAR 2025,
+LS4035,LSZH,"(LS, LF)","(GENEVA_GROUP, LSAGCTA, LFLB, LFLP, LFLJ)",VIA ULMES,RFL FL195,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4042,"(EDDS, EDFM, EDFV, EDPA, EDRY, EDSB, EDSW, EDTB, EDTH, EDTK, EDTL, EDTM, EDTN, EDTO, EDTX, EDTY, ETAR)","(LF, LS)","(GENEVA_GROUP , LSGS, LSMP, LSGK, LSGC, LFLJ, LFLL, LFLS, LFLU, LFLY, LFLB, LFLP)",EXC VIA MOROK,RFL FL315,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4043,"(EDDS, EDNL, EDSB, EDT*, ETAR, LFST)","(ED, LF, LS, LI)","(LIRP, LIRQ, LIP*)",VIA LSAZUTA,RFL FL335,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4045,"(LIM*, LFLL,  GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC)","(LI, LF, LS, ED)","(EDDE, EDDF, EDFE, EDQC, EDQD, EDQG, EDQM, EDQT, ETOU, FRANKFURT_YZ_GROUP)",VIA LSAZUTA,RFL FL335,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4049,"(BASEL_GROUP, LSZH)","(LS, LI, LF)","(LFMD, LFMC, LFMN, LFMF, LFTH, LFTF, LFTZ)",VIA VEVAR,"RFL FL315
+----------
+RFL FL335","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC  FEB 
+H24",C,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4050,LFST,"(LF, LS, LI)","(LIME, LIMF, LIML, LIMW, LIMZ)",VIA LSAZUTA,RFL FL315,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4062,"(BASEL_GROUP, LSZH)","(LS, LF)","(LFLL, LFLS, LFLU, LFLY, LFMH)",,RFL FL235,H24,C,Keep traffic out of LSAZUTA/LSAGUTA.,,14 MAR 2025,
+LS4063,"(LFLB, LFLJ,  LFLL, LFLP, LFLS, LFLU, LFLY, LFMH)","(LF, LS)","(BASEL_GROUP, LSZH)",,RFL FL245,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4064,(MILANO_GROUP EXC LIMJ),"(LI, LF, LS, ED)","(EDDR, EDRZ, EL**, LFJL, LFSG, LFSN, LFST)",VIA GILIR,RFL FL365,"LAST AIRAC OCT - AIRAC MAR 
+05:00-21:00 (04:00-20:00)",C,LoA between LIMMACC and LSAGACC,,14 MAR 2025,
+LS4065,"(LFJL, LFSG, LFSN, LFST)","(LF, LI, LS)","(LIQS, LIRP, LIRQ, MILANO_GROUP, NICE_GROUP, LIP* EXC LIPZ)",VIA LURAG,"RFL FL335
+----------
+RFL FL355","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4067,"(LFLL, LFLS, LFLY)","(LF, LS)",GENEVA_GROUP,,RFL FL125,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4068,"(LFLB, LFLP)","(LF, LS)",GENEVA_GROUP,,RFL FL095,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4073,"(BASEL_GROUP, LSMD, LSMP, LSZH)",LS,GENEVA_GROUP,VIA (WIL T544 FRIBU),RFL FL095,H24,C,To ensure local procedures are reflected correctly in the profile.,,14 MAR 2025,
+LS4079,"(LFLL, LFLS, LFLY)","(LF, LS)","(LSGS, LSGK, LSMP, LSZB, LSZG, LSZC, LSZC, LSME)",,RFL FL245,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4080,ZURICH_AREA,"(ED, LF, LI, LO, LS)","(LIMC, LSZA, LSZL, LSZS)",VIA LSAZCTA,RFL FL245,H24,C,Keep traffic out of LSAZUTA.,,14 MAR 2025,
+LS4087,"(NICE_GROUP, LFTH)","(ED, LF, LS, LI)","(EDDR, EDRZ, EDSB, EDTL, EDTF, EDTD, ELLX, LFJL, LFSG, LFSN, LFST, LFSO, LFSI, LFQE, LFQP)",VIA GILIR,"RFL FL345
+----------
+RFL FL365","AIRAC MAR - FIRST AIRAC OCT
+H24
+----------
+LAST AIRAC OCT - AIRAC FEB
+H24",C,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4088,"(LFLL, LFLY, LFLS)","(LF, LS)","(LFJL, LFSG, LFSN, LFQE, LFSO, LFQP, LFSI, EDTF, EDTD)","VIA (ARBOS, GILIR)",RFL FL285,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4090,"(EDDR, EDTD, EDTF, EDTL, ETAR)","(ED, LI, LS)",MILANO_GROUP,VIA GILIR,RFL FL335,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4091,GENEVA_GROUP,"(LF, LS)",LSMP,,RFL FL095,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4092,"(EDDM, EDM*, EDJA, EDNL, ETHL, ETSI, ETSL, LOWI)","(ED, LS, LI)","(BASEL_GROUP, LIMC, LIME, LIML)",VIA LSAZUTA,RFL FL315,"AIRAC NOV - AIRAC FEB
+H24",C,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4093,"(LIPE, LIPO, LIPX, LIRP, LIRQ)","(ED, LI, LO, LS)","(EDDE, EDDF, EDFE, EDQC, EDQD, EDQG, EDQM, EDQT, ETOU, FRANKFURT_YZ_GROUP)",VIA LSAZUTA,RFL FL335,"AIRAC MAR - FIRST AIRAC OCT
+04:00-20:00",C,To offload upper sectors during high traffic season.,,14 MAR 2025,
+LS4094,"(BASEL_GROUP, BERN_GROUP, LSGC, LSZH, LSMD, LSMP)","(LF, LS)","(BERN_GROUP, BASEL_GROUP)","EXC FLT-TYPE (X, M)",RFL FL105,H24,C,To ensure local procedures are reflected correctly in the profile.,,14 MAR 2025,
+LS4095,"(EDDR, EDTD, EDTF, EDTL, ETAR)","(ED, LI, LS)","(LIQS, LIRP, LIRQ, LIP* EXC LIPZ)",VIA GILIR,RFL FL355,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4096,MILANO_GROUP EXC (LIMJ),"(LS, LF, LI)","(EB**, EDDR, EDRZ, EDSB, EDTL, EL**, LFJL, LFSG, LFSN, LFST)",VIA GILIR,RFL FL345,"AIRAC MAR - FIRST AIRAC OCT 
+04:00-20:00",C,To calculate realistic profile and ensure correct sector capture.,,05 APR 2025,
+LS4097,"(GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC, LFLL, LFLS, LFLU, LFLY, LFLP, LFLB)","(LF, LS)","(EDFV, EDPA, EDRY, EDTH, EDTM, ETAR)","EXC VIA (ARBOS, GILIR)",RFL FL285,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4098,"(GENEVA_GROUP, LSGS, LSMP, LSGC, LSGK, LFLL, LFLS, LFLU, LFLY, LFLP, LFLB)","(LF, LS, ED)","(EDDS, EDFM, EDJA, EDNL, EDSB, EDTB, EDTF, EDTK, EDTL, EDTN, EDTO, EDTR, EDTS, EDTX, EDTY, EDTZ, ETHL, LFST)","EXC VIA (ARBOS, GILIR)","RFL FL345
+----------
+RFL FL325","LAST AIRAC OCT - AIRAC FEB 
+05:00-21:00 (04:00-20:00)
+----------
+AIRAC MAR - FIRST AIRAC OCT 
+05:00-21:00 (04:00-20:00)",C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4099,"(LFMD , LFMN, LFMF, LFMC, LFTF, LFTH, LFTZ)","(LF, LS, LI, ED)","(EDDS, EDDR, EDMA, EDMO, EDFM, EDJA, EDNL, EDSB, EDTB, EDTF, EDTK, EDTL, EDTN, EDTO, EDTR, EDTS, EDTX, EDTY, EDTZ, ETHL, LSZS, LFST)","VIA (TELNO, LAMUR)","RFL FL345
+----------
+RFL FL325","LAST AIRAC OCT - AIRAC  FEB 
+05:00-21:00 (04:00-20:00)
+----------
+AIRAC MAR - FIRST AIRAC OCT 
+05:00-21:00 (04:00-20:00)",C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4100,"(GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC, LFLL, LFLS, LFLY, LFLP, LFLB)","(LS, LF, ED)","(MUNICH_GROUP, EDJA, EDNL, ETHL, ETSI, ETSL, LOWI)","VIA (LSAGUTA, LSAZUTA)",RFL FL315,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4101,"(EDDM, EDM*)","(ED, LF, LS)","(LSGC, LSMA, LSME, LSMP, LSZA, LSZB, LSZC, LSZG, LSZL, BASEL_GROUP)",,RFL FL285,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4102,GENEVA_GROUP,"(LS, LF)",LFLS,ACFT-PBN (CONV),RFL FL105,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4103,LSGC,LS,"(LSZH, LSMD)",,RFL FL105,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4104,"(BERN_GROUP, BASEL_GROUP)","(LF, LS)","(BASEL_GROUP, BERN_GROUP, LSGC, LSZH, LSMD, LSMP)","EXC FLT-TYPE (X, M)",RFL FL105,H24,C,To ensure local procedures are reflected correctly in the profile.,,14 MAR 2025,
+LS4105,"(EDDE, EDDF, EDFE, EDQC, EDQD, EDQG, EDQM, EDQT, ETOU, FRANKFURT_YZ_GROUP)","(ED, LS, LI)","(LIPE, LIPO, LIPX, LIRP, LIRQ)",VIA LSAZUTA,RFL FL335,"AIRAC MAR - FIRST AIRAC OCT
+04:00-20:00",C,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4106,"(EDDS, EDNY, EDRY, EDSB, EDT*, ETAR, BASEL_GROUP, LFST)","(ED, LF, LS, LI)","(ZURICH_AREA, LSGC, LIMC, LIME, LIML)",VIA LSAZUTA,RFL FL245,05:00-21:00 (04:00-20:00),C,Keep traffic out of LSAZUTA.,,14 MAR 2025,
+LS4107,"(BASEL_GROUP, LIMC, LIME, LIML)","(LI, LS, ED, LO)","(EDDM, EDM*, EDJA, EDNL, ETHL, ETSI, ETSL, LOWI)",VIA LSAZUTA,RFL FL315,"AIRAC NOV - AIRAC FEB
+H24",S,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4108,LSGS,"(LF, LS)","(BASEL_GROUP, LS**)",,RFL FL195,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4109,"(LSZH, LSMD)",LS,LSGC,,RFL FL105,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4110,"(LFMC, LFMD, LFMF, LFMN, LFTF, LFTH, LFTZ)","(LF, LI, LS)","(GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC)",VIA IRMAR,RFL FL245,05:00-21:00 (04:00-20:00),C,LoA LFMM - LSAG     ,,14 MAR 2025,
+LS4111,"(EDDE, EDDF, EDFE, EDQC, EDQD, EDQG, EDQM, EDQT, ETOU, FRANKFURT_YZ_GROUP)","(ED, LS, LF, LI)","(LIM*, LFLL, GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC)",VIA LSAZUTA,RFL FL335,H24,C,LoA between EDUUUAC and LSAZACC.,,14 MAR 2025,
+LS4113,"(GENEVA_GROUP, LSGS, LSMP, LSGK, LSGC)","(LS, LF)",LFST,VIA KORED,RFL FL245,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4114,"(GENEVA_AREA, GENEVA_GROUP)","(LF, LS)","(LFGJ, LFSD, LFGI, LFLH)","VIA (DJL, DIPIR, SIROD)",RFL FL185,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4119,"(LFMD, LFMF, LFMN, LFMC, LFTF, LFTH, LFTZ, LIMF, LIMW, LIMZ)","(LF, LS, LF, LI, ED)","(ELLX, EDDR, EDRZ)",VIA GILIR,RFL FL305,"AIRAC MAR - FIRST AIRAC OCT 
+04:00-20:00",C,To reflect realistic profile and ensure correct sector capture,,22 MAR 2025,
+LS4120,"(LFGJ, LFGI, LFQE, LFQP, LFJL, LFSD, LFSG, LFSI, LFSN, LFSO, LFST, EDTD, EDTF)","(LS, LF, LI, ED)","(LFMD, LFMN, LFMC, LFMF, LFTH, LFTZ, LFTF)","VIA (LURAG, VEVAR)","RFL FL315
+----------
+RFL FL335","AIRAC MAR - FIRST AIRAC OCT
+04:00-20:00
+----------
+LAST AIRAC OCT - AIRAC FEB_x000D_
+04:00-20:00",C,To calculate realistic profile and ensure correct sector capture.,,14 MAR 2025,
+LS4121,"(LFMD, LFMN, LFMF, LFMC, LFTH, LFTZ, LFTF)","(LS, LF, LI, ED)","(LFP*, LFOB, ETSI, LOWI, LSZS, EDDS, EDFM, EDNL, EDTB, EDTO, EDTX, EDTY, EDTL, EDJA, EDHL, EDTK, EDTF, EDTN, EDTR, EDTS, EDTZ, EDDM, EDMA, EDMO)",VIA LSAGUTA,RFL FL325,"AIRAC MAR - FIRST AIRAC OCT
+04:00-20:00",C,"To reflect realistic profile and ensure correct sector capture
+LoA LFMM-LSAG",,14 MAR 2025,
+LS4123,"(EDNY, EDTM, LSZR)","(ED, LS)","(EDNY, EDTM, LSZR)",,RFL FL105,H24,C,To ensure local procedures are reflected correctly in the profile.,,14 MAR 2025,
+LS4124,ELLX,"(LF, LS)","(LFMA, LFMC, LFML, LFMO, LFMQ, LFMV, LFMY, LFNE, LFNF, LFNT, LFTF, LFTH)",VIA GILIR,RFL FL315,H24,C,LoA LFEE-LSAG       ,,14 MAR 2025,
+LS4125,"(BERN_GROUP, LSMP)","(LS, LF)","(LYON_GROUP, CHAMBERY_GROUP, GENEVA_GROUP)",,RFL FL155,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4126,LSZB,"(LF, LS)","(GENEVA_GROUP, CHAMBERY_GROUP)",VIA FRIBU,RFL FL095,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4127,LFST,"(LF, LS)","(LFLL, LFLY, LFLS)",VIA MOROK,RFL FL235,H24,C,LoA between LFEE LSAG,,14 MAR 2025,
+LS4128,"(BASEL_GROUP, LIMC, LIME, LIML)","(LI, LS, ED, LO)","(EDDM, EDM*, EDJA, EDNL, ETHL, EDSI, EDSL, LOWI)","EXC TYP (E190, E195)",RFL FL245,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To avoid overload in sector LSAZM12. E190 and E195 excluded due to performance reasons.,,24 APR 2025,
+LS4129,"(EDDM, EDM*, EDJA, EDNL, ETHL, ETSI, ETSL, LOWI)","(ED, LS, LI, LO)","(BASEL_GROUP, LIMC, LIME, LIML)","EXC TYP (E190, E195)",RFL FL245,"AIRAC MAR - FIRST AIRAC OCT
+H24",C,To avoid overload in sector LSAZM12. E190 and E195 excluded due to performance reasons.,,24 APR 2025,
+LS4130,LSGS,"(LS, LF)",LFQM,ENG-TYPE (J),RFL ABV FL245,H24,S,To ensure correct profile in approriate sectors,,14 MAR 2025,
+LS4131,"(LIRF, LIRN, LIPX)","(LI, LS, LF)","(LFPG, LFPO)","VIA (LSAGUAC, LSAZUTA) & TYP (A321, A320, A319, A318, A21N, A20N, BCS3)",RFL FL365,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4132,"(LIRQ, LIPZ, LIPE)","(LI, LS, LF)","(LFPG, LFPO, LFPB)","VIA (LSAGUAC, LSAZUTA)",RFL FL365,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4133,"(LEPA, LEBL, LEVC)","(LE, LF, LI, LS, ED) ","(EDDL, EDDH, EDDF, EDDK, EDDN, EDDV, EDDP, EDDR, EDDG, EDDB, EDLW)","VIA (LSAGUAC, LSAZUTA) & TYP (A321, A320, A319, A21N, A20N)",RFL FL365,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4134,"(LFML, LFMT)","(LF, LS, ED)",EDDF,"VIA (LSAGUAC, LSAZUTA)",RFL FL365,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4135,"(EDDL, EDDF, EDDH, EDLW)","(ED, LS, LF, LI, LE)","(LEPA, LEBL, LEVC, LEIB)","VIA (LSAGUAC, LSAZUTA) & TYP (A321, A320, A319, A21N, A20N)",RFL FL375,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4136,"(EDDF, EDDM)","(ED, LS, LF)",LFBO,"VIA (LSAGUAC, LSAZUTA)",RFL FL375,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4137,EDDM,"(ED, LS, LF, LI, LE)","(LEBL, LEBB, LEZL, LEMG, LFBD)","VIA (LSAGUAC, LSAZUTA) & TYP (A321, A320, A319, A21N, A20N)",RFL FL375,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4138,"(LFPG, LFPO)","(LF, LS, LI)","(LIRF, LIRN, LIPZ, LIBR, LIEE, LICC, LICJ)","VIA (LSAGUAC, LSAZUTA) & TYP (A321, A320, A319, A318, A21N, A20N)",RFL FL375,SUMMER (04:30-21:00),S,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LS4140,LSGGTMA    ,"(LSAGLOW, LSAZLOW, LSAGL17, LSAZM17)",LSZH    ,,FL185,05:00-21:00 (04:00-20:00),S,To reflect realistic profile and ensure correct sector capture,,10 FEB 2025,
+LS4141,"(BASEL_GROUP, LSMD)","(LSAGLOW, LSAZLOW)               ","(LSGGTMA, LSMP, LSGK, LSGC, LFLB, LFLP, LFLJ)",VIA ULMES   ,FL155     ,05:00-21:00 (04:00-20:00),S,To reflect realistic profile and ensure correct sector capture,,10 FEB 2025,
+LS4142,"(BASEL_GROUP, LIMC, LIME, LIML)","(LI, LS, ED, LO)","(EDDM, EDM*, EDJA, EDNL, ETHL, EDSI, EDSL, LOWI)","TYP (E190, E195)",RFL FL285,AIRAC MAR - FIRST AIRAC OCT H24,S,This is an exception of TYPs from LS4128 to level-cap at FL285 and reduce overload in LSAZM3.,,24 APR 2025,
+LS4143,"(EDDM, EDM*, EDJA, EDNL, ETHL, ETSI, ETSL, LOWI)","(ED, LS, LI, LO)","(BASEL_GROUP, LIMC, LIME, LIML)","TYP (E190, E195)",RFL FL285,AIRAC MAR - FIRST AIRAC OCT H24,S,This is an exception of TYPs from LS4129 to level-cap at FL285 and reduce overload in LSAZM3.,,24 APR 2025,
+LSLF4037,"(LIMA/MB/MC/ME/MG/ML/MN/MP/MS, LSZA/ZS, LIMF/MW/MZ)","LF, LI, LS",(LFOB/PB/PG/PT),VIA UNKIR,"Not above FL345
+
+----------
+
+Not above FL385","AIRAC MAR..FIRST AIRAC OCT 
+H24
+
+----------
+
+LAST AIRAC OCT..AIRAC FEB 
+H24",C,LoA between LSAG-LFFF,,22 MAR 2024,
+LSLF4038,(LIM* EXC LIMJ),"(LF, LI, LS)","(LFPO, PN, PV)",VIA UNKIR,RFL FL325,H24,C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+LSLF4120,"(NICE_GROUP, TOULON_GROUP)","(LF, LS)","(GENEVA_AREA, GENEVA_GROUP, BERN_GROUP)",VIA IRMAR,RFL FL245,H24,C,"To reflect realistic profile and ensure correct sector capture
+LoA LFMM-LSAG",,14 MAR 2025,
+LSLF4121,"(PARIS_GROUP, LFOB)","(LF, LI, LS)","(AJACCIO_GROUP, BASTIA_GROUP, LFKT, NICE_GROUP, TOULON_GROUP, MILANO_GROUP, PADOVA_GROUP, LIRP, LIRQ EXC LIMF, LIMW, LIMZ, LIPZ)",VIA LSAGUTA,RFL FL355,"AIRAC MAR - FIRST AIRAC OCT  
+05:00-21:00 (04:00-20:00)",C,"To reflect realistic profile and ensure correct sector capture
+LoA LFFF-LSAG",,14 MAR 2025,
+LSLF4122,"(PARIS GROUP, LFOB)","(LF, LI, LS)","(LIMF, LIMW, LIMZ)",VIA LSAGUTA,RFL FL335,"AIRAC MAR - FIRST AIRAC OCT  
+05:00-21:00 (04:00-20:00)",C,"To reflect realistic profile and ensure correct sector capture
+LoA LFFF-LSAG",,14 MAR 2025,
+LSLI4000,"(GENEVA_AREA, GENEVA_GROUP, BERN_GROUP , LYON_GROUP, CHAMBERY_GROUP)","(LF, LI, LS)","(LIM*, LSZA, LSZL, LSZS)",,RFL FL235,05:00-21:00 (04:00-20:00),C,To reflect realistic profile and ensure correct sector capture,,14 MAR 2025,
+NM4001,"(LIPX, LIPZ, LIM*)",LF,"(EGHH, EGHI, EGHL, EGHO, EGHR, EGKK, EGLF, EGLK, EGTD, EGTF, EGVO, EGKB, EGLC, EGMC, EGMD, EGMH, EGSG, EGSX, EGTO, EGTR)","VIA LFEE5R_x000D_
+",RFL FL365,(03:00-22:00),C,To limit the complexity in Reims.,Possible suspension on D-1 due to convective weather,14 MAR 2025,Summer2025
+NM4002,EB**,"(EB, LF, LI, LS, ED)","(LIME, LIML, LIMF, LIPO, LIPX)_x000D_
+",,RFL FL355,(07:00-21:00),C,To offload busy sectors in LFEE,,14 MAR 2025,Summer2025
+NM4003,EB**,"(EB, LF, LI, LS, ED)","(LIMC, LIMW, LIMZ)_x000D_
+",,RFL FL355,(05:00-22:00),C,To offload busy sectors in LFEE,,14 MAR 2025,Summer2025
+NM4008,"(LTBA, LTFJ, LTFM)","(LT, LB, LR)","(LROP, LRBS)",,RFL FL325,(04:00-21:00),C,Summer 2025- to reduce complexity in LBVNU2 for short distance flights ,,14 MAR 2025,Summer2025
+NM4009,"(LTFJ, LTFM)","(LW, LY, LA, LT, LB, LG, LR)","(LW**, BKPR, LY**, LA**, LB**) ",VIA LB,RFL FL325,(04:00-21:00),C,Summer 2025- to reduce complexity in LBSRSOU2 for short distance flights.,,14 MAR 2025,Summer2025
+NM4010,"(LW**, BKPR, LY**, LA**, LB**)","(LW, LY, LA, LT, LB, LG, LR)","(LTFJ, LTFM)",,RFL FL325,(04:00-21:00),C,"Summer 2025 to offload upper sectors.
+To reduce complexity in LBSRSOU2 caused by short distance flights climbing in the high sectors before descending to LTFJ, LTFM",,14 MAR 2025,Summer2025
+NM4011,LSGG,LF,"(LIEO, LIEA)",,RFL FL295,(05:00-22:00),C,Summer 2025- LFMM MEAS,,14 MAR 2025,Summer2025
+NM4012,"(PARIS_GROUP, LFOB)","(LF, LE)",LEMD,VIA LFBBCTA,RFL FL355,DYNAMIC,C,To avoid Intruders/To offload R4,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,14 MAR 2025,Summer2025
+NM4013,LEMD,"(LF, LE)","(PARIS_GROUP, LFOB)",VIA LFBBCTA,RFL FL345,DYNAMIC,C,To offload R4 sector ,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,14 MAR 2025,Summer2025
+NM4014,"(LFQQ, EBBR, EBCI)","(LF, LE)",LEMD,VIA LFBBCTA,RFL FL355,DYNAMIC,C,To avoid Intruders in LF,DYNAMIC RAD TRIAL DURING SUMMER SEASON 2025,14 MAR 2025,Summer2025
+NM4015,"(EHAM, EHRD)","(EH, EB, LF)","(LFP*, LFOB, LFOK)",,RFL FL245,H24,C,Summer 2025- To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,14 MAR 2025,Summer2025
+NM4016,"(LFP*, LFOB, LFOK)","(EH, EB, LF)","(EHAM, EHRD)",,RFL FL245,H24,C,Summer 2025- To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,14 MAR 2025,Summer2025
+NM4018,LOWW,"ED, LO",EDDF,EXC VIA LK,RFL FL305,H24,C,Summer 2025- To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,14 MAR 2025,Summer2025
+NM4019,"(LIP*, LIM*)","ED, LO, LI",EDDF,VIA EDUUUTAS,RFL FL315,H24,C,Summer 2025- To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,14 MAR 2025,Summer2025
+NM4020,"(LBSF, LWSK, LGTS)","(LB, LY, LH, LR)",LOWW,,RFL FL345,(09:00-21:00),C,To reduce overload in upper sectors.,,14 MAR 2025,Summer2025
+NM4021,LOWW,"(LB, LY, LH, LR)",LBSF,,RFL FL355,(09:00-21:00),C,To reduce overload in upper sectors.,,14 MAR 2025,Summer2025
+NM4024,"(LATI, LGTS)","(LG, LW, LY, LH, LR, LB)",LHBP,,RFL FL345,(09:00-21:00),C,To reduce overload in upper sectors.,,14 MAR 2025,Summer2025
+NM4025,LHBP,"(LG, LW, LY, LH, LR)","(LGTS, LATI)",,RFL FL355,(09:00-21:00),C,To reduce overload in upper sectors.,,14 MAR 2025,Summer2025
+NM4026,"(LIP*, LIBD, LIBP, LD**, LJ**, LQ**)","(LI, LD, LQ, LY, LA,LB, LR, LH)","(LROP, LBSF, LWSK, LYPG, LGTS, LATI)",VIA LYBACTA,RFL FL355,(09:00-21:00),C,To reduce overload in upper sectors.,,14 MAR 2025,Summer2025
+NM4027,"(EPKK, EPKT, LZIB, LHBP, LOWW, LKPR)","(LK, LO, LJ, LH, LY, LD, LQ, LA, LW, LR, LB, LZ)","(LWSK, LATI, LGTS, LYPG)",VIA LYBACTA,RFL FL355,(09:00-21:00),C,To reduce overload in upper sectors.,,14 MAR 2025,Summer2025
+NM4028,"(LIP*, LIRQ, LIRP)","(LJ, LI, LO , LH)","(LO**, LH**)",,RFL FL335,(09:00-21:00),C,To reduce overload and complexity in upper sectors .,,14 MAR 2025,Summer2025
+NM4029,"(LO**, LH**)","(LJ, LI, LO , LH)","(LIP*, LIRQ, LIRP)",,RFL FL335,H24,C,To reduce overload and complexity in upper sectors .,,14 MAR 2025,Summer2025
+NM4030,"(LO**, LH**)","(LJ, LI, LO, LH)","(LIPZ, LIPH)",,RFL FL315,H24,C,To reduce overload and complexity in upper sectors .,,14 MAR 2025,Summer2025
+NM4031,"(LIPZ, LIPH)","(LJ, LI, LO, LH)","(LO**, LH**)",,RFL FL315,H24,C,To reduce overload and complexity in upper sectors .,,14 MAR 2025,Summer2025
+NM4035,LHBP,"(LJ, LI)",LIPQ,,RFL FL335,H24,C,To reduce overload and complexity in upper sectors .,,14 MAR 2025,Summer2025
+NM4036,"(LTFM, LGTS, LB**) ","(LR, LB, LH)","(LR**, LUKK, LHDC, LHBP)",,RFL FL345,H24,C,To offload upper sectors and reduce complexity.,,14 MAR 2025,Summer2025
+NM4037,"(LR**, LUKK, LHDC, LHBP)","(LR, LH, LB)","(LTFM, LB**)",,RFL FL335,H24,C,To offload upper sectors and reduce complexity.,,14 MAR 2025,Summer2025
+NM4038,LUKK,"(LR, LH)","(LH**, LO**)",,RFL FL365,H24,C,To offload upper sectors and reduce complexity.,,14 MAR 2025,Summer2025
+NM4041,"(LD**, LQ**, LYBE)","(LD, LI)",EDDM,,RFL FL345,(04:30-21:00),C,To offload upper sectors and reduce complexity. ,,14 MAR 2025,Summer2025
+NM4042,"(LDZD, LDSP)","(LD, LI)",LOWW,,RFL FL345,(04:30-21:00),C,To offload upper sectors and reduce complexity. ,,14 MAR 2025,Summer2025
+NM4043,LA**,"(LD, LI)","(LIP*, LIR*)",,RFL FL345,(04:30-21:00),C,To offload upper sectors and reduce complexity. ,,14 MAR 2025,Summer2025
+NM4044,LIR**,"(LD, LI)",LATI,,RFL FL355,(04:30-21:00),C,To offload upper sectors and reduce complexity. ,,14 MAR 2025,Summer2025
+NM4045,LD**,"(LD, LI)",LI**,,RFL FL345,(04:30-21:00),C,To offload upper sectors and reduce complexity. ,,14 MAR 2025,Summer2025
+NM4048,LR**,"(LG, LB, LR, LW, LA, LY)","(LW**, LA**, BKPR, LG** EXC LGAV, LGIR, LGSA, LGSR, LGRP, LGKO, LGMK, LGKR, LGZA, LGKF, LGPZ, LGIO, LGRX, LGKL)",,RFL FL325,(04:00-21:00),C,Summer 2025 Flight Level Cap. ,Alternative for the NM2198/NM2111 as discussed during the Summer 2025 preparation meeting.,14 MAR 2025,Summer2025
+NM4049,"(LW**, LA**, BKPR, LG** EXC LGAV, LGIR, LGSA, LGSR, LGRP, LGKO, LGMK, LGKR, LGZA, LGKF, LGPZ, LGIO, LGRX, LGKL)","(LG, LB, LR, LW, LA, LY)",LR** ,,RFL FL325,(04:00-21:00),C,Summer 2025 Flight Level Cap. ,Alternative for the NM2198/NM2111 as discussed during the Summer 2025 preparation meeting.,14 MAR 2025,Summer2025
+NM4050,LIP*,"(LD, LI)",LIB*,VIA LD,RFL FL355,(04:30-21:00),C,"The restriction rest mostly dormant as the NM2205 forbids traffic LI-LI to enter Croatia.
+In case of deactivation of the NM2205 during the summer, traffic wll be allowed to enter Croatia but not climb above FL355.
+",This level cap is complementing the LI4064 when NM2025 is disabled due to weather.,14 MAR 2025,Summer2025
+NM4051,LIB*,"(LD, LI)",LIP*,VIA LD,RFL FL345,(04:30-21:00),C,"The restriction rest mostly dormant as the NM2205 forbids traffic LI-LI to enter Croatia.
+In case of deactivation of the NM2205 during the summer, traffic wIll be allowed to enter Croatia but not to climb above FL355.
+",,29 MAR 2025,Summer2025
+YX4001,LONDON_GROUP,"(EB, EG, EH, LF)","(EDDF, EDDG, EDDK, EDDL, EDGS, EDKZ, EDLA, EDLE, EDLI, EDLM, EDLN, EDLP, EDLS, EDLV, EDLW, ETAR, ETOU, ELLX)",,FL355,SUMMER (04:00-23:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,10 JAN 2025,
+YX4006,EDDF,"(EB, ED, EG)",LONDON_GROUP,VIA BITBU,FL355,SUMMER H24,C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,10 JAN 2025,
+YX4007,EHAM,"EB, ED, EH, LF","(LFSB, LSGG, ZURICH_AREA, LYON_GROUP)",,Not above FL355,H24,C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4011,HAMBURG_GROUP,"ED, EH","EDDL, EDLN, EDLV, EHBK, EHEH",,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4031,EDFH,"(EB, ED, EG)",LONDON_GROUP,,FL355,SUMMER H24,C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,18 JAN 2025,
+YX4032,DUESSELDORF_GROUP,ED,EDXW,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4033,PARIS_GROUP,"ED, LF",EDRY,via EBURUIR,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4034,"(EBUUFIR, EDDGFIR, EHEH, EHRD, EHBK)","EB, ED, EH, LF","(ELLX, LFJL, LFSF, LFST, EDDR, EDFB, EDFE, EDFM, EDFV, EDRY, EDRZ, ETAR)",via EBURUIR,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4035,EDGGFIR,"EB, ED, LF",LFOK,,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4038,LF**,EBURUIRM LF,LF**,via EBURUIR,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4039,"EBLG, EHBK","EB, EG, EH","EAST_ANGLIAN_GROUP, EGGW, EGKB, EGKK, EGLC, EGMC, EGNE, EGSC, EGSS, EGTC, EGTO",,Not above FL285,06:00-00:30 (05:00-23:59),C,LoA constraint to match agreement between London AC and Maastricht UAC. To ensure correct sector coordination and achieve realistic planning levels.,MUAC reference NCLB,03 DEC 2023,
+YX4040,EH**,"(EB, EH, LF)",LILLE_GROUP,,FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,10 FEB 2025,
+YX4041,"(EDDR/RY/RZ/SB, STRASBOURG_GROUP)","EB, ED, LF",LILLE_GROUP,via EBURUIR,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4042,EDDB,"EB, ED, EH","BRUSSELS_GROUP, ELLX",,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4043,EDDH,ED,EDDS,,not-above FL355,05:00..21:00 (04:00..20:00),C,To reflect LoA requirements between Karlsruhe UAC and Maastricht UAC.,,16 FEB 2022,
+YX4044,"EDDK, EDDL, EDLN, EDLV, EHBK, EHEH",ED,EDDB,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4045,EHAM,"EB, ED, EH","EDDS, EDDN",,not-above FL355,05:00..21:00 (04:00..20:00),C,To reflect LoA requirements between Karlsruhe UAC and Maastricht UAC.,,16 FEB 2022,
+YX4046,EBBUFIR,"EB, ED, EH","(EHAAFIR, EDWI/WF/WE)",,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4048,EDDB,ED,"EDDK, EDDL, EDLN, EDLV, EHBK, EHEH",,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4049,"(EHAAFIR, EDWI/WF/WE)","EB, ED, EH",EBBUFIR,,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4050,"EDDL, EDLN, EDLV, EHBK, EHEH","ED, EH",HAMBURG_GROUP,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4051,"BRUSSELS_GROUP, ELLX","EB, ED, EH",EDDB,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4052,EDXW,ED,DUESSELDORF_GROUP,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4053,LILLE_GROUP,"EB, ED, LF","(EDDR/RY/RZ/SB, STRASBOURG_GROUP)",via EBURUIR,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4054,(EHBK/EH/WO),"EB, ED, EH, LF","(LFP*, LFOB/OK)",,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4055,"(LFP*, LFOB/OK)","EB, ED, EH, LF",(EHBK/EH/WO),,Not above FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4056,EDDH,"EB, ED, EH",EBBR,via EDYYDJEV,Not above FL365,05:00..23:00 (04:00..22:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4057,HAMBURG_GROUP,"ED, LK",EKCH,except via ROSOK,Not above FL285,H24,C,LoA constraint to match agreement between Copenhagen ACC and Maastricht UAC.,,18 MAR 2022,
+YX4058,EDDF,"EB, ED, EG, EH",(EGGW/KB/KK/LC/MC/MD/SC/SH/SS/TC/TO/UL/UN/YM),via OBOKA,Not above FL365,H24,C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4059,HAMBURG_GROUP,"ED, EK",EKBI,,Not above FL245,H24,C,LoA constraint to match agreement between Copenhagen ACC and Maastricht UAC. To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,18 MAR 2022,
+YX4060,AMSTERDAM_GROUP,EDYYHUTA,EDDB,,not-above FL375,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'Top Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4061,EDDB,EDYYHUTA,AMSTERDAM_GROUP,,not-above FL375,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'Top Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4062,AMSTERDAM_GROUP,"ED, EH",FRANKFURT_GROUP,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4063,FRANKFURT_GROUP,"ED, EH",AMSTERDAM_GROUP,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4064,EDDK,EDVVUIR,HAMBURG_GROUP,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4065,EDDF,ED,HAMBURG_GROUP,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4066,HAMBURG_GROUP,ED,EDDF,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4067,HAMBURG_GROUP,EDVVUIR,EDDK,,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'High Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,16 FEB 2022,
+YX4068,EH**,ED,EDDB,via NOMKA,not-above FL355,05:00..21:00 (04:00..20:00),C,To avoid complexity for Maastricht UAC 'Top Sectors' due to profiles which are vertically entering / exiting the sector within a short distance.,,18 AUG 2022,
+YXED4000,BRUSSELS_GROUP,"EB, ED","(EDFM, EDFV, EDRY)",,Not-above FL245,H24,C,LoA constraint,,12 SEP 2021,
+YXLF4000,"(EBBUFIR, EHAAFIR, EDGGFIR)","EB, ED, EH, LF, LS",LSZR,VIA LFEECTAE,NOT ABV FL245,H24,C,To avoid complexity due to profiles which are vertically entering / exiting the sector within a short distance.,,05 JAN 2024,
+YXLF4001,EBBUFIR,LF,"(LYON_GROUP, GENEVA_GROUP, CHAMBERY_GROUP)",VIA LFEECTAE,NOT ABV FL335,"
+H24  ",C,capacity for higher sectors,,05 JAN 2024,
