@@ -39,20 +39,16 @@ import re
 import io
 from PIL import Image
 
-# ---------- Utilities ----------
-
 CHAPTER_RE = re.compile(r'\bchapter\s*(\d+)\b', re.I)
 
-
-def find_chapter_pages(doc, target_chapters=(4, 5, 6), sample_pages=20):
+def find_chapter_pages(doc, target_chapters=(4, 5, 6)):
     """
     Scan the PDF and try to find first page index (0-based) for each requested chapter.
     Returns dict: chapter_number -> page_index
     """
     found = {}
-    # We'll scan all pages (it's safer) but we can optionally limit
     for pno in range(doc.page_count):
-        text = doc.load_page(pno).get_text("text")  # plain text
+        text = doc.load_page(pno).get_text("text")
         if not text:
             continue
         for m in CHAPTER_RE.finditer(text):
@@ -62,11 +58,9 @@ def find_chapter_pages(doc, target_chapters=(4, 5, 6), sample_pages=20):
                 continue
             if num in target_chapters and num not in found:
                 found[num] = pno
-                # stop early if we found all
                 if len(found) == len(target_chapters):
                     return found
     return found
-
 
 def compute_size_levels(spans):
     """
@@ -84,11 +78,9 @@ def compute_size_levels(spans):
         mapping[s] = i + 1  # 1 => H1, 2 => H2 ...
     return mapping
 
-
 def sanitize_filename(s):
     # keep filesystem-safe
     return re.sub(r'[^A-Za-z0-9._-]', '_', s)
-
 
 def save_image_xref(doc, page, xref, images_dir, base_name, count):
     """
@@ -112,7 +104,6 @@ def save_image_xref(doc, page, xref, images_dir, base_name, count):
         f.write(img_data)
     pix = None
     return fpath, fname
-
 
 def page_to_markdown(doc, page, images_dir, image_base, img_counter_start=1):
     """
@@ -194,7 +185,6 @@ def page_to_markdown(doc, page, images_dir, image_base, img_counter_start=1):
 
 # ---------- Main conversion logic ----------
 
-
 def extract_chapters_to_markdown(pdf_path, out_md, chapters=(4, 5, 6), chapter_starts_cli=None):
     doc = fitz.open(pdf_path)
     images_dir = os.path.join(os.path.dirname(out_md), "images")
@@ -263,7 +253,6 @@ def extract_chapters_to_markdown(pdf_path, out_md, chapters=(4, 5, 6), chapter_s
     print(f"Wrote markdown to {out_md}")
     print(f"Images (if any) in {images_dir}")
 
-
 # ---------- CLI ----------
 
 def main():
@@ -278,7 +267,6 @@ def main():
         p.error("--chapter-starts must have same count as --chapters")
 
     extract_chapters_to_markdown(args.input, args.output, chapters=tuple(args.chapters), chapter_starts_cli=args.chapter_starts)
-
 
 if __name__ == "__main__":
     main()
