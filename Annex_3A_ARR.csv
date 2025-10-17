@@ -4,65 +4,289 @@ Applicability","ARR Operational
 Goal",ARR Remarks,NAS / FAB,"Release
 Date","Special Event and 
 Crisis"
-LE5578,LEMO,,"BLN,HIJ,VJF,MGA,VIBAS,CLANA,ONUBA,MAR",,H24,"No STAR available via:
-a. VJF, expect routing via VJF-PENAS-MRN.
-b. MGA, expect routing via MGA-PENAS-MRN.
-c. VIBAS / CLANA / ONUBA / MAR, expect ATC instructions.",,LE,19 JUN 2025,ONU_MEETING_ADJUSTMNTS
-LE5580,LEMO,,SANTA,,H24,"No STAR available, expect ATC instructions",,LE,19 JUN 2025,ONU_MEETING_ADJUSTMNTS
-LE5756,LEMO,"(BLN,HIJ)",,,H24,"No STAR available, expect ATC instructions",,LE,19 JUN 2025,ONU_MEETING_ADJUSTMNTS
-LE5813,LEMG,VULPE,,"NOT AVBL FOR TFC
-VIA (BLN, ASTRO)",H24,"To allocate correctly arriving traffic
-This traffic shall file BLN STAR (If via BLN) or VIBAS STAR (If via ASTRO)",,LE,19 JUN 2025,
-LP5537,LPPT,VATZI,,"COMPULSORY FOR TFC
-1. ARR LPPT & VIA (ORTOP, MINTA, PIREN, AMSEL, OSLAD, AKUDA, VFA, BAROK, TAKAV, ADILI)
-2. DEP LPBJ & ARR LPPT",H24,"Segregation and sequencing from traffic ARR LPPT from other sectors.
-Segregation and sequencing from traffic DEP LPPT to other sectors.",,LP,24 JUN 2025,
-ED5552,EDDF,"(SPESA5B, SPESA5C)",,"ONLY AVBL FOR TFC
-ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To force RNAV-1 equipped flights approaching from the South on correct STAR. Switchover to Runway 25R/07L for landing can happen upon turn to final when tactical situation requires. ,,ED,28 MAY 2025,
-ED5555,EDDF,"(RASVO1A,RASVO1B, RASVO2C, RASVO1D)",,"ONLY AVBL FOR TFC
-VIA RAMOB & ACFT-PBN (D1, D2, D3, D4)
+ED5648,EDJA,,ALG,"ONLY AVBL FOR TFC
+VIA ALG",H24,"ARR EDJA from south-west shall file via ALG and in case of no clearance obtained hold at ALG. ALOXO STAR may be assigned by ATC only, but due to missing holding procedures at ALOXO it is not fileable.",,ED,06 OCT 2025,
+ED5648,EDJA,,ALG,"ONLY AVBL FOR TFC
+VIA ALOXO",H24,"ARR EDJA from south-west shall file via ALG and in case of no clearance obtained hold at ALG. ALOXO STAR may be assigned by ATC only, but due to missing holding procedures at ALOXO it is not fileable.",,ED,09 OCT 2025,
+EI5562,EIDW,BAGSO,,"NOT AVBL FOR TFC
+DEP (EGLL, EGKK, EGGW, EGKB, EGLC, EGMC, EGTO, EGWU, EGLF, EGVO, EGHL, EGLK, EGTD, EGTF)",08:00-19:00 (07:00-18:00),To balance traffic between Dublin North and Dublin South,"EGLL/KK/GW/KB/LC/ MC/TO/WU/LF/VO/HL/LK/TD/ TF to EIDW, Not allowed via EIDWCTN sector.  Route via EGSTUP.  (VATRY, LIPGO when available)",EI,24 SEP 2025,
+ES5539,"(FARRIS_GROUP,  OSLO_GROUP)",LUNIP,,"NOT AVBL FOR TFC
+1. ABV FL095 AT LUNIP EXC
+    a. VIA (SABAK (DCT, L997) LUNIP)
+    b. VIA (SABAK DCT XENTA DCT REGMA (DCT, L997) LUNIP)
+    c. DEP (SATENAS_GROUP, KARLSTAD_GROUP)",H24,"To facilitate correct ARR traffic flow
+Oslo / Farris",,ES,01 OCT 2025,
+ES5539,"(FARRIS_GROUP,  OSLO_GROUP)",LUNIP,,"NOT AVBL FOR TFC
+1. ABV FL095 AT LUNIP EXC
+    a. VIA (SABAK (DCT, L997) LUNIP)
+    b. VIA (SABAK (DCT, L997) XENTA (DCT, L997) REGMA (DCT, L997) LUNIP)
+    c. DEP (SATENAS_GROUP, KARLSTAD_GROUP)",H24,"To facilitate correct ARR traffic flow
+Oslo / Farris",,ES,13 OCT 2025,
+LF5516,LFGJ,,"(ALURA, DJL)",,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5517,LFGW,,"(GIVOR, GTQ, MMD, MONCE)",,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5519,LFGB,,"(HO, STR)","ONLY AVBL FOR TFC
+RFL BLW FL145 AT (HO, STR)",H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5589,LFSI,,"(DIKOL, EPL, MMD, RLP, TRO)",,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5630,LFEV,,"(RLP, LUL, DJL)",,H24,Airport connectivity,,LF,11 SEP 2025,
+LF5675,LFSG,,EPL,,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5687,LFSM,,"(HR, LUMEL, RIGVI)",,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5709,LFQM,,"(DJL, LUL)",,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5729,LFGB,,"(ARPUS, EPL, HR, LUMEL, MIRGU, RIGVI)",,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5743,LFSB,,RIGVI,,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5744,LFSN,,"(EPL, GIVOR, MONCE)",,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5746,LFSD,,DJL,,H24,ARR/DEP Facilitation,,LF,11 SEP 2025,
+LF5882,LFST,,HW808,"ONLY AVBL FOR TFC
+TYP (HEL)",H24,To provide connection between LFN and hospital.,,LF,11 SEP 2025,
+LF7103,LFWO,,HW804,"ONLY AVBL FOR TFC
+TYP (HEL)",H24,to provide connection between LFN and hospital,,LF,11 SEP 2025,
+LF7131,LFSB,ARPUS,,"COMPULSORY FOR TFC
+VIA LFFRAE
 ----------
 NOT AVBL FOR TFC
-1. ARR EDDF & VIA RAMOB EXC
-    a. VIA RASVO
-    b. DEP EDFH & VIA RAMOB
-    c. VIA (OBIGA Z111 RAMOB) & ACFT-PBN (D1, D2, D3, D4)","H24
+1. VIA LFFRAE EXC
+    a. VIA (LUVAL DCT OKIPO DCT LUL G42 ARPUS)
+    b. VIA (MANAG DCT MOTUK DCT LUL G42 ARPUS)
+    c. VIA ((ROUSY, SUTAL) DCT GTQ DCT POGOL DCT LASAT A242 ARPUS)
+    d. VIA (JOCUZ DCT MOTUK DCT LUL G42 ARPUS)","H24
 ----------
-H24","To force RNAV-1 equipped flights to use correct RNAV STARs.  
----------------------
-1.b. to enable flight planning with intercept RASVO STAR at waypoint RAMOB as shortcut for CP EDFH - EDDF
-1.c. to enable shortcuts for ARR EDDF via IDARO - OBIGA - Z111 - RAMOB
-Heavies (ACFT type (A38*/MD11/B74*/C-5 Galaxy/AN124/AN225/E3A/KC35)), CARGO, GAT, shall expect landing on RWY25L/07R.
-Switchover to southerly runway may be expected on turn to final. 
-Assignment of RASVO 1B/1C STAR by ATC is possible.
-In case of RCF landing on RWY25L/07R shall be performed.",,ED,28 MAY 2025,
-ED5617,EDDF,"(IMCOM1A, IMCOM1B, IMCOM2C, IMCOM1D)",,"ONLY AVBL AND COMPULSORY FOR TFC
-1. ACFT-PBN (O1, O2, O3, O4)
-    a. VIA IMCOM
-    b. VIA (OBIGA Z111 RAMOB)",H24,"To force RNP-1 equipped flights to use correct RNP STARs. 
-1.a.  All RNP-1 equipped flights via IMCOM shall file IMCOM STAR.
-1.b. RNP-1 equipped flights via OBIGA Z111 RAMOB shall file IMCOM STAR in FPL and are allowed to intercept IMCOM STAR at RAMOB.",,ED,28 MAY 2025,
-ED5624,EDDF,"(DIXAT1A, DIXAT1B, DIXAT1C, DIXAT1D)",,"ONLY AVBL AND COMPULSORY FOR TFC
-1. ACFT-PBN (O1, O2, O3, O4)
-    a. VIA DIXAT
-    b. VIA (MISGO T911 LIPMI) EXC STAR (ROLIS5A, ROLIS5D)
-    c. VIA (ONUNE (T473, DCT) LIPMI) EXC STAR (ROLIS5A, ROLIS5D)
-    d. DEP (EDDL, EDLN) & VIA LIPMI
+H24","Airport connectivity
+to organize ARR in LFFRAE ","pt A : OKIPO, MOTUK, LASAT",LF,11 SEP 2025,
+LF7132,LFST,"(EPL, LUL)",,"COMPULSORY FOR TFC
+VIA LFFRAE
 ----------
 NOT AVBL FOR TFC
-1. VIA (MISGO T911 LIPMI) & RFL ABV FL245 IN (EDYYFRA, EDUUUTA) 
-2. VIA (ONUNE (T473, DCT) LIPMI) & RFL ABV FL245 IN (EDYYFRA, EDUUUTA)","H24
+1. VIA LFFRAE EXC
+    a. VIA ((LUVAL, LANVI, JOCUZ) DCT EPL)
+    b. VIA (ARBOS DCT PENDU DCT LUL)
+    c. VIA (GILIR DCT PENDU DCT LUL)","H24
 ----------
-H24","To force RNP-1 equipped flights to use correct RNP STARs. 
-Flights below FL245 may intercept DIXAT STAR horizontally via LIPMI and vertically after LIPMI when reaching the appropriate vertical constraint.
-Heavies (ACFT type (A38*/MD11/B74*/C-5 Galaxy/AN124/AN225/E3A/KC35)), CARGO, GAT, shall expect landing on RWY25L/07R.
-Switchover to southerly runway may be expected on turn to final.",,ED,28 MAY 2025,
-EN5529,ENGM,ADOPI,,"NOT AVBL FOR TFC
-1. FLT-TYPE (S) & DEP (EGLL, EGSS, EGKK)
-2. FLT-TYPE (S) & VIA ENOS5",H24,To facilitate correct ARR traffic flow,This traffic shall file RIPAM STAR,EN,31 MAY 2025,
+H24","airport connectivity
+to organize ARR in LFFRAE","pt A: EPL,LUL",LF,11 SEP 2025,
+LF7133,LFJL,MONCE,,"COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC
+    a. VIA (GILIR DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT MONCE)
+    b. VIA (ARBOS DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT MONCE)
+    c. VIA (HOC DCT LUL DCT BAQQA DCT DOQQU DCT MONCE) 
+    d. VIA (LUVAL DCT EPL G21 MONCE)
+    e. VIA (JOCUZ DCT RESPO DCT EPL G21 MONCE)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE ","pt A : IXILU, LUL",LF,11 SEP 2025,
+LF7134,"(LFQM, LFEV, LFSA, LFQW)",,LUL,"COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC
+    a. VIA ((ROUSY, SUTAL) DCT GTQ A242 MIRGU R112 LUL)
+    b. VIA ((ROUSY, SUTAL) DCT GTQ G21 RLP Y112 LUL)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE ",pt A: GTQ,LF,11 SEP 2025,
+LF7135,LFSM,,HR,"COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+VIA LFFRAE EXC VIA ((ROUSY, SUTAL) DCT GTQ A242 HR)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE ",,LF,11 SEP 2025,
+LF7136,"(LFSN, LFSG)",,EPL,"COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC  
+    a. VIA (RLP G21 EPL)
+    b. VIA (GILIR DCT PENDU DCT LUL DCT BAQQA DCT DOQQU)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE ","pt A: EPL, LUL
+Traffic eastbound via RLP G21
+Traffic northbound via GILR",LF,11 SEP 2025,
+LF7137,"(LFGW, LFJY, LFQE)",,GIVOR,"COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC
+    a. VIA ((GILIR, ARBOS) DCT PENDU DCT EPL G21 GIVOR)
+    b. VIA (HOC DCT LUL DCT EPL G21 GIVOR)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE ","pt A : EPL, LUL ",LF,11 SEP 2025,
+LF7138,LFQP,,OBORN,"COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC
+    a. VIA (LUVAL DCT EPL R11 OBORN)
+    b. VIA (ARBOS DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT BERUG)
+    c. VIA (GILIR DCT LUL DCT BAQQA DCT DOQQU DCT BERUG)
+    d. VIA (JOCUZ DCT RESPO DCT EPL R11 OBORN)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE","pt A: EPL, LUL",LF,11 SEP 2025,
+LF7139,"(LFSD, LFLH, LFGJ, LFGQ, LFEP, LFGL, LFGF)",,DJL,"COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC
+    a. VIA (HOC DCT LUL Y112 RLP G21 KASON T37 DJL)
+    b. VIA ((ROUSY, SUTAL) DCT GTQ G21 KASON T37 DJL)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE ","pt A: LUL, GTQ",LF,11 SEP 2025,
+LF7140,LFGA,,"(STR, LUL)","COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC
+    a. VIA ((LUVAL, LANVI) DCT EPL R11 STR)
+    b. VIA ((ROUSY, SUTAL) DCT GTQ R7 STR)
+    c. VIA ((GILIR, ARBOS) DCT PENDU DCT LUL) 
+    d. VIA ((ROUSY, SUTAL) DCT GTQ V17 OBORN R11 STR)","H24
+----------
+H24","Airport connectivity
+To organize ARR in LFFRAE ","pt A : EPL, LUL, GTQ",LF,11 SEP 2025,
+LF7231,LFSO,,"(EPL, EXHOM, NEBAX)","COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC 
+    a. VIA (GILIR DCT LUL DCT BAQQA DCT DOQQU DCT EPL)
+    b. VIA (ARBOS DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT EPL)
+    c. VIA (HOC DCT LUL (DCT, Y112) RLP G21 EPL)
+    d. VIA (SUTAL DCT EXHOM)
+    e. VIA (JOCUZ DCT EPL DCT NEBAX)","H24
+----------
+H24","Airport connectivity
+ To organize ARR in LFFRAE","pt A : PENDU, LUL, EXHOM, NEBAX",LF,11 SEP 2025,
+LF7232,LFSX,,"(LUL, EXHOM, NEBAX)","COMPULSORY FOR TFC
+VIA LFFRAE
+----------
+NOT AVBL FOR TFC
+1. VIA LFFRAE EXC
+    a. VIA ((ROUSY, SUTAL) DCT GTQ A242 MIRGU R112 LUL)
+    b. VIA ((ROUSY, SUTAL) DCT GTQ G21 RLP Y112 LUL)
+    c. VIA (SUTAL DCT EXHOM) & FLT-TYPE (M, X)
+    d. VIA ((LUVAL, RLP, JOCUZ) DCT EPL DCT NEBAX) & FLT-TYPE (M, X)","H24
+----------
+H24","Airport connectivity
+ To organize ARR in LFFRAE","pt A : GTQ, EXHOM, NEBAX",LF,11 SEP 2025,
+LZ5525,LZIB,NIT,,"ONLY AVBL FOR TFC
+1. VIA EP AND-THEN VIA (NIDOK M985 NIT)
+2. VIA (EP, UK, LHCCNORTH) AND-THEN VIA (TURIS N190 NIT)
+3. VIA LHCCEAST AND-THEN
+    a. VIA (PATAK DCT NIT)
+    b. VIA (TURIS N190 NIT)
+    c. VIA XOMBA 
+4. DEP LZ**
+5. RFL BLW FL135 IN LZ
+----------
+COMPULSORY FOR TFC
+1. VIA (EP, UK, LHCCNORTH) AND-THEN VIA LZBBCENT
+2. VIA LHCCEAST EXC VIA XOMBA","1. H24
+2. H24
+3. a. LZTRA6B NOT ACT
+3. b. LZTRA6B ACT
+3. c. LZTRA6B ACT
+4. H24
+5. H24
+----------
+H24",FRA connecting route,,LZ,11 SEP 2025,
+LZ5528,LZPP,NIT,"
+","ONLY AVBL FOR TFC
+1. VIA EP AND-THEN VIA (NIDOK M985 NIT)
+2. VIA (EP, UK, LHCCNORTH) AND-THEN VIA (TURIS N190 NIT)
+3. VIA LHCCEAST AND-THEN
+    a. VIA (PATAK DCT NIT)
+    b. VIA (TURIS N190 NIT)
+    c. VIA XOMBA
+4. DEP LZ**
+5. RFL BLW FL135 IN LZ
+----------
+COMPULSORY FOR TFC
+1. VIA (EP, UK, LHCCNORTH) AND-THEN VIA LZBBCENT
+2. VIA LHCCEAST","1. H24
+2. H24
+3. a. LZTRA6B NOT ACT
+3. b. LZTRA6B ACT
+3. c. LZTRA6B ACT
+4. H24
+5. H24
+----------
+H24",FRA connecting route,,LZ,11 SEP 2025,
+LZ5542,LHBP,EDEMU,,"NOT AVBL FOR TFC
+VIA (LZBBWEST, LHCCNORTH)
+----------
+COMPULSORY FOR TFC
+VIA (LZBBEAST, LZBBCENT) & RFL ABV FL245 IN LZBBEAST","H24
+----------
+H24","FRA connecting route.
+
+To facilitate LHBP arrivals.",,LZ,11 SEP 2025,
+LZ5542,LHBP,EDEMU,,"NOT AVBL FOR TFC
+VIA (LZBBWEST, LHCCNORTH)
+----------
+COMPULSORY FOR TFC
+VIA (LZBBEAST, LZBBCENT) & RFL ABV FL245 IN LZBBFIR","H24
+----------
+H24","FRA connecting route.
+
+To facilitate LHBP arrivals.",,LZ,19 SEP 2025,
+LZLK5502,LKMT,BILNA,,"ONLY AVBL FOR TFC
+1. VIA (KOPAT L617 BILNA)
+2. DEP LZZI
+3. RFL BLW FL135 IN LZBBEAST
+----------
+COMPULSORY FOR TFC
+VIA (LZBBCENT, LZBBEX, LZZITA) EXC VIA (MAKAL DCT UPLAV)","H24
+----------
+H24",FRA connecting route,,"LZ, LK",11 SEP 2025,
+LR5601,LRBC,,"(TULNU, IBGIR, GAROC)","NOT AVBL FOR TFC
+ARR LRBC",H24,To facilitate correct flight planning for traffic ARR LRBC,,LR,22 SEP 2025,
+LT5815,LTBJ,UNSAL,,"NOT AVBL FOR TFC
+ARR LTBJ",APR-NOV MON-FRI 02:30-17:30 EXC HOL LT & NOV-APR MON-FRI 04:30-17:00 EXC HOL LT,01 APR - 01 NOV from 02:30 to 17:30 UTC and 02 NOV - 31 MAR from 04:30 to 17:00 UTC except weekends and public holidays stated at Turkish AIP  GEN 2.1; UNSAL STARs are not avaliable for traffic ARR LTBJ. Instead of UNSAL STARs OVZOK STARs should be used. ,,LT,04 OCT 2025,
+LF5754,LFCR,"(GAI, MEN, ESISI)","(GAI, MEN, ESISI)","COMPULSORY FOR TFC
+VIA LFBBUBDX
+----------
+NOT AVBL FOR TFC
+1. VIA LFBBUBDX EXC
+    a. VIA (FJR DCT GAI)
+    b. VIA (TOPTU DCT TOU DCT GAI)
+    c. VIA (GIROM DCT TOU DCT GAI)
+    d. VIA (NATPI DCT TOU DCT GAI)
+    e. VIA (GEANT DCT ROCAN DCT TOU DCT GAI)
+    f. VIA (ANETO DCT GONUP DCT TOU DCT GAI)
+    g. VIA (REPSI DCT LERGA DCT MOKDI A27 MEN)
+    h. VIA (ESIDA DCT LERGA DCT MOKDI A27 MEN)
+    i. VIA (DISAK DCT DIRMO DCT ETAMO DCT ADEKA DCT MOKDI A27 MEN)
+    j. VIA (ERIXU DCT ETAMO DCT ADEKA DCT MOKDI A27 MEN)
+    k. VIA (ERIXU DCT ETAMO DCT GUERE DCT EVPOK DCT MAKOX G36 ESISI)
+    l. VIA (TUPAR DCT DIDRU DCT LMG DCT MAKOX G36 ESISI)
+    m. VIA (SOPIL DCT BALAN DCT LMG DCT MAKOX G36 ESISI)
+    n. VIA (ENUPA (DCT,G21) KUKOR DCT GUERE DCT EVPOK DCT MAKOX G36 ESISI)
+    o. VIA (DEPOM DCT DIRMO DCT ETAMO DCT ADEKA DCT MOKDI A27 MEN)
+    p. VIA (SIQLE DCT LAKOB DCT KUKOR DCT ADEKA DCT MOKDI A27 MEN)","H24
+----------
+H24","Airport connectivity
+----
+to organize ARR in LFBBUBDX","Other STAR only available below FL195 in LFBBFIR
+FRA rule
+In CACD define as per Annex3B:
+DEPOM DCT DIRMO: FL135-UNL
+TOU DCT GAI, FJR DCT GAI: FL145-UNL
+Other DCTs: FL195-UNL",LF,22 AUG 2025,
+LL5504,LLIB,,BARZI,,H24,To facilitate flight planning for arrival.,,LL,25 AUG 2025,
+LL5505,LLNV,,"(ARANI, VURDI)",,"H24
+",To facilitate flight planning for arrival.,,LL,25 AUG 2025,
+LP5553,LPPT,ESUTI,,"COMPULSORY FOR TFC
+1. ARR LPPT & VIA (LUTAK, MANOX)
+2. DEP (LPMA, LPPS) & ARR LPPT","1. H24
+2. WINTER H24","Segregation and sequencing from traffic ARR LPPT from other sectors.
+Segregation and sequencing from traffic DEP LPPT to other sectors.",,LP,31 AUG 2025,
 ,,,,,,,,LS,19 SEP 2023,
-EG5833,EGNS,,IOM,"COMPULSORY FOR TFC
-ARR EGNS & VIA BOYNE",H24,To enforce correct arrival procedures.,,EG,31 MAY 2025,
 EB5500,EBKT,,"(FERDI,LEQ,LL,MAK,MRV)",,H24,To allow connection from EBKT via specific waypoints.,,EB,29 AUG 2024,
 EB5506,"(EBAW, EBBR, EBMB)",,ELSIK,"ONLY AVBL FOR TFC
 DEP EHEH",H24,To allow shorter connection between EHEH and EBBR/AW/MB ,,EB,29 AUG 2024,
@@ -99,7 +323,7 @@ ED5502,EDDH,,HAM,"ONLY AVBL FOR TFC
 ED5503,EDAZ,,MOSEX,,H24,to force traffic via the correct arrival points/routing,,ED,28 MAR 2025,
 ED5506,EDDF,"(EMPAX5B, EMPAX5C)",,"ONLY AVBL AND COMPULSORY FOR TFC
 ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4) & VIA LADOL",H24,To force RNAV-1 equipped flights to use correct RNAV STARs. ,,ED,28 MAR 2025,
-ED5507,EDDG,,"(HMM, OSN)",,H24,to offer shorter connection,,ED,28 MAR 2025,
+ED5507,EDDG,,"(HMM, OSN)",,H24,to offer shorter connection,,ED,19 SEP 2025,
 ED5508,EDDS,BADSO,,"COMPULSORY FOR TFC
 VIA KRH",H24,To avoid unintented DCT filing and force traffic onto correct STAR,,ED,23 JUL 2023,
 ED5509,EDDS,REUTL,,"COMPULSORY FOR TFC
@@ -147,14 +371,33 @@ ED5547,EDHI,,HAM,"NOT AVBL FOR TFC
 ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,to force traffic via the correct arrival points/routing.,,ED,28 MAR 2025,
 ED5548,EDHI,,"(BOGMU, RARUP, NOLGO, RIBSO)","ONLY AVBL FOR TFC
 ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,to force traffic via the correct arrival points/routing.,,ED,23 JUL 2023,
-ED5549,EDDB,,"(KETAP, OGBER, KLF, ATGUP, NUKRO)",,H24,to force traffic via the correct arrival points/routing,,ED,23 JUL 2023,
+ED5549,EDDB,,"(KETAP, OGBER, KLF, ATGUP, NUKRO)",,H24,to force traffic via the correct arrival points/routing,,ED,02 OCT 2025,
 ED5551,EDDF,"(KERAX5A, KERAX5D)",,"ONLY AVBL AND COMPULSORY FOR TFC
 VIA KERAX & ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,"To force RNAV-1 equipped flights to use correct RNAV STARs. Heavies (ACFT type (A38*/MD11/B74*/C-5 Galaxy/AN124/AN225/E3A/KC35)), CARGO, GAT, shall expect landing on RWY25L/07R.
 Switchover to southerly runway may be expected on turn to final. 
 Assignment of KERAX 3B/3C STAR by ATC is possible.
 In case of RCF landing on RWY25L/07R shall be performed.",,ED,28 MAR 2025,
+ED5552,EDDF,"(SPESA5B, SPESA5C)",,"ONLY AVBL FOR TFC
+ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To force RNAV-1 equipped flights approaching from the South on correct STAR. Switchover to Runway 25R/07L for landing can happen upon turn to final when tactical situation requires. ,,ED,28 MAY 2025,
 ED5553,EDDS,,STG,"ONLY AVBL FOR TFC
 VIA (KPT P66 DITBA)",H24,To allow ARR EDDS to file via KPT P66 DITBA DCT STG. (for the DCT see RAD ANNEX 3B),,ED,28 MAR 2025,
+ED5555,EDDF,"(RASVO1A,RASVO1B, RASVO2C, RASVO1D)",,"ONLY AVBL FOR TFC
+VIA RAMOB & ACFT-PBN (D1, D2, D3, D4)
+----------
+NOT AVBL FOR TFC
+1. ARR EDDF & VIA RAMOB EXC
+    a. VIA RASVO
+    b. DEP EDFH & VIA RAMOB
+    c. VIA (OBIGA Z111 RAMOB) & ACFT-PBN (D1, D2, D3, D4)","H24
+----------
+H24","To force RNAV-1 equipped flights to use correct RNAV STARs.  
+---------------------
+1.b. to enable flight planning with intercept RASVO STAR at waypoint RAMOB as shortcut for CP EDFH - EDDF
+1.c. to enable shortcuts for ARR EDDF via IDARO - OBIGA - Z111 - RAMOB
+Heavies (ACFT type (A38*/MD11/B74*/C-5 Galaxy/AN124/AN225/E3A/KC35)), CARGO, GAT, shall expect landing on RWY25L/07R.
+Switchover to southerly runway may be expected on turn to final. 
+Assignment of RASVO 1B/1C STAR by ATC is possible.
+In case of RCF landing on RWY25L/07R shall be performed.",,ED,19 SEP 2025,
 ED5561,EDDF,"(ROLIS5A, ROLIS5D)",,"ONLY AVBL FOR TFC
 VIA ROLIS & ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4) 
 ----------
@@ -175,6 +418,12 @@ ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,"to force traffic via the correct
 ",,ED,21 AUG 2023,
 ED5616,EDDF,"(DEBHI1B, DEBHI1C)",,"ONLY AVBL AND COMPULSORY FOR TFC
 VIA DEBHI & ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To force RNAV-1 equipped flights to use correct RNAV STARs. ,,ED,28 MAR 2025,
+ED5617,EDDF,"(IMCOM1A, IMCOM1B, IMCOM2C, IMCOM1D)",,"ONLY AVBL AND COMPULSORY FOR TFC
+1. ACFT-PBN (O1, O2, O3, O4)
+    a. VIA IMCOM
+    b. VIA (OBIGA Z111 RAMOB)",H24,"To force RNP-1 equipped flights to use correct RNP STARs. 
+1.a.  All RNP-1 equipped flights via IMCOM shall file IMCOM STAR.
+1.b. RNP-1 equipped flights via OBIGA Z111 RAMOB shall file IMCOM STAR in FPL and are allowed to intercept IMCOM STAR at RAMOB.",,ED,19 SEP 2025,
 ED5618,EDTL,,MOPAN,"ONLY AVBL FOR TFC
 VIA LSAZCTA",H24,To offer traffic from the South and South-East shortcut option in accordance with LoA EDGG ACC - LFST APCH. These flights are exempted from using STAR inbound EDTL.,,ED,28 MAR 2025,
 ED5619,EDDC,,"(HDO, DEKOV)","ONLY AVBL FOR TFC
@@ -183,10 +432,21 @@ ED5619,EDDC,,"(HDO, DEKOV)","ONLY AVBL FOR TFC
 Option 2.: to offer DEP PRAGUE_GROUP the option to file below FL095 via DEKOV to EDDC",,ED,13 JAN 2025,
 ED5620,EDAH,,UDAXI,"COMPULSORY FOR TFC
 ARR EDAH",H24,"To offer ARR EDAH connectivity to the network. Even so no STAR is available, the general DCT limit will remain 0NM to force traffic via RNP Approaches starting at UDAXI",,ED,09 FEB 2024,
-ED5625,EDJA,,ALOXO,"ONLY AVBL FOR TFC
-1. VIA (NUNRI Z6 ALOXO)
-2. DEP (EDNY, LSZR) & BLW FL095 AT ALOXO",H24,"To enable flight planning via ALOXO for designated traffic (ALOXO STAR by ATC only).
-Reference TFR RAD Annex 2B ED2973",,ED,28 MAR 2025,
+ED5624,EDDF,"(DIXAT1A, DIXAT1B, DIXAT1C, DIXAT1D)",,"ONLY AVBL AND COMPULSORY FOR TFC
+1. ACFT-PBN (O1, O2, O3, O4)
+    a. VIA DIXAT
+    b. VIA (MISGO T911 LIPMI) EXC STAR (ROLIS5A, ROLIS5D)
+    c. VIA (ONUNE (T473, DCT) LIPMI) EXC STAR (ROLIS5A, ROLIS5D)
+    d. DEP (EDDL, EDLN) & VIA LIPMI
+----------
+NOT AVBL FOR TFC
+1. VIA (MISGO T911 LIPMI) & RFL ABV FL245 IN (EDYYFRA, EDUUUTA) 
+2. VIA (ONUNE (T473, DCT) LIPMI) & RFL ABV FL245 IN (EDYYFRA, EDUUUTA)","H24
+----------
+H24","To force RNP-1 equipped flights to use correct RNP STARs. 
+Flights below FL245 may intercept DIXAT STAR horizontally via LIPMI and vertically after LIPMI when reaching the appropriate vertical constraint.
+Heavies (ACFT type (A38*/MD11/B74*/C-5 Galaxy/AN124/AN225/E3A/KC35)), CARGO, GAT, shall expect landing on RWY25L/07R.
+Switchover to southerly runway may be expected on turn to final.",,ED,28 MAY 2025,
 ED5632,EDLP,,PAD,"ONLY AVBL FOR TFC
 ARR EDLP & VIA (ROBEG Q208 PAD)",H24,To offer connection from Q208,,ED,15 FEB 2025,
 ED5639,EDDN,LETKU,,"ONLY AVBL FOR TFC
@@ -697,6 +957,8 @@ EG5827,EGSC,,BKY,"ONLY AVBL FOR TFC
 DEP EGSS",H24,To enable/enforce correct connectivity to standard routeings and reflect operational procedures.,,EG,10 FEB 2025,
 EG5831,EGNV,,OTBED,"NOT AVBL FOR TFC
 ARR EGNV & RFL ABV FL245 IN EG",H24,OTBED DCT EGNV is only permitted for traffic remaining below FL245 in EG.  Traffic with RFL above FL245 shall file an alternative route e.g. L602/N110 ERKIT or Y250 GASKO.,,EG,07 MAR 2025,
+EG5833,EGNS,,IOM,"COMPULSORY FOR TFC
+ARR EGNS & VIA BOYNE",H24,To enforce correct arrival procedures.,,EG,31 MAY 2025,
 EGEI5503,EIDL,,RUBEX,"ONLY AVBL FOR TFC
 1. VIA EGPXFRA
 2. DEP SCOTTISH_GROUP
@@ -763,8 +1025,6 @@ EI5535,EIME,,BAL,,H24,Connectivity to EIME,,EI,19 JUN 2024,
 EI5536,EINN,,SHA,"ONLY AVBL FOR TFC
 BLW FL085",H24,Connectivity to EINN and AIP Conditions,,EI,19 JUN 2024,
 EI5558,EIWF,,WTD,,H24,Connectivity to EIWF and AIP Conditions,,EI,18 MAR 2022,
-EI5562,EIDW,BAGSO,,"NOT AVBL FOR TFC
-DEP (EGLL, EGKK, EGGW, EGKB, EGLC, EGMC, EGTO, EGWU, EGLF, EGVO, EGHL, EGLK, EGTD, EGTF)",SUMMER (07:00-18:00),To balance traffic between Dublin North and Dublin South,"EGLL/KK/GW/KB/LC/ MC/TO/WU/LF/VO/HL/LK/TD/ TF to EIDW, Not allowed via EIDWCTN sector.  Route via EGSTUP.  (VATRY, LIPGO when available)",EI,19 MAY 2025,
 EK5513,EKCH,MONAK,,"NOT AVBL FOR TFC
 1. EXC VIA (MEGAR P605 GESKA Z711 MONAK)
 2. EXC VIA (MAKEL N851 GESKA Z711 MONAK)
@@ -821,19 +1081,19 @@ EN5507,ENCN,,SVA,"ONLY AVBL FOR TFC
 1. DEP KJEVIK_GROUP
 2. TYP (HEL)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
 EN5508,"(ENRY, ENTO)",,"(RG, YG, TOR)","NOT AVBL FOR TFC
-EXC DEP (FARRIS_GROUP, OSLO_GROUP)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
+EXC DEP (FARRIS_GROUP, OSLO_GROUP)",H24,To facilitate correct ARR traffic flow,,EN,13 OCT 2025,
 EN5515,ENBR,,"(ARKEN, ARPIX, TAGUD)","ONLY AVBL FOR TFC
 TYP (HEL)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
 EN5516,ENBR,,FLS,"ONLY AVBL FOR TFC
 1. TYP (HEL)
-2. DEP (ENHD, ENSO)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
+2. DEP (ENHD, ENSO)",H24,To facilitate correct ARR traffic flow,,EN,13 OCT 2025,
 EN5518,ENZV,,SOA,"ONLY AVBL FOR TFC
 FLT-TYPE (M)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
 EN5519,ENZV,BEGOD,,"ONLY AVBL FOR TFC
 DEP ENBR",H24,To facilitate correct ARR traffic flow,,EN,,
 EN5520,ENZV,,ZOL,"ONLY AVBL FOR TFC
 1. TYP (HEL)
-2. DEP (ENHD, ENSO)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
+2. DEP (ENHD, ENSO)",H24,To facilitate correct ARR traffic flow,,EN,13 OCT 2025,
 EN5525,FARRIS_GROUP,BAMIX,,"NOT AVBL FOR TFC
 ARR FARRIS_GROUP EXC VIA (XUKDI (P601, DCT) BAMIX)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
 EN5526,FARRIS_GROUP,ESOSI,,"NOT AVBL FOR TFC
@@ -843,6 +1103,9 @@ EN5527,ENGM,INREX,,"NOT AVBL FOR TFC
     a. VIA XELVI AND-THEN VIA INREX
     b. VIA ABUNO AND-THEN VIA INREX
     c. DEP (EFHK, ESKS)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
+EN5529,ENGM,ADOPI,,"NOT AVBL FOR TFC
+1. FLT-TYPE (S) & DEP (EGLL, EGSS, EGKK)
+2. FLT-TYPE (S) & VIA ENOS5",H24,To facilitate correct ARR traffic flow,This traffic shall file RIPAM STAR,EN,31 MAY 2025,
 EN5532,ENGM,,"(ADOPI, BELGU, ESEBA, INREX, LUNIP, RIPAM)","NOT AVBL FOR TFC
 ACFT-PBN (D1,D2,D3,D4,O1,O2,O3,O4) & RFL ABV FL095 IN EN EXC FLT-TYPE (X)",H24,RNAV1/RNP1 equipped flights shall file via published STAR if RFL above FL095,,EN,29 OCT 2024,
 EN5534,ENRY,,"(BAMIX, ESOSI, REGMA, ULMUG, VATEX)","NOT AVBL FOR TFC
@@ -869,9 +1132,9 @@ FLT-TYPE (S) & VIA ENOS8",H24,To facilitate correct ARR traffic flow.,,EN,29 OCT
 EN5557,ENHD,RIVEX,,"COMPULSORY FOR TFC
 FLT-TYPE (S) & VIA ENOS8",H24,To facilitate correct ARR traffic flow.,,EN,29 OCT 2024,
 EN5558,ENGM,,GRM,"ONLY AVBL FOR TFC
-TYP (HEL)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
+TYP (HEL)",H24,To facilitate correct ARR traffic flow,,EN,13 OCT 2025,
 EN5559,ENVA,,NONVU,"ONLY AVBL FOR TFC
-TYP (HEL)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
+TYP (HEL)",H24,To facilitate correct ARR traffic flow,,EN,13 OCT 2025,
 EN5567,ENTC,"LURAP,SJA",,"NOT AVBL FOR TFC
 ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
 EN5569,ENTC,,"(APSIM, UMSEG)","ONLY AVBL FOR TFC
@@ -895,7 +1158,7 @@ EN5582,ENBO,,RILUN,"ONLY AVBL FOR TFC
 DEP (ENRA, ENMS, ENST)",H24,To facilitate correct ARR traffic flow,,EN,29 OCT 2024,
 EN5585,ENDU,,BDF,"ONLY AVBL FOR TFC
 DEP (ENDU, ENEV, ENTC)",H24,"To facilitate correct ARR traffic flow
-",,EN,29 OCT 2024,
+",,EN,13 OCT 2025,
 EN5587,ENEV,,EVD,"ONLY AVBL FOR TFC
 DEP (ENDU, ENEV)",H24,"To facilitate correct ARR traffic flow
 ",,EN,29 OCT 2024,
@@ -1044,12 +1307,6 @@ ES5538,ESSB,TRS,,"NOT AVBL FOR TFC
     f. EXC VIA (VIBAR L87 PELUP N851 TRS)
     g. VIA (EKDKL, EKDKV, EKDKUV)",H24,"To facilitate correct ARR traffic flow.
 Stockholm TMA",,ES,29 AUG 2024,
-ES5539,"(FARRIS_GROUP,  OSLO_GROUP)",LUNIP,,"NOT AVBL FOR TFC
-1. ABV FL095 AT LUNIP EXC
-    a. VIA (SABAK L997 LUNIP)
-    b. VIA (SABAK DCT XENTA DCT REGMA L997 LUNIP)
-    c. DEP (SATENAS_GROUP, KARLSTAD_GROUP)",H24,"To facilitate correct ARR traffic flow
-Oslo / Farris",,ES,10 FEB 2025,
 ES5540,"(FARRIS_GROUP,  OSLO_GROUP)",REPKU,,"NOT AVBL FOR TFC
 1. ABV FL095 AT REPKU EXC
     a. VIA (SABAK L617 REPKU)
@@ -1064,9 +1321,13 @@ This traffic shall file
 Oestgoeta TMA",,ES,29 AUG 2024,
 ES5542,"(ESCF, ESKN, ESSL, ESSP)","(DETSO, LURAR)",,"COMPULSORY FOR TFC
 ABV FL095 AT (DETSO, LURAR) & VIA (EKDKV, EKDKUV)
-This traffic shall file
-VIA (DETSO, LURAR) AND-THEN VIA (OL, ON, GIMLO)",H24,"To facilitate correct ARR traffic flow
-Oestgoeta TMA",,ES,29 AUG 2024,
+----------
+NOT AVBL FOR TFC
+ABV FL095 AT (DETSO, LURAR) & VIA (EKDKV, EKDKUV)_x000D_
+EXC VIA (DETSO, LURAR) AND-THEN VIA (LUFAK, ON, GIMLO)","H24
+----------
+H24","To facilitate correct ARR traffic flow
+Oestgoeta TMA",,ES,14 AUG 2025,
 ES5543,"(ESSA, ESSB)",XILAN,,"NOT AVBL FOR TFC
 1. ABV FL095 AT XILAN EXC
     a. DEP STOCKHOLM_AREA
@@ -1130,6 +1391,8 @@ ACFT-PBN (O2)",H24,TRAFFIC ORGANISATION IN LIEPAJA FIZ,RNP1,EV,22 AUG 2024,
 EV5509,EVLA,,"(DESON, FATXO, LASMA, RUCAV)",,H24,TRAFFIC ORGANISATION IN LIEPAJA FIZ,,EV,22 AUG 2024,
 EY5550,EYVI,,VNO,"NOT AVBL FOR TFC
 EXC DEP EYKA AND-THEN ARR EYVI",H24,To connect the two aerodromes,,EY,23 AUG 2024,
+EY5551,EYVI,IRKAL,,"NOT AVBL FOR TFC
+VIA (LIZUP, DIMTA)",H24,To use correct arrival procedure,,EY,22 JUL 2025,
 GC5500,GCLP,,LPC,"ONLY AVBL FOR TFC
 DEP (GCLB, GCLP, GCHI)",H24,"Traffic allocation within Canarias TMA
 No STAR available, expect ATC instructions",,GC,13 OCT 2024,
@@ -1289,14 +1552,9 @@ No STAR available, expect ATC instructions",,GC,13 OCT 2024,
 GC5536,GCGM,,LORPO,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP GCFV",H24,"Traffic allocation within Canarias TMA
 No STAR available, expect routing via LORPO-DRANO-SARWO-MOVAS",,GC,09 AUG 2023,
-GC5570,GCLP,,LALTO,"ONLY AVBL FOR TFC
-DEP (GCLA, GCXO)
-----------
-COMPULSORY FOR TFC
-DEP GCLA","H24
-----------
-H24","Traffic allocation within Canarias TMA
-No STAR available, expect ATC instructions",,GC,29 AUG 2024,
+GC5570,GCLP,,LALTO,"ONLY AVBL AND COMPULSORY FOR TFC
+DEP (GCLA, GCXO)",H24,"Traffic allocation within Canarias TMA
+No STAR available, expect ATC instructions",,GC,11 JUL 2025,
 GC5599,GCLA,,TFN,"NOT AVBL FOR TFC
 DEP (L***, E***, U***)",H24,Traffic allocation within Canarias TMA,,GC,13 OCT 2024,
 GC5604,GCGM,,LARYS,"ONLY AVBL AND COMPULSORY FOR TFC
@@ -1305,9 +1563,6 @@ No STAR available, expect routing via LARYS-TFN-TESEL-YEQAY",,GC,09 AUG 2023,
 GC5605,GCHI,,LARYS,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP GCRR",H24,"Traffic allocation within Canarias TMA
 No STAR available, expect routing via LARYS-TFN-TESEL-HIE",,GC,,
-GC5607,GCLP,,GDV,"ONLY AVBL FOR TFC
-DEP GCXO",H24,"Traffic allocation within Canarias TMA
-No STAR available, expect routing via GDV-XIBUS-BAFEM-LALTO",,GC,05 JUN 2024,
 GC5999,GCTS,ODEGI,,"ONLY AVBL FOR TFC
 VIA (LIMAL, BIPET, ROTUM)
 ----------
@@ -1350,7 +1605,8 @@ LB5509,LBBG,NESAR,,"ONLY AVBL FOR TFC
 5. (LBD306, LBD302, LBTRA53, LBTRA55) ACT",To facilitate FRA operations,,LB,28 JAN 2025,
 LB5510,LBBG,RUTAR,,"ONLY AVBL FOR TFC
 1. VIA (DINRO (L919, DCT) GOSLO (T228, DCT) RUTAR)_x000D_
-2. DEP LBWN AND-THEN ARR LBBG","(LBD312A & LBD315, LBTRA53 & LBTRA55 & LBD302 & LBD306) NOT ACT",To facilitate FRA operations,,LB,28 JAN 2025,
+2. DEP LBWN AND-THEN ARR LBBG","1. (LBD312A & LBD315 & LBTRA53 & LBTRA55 & LBD302 & LBD306) NOT ACT
+2. LBD306 NOT ACT",To facilitate FRA operations,,LB,14 AUG 2025,
 LB5511,LBWN,EXIGA,,"ONLY AVBL FOR TFC
 1. VIA (RASUB DCT BULEN (L744, DCT) EXIGA) & ABV FL245
 2. VIA (BULEN (L744, DCT) EXIGA) & BLW FL245",H24,To facilitate FRA operations,To adapt restriction to the planned removal of the fixed route network in Romania. Traffic should plan RASUB DCT BULEN instead of RASUB L605 BULEN.,LB,28 JAN 2025,
@@ -1411,6 +1667,8 @@ LB5534,LBSF,GAPVO,,"ONLY AVBL FOR TFC
 DEP LB**",(LBTRA31 & LBTRA32A) NOT ACT,To prevent inconsistent flight planning within Sofia Approach,,LB,19 APR 2025,
 LB5535,LBSF        ,UMPIT,,"ONLY AVBL FOR TFC
 DEP LB**",(LBTRA31 & LBTRA32A) NOT ACT,To prevent inconsistent flight planning within Sofia Approach,,LB,19 APR 2025,
+LB5537,LBBG,,TUGSO,"ONLY AVBL FOR TFC
+DEP LBWN",	LBD306 ACT,To provide connectivity when LBD306 ACT,,LB,18 AUG 2025,
 LBLY5500,LBSF,NISVA,,"ONLY AVBL FOR TFC
 VIA LYBACTA",H24,To prevent inconsistent flight planning within Sofia Approach,,"LB, LY",28 JAN 2025,
 LC5501,LCLK,RUDER,,"ONLY AVBL FOR TFC
@@ -1607,14 +1865,18 @@ Traffic via PARKA shall file PARKA Z165 SOTUK
 Traffic via SOTUK shall file SOTUK CP
 Traffic via ZMR Shall file ZMR CP
 Traffic via NONTU shall file NONTU CP",,LE,24 APR 2024,
-LE5572,LEMG,GDA,,"ONLY AVBL AND COMPULSORY FOR TFC
-DEP LEGR",H24,"Traffic allocation within Sevilla TMA
-No STAR available, expect ATC instructions",,LE,13 OCT 2023,
 LE5575,LEMH,KABRE,,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP LEIB",H24,Traffic allocation within Palma TMA,,LE,,
 LE5576,LEMH,,MHN,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP PALMA_GROUP",H24,"Traffic allocation within Palma TMA
 No STAR available, expect ATC instructions",,LE,,
+LE5578,LEMO,,"(BLN, HIJ, VJF, MGA, VIBAS, CLANA, ONUBA, MAR)","ONLY AVBL FOR TFC
+FLT-TYPE (M)",H24,"No STAR available via:
+a. VJF, expect routing via VJF-PENAS-MRN.
+b. MGA, expect routing via MGA-PENAS-MRN.
+c. VIBAS / CLANA / ONUBA / MAR, expect ATC instructions.",,LE,19 JUN 2025,
+LE5580,LEMO,,SANTA,"ONLY AVBL FOR TFC
+DEP LEBZ & FLT-TYPE (M)",H24,"No STAR available, expect ATC instructions",,LE,19 JUN 2025,
 LE5581,LEPA,GODOX,,"COMPULSORY FOR TFC
 VIA LASPO
 ----------
@@ -1704,6 +1966,8 @@ LE5748,GEML,,"PEKOP,BERUM,ESAMI","TBD
 - General conditions apply",H24,"No STAR available via PEKOP / BERUM / ESAMI, expect ATC instructions",,LE,,
 LE5752,LEAB,,"ASTRO,MOTIL,SOSAV,YES","TBD
 - General conditions apply",H24,"No STAR available via ASTRO / MOTIL / SOSAV / YES, expect ATC instructions",,LE,,
+LE5756,LEMO,"(BLN, HIJ)",,"ONLY AVBL FOR TFC
+FLT-TYPE (M)",H24,"No STAR available, expect ATC instructions",,LE,19 JUN 2025,
 LE5758,LEIB,NELUX,,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP (LEPA, LESJ)",H24,Traffic allocation between Barcelona and Palma TMA,,LE,13 OCT 2024,
 LE5759,LEBG,DGO,,"NOT AVBL FOR TFC
@@ -1756,6 +2020,9 @@ LE5809,LEZL,VIBAS,,"NOT AVBL FOR TFC
 ARR LEZL",H24,BAN arrivals to lEZL via VIBAS due to new LEMG STARs,,LE,29 SEP 2023,
 LE5810,LEMG,PIMOS,,"NOT AVBL FOR TFC
 ARR LEMG EXC DEP (GMTN, LXGB)",H24,Ban arrivals to LEMG via pt PIMOS except traffic departing GMTN or LXGB ,,LE,13 OCT 2024,
+LE5813,LEMG,VULPE,,"NOT AVBL FOR TFC
+VIA (BLN, ASTRO)",H24,"To allocate correctly arriving traffic
+This traffic shall file BLN STAR (If via BLN) or VIBAS STAR (If via ASTRO)",,LE,19 JUN 2025,
 LE5814,"LEPA, LESJ",OSGAL,,"NOT AVBL FOR TFC
 VIA MJV AND-THEN VIA OSGAL",H24,To organize arriving traffic,,LE,13 OCT 2024,
 LE5815,LERS,BERGA,,"COMPULSORY FOR TFC
@@ -1791,20 +2058,14 @@ LF5508,LFAY,,XORBI,"TBD
 - General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5509,LFML,,LIPSU,"ONLY AVBL FOR TFC
 DEP LFTH,LFMQ",H24,"Airport connectivity
-This traffic should file JULEE DCT LIPSU",,LF,28 JUN 2022,
+This traffic should file JULEE DCT LIPSU",,LF,15 OCT 2025,
 LF5511,LFGA,,"(ELBEG,  RIGVI, STR, LUMEL, LUL)",,H24,ARR/DEP Facilitation,,LF,13 NOV 2024,
 LF5512,LFLS,,ROMAM,"ONLY AVBL FOR TFC
 DEP LFLU / LS / MH",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5515,"LFLL,LFLY,LFLS",,LTP,"ONLY AVBL FOR TFC
 DEP LFLB,LFLG,LFLP",H24,ARR/DEP Facilitation,,LF,23 SEP 2022,
-LF5516,LFGJ,,"ALURA,DJL","TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,01 OCT 2022,
-LF5517,LFGW,,"GIVOR,GTQ,MMD,MONCE","TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5518,LFMI,OB,,"NOT AVBL FOR TFC
 VIA LFFRASE EXC VIA ((PIGOS, OMARD, BOMZA) DCT STP A3 RUBIT G7 OB)",H24,LFMM FRA - Flow organization,,LF,10 FEB 2025,
-LF5519,LFGB,,"HO,STR","ONLY AVBL FOR TFC
-With RFL below FL145",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5520,LFHE,,ROMAM,"TBD
 - General conditions apply",H24,ARR/DEP facilitation,,LF,12 AUG 2022,
 LF5522,"LFMD,LFMN,LFTZ",,LUC,"ONLY AVBL FOR TFC
@@ -1898,15 +2159,13 @@ LF5585,"(LFKJ, LFKF)",LONSU,,"NOT AVBL FOR TFC
 1. VIA LFFRASE EXC
     a. VIA (PADKO, KOLON)
     b. DEP (LFMN, LFMD, LFTZ, LFMF, LFML, LFMI, LFTH, LFMQ, LFMA, LFMV, LFMO, LFMY, LFMC, LFTF)",H24,LFMM FRA - Flow organization,,LF,10 FEB 2025,
-LF5589,LFSI,,"DIKOL,EPL,MMD,RLP,TRO","TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5590,LFMV,,CM,"ONLY AVBL FOR TFC
 DEP LFMA/MI/MY/TW",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5591,LFTW,,NG,"ONLY AVBL FOR TFC
 1. DEP LFMT/MV
 2. Via AVN DCT NG",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5594,"(LFPN, LFPO, LFPV)",CAD,,"ONLY AVBL FOR TFC
-1. VIA (ANG DCT CAD)_x000D_
+1. VIA ((ANG, NIMER) DCT CAD)_x000D_
 2. VIA BOBSA & RFL BLW FL125 AT BOBSA_x000D_
 3. VIA LFFFSDSS_x000D_
 4. DEP (LFOQ, LFOT)",H24,------------------------------------,Other arrivals shall use the other STARs,LF,10 JUL 2025,
@@ -1929,7 +2188,6 @@ DEP LFHV, LFLN, LFLM",H24,To facilitate flightplanning,,LF,16 APR 2021,
 LF5624,"LFBO, LFBF",LMB,LMB,"NOT AVBL FOR TFC
 ARR LFBO, LFBF
 WITH RFL ABV FL195 IN LE",H24,This traffic shall file via TOPTU,,LF,08 SEP 2023,
-LF5630,LFEV,,RLP / LUL / DJL,,H24,Airport connectivity,,LF,19 MAR 2021,
 LF5631,LFBH,LUGEN,,"ONLY AVBL FOR TFC
 below FL035 at LUGEN",H24,Other traffic should file via LUGEN then LUSON to avoid LFR49,,LF,,
 LF5634,"LFMN,LFTZ",,DIMAD,"ONLY AVBL FOR TFC
@@ -1940,12 +2198,8 @@ LF5668,LFOT,,AMB,"ONLY AVBL FOR TFC
 Type non-RNAV",H24,allow connection for non-RNAV aircraft,STAR are published for RNAV aircraft,LF,07 JUL 2023,
 LF5673,LFOP,,ROU,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP LFOB",H24,ARR/DEP Facilitation,,LF,26 FEB 2024,
-LF5675,LFSG,,EPL,"TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5678,LFOH,,"OKRUZ,LGL,CAN",,H24,ARR/DEP Facilitation,,LF,18 APR 2024,
 LF5686,LFOV,,TABIL,"TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
-LF5687,LFSM,,"HR,LUMEL,RIGVI","TBD
 - General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5688,LFLG,,LTP,"TBD
 - General conditions apply",H24,ARR/DEP facilitation,,LF,12 AUG 2022,
@@ -1960,8 +2214,6 @@ LF5704,LFWM,,"IM261, WM802","ONLY AVBL FOR TFC
 eng-type helicopter",H24,To provide connection between LFN and hospital.,,LF,29 OCT 2021,
 LF5707,LFMH,,AMIKO/BELEP/ETREK/LSE/MURRO,"TBD
 - General conditions apply",H24,Airport connectivity,,LF,14 APR 2022,
-LF5709,LFQM,,"DJL,LUL","TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5710,LFTH,,CUERS,"TBD
 - General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5711,LFLV,,"(CFA, ENESO, LESPI, NEKEM)",,H24,Airport connectivity,,LF,13 NOV 2024,
@@ -1972,8 +2224,6 @@ LF5718,LFBK,,"LARON,GUSON,RISUN","TBD
 LF5721,LFHH,,LSE,"TBD
 - General conditions apply",H24,ARR/DEP facilitation,,LF,12 AUG 2022,
 LF5723,LFJR,,"ANG,LUTIL","TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
-LF5729,LFGB,,"ARPUS,EPL,HR,LUMEL,MIRGU,RIGVI","TBD
 - General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5731,LFHS,,"(BOBSI, FEDZI)",,H24,ARR/DEP facilitation,,LF,13 AUG 2024,
 LF5732,LFHV,,"(MILPA, AMVAR, PINED, MTL, MEZIN, LESPI, FEDZI)",,H24,ARR/DEP facilitation,,LF,13 AUG 2024,
@@ -1987,12 +2237,6 @@ LF5740,LFOZ,,MOTAL,"TBD
 LF5741,LFQA,,DIKOL,"TBD
 - General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5742,LFQG,,"TRARE, NV",,H24,ARR/DEP Facilitation,,LF,18 APR 2024,
-LF5743,LFSB,,RIGVI,"TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
-LF5744,LFSN,,"EPL,GIVOR,MONCE","TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
-LF5746,LFSD,,DJL,"TBD
-- General conditions apply",H24,ARR/DEP Facilitation,,LF,12 AUG 2022,
 LF5748,LFBI,"VERAC, BALAN, OLINO",,"COMPULSORY FOR TFC
 via LFFRASW
 ----------
@@ -2045,35 +2289,6 @@ DEPOM DCT DIRMO: FL135-UNL
 Other DCTs: FL195-UNL",LF,04 OCT 2024,
 LF5752,LFMO,,CM,"COMPULSORY FOR TFC
 VIA LFFRASE",H24,LFMM FRA - Flow organization,REFLOC=LFMO,LF,10 FEB 2025,
-LF5754,LFCR,"GAI, MEN, ESISI","GAI, MEN, ESISI","COMPULSORY FOR TFC
-via LFBBUBDX
-----------
-NOT AVBL FOR TFC
-via LFBBUBDX except
-1. via FJR DCT GAI
-2. via TOPTU DCT TOU DCT GAI
-3. via GIROM DCT TOU DCT GAI
-4. via NATPI DCT TOU DCT GAI
-5. via GEANT DCT ROCAN DCT TOU DCT GAI
-6. via ANETO DCT GONUP DCT TOU DCT GAI
-7. via REPSI DCT LERGA DCT MOKDI A27 MEN
-8. via ESIDA DCT LERGA DCT MOKDI A27 MEN
-9. via DISAK DCT DIRMO DCT ETAMO DCT ADEKA DCT MOKDI A27 MEN
-10. via ERIXU DCT ETAMO DCT ADEKA DCT MOKDI A27 MEN
-11. via TUPAR DCT DIDRU DCT LMG DCT MAKOX G36 ESISI
-12. via SOPIL DCT BALAN DCT LMG DCT MAKOX G36 ESISI
-13. via ENUPA [DCT/G21] KUKOR DCT GUERE DCT EVPOK DCT MAKOX G36 ESISI
-14. via DEPOM DCT DIRMO DCT ETAMO DCT ADEKA DCT MOKDI A27 MEN
-15. via SIQLE DCT LAKOB DCT KUKOR DCT ADEKA DCT MOKDI A27 MEN","H24
-----------
-H24","Airport connectivity
-----
-to organize ARR in LFBBUBDX","Other STAR only available below FL195 in LFBBFIR
-FRA rule
-In CACD define as per Annex3B:
-DEPOM DCT DIRMO: FL135-UNL
-TOU DCT GAI, FJR DCT GAI: FL145-UNL
-Other DCTs: FL195-UNL",LF,24 FEB 2023,
 LF5758,"LFCH, LFCD",,ASKAN,"COMPULSORY FOR TFC
 via ARR LFCH/CD
 ----------
@@ -2823,7 +3038,7 @@ EVPOK DCT NARAK, ETENU DCT NARAK, GUERE DCT NARAK: FL115-UNL
 DEPOM DCT DIRMO: FL135-UNL
 UVELI DCT SECHE, KOLIS DCT SECHE: FL145-UNL
 Other DCTs FL195-UNL
-1.d.iv), 1.d.v) airline should file RFL 160 at CNA",LF,18 MAR 2025,
+1.d.iv), 1.d.v) airline should file RFL 160 at CNA",LF,24 SEP 2025,
 LF5868,LFBD,"CNA, LMG, VAVIX, MIRBA",VAVIX,"COMPULSORY FOR TFC
 VIA LFFRASW
 ----------
@@ -2978,8 +3193,6 @@ Except via
 3. ALUTA,LARLA,DOLUR,SALCO,SKESO,ADRUD And then [NOKVI DCT MATER]
 4. LOTEE,KORUL And then [QPR DCT GU DCT MATER]
 5. DELOG,NENEM,BAGAD And then [ROSPO DCT GU DCT MATER]",H24,To organize arriving traffic from LFFRANW,,LF,20 APR 2024,
-LF5882,LFST,,HW808,"ONLY AVBL FOR TFC
-eng-type helicopter",H24,To provide connection between LFN and hospital.,,LF,29 OCT 2021,
 LF5883,LFRB,,ERCOZ,"NOT AVBL FOR TFC
 via LFFRANW
 Except via DELOG,KORER,NENEM",H24,To organize arriving traffic from LFFRANW,,LF,20 APR 2024,
@@ -3244,8 +3457,6 @@ LF7101,LFMN,ABLAK,,"NOT AVBL FOR TFC
 VIA MTL",H24,"This traffic should file NISAR STAR.
 LASER activity on NISAR7R shouldn't be bypassed in the flight plan route, NISAR7T or vectors will be given tactically according to the actual activity
 ",,LF,08 JUL 2022,
-LF7103,LFWO,,HW804,"ONLY AVBL FOR TFC
-eng-type helicopter",H24,to provide connection between LFN and hospital,,LF,17 JUL 2022,
 LF7104,LFBE,,"IBDER, OBLOC, VELIN, BUGUS, RUMEL",,H24,Airport connectivity,,LF,22 MAR 2024,
 LF7105,LFBL,,NORON,,H24,Airport connectivity,,LF,12 AUG 2022,
 LF7108,"LFCN, LFDA",,LMB,,H24,Airport connectivity,,LF,10 SEP 2022,
@@ -3273,117 +3484,6 @@ VIA LFBBFIR EXC VIA LFFRASW",H24,Airport Connectivity,,LF,08 SEP 2023,
 LF7128,"LFCJ, LFCP, LFDC, LFDK, LFDU, LFIV",,ESUZE,COMPULSORY FOR TFC,H24,Airport Connectivity,,LF,20 APR 2023,
 LF7130,LFBD,,ETPAR,"ONLY AVBL FOR TFC
 DEP LFBC, LFBG, LFCJ, LFCP, LFDC, LFDK, LFDU, LFIV",H24,Airport Connectivity,,LF,25 MAR 2023,
-LF7131,LFSB,ARPUS,,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-VIA LFFRAE EXC VIA
-1. LUVAL DCT OKIPO DCT LUL G42 ARPUS
-2. MANAG DCT MOTUK DCT LUL G42 ARPUS 
-3. (ROUSY, SUTAL) DCT GTQ DCT POGOL DCT LASAT A242 ARPUS 
-4. JOCUZ DCT MOTUK DCT LUL G42 ARPUS","H24
-----------
-H24","Airport connectivity
-to organize ARR in LFFRAE ","pt A : OKIPO, MOTUK, LASAT",LF,09 FEB 2024,
-LF7132,LFST,"(EPL, LUL)",,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-1. VIA LFFRAE EXC VIA 
-    a.(LUVAL, LANVI, JOCUZ) DCT EPL)
-    b. (ARBOS DCT PENDU DCT LUL)
-    c. (GILIR DCT PENDU DCT LUL)","H24
-----------
-H24","airport connectivity
-to organize ARR in LFFRAE","pt A: EPL,LUL",LF,11 FEB 2025,
-LF7133,LFJL,MONCE,,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-1. VIA LFFRAE EXC VIA
-    a. (GILIR DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT MONCE)
-    b. (ARBOS DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT MONCE)
-    c. (HOC DCT LUL DCT BAQQA DCT DOQQU DCT MONCE) 
-    d. (LUVAL DCT EPL G21 MONCE)
-    e. (JOCUZ DCT RESPO DCT EPL G21 MONCE)","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE ","pt A : IXILU, LUL",LF,11 FEB 2025,
-LF7134,"LFQM,LFEV,LFSA,LFQW",,LUL,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-VIA LFFRAE EXC VIA
-1. (ROUSY, SUTAL) DCT GTQ A242 MIRGU R112 LUL
-2. (ROUSY, SUTAL) DCT GTQ G21 RLP Y112 LUL","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE ",pt A: GTQ,LF,17 MAY 2024,
-LF7135,LFSM,,HR,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-VIA LFFRAE EXC VIA
-(ROUSY, SUTAL) DCT GTQ A242 HR","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE ",,LF,05 JAN 2024,
-LF7136,"LFSN,LFSG",,EPL,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-1. VIA LFFRAE EXC  
-    a. VIA (RLP G21 EPL)
-    b. VIA (GILIR DCT PENDU DCT LUL DCT BAQQA DCT DOQQU)","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE ","pt A: EPL, LUL
-Traffic eastbound via RLP G21
-Traffic northbound via GILR",LF,29 MAR 2025,
-LF7137,"LFGW,LFJY,LFQE",,GIVOR,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-VIA LFFRAE EXC VIA
-1. (GILIR, ARBOS) DCT PENDU DCT EPL G21 GIVOR
-2. HOC DCT LUL DCT EPL G21 GIVOR","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE ","pt A : EPL, LUL ",LF,05 JAN 2024,
-LF7138,LFQP,,OBORN,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
- VIA LFFRAE EXC VIA
-1. LUVAL DCT EPL R11 OBORN
-2. ARBOS DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT BERUG
-3. GILIR DCT LUL DCT BAQQA DCT DOQQU DCT BERUG
-4. JOCUZ DCT RESPO DCT EPL R11 OBORN","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE","pt A: EPL, LUL",LF,07 OCT 2024,
-LF7139,"LFSD,LFLH,LFGJ,LFGQ,LFEP,LFGL,LFGF",,DJL,"COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-VIA LFFRAE EXC VIA
-1. HOC DCT LUL Y112 RLP G21 KASON T37 DJL
-2. (ROUSY, SUTAL) DCT GTQ G21 KASON T37 DJL","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE ","pt A: LUL, GTQ",LF,17 MAY 2024,
-LF7140,LFGA,,"STR, LUL","COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-1. VIA LFFRAE EXC VIA
-    a. (LUVAL, LANVI) DCT EPL R11 STR)
-    b. (ROUSY, SUTAL) DCT GTQ R7 STR)
-    c. (GILIR, ARBOS) DCT PENDU DCT LUL) 
-    d. (ROUSY, SUTAL) DCT GTQ V17 OBORN R11 STR)","H24
-----------
-H24","Airport connectivity
-To organize ARR in LFFRAE ","pt A : EPL, LUL, GTQ",LF,13 NOV 2024,
 LF7154,LFBX,,"PERIG, VELIN, SECHE, NORON, IBDER, LMG",COMPULSORY FOR TFC,H24,Airport connectivity,,LF,24 FEB 2023,
 LF7156,LFTH,"(JULEE, RUBIT, LERMA, OMARD)",,"COMPULSORY FOR TFC
 VIA LFFRASE",H24,LFMM FRA - Flow organization,"REFLOC=LFTH for type (M, X); REFLOC=LFFRASE for type (G, S, N)",LF,10 FEB 2025,
@@ -3626,31 +3726,6 @@ LF7229,"LFPG, LFPB",ROMGO,,"ONLY AVBL AND COMPULSORY FOR TFC
 2. VIA ETPIL DCT ROMGO
 3. VIA ELKUK DCT ROMGO
 4. VIA LATGO DCT ROMGO",H24,Traffic organisation,,LF,20 JUL 2023,
-LF7231,LFSO,,"(EPL, EXHOM, NEBAX)","COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
-1. VIA LFFRAE EXC VIA  
-    a. (GILIR DCT LUL DCT BAQQA DCT DOQQU DCT EPL)
-    b. (ARBOS DCT PENDU DCT LUL DCT BAQQA DCT DOQQU DCT EPL)
-    c. (HOC DCT LUL (DCT,Y112) RLP G21 EPL)
-    d. (SUTAL DCT EXHOM)
-    e. (JOCUZ DCT EPL DCT NEBAX)","H24
-----------
-H24","Airport connectivity
- To organize ARR in LFFRAE","pt A : PENDU, LUL, EXHOM, NEBAX",LF,13 NOV 2024,
-LF7232,LFSX,,"LUL, EXHOM, NEBAX","COMPULSORY FOR TFC
-VIA LFFRAE
-----------
-NOT AVBL FOR TFC
- VIA LFFRAE EXC VIA
-1. (ROUSY, SUTAL) DCT GTQ A242 MIRGU R112 LUL
-2. (ROUSY, SUTAL) DCT GTQ G21 RLP Y112 LUL
-3. SUTAL DCT EXHOM FLT-TYPE (M,X)
-4. (LUVAL, RLP, JOCUZ) DCT EPL DCT NEBAX FLT-TYPE (M,X)","H24
-----------
-H24","Airport connectivity
- To organize ARR in LFFRAE","pt A : GTQ, EXHOM, NEBAX",LF,17 MAY 2024,
 LF7233,"LFPB, LFPG",TRO,,"ONLY AVBL AND COMPULSORY FOR TFC
 1. VIA SIZZA DCT TRO
 2. VIA NUCIF DCT TRO",H24,Night-time DCT-STAR connection,,LF,04 AUG 2023,
@@ -3761,9 +3836,9 @@ LF7395,"(LFMD, LFTZ)","(LONSU, KERIT, ABLAK)",,"COMPULSORY FOR TFC
 VIA LFFRASE
 ----------
 NOT AVBL FOR TFC
-VIA LFFRASE AND-THEN VIA STAR (ABLAK) EXC VIA SOFFY","H24
+VIA LFFRASE AND-THEN STAR (ABLAK) EXC VIA SOFFY","H24
 ----------
-H24",LFMM FRA - Flow organization,Compulsory part: REFLOC=LFFRASE,LF,10 FEB 2025,
+H24",LFMM FRA - Flow organization,Compulsory part: REFLOC=LFFRASE,LF,29 JUL 2025,
 LF7398,LFMA,"(LANKO, LACAZ)",,"COMPULSORY FOR TFC
 VIA LFFRASE",H24,LFMM FRA - Flow organization,REFLOC=LFFRASE,LF,10 FEB 2025,
 LF7399,"(LFML, LFMQ, LFMA)",LANKO,,"NOT AVBL FOR TFC
@@ -3789,8 +3864,6 @@ LF7493,LFMV,LACAZ,,"COMPULSORY FOR TFC
 VIA LFFRASE",H24,LFMM FRA - Flow organization,REFLOC=LFFRASE,LF,10 FEB 2025,
 LF7496,LFMQ,"(LANKO, LIPSU)",,"COMPULSORY FOR TFC
 VIA LFFRASE",H24,LFMM FRA - Flow organization,REFLOC=LFFRASE,LF,10 FEB 2025,
-LF7497,LFPT,DINAN,,"NOT AVBL FOR TFC
-ARR LFPT",H24,DINAN STAR shall not be planned,FPL shall be filed via VEDUS STAR,LF,06 MAY 2025,
 LF7498,LFTH,LERMA,,"NOT AVBL FOR TFC
 1. VIA LFFRASE AND-THEN VIA LERMA EXC
     a. VIA (PIGOS N86 LERMA)
@@ -3903,6 +3976,10 @@ LI5551,LIDT,,TNT,"ONLY AVBL FOR TFC
 eng-type helicopter",H24,To facilitate flight planning for pins,,LI,24 MAR 2020,
 LI5553,LIBV,,"DIVKU,BAR,KAPPO,CDC,EKTOL,VEGAN","TBD
 - General conditions apply",H24,connectivity between network and MIL airport,,LI,29 JUN 2022,
+LI5560,LIRQ,,AKUTO,"ONLY AVBL FOR TFC
+DEP LIRP",H24,Improve connectivity between airways,,LI,20 AUG 2025,
+LI5561,LIPQ,,ROSKA,"ONLY AVBL FOR TFC
+DEP LIPZ",H24,Improve connectivity between airways,,LI,20 AUG 2025,
 LJ5534,LJPZ,ABLAT,,"ONLY AVBL FOR TFC
 VIA (PUL, CRE, RJK)",H24,To correctly allocate arrivals to LJPZ via ABLAT STAR established for flights arriving from south. (Alternative are ILB STAR),,LJ,27 JUL 2024,
 LJ5535,LJPZ,BARPI,,"ONLY AVBL FOR TFC
@@ -3942,25 +4019,25 @@ LK5555,"(LKPD, LKCV)",BEKVI,,"NOT AVBL FOR TFC
 ----------
 COMPULSORY FOR TFC
 1. VIA (EPWWT, EPPOTAS) EXC
-    a. VIA STAR (GOLOP2M)
+    a. STAR (GOLOP2M)
     b. VIA (EPWWJ, EPKKTA)
 2. VIA (HDO, DEKOV, OMELO, LALUK, ODOMO, AGNAV, DOLUP) EXC VIA STAR (GOLOP2M)
 3. VIA (LOVVN17, LOWLTMA) EXC
-    a. VIA STAR (APRAQ2M)
+    a. STAR (APRAQ2M)
     b. VIA (USUPA, BODAL, TIBLA)","H24
 ----------
 H24","FRA connecting route
-To force traffic on correct ARR route",,LK,20 DEC 2024,
+To force traffic on correct ARR route",,LK,29 JUL 2025,
 LK5557,LKPD,RIBSI,,"COMPULSORY FOR TFC
 1. VIA (EPWWJ, EPKKTA) EXC
-    a. VIA STAR (TIBLA1M)
-    b. VIA EPWWT",H24,To force traffic on correct ARR route,,LK,08 NOV 2024,
+    a. STAR (TIBLA1M)
+    b. VIA EPWWT",H24,To force traffic on correct ARR route,,LK,29 JUL 2025,
 LK5558,LKPD,TIBLA,,"COMPULSORY FOR TFC
 1. VIA LZBBFIR_x000D_
 2. VIA (EPWWJ, EPKKTA) EXC_x000D_
-    a. VIA STAR (RIBSI1M)_x000D_
+    a. STAR (RIBSI1M)_x000D_
     b. VIA EPWWT_x000D_
-3. VIA (LOVVE17, LOWWAPP) EXC VIA STAR (USUPA1M, BEKVI2M, APRAQ2M)",H24,To force traffic on correct ARR route,,LK,20 DEC 2024,
+3. VIA (LOVVE17, LOWWAPP) EXC STAR (USUPA1M, BEKVI2M, APRAQ2M)",H24,To force traffic on correct ARR route,,LK,29 JUL 2025,
 LK5559,LKMT,UPLAV,,"NOT AVBL FOR TFC
 VIA LZBBFIR EXC VIA (MAVOR, MAKAL)
 ----------
@@ -3990,7 +4067,7 @@ LK5567,LKKU,BNO,,"COMPULSORY FOR TFC
 1. VIA (BEPAS, VEMUT, ENITA, OKG, OMELO, DEKOV, HDO)
 2. VIA (EPWWT, EPPOTAS) EXC VIA UPLAV",H24,To force traffic on correct ARR route,,LK,08 NOV 2024,
 LK5569,LKPD,USUPA,,"COMPULSORY FOR TFC
-VIA (LOVVE17, LOWWAPP) EXC VIA STAR (TIBLA1M, APRAQ2M, BEKVI2M)",H24,To force traffic on correct ARR route,,LK,20 DEC 2024,
+VIA (LOVVE17, LOWWAPP) EXC STAR (TIBLA1M, APRAQ2M, BEKVI2M)",H24,To force traffic on correct ARR route,,LK,29 JUL 2025,
 LK5570,LKCV,BODAL,,"COMPULSORY FOR TFC
 1. VIA (EPWWJ, EPKKTA, LZBBFIR)
 2. (LOVVE17, LOWWAPP) EXC VIA USUPA",H24,To force traffic on correct ARR route,,LK,20 DEC 2024,
@@ -4025,13 +4102,11 @@ VIA (LOVVE17, LOWWAPP) EXC VIA ADLET",H24,Crossborder FRA Implementation,To forc
 LKLO5502,LKCS,ADLET,,"COMPULSORY FOR TFC
 VIA (LOVVN17, LOWLTMA)",H24,Crossborder FRA Implementation,To force traffic on correct ARR route,"LK, LO",20 DEC 2024,
 LL5503,LLHB,,RAHAT,,H24,To facilitate flight planning for arrival,,LL,26 SEP 2024,
-LL5504,LLIB,,FOLKU,,H24,To facilitate flight planning for arrival.,,LL,26 SEP 2024,
-LL5505,LLNV,,"(SOKET, VURDI)",,"H24
-",To facilitate flight planning for arrival.,,LL,13 MAY 2025,
 LL5506,LLOV,,"(NURIT, RASAF)",,H24,To facilitate flight planning for arrival.,,LL,26 SEP 2024,
 LL5508,LLHA,,"(GALIM, ATLIT)",,H24,To facilitate flight planning for arrival.,,LL,26 SEP 2024,
 LL5510,LLRM,,JIRAF,,H24,To facilitate flight planning for arrival.,,LL,26 SEP 2024,
-LL5511,LLBG,,"(BGN, ASSIF, GEMDA)",,H24,To facilitate flight planning for arrival.,,LL,26 SEP 2024,
+LL5511,LLBG,,"(BGN, ASSIF, GEMDA)","ONLY AVBL FOR TFC
+DEP LL",H24,To facilitate flight planning for arrival.,,LL,16 JUL 2025,
 LL5516,LLBG,"(SALAM, AMMIT)",,"NOT AVBL FOR TFC
 XNG LC - LL BDRY",H24,To force traffic via the correct STAR,,"LL, NM",26 SEP 2024,
 LL5518,LLHS,,KONFO,"ONLY AVBL AND COMPULSORY FOR TFC
@@ -4058,18 +4133,10 @@ TOVMA to be last point in Field 15",LM,23 SEP 2024,
 LM5514,LICD,LUZOT,,"COMPULSORY FOR TFC
 VIA (GZO P624 REPTA)",H24,To force traffic on correct STAR,(Ref. LM AIP ENR 3.5),LM,11 NOV 2024,
 LM5515,LMML,,GZO,,H24,Requirement to insert a terminator point due to lack of published STARs ,,LM,12 SEP 2024,
-LO5503,LOWG,"(LEOBE, RUPET, GOTAR, GBG, MUREG, GOLVA, RADLY, ABIRI)",,"COMPULSORY FOR TFC
-ACFT-PBN (D1, D2)",H24,"NON RNAV and NOT ACFT-PBN (D1, D2) equipped flights shall file via GRZ/GBG.",,LO,19 JUN 2024,
-LO5504,LOWK,"(EVAXI, ARNOS, BERTA, KLAGY, DIPSA, ABIRI, TISMA)",,"COMPULSORY FOR TFC
-ACFT-PBN (D1, D2)",H24,"NON RNAV and NOT ACFT-PBN (D1, D2)  equipped flights shall file via KFT.",,LO,01 AUG 2024,
-LO5505,LOWL,"(DEXIT, ADLET, NUBRA, SITNI, LIMRA, NEMAL, AKIMA, LNZ, SBG, STO)",,"COMPULSORY FOR TFC
-ACFT-PBN (D1, D2)",H24,"NON RNAV and NOT ACFT-PBN (D1, D2) equipped flights shall file via LNZ.",,LO,06 JUL 2024,
 LO5506,LOWL,LNZ,,"ONLY AVBL FOR TFC
 RFL BLW 7500FT IN LOVVFIR",H24,To reduce complexity.,,LO,17 JUL 2024,
 LO5507,LOWL,SBG,,"ONLY AVBL FOR TFC
 RFL BLW FL125 IN LOVVFIR",H24,To reduce complexity.,,LO,17 JUL 2024,
-LO5510,LOWS,"(MATIG, NUBRA, RASTA, UNKEN, TRAUN, TITIG, BADIT)",,"COMPULSORY FOR TFC
-ACFT-PBN (D1, D2)",H24,"NON RNAV and NOT ACFT-PBN (D1, D2)  equipped flights shall file via SBG",,LO,25 JUL 2023,
 LO5512,LOWW,BARUG,,"ONLY AVBL FOR TFC
 DEP (LOWL, LOL*)",H24,To force traffic onto the dedicated STAR,,LO,17 JUL 2024,
 LO5530,LOWW,"TOVKA, MIKOV, LANUX, NATEX",,"NOT AVBL FOR TFC
@@ -4107,7 +4174,7 @@ ARR LOWW & VIA (LJLACTA, LJLABCTA) & RFL ABV FL125 IN LO",H24,To force traffic o
 LO5547,LOWW,NIGSI,,"ONLY AVBL FOR TFC
 1. VIA (LOWKTMA, LOWGTMA) EXC VIA (GOTAR, SUNIS)
 2. VIA DIMLO
-3. VIA STAR (ABTAN, LAPNA, OBUTI)",H24,To force traffic onto the dedicated STAR,SEEFRA-SECSIFRA,LO,07 OCT 2024,
+3. STAR (ABTAN, LAPNA, OBUTI)",H24,To force traffic onto the dedicated STAR,SEEFRA-SECSIFRA,LO,29 JUL 2025,
 LO5550,LOWW,VENEN,,"NOT AVBL FOR TFC
 VIA (LOVVB17, LOVVS17)
 ----------
@@ -4160,15 +4227,16 @@ LP5536,LPPT,UPULO,,"COMPULSORY FOR TFC
 1. ARR LPPT & VIA (TOFEF, RAKOD, CCS)_x000D_
 2. ARR LPPT & VIA ELVAR & BLW FL245 AT ELVAR",H24,"Segregation and sequencing from traffic ARR LPPT from other sectors.
 Segregation and sequencing from traffic DEP LPPT to other sectors.",,LP,19 JAN 2025,
+LP5537,LPPT,VATZI,,"COMPULSORY FOR TFC
+1. ARR LPPT & VIA (ORTOP, MINTA, PIREN, AMSEL, OSLAD, AKUDA, VFA, BAROK, TAKAV, ADILI)
+2. DEP LPBJ & ARR LPPT",H24,"Segregation and sequencing from traffic ARR LPPT from other sectors.
+Segregation and sequencing from traffic DEP LPPT to other sectors.",,LP,24 JUN 2025,
 LP5538,LPPT,LUVUP,,"COMPULSORY FOR TFC
 ARR LPPT & VIA (BEXAL, DEGUN, NARTA, NAVIX, ABALO, BIMBO, SNT, IRKID)",H24,"Segregation and sequencing from traffic ARR LPPT from other sectors.
 Segregation and sequencing from traffic DEP LPPT to other sectors.",,LP,30 MAR 2025,
 LP5539,LPPT,LAZET,,"COMPULSORY FOR TFC
 ARR LPPT & VIA (ARMED, RIPEL, RETEN, PETEK, KOMUT, GUNTI, ERPES, DETOX, BANAL)",H24,"Segregation and sequencing from traffic ARR LPPT from other sectors.
 Segregation and sequencing from traffic DEP LPPT to other sectors.",,LP,28 AUG 2024,
-LP5553,LPPT,ESUTI,,"COMPULSORY FOR TFC
-ARR LPPT & VIA (LUTAK, MANOX)",H24,"Segregation and sequencing from traffic ARR LPPT from other sectors.
-Segregation and sequencing from traffic DEP LPPT to other sectors.",,LP,30 MAR 2025,
 LQ5500,LQBK,,"(BOSNA, TEBLI, KOMAR, DER)",,H24,to facilitate arrival,,LQ,12 AUG 2024,
 LR5500,LROP,TOSVI,,"ONLY AVBL FOR TFC
 1. VIA (IRLOX DCT BIVBU DCT TOSVI)
@@ -4183,16 +4251,16 @@ LR5505,LRCV,,ELDET,"NOT AVBL FOR TFC
 ARR LRCV",H24,To facilitate correct ARR traffic flow,,LR,28 AUG 2024,
 LR5506,"(LRCL, LRSB, LRTM)","(AKUPO, DOKUD)",,"NOT AVBL FOR TFC
 VIA LRBBBUD19",H24,To force traffic onto correct STAR,,LR,28 AUG 2024,
-LR5538,LRBC,REDKU,,"ONLY AVBL FOR TFC
-VIA (MIKVI (DCT, Z650) REDKU)",H24,To facilitate FRA operations,,LR,28 JAN 2025,
-LR5539,LRBC,KENUX,,"ONLY AVBL FOR TFC
-VIA (FOCSA (DCT, T74) KENUX)",H24,To facilitate FRA operations,,LR,28 JAN 2025,
-LR5540,LRBC,MOLID,,"ONLY AVBL FOR TFC
-VIA (POGAV (DCT, Z650) MOLID)",H24,To facilitate FRA operations,,LR,28 JAN 2025,
-LR5541,LRBC,MIRON,,"ONLY AVBL FOR TFC
-VIA (ABOLO (DCT, T74) MIRON)",H24,To facilitate FRA operations,,LR,28 JAN 2025,
-LR5542,LRBC,ANTAL,,"ONLY AVBL FOR TFC
-VIA (ADMEC (DCT, T4) ANTAL)",H24,To facilitate FRA operations,,LR,28 JAN 2025,
+LR5538,LRBC,,REDKU,"ONLY AVBL FOR TFC
+VIA (MIKVI (DCT, Z650) REDKU)",H24,To facilitate FRA operations,,LR,27 AUG 2025,
+LR5539,LRBC,,KENUX,"ONLY AVBL FOR TFC
+VIA (FOCSA (DCT, T74) KENUX)",H24,To facilitate FRA operations,,LR,27 AUG 2025,
+LR5540,LRBC,,DIRCO,"ONLY AVBL FOR TFC
+VIA (POGAV (DCT, Z650) DIRCO)",H24,To facilitate FRA operations,,LR,27 AUG 2025,
+LR5541,LRBC,,GUXVA,"ONLY AVBL FOR TFC
+VIA (ABOLO (DCT, T74) GUXVA)",H24,To facilitate FRA operations,,LR,27 AUG 2025,
+LR5542,LRBC,,SALAC,"ONLY AVBL FOR TFC
+VIA (ADMEC (DCT, T4) SALAC)",H24,To facilitate FRA operations,,LR,27 AUG 2025,
 LR5543,LRBM,,VELSE,"ONLY AVBL FOR TFC
 VIA (RUMUK (DCT, T995) VELSE)",H24,To facilitate FRA operations,,LR,28 JAN 2025,
 LR5544,LRBM,,BUZZE,"ONLY AVBL FOR TFC
@@ -4327,7 +4395,7 @@ TYP (HEL)",H24,To provide connectivity from LFN to AD.,,LS,06 MAR 2025,
 LS5600,LSZH,KELIP,,"NOT AVBL FOR TFC
 1. VIA LSASFRA EXC
     a. VIA (RESIA Z50 KELIP)
-    b. VIA (CANNE Z651 KELIP)",H24,To facilitate FRA operations.,,LS,14 NOV 2024,
+    b. VIA (CANNE Z651 KELIP)",H24,To facilitate FRA operations.,,LS,18 SEP 2025,
 LS5601,LSZH,BERSU,,"NOT AVBL FOR TFC
 VIA LSASFRA EXC VIA (KORED N871 BERSU)",H24,To facilitate FRA operations.,,LS,06 MAR 2025,
 LS5602,LSZH,DOPIL,,"NOT AVBL FOR TFC
@@ -4406,27 +4474,6 @@ LY5532,LYTV,BIGLO,,"ONLY AVBL FOR TFC
 VIA (LDZOS, LDDUTMA)",H24,To preserve segregation of arriving and departing flows for LYTV in SECSI FRA,,LY,11 APR 2024,
 LZ5501,LZKZ,MARKA,,"NOT AVBL FOR TFC
 ARR LZKZ",LZTRA7 ACT,To facilitate correct ARR traffic flow,,LZ,27 JUL 2024,
-LZ5525,LZIB,NIT,,"ONLY AVBL FOR TFC
-1. VIA EP AND-THEN VIA (NIDOK M985 NIT)_x000D_
-2. VIA (EP, UK, LHCCNORTH) AND-THEN VIA (TURIS N190 NIT)_x000D_
-3. VIA LHCCEAST AND-THEN_x000D_
-    a. VIA (PATAK DCT NIT)_x000D_
-    b. VIA (TURIS N190 NIT)_x000D_
-    c. VIA XOMBA _x000D_
-4. DEP LZ**_x000D_
-5. RFL BLW FL135 IN LZ
-----------
-COMPULSORY FOR TFC
-1. VIA (EP, UK, LHCCNORTH) AND-THEN VIA LZBBEAST
-2. VIA LHCCEAST EXC VIA XOMBA","1. H24
-2. H24
-3. a. LZTRA6B NOT ACT
-3. b. LZTRA6B ACT
-3. c. LZTRA6B ACT
-4. H24
-5. H24
-----------
-H24",FRA connecting route,,LZ,27 JAN 2025,
 LZ5526,LZIB,KUVEX,,"COMPULSORY FOR TFC
 VIA LO EXC DEP LOWW",H24,FRA connecting route,,LZ,27 JUL 2024,
 LZ5527,LZIB,BERVA,,"ONLY AVBL FOR TFC
@@ -4436,28 +4483,6 @@ LZ5527,LZIB,BERVA,,"ONLY AVBL FOR TFC
     c. VIA (ODNEM A4 BERVA)_x000D_
     d. VIA (MAVOR P10 BERVA)_x000D_
 2. RFL BLW FL135 IN LZBBFIR",H24,FRA connecting route,,LZ,27 JUL 2024,
-LZ5528,LZPP,NIT,"
-","ONLY AVBL FOR TFC
-1. VIA EP AND-THEN VIA (NIDOK M985 NIT)_x000D_
-2. VIA (EP, UK, LHCCNORTH) AND-THEN VIA (TURIS N190 NIT)_x000D_
-3. VIA LHCCEAST AND-THEN_x000D_
-    a. VIA (PATAK DCT NIT)_x000D_
-    b. VIA (TURIS N190 NIT)_x000D_
-    c. VIA XOMBA_x000D_
-4. DEP LZ**_x000D_
-5. RFL BLW FL135 IN LZ
-----------
-COMPULSORY FOR TFC
-1. VIA (EP, UK, LHCCNORTH) AND-THEN VIA LZBBEAST
-2. VIA LHCCEAST","1. H24
-2. H24
-3. a. LZTRA6B NOT ACT
-3. b. LZTRA6B ACT
-3. c. LZTRA6B ACT
-4. H24
-5. H24
-----------
-H24",FRA connecting route,,LZ,29 JUL 2024,
 LZ5529,LZPP,BERVA,,"ONLY AVBL FOR TFC
 1. VIA LK_x000D_
 2. RFL BLW FL135 IN LZ_x000D_
@@ -4502,15 +4527,6 @@ LZ5541,LHBP,ANEXA,,"ONLY AVBL FOR TFC
     c. VIA (ADAMA Z647 ANEXA)_x000D_
 2. DEP LZIB & VIA (TABIN Q350 ANEXA)_x000D_
 3. DEP (LOAN, LOAV, LOWW)",H24,FRA connecting route,,LZ,27 JUL 2024,
-LZ5542,LHBP,EDEMU,,"NOT AVBL FOR TFC
-VIA (LZBBWEST, LHCCNORTH)
-----------
-COMPULSORY FOR TFC
-VIA LZBBEAST & RFL ABV FL245 IN LZBBEAST","H24
-----------
-H24","FRA connecting route.
-
-To facilitate LHBP arrivals.",,LZ,27 JUL 2024,
 LZ5543,LOWW,REKLU,,"ONLY AVBL FOR TFC
 VIA (TUTPI P182 REKLU)",H24,FRA connecting route,,LZ,27 JUL 2024,
 LZ5544,LOWW,TOVKA,,"ONLY AVBL FOR TFC
@@ -4534,15 +4550,6 @@ LZ5547,EPKK,LENOV,,"ONLY AVBL AND COMPULSORY FOR TFC
 2. DEP LZKZ",H24,FRA connecting route,,LZ,27 JUL 2024,
 LZ5549,LZKZ,,KSC,"ONLY AVBL FOR TFC
 RFL BLW FL095 IN LZ",H24,No STAR available below 10 000 FT,,LZ,07 NOV 2024,
-LZLK5502,LKMT,BILNA,,"ONLY AVBL FOR TFC
-1. VIA (KOPAT L617 BILNA)_x000D_
-2. DEP LZZI_x000D_
-3. RFL BLW FL135 IN LZBBEAST
-----------
-COMPULSORY FOR TFC
-VIA (LZBBEAST, LZBBEX, LZZITA) EXC VIA (MAKAL DCT UPLAV)","H24
-----------
-H24",FRA connecting route,,"LZ, LK",08 NOV 2024,
 LZLK5503,"(LKTB, LKKU)",MAVOR,,"ONLY AVBL FOR TFC
 1. VIA (ABITU P41 MAVOR)_x000D_
 2. RFL BLW FL135 IN LZ
@@ -4582,7 +4589,7 @@ UG5526,UGKO,EMBUS,,"NOT AVBL FOR TFC
     a. VIA (LURIS, KUFAN, ADEKI)_x000D_
     b. VIA ((TISOT, OGEVI) DCT BT DCT EMBUS)_x000D_
     c. VIA (BT H7 EMBUS)_x000D_
-    d. VIA STAR (BASKA1B)",H24,To segregate DEP/ARR traffic flows,,UG,29 AUG 2024,
+    d. STAR (BASKA1B)",H24,To segregate DEP/ARR traffic flows,,UG,29 JUL 2025,
 UG5527,UGKO,,KTS,"NOT AVBL FOR TFC
 1. FLT-TYPE (S, N) EXC_x000D_
     a. VIA (VIZRO H5 KTS)_x000D_

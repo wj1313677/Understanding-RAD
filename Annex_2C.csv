@@ -5,62 +5,50 @@ Goal",Remarks,NAS/FAB,"Release
 Date",Group ID,"Group
 Description","Special Event and 
 Crisis"
-EDR201FZR,EDR201FZ,EDR201FZ,"NOT AVBL FOR TFC
+EDR824ZR,EDR824Z,EDR824Z,"NOT AVBL FOR TFC
+EXC ARR EDDB & VIA BATEL",ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,13 OCT 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_II
+EDR850ZR,EDR850FZ,EDR850Z,"NOT AVBL FOR TFC
 EXC 
-1. VIA (ALASA M852 HAM)
-2. VIA (HAM M852 SOKWO)
-3. VIA (EKERN N125 ELSOB)
-4. VIA (OTAHO Q800 NIGAD)
-5. VIA (NIGAD Q800 OTAHO)
-6. VIA (BOGMU T909 OTAHO)
-7. VIA (BOGMU T814 EXNEL)
-8. VIA (EKERN T905 BOGMU)
-9. VIA (RENSU Y348 OMWEG)
-10. VIA (OMWEG Y348 RENSU)
-11. VIA (OMWEG M105 AMRAK)
-12. VIA (EXNEL DCT OLDIP)
-13. VIA (OLDIP DCT PIZID)
-14. VIA (PIZID DCT EKERN)
-15. VIA (EKERN DCT PIZID)
-16. VIA (RENSU DCT HINHU)
-17. VIA (HINHU DCT RENSU)
-18. VIA (ABFAD DCT HINHU)
-19. VIA (HINHU DCT ABFAD)
-20. VIA (BADOS DCT OMWEG)
-21. VIA (OMWEG DCT BADOS)
-22. DEP EDDH & SID (SOKWO)
-23. ARR EDDH & STAR (RARUP)
-24. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or DEP are EXC in column Traffic Flow Rule applied.
-
-Option 24.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,03 JUL 2025,N/A Or Empty,N/A Or Empty,
-EDR205AZR,EDR205AZ,EDR205AZ,"NOT AVBL FOR TFC
-EXC 
-1. DEP EDFH & SID (NVO, ULKIG)
-2. DEP EDFH & SID (RUDOT) AND-THEN 
-    a. (RUDOT Y180 BITBU)
-    b. (RUDOT Q762 LULAT)
-3. DEP ETAR & SID (BOLKI, TOLEY)
-4. DEP ETAD
-5. DEP (EDDR, EDRZ) & VIA (TOMPI Q760 RUDOT)
-6. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or DEP are EXC in column Traffic Flow Rule applied.
-
-Option 6.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,12 JUN 2025,EDR205AZR,EDR205AZR,
-EDR208BZR,EDR208BZ,EDR208BZ,"NOT AVBL FOR TFC
-EXC
-1. VIA (TADUV Z21 RIVSA)
-2. VIA (RENDO Q230 TADUV)
-3. ARR/DEP EDDP
-4. DEP EDDC & VIA BEBEX
-5. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or ARR/DEP are EXC in column Traffic Flow Rule applied.
-
-Option 5: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,03 JUL 2025,N/A Or Empty,N/A Or Empty,
-EETS2546R,EETS2546,EETS2546,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EE,19 JUN 2025,N/A Or Empty,N/A Or Empty,
-EETS2546R,EETS2546,EETS2546,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EE,27 JUN 2025,N/A Or Empty,N/A Or Empty,
-ENT154ZR,ENT154Z K1Z,ENT154Z,"NOT AVBL FOR TFC
-EXC VIA EVTOG AND-THEN VIA SELCO AND-THEN VIA BASTU AND-THEN VIA STAR (BASTU)",All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
-Nearby points: OLOLU, OGETU, EVLED, BASTU",,EN,31 MAY 2025,N/A Or Empty,N/A Or Empty,
-EVTSA76R,EVTSA76,EVTSA76,NOT AVBL FOR TFC,All ATS route/s/FRA DCT/s,S,Traffic is not allowed to flight plan across active military area.,,EV,23 MAY 2025,N/A Or Empty,N/A Or Empty,
-EVTSA78R,EVTSA78,EVTSA78,NOT AVBL FOR TFC,All ATS route/s/FRA DCT/s,S,Traffic is not allowed to flight plan across active military area.,,EV,23 MAY 2025,N/A Or Empty,N/A Or Empty,
+1. ARR/DEP EDJA
+2. DEP EDDM",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.","area active 01st OCT 2025 - 31st DEC 2025 GND-FL500, daily 1930(1830)-0300(0200)",ED,06 OCT 2025,N/A Or Empty,N/A Or Empty,
+EPTR72AR,EPTR72A,EPTR72A,"NOT AVBL FOR TFC
+EXC ARR EPKK",All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,11 SEP 2025,N/A Or Empty,N/A Or Empty,
+EGD497R,EGD497,EGD497,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA,,EG,04 SEP 2025,N/A Or Empty,N/A Or Empty,EGD497_Ground_to_Air_Trial
+EGD497Z1R,EGD497Z1,EGD497Z1,NOT AVBL FOR TFC,,S,"TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA, 60 NM Shanwick/5 NM NOTA Buffer.",,EG,04 SEP 2025,N/A Or Empty,N/A Or Empty,EGD497_Ground_to_Air_Trial
+EGD497Z2R,EGD497Z2,EGD497Z2,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA. 30 NM Shanwick/5 NM NOTA Buffer.,,EG,04 SEP 2025,N/A Or Empty,N/A Or Empty,EGD497_Ground_to_Air_Trial
+EGD902DR,EGD902D,EGD902D,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA (EGD902D SAXAVORD),,EG,28 SEP 2025,N/A Or Empty,N/A Or Empty,
+LPR51BNR,LPR51BN,LPR51BN,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
+LPR51BS1R,LPR51BS1,LPR51BS1,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
+LPR51BS2R,LPR51BS2,LPR51BS2,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
+LPT11R,LPT11,LPT11,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
+LPT12R,LPT12,LPT12,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
+LPTRA57R,LPTRA57,LPTRA57,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
+EDD46ZR,EDD46Z,EDD46Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
+When this area is active, there will be live firing inside the area.",,ED,02 SEP 2025,N/A Or Empty,N/A Or Empty,
+LETR65R,LETR65,LETR65,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
+",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
+",TLP exercise,LE,27 AUG 2025,N/A Or Empty,N/A Or Empty,
+LETS64R,LETS64,LETS64,NOT AVBL FOR TFC,all ATS route/s/DCT/s,S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,N/A Or Empty,N/A Or Empty,
+END484ZR,END484Z,END484Z,NOT AVBL FOR TFC,ALL ATS-routes and DCTs,S,Traffic is not allowed to flight plan across active space launch area,ATHEAT space launch October 2025,EN,18 AUG 2025,N/A Or Empty,N/A Or Empty,Annex2C_ANDOYASPACE_END484Z
+LETR65S,LETR65,LETR65,"NOT AVBL FOR TFC
+EXC ARR/DEP (LELC, LEMI) & VIA ALT
+----------
+NOT AVBL FOR TFC
+1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETR65_x000D_
+2. VIA LETR65 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)","all ATS route/s/DCT/s
+",S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,LETR65S,LETR65S,
+LETS64S,LETS64,LETS64,"NOT AVBL FOR TFC
+EXC ARR/DEP (LELC, LEMI) & VIA ALT
+----------
+NOT AVBL FOR TFC
+1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETS64_x000D_
+2. VIA LETS64 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)",all ATS route/s/DCT/s,S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,LETS64S,LETS64S,
+LGD3BSR,LGD3BS,LGD3BS,NOT AVBL FOR TFC,"LORNO (A145, UA145) RESPA
+PLH (M729/UM729) LORNO
+METRU  L81/UL81) LORNO
+RERSA (UN45) DILMO",S,Traffic is not allowed to flight plan across active military area,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.,LG,03 SEP 2025,N/A Or Empty,N/A Or Empty,LG_MILEX_SOT_2025
+LGD3BSZR,LGD3BSZ,LGD3BSZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,03 SEP 2025,N/A Or Empty,N/A Or Empty,LG_MILEX_SOT_2025
+ LGD72A2ZR,LGD72A2Z, LGD72A2Z,NOT AVBL FOR TFC,,S, Traffic is not allowed to flight plan across active military area,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 EBR04R,EBR04,EBR04,NOT AVBL FOR TFC,"N853, T853",S,No civil traffic allowed in the military area when active,,EB,13 SEP 2021,N/A Or Empty,N/A Or Empty,
 EBR20R,EBR20,EBR20,NOT AVBL FOR TFC,Z311,S,No civil traffic allowed in the military area when active,,EB,02 APR 2025,N/A Or Empty,N/A Or Empty,
 EBTRANAR,EBTRANA,EBTRANA,"NOT AVBL FOR TFC
@@ -85,6 +73,7 @@ EBTRAWR,EBTRAW,EBTRAW,"NOT AVBL FOR TFC
 EXC
 1. ARR/DEP EBKT
 2. ARR/DEP LFQQ",,C,No civil traffic allowed in military areas when active except excluded flows,,EB,29 AUG 2024,N/A Or Empty,N/A Or Empty,
+EBTRSAN1R,EBTRSAN1,EBTRSAN1,NOT AVBL FOR TFC,,S,TRA during Sanicole Airshow,,EB,08 JUL 2025,N/A Or Empty,N/A Or Empty,
 EBTSA28AR,TSA28A,EBTSA28A,NOT AVBL FOR TFC,,S,No civil traffic allowed in the military area when active,,EB,13 SEP 2021,N/A Or Empty,N/A Or Empty,
 EBTSA28BR,TSA28B,EBTSA28B,NOT AVBL FOR TFC,"L607, T181, T180",S,No civil traffic allowed in the military area when active,,EB,13 SEP 2021,N/A Or Empty,N/A Or Empty,
 EBTSA28CR,EBTSA28C,EBTSA28C,NOT AVBL FOR TFC,,S,Traffic is not allowed to cross active military area.,,EB,13 SEP 2021,N/A Or Empty,N/A Or Empty,
@@ -131,8 +120,6 @@ When this area is active, there will be live firing inside the area.",,ED,02 JUN
 EDD41BZR,EDD41BZ,EDD41BZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP. 
 When this area is active, there will be live firing inside the area",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDD44ZR,EDD44Z,EDD44Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP. 
-When this area is active, there will be live firing inside the area.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
-EDD46ZR,EDD46Z,EDD46Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP. 
 When this area is active, there will be live firing inside the area.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDD47AZR,EDD47AZ,EDD47AZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Traffic is not allowed to flight plan across active military area,,ED,15 JUL 2023,N/A Or Empty,N/A Or Empty,
 EDD47BZR,EDD47BZ,EDD47BZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP. 
@@ -249,6 +236,34 @@ EDR201EZR,EDR201EZ,EDR201EZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
 EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
+EDR201FZR,EDR201FZ,EDR201FZ,"NOT AVBL FOR TFC
+EXC _x000D_
+1. VIA (ALASA M852 HAM)_x000D_
+2. VIA (HAM M852 SOKWO)_x000D_
+3. VIA (EKERN N125 ELSOB)_x000D_
+4. VIA (OTAHO Q800 NIGAD)_x000D_
+5. VIA (NIGAD Q800 OTAHO)_x000D_
+6. VIA (BOGMU T909 OTAHO)_x000D_
+7. VIA (BOGMU T814 EXNEL)_x000D_
+8. VIA (EKERN T905 BOGMU)_x000D_
+9. VIA (RENSU Y348 OMWEG)_x000D_
+10. VIA (OMWEG Y348 RENSU)_x000D_
+11. VIA (OMWEG M105 AMRAK)_x000D_
+12. VIA (EXNEL DCT OLDIP)_x000D_
+13. VIA (OLDIP DCT PIZID)_x000D_
+14. VIA (PIZID DCT EKERN)_x000D_
+15. VIA (EKERN DCT PIZID)_x000D_
+16. VIA (RENSU DCT HINHU)_x000D_
+17. VIA (HINHU DCT RENSU)_x000D_
+18. VIA (ABFAD DCT HINHU)_x000D_
+19. VIA (HINHU DCT ABFAD)_x000D_
+20. VIA (BADOS DCT OMWEG)_x000D_
+21. VIA (OMWEG DCT BADOS)_x000D_
+22. DEP EDDH & SID (SOKWO)_x000D_
+23. ARR EDDH & STAR (RARUP)_x000D_
+24. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or DEP are EXC in column Traffic Flow Rule applied.
+
+Option 24.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,03 JUL 2025,N/A Or Empty,N/A Or Empty,
 EDR202AZR,EDR202AZ,EDR202AZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
@@ -299,6 +314,20 @@ EDR203BZR,EDR203BZ,EDR203BZ,"NOT AVBL FOR TFC
  3. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or DEP are EXC in column Traffic Flow Rule applied.
 
 Option 3.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
+EDR205AZR,EDR205AZ,EDR205AZ,"NOT AVBL FOR TFC
+EXC 
+1. DEP EDFH & SID (NVO, ULKIG)
+2. DEP EDFH & SID (RUDOT) AND-THEN 
+    a. (RUDOT Y180 BITBU)
+    b. (RUDOT Q762 LULAT)
+3. DEP ETAR & SID (BOLKI, TOLEY)
+4. DEP ETAD
+5. DEP (EDDR, EDRZ) & 
+    a. VIA (TOMPI Q760 RUDOT)
+    b. VIA (TOMPI Q760 IDARO Z100 SOMIM)
+6. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or DEP are EXC in column Traffic Flow Rule applied.
+
+Option 6.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,24 JUL 2025,EDR205AZR,EDR205AZR,
 EDR205BZR,EDR205BZ,EDR205BZ,"NOT AVBL FOR TFC
 EXC
 1. DEP EDFM & SID (RINEX, ROLSO, UMDAS)
@@ -324,10 +353,13 @@ EXC
 1. DEP ETAR & SID (TOLEY)
 2. ARR (EDDR, EDRZ) & VIA (GTQ G21 MAKOT Z818 IXWIB)
 3. ARR (EDDR, EDRZ) & VIA (LADAT Z818 IXWIB)
-4. DEP (EDDR, EDRZ) & VIA (TOMPI Q760 RUDOT)
-5. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or ARR/DEP are EXC in column Traffic Flow Rule applied.
+4. DEP (EDDR, EDRZ) & 
+    a. VIA (TOMPI Q760 RUDOT)
+    b. VIA (TOMPI Q760 IDARO Z100 SOMIM)
+5. DEP EDDR & SID (GTQ)
+6. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or ARR/DEP are EXC in column Traffic Flow Rule applied.
 
-Option 5.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,EDR205DZR,EDR205DZR,
+Option 6.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,20 AUG 2025,EDR205DZR,EDR205DZR,
 EDR207CZR,EDR207CZ,EDR207CZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
@@ -347,10 +379,19 @@ Option 2.: EXC is granted for single/double seated military jets in accordance w
 EDR208AZR,EDR208AZ,EDR208AZ,"NOT AVBL FOR TFC
 EXC
 1. ARR EDDP 
-2. DEP EDDP & SID (DRN2S, DRN2N, DRN1L, DRN2E, DRN2Q, NEVKO2E, NEVKO2Q, GOLAT2E, GOLAT2Q)
+2. DEP EDDP 
 3. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or ARR/DEP are EXC in column Traffic Flow Rule applied.
 
 Option 3.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,27 JUN 2025,N/A Or Empty,N/A Or Empty,
+EDR208BZR,EDR208BZ,EDR208BZ,"NOT AVBL FOR TFC
+EXC
+1. VIA (TADUV Z21 RIVSA)
+2. VIA (RENDO Q230 TADUV)
+3. ARR/DEP EDDP
+4. DEP EDDC & VIA BEBEX
+5. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or ARR/DEP are EXC in column Traffic Flow Rule applied.
+
+Option 5: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,03 JUL 2025,N/A Or Empty,N/A Or Empty,
 EDR301AZR,EDR301AZ,EDR301AZ,"NOT AVBL FOR TFC
 EXC VIA MC4 & FLT-TYPE (OAT)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
@@ -393,10 +434,9 @@ EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, T
 EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR308ZR,EDR308Z,EDR308Z,"NOT AVBL FOR TFC
 EXC 
-1. VIA (RENDO DCT SULED)
-2. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
+FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
-Option 2.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,27 JUN 2025,N/A Or Empty,N/A Or Empty,
+EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,27 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR31ZR,EDR31Z,EDR31Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR32AZR,EDR32AZ,EDR32AZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR32BZR,EDR32BZ,EDR32BZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
@@ -669,7 +709,6 @@ EFTSAV33ZR,EFTSAV33Z,EFTSAV33Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic 
 EFTSAV34ZR,EFTSAV34Z,EFTSAV34Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area,,EF,13 SEP 2021,N/A Or Empty,N/A Or Empty,
 EFTSAV35ZR,EFTSAV35Z,EFTSAV35Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area,,EF,13 SEP 2021,N/A Or Empty,N/A Or Empty,
 EFTSAV36ZR,EFTSAV36Z,EFTSAV36Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area,,EF,13 SEP 2021,N/A Or Empty,N/A Or Empty,
-EG902DR,EG902D,EG902D,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA (EGD902D SAXAVORD),,EG,13 SEP 2024,N/A Or Empty,N/A Or Empty,
 EGD003R,EGD003,EGD003,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area (PLYMOUTH),,EG,09 FEB 2023,N/A Or Empty,N/A Or Empty,
 EGD003Z1R,EGD003Z1,EGD003Z1,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area (PLYMOUTH) and associated 1nm buffer zone,,EG,08 FEB 2023,N/A Or Empty,N/A Or Empty,
 EGD003Z5R,EGD003Z5,EGD003Z5,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area (PLYMOUTH) and associated 5nm buffer zone,,EG,08 FEB 2023,N/A Or Empty,N/A Or Empty,
@@ -1418,11 +1457,6 @@ EKD373R,EKD373,EKD373,NOT AVBL FOR TFC,"P992, Z710",S,"Traffic is not allowed to
 EKD373ZR,EKD373Z,EKD373Z,NOT AVBL FOR TFC,"P992, Z710",S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ATTUS, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKD389R,EKD389,EKD389,NOT AVBL FOR TFC,P615,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ELVAV, EVGUN, UNVUG",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKD389ZR,EKD389Z,EKD389Z,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ELVAV, EVGUN, UNVUG",,EK,09 AUG 2023,N/A Or Empty,N/A Or Empty,
-EKD630R,EKD630,EKD630,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKD633R,EKD633,EKD633,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKD634R,EKD634,EKD634,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKD635R,EKD635,EKD635,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKD637R,EKD637,EKD637,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
 EKR11R,EKR11,EKR11,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ADSEN, ASLID, ROSBI",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR11ZR,EKR11Z,EKR11Z,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ADSEN, ASLID, ROSBI",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR12R,EKR12,EKR12,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ADSEN, MIKSI, TNO",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
@@ -1433,22 +1467,22 @@ EKR14R,EKR14,EKR14,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to
 EKR14ZR,EKR14Z,EKR14Z,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ADSEN, ASLID, ASVAN, MIKSI, TNO",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR15R,EKR15,EKR15,NOT AVBL FOR TFC,T155,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ROSBI, TNO, DOBEL",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR15ZR,EKR15Z,EKR15Z,"NOT AVBL FOR TFC
-1. EXC ARR EKCH & VIA STAR (TESPI)
+1. EXC ARR EKCH & STAR (TESPI)
 2. EXC VIA (ROSBI N603 INPUN)
-3. EXC VIA (ROSBI DCT (INPUN, TNO))","Z702, T155, N603, T148, M725",S,"To enable traffic to/from AD. Nearby points: ROSBI, TNO, DOBEL",,EK,21 AUG 2024,N/A Or Empty,N/A Or Empty,
+3. EXC VIA (ROSBI DCT (INPUN, TNO))","(Z702, T155, N603, T148, M725)",S,"To enable traffic to/from AD. Nearby points: ROSBI, TNO, DOBEL",,EK,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 EKR16R,EKR16,EKR16,NOT AVBL FOR TFC,T155,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ROSBI, TNO, DOBEL",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR16ZR,EKR16Z,EKR16Z,"NOT AVBL FOR TFC
-1. EXC ARR EKCH & VIA STAR (TESPI)
+1. EXC ARR EKCH & STAR (TESPI)
 2. EXC VIA (ROSBI N603 INPUN)
-3. EXC VIA (ROSBI DCT (INPUN, TNO))","Z702, T148, T155, N603",S,"To enable traffic to AD. Nearby points: ROSBI, TNO, DOBEL",,EK,21 AUG 2024,N/A Or Empty,N/A Or Empty,
+3. EXC VIA (ROSBI DCT (INPUN, TNO))","(Z702, T148, T155, N603)",S,"To enable traffic to AD. Nearby points: ROSBI, TNO, DOBEL",,EK,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 EKR17R,EKR17,EKR17,NOT AVBL FOR TFC,"Z702, Z703, N872",S,"To enable traffic from AD. Nearby points: ASVAN, SORGA, TNO",,EK,26 OCT 2022,N/A Or Empty,N/A Or Empty,
 EKR17ZR,EKR17Z,EKR17Z,"NOT AVBL FOR TFC
-EXC ARR EKCH & VIA STAR (TESPI)","Z702, Z703, N872",S,"To enable traffic to/from AD. Nearby points: ASVAN, SORGA, TNO",,EK,21 AUG 2024,N/A Or Empty,N/A Or Empty,
+EXC ARR EKCH & STAR (TESPI)","(Z702, Z703, N872)",S,"To enable traffic to/from AD. Nearby points: ASVAN, SORGA, TNO",,EK,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 EKR18R,EKR18,EKR18,NOT AVBL FOR TFC,N872,S,"To enable traffic from AD. Nearby points: ASVAN, SORGA, TNO",,EK,26 OCT 2022,N/A Or Empty,N/A Or Empty,
 EKR18ZR,EKR18Z,EKR18Z,"NOT AVBL FOR TFC
-1. EXC ARR EKCH & VIA STAR (TESPI)
-2. EXC DEP EKCH & VIA SID (ODDON)
-3. EXC DEP EKRK & VIA MIRGO","Z702, Z703, N872",S,"To enable traffic to/from AD. Nearby points: ASVAN, SORGA, TNO",,EK,21 OCT 2024,N/A Or Empty,N/A Or Empty,
+1. EXC ARR EKCH & STAR (TESPI)
+2. EXC DEP EKCH & SID (ODDON)
+3. EXC DEP EKRK & VIA MIRGO","(Z702, Z703, N872)",S,"To enable traffic to/from AD. Nearby points: ASVAN, SORGA, TNO",,EK,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 EKR19R,EKR19,EKR19,NOT AVBL FOR TFC,P990,S,"Traffic is not allowed to flight plan across active military area Nearby points: ADSEN, ASLID, ASVAN, GOLGA, TNO",,EK,26 OCT 2022,N/A Or Empty,N/A Or Empty,
 EKR19ZR,EKR19Z,EKR19Z,NOT AVBL FOR TFC,P990,S,"Traffic is not allowed to flight plan across active FBZ Nearby points: ADSEN, ASLID, ASVAN, GOLGA, TNO",,EK,26 OCT 2022,N/A Or Empty,N/A Or Empty,
 EKR20R,EKR20,EKR20,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ADSEN, ASLID, ASVAN,ADVOP",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
@@ -1471,10 +1505,10 @@ EKR38R,EKR38,EKR38,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight pla
 EKR38ZR,EKR38Z,EKR38Z,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points:ABLEV, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR39R,EKR39,EKR39,NOT AVBL FOR TFC,"N607, N873, P60",S,"Traffic is not allowed to flight plan across active military area. Nearby points: BAMPI, TOMGU",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR39ZR,EKR39Z,EKR39Z,"NOT AVBL FOR TFC
-EXC DEP EKBI & VIA SID (BAMPI3A, BAMPI3B)","N607, N873, P60",S,"To enable traffic from AD. Nearby points: BAMPI, TOMGU",,EK,21 AUG 2024,N/A Or Empty,N/A Or Empty,
+EXC DEP EKBI & SID (BAMPI5A, BAMPI5B)","(N607, N873, P60)",S,"To enable traffic from AD. Nearby points: BAMPI, TOMGU",,EK,27 AUG 2025,N/A Or Empty,N/A Or Empty,
 EKR40R,EKR40,EKR40,NOT AVBL FOR TFC,"N607, N873, P601",S,"Traffic is not allowed to flight plan across active military area. Nearby points: BAMPI, TOMGU",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR40ZR,EKR40Z,EKR40Z,"NOT AVBL FOR TFC
-EXC DEP EKBI & VIA SID (BAMPI3A, BAMPI3B, RAM4B)","N607, N873, P601",S,"To enable traffic from AD. Nearby points: BAMPI, TOMGU",,EK,21 AUG 2024,N/A Or Empty,N/A Or Empty,
+EXC DEP EKBI & SID (BAMPI5A, BAMPI5B, RERPA2A, RERPA2B)","N607, N873, P601",S,"To enable traffic from AD. Nearby points: BAMPI, TOMGU",,EK,27 AUG 2025,N/A Or Empty,N/A Or Empty,
 EKR42R,EKR42,EKR42,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ABLEV, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR42ZR,EKR42Z,EKR42Z,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ABLEV, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR44R,EKR44,EKR44,NOT AVBL FOR TFC,P729,S,Traffic is not allowed to flight plan across active military area. Nearby points: SKR,,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
@@ -1487,13 +1521,6 @@ EKR48R,EKR48,EKR48,NOT AVBL FOR TFC,P990,S,"Traffic is not allowed to flight pla
 EKR48ZR,EKR48Z,EKR48Z,NOT AVBL FOR TFC,P990,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: AAL, ETVOK, EVSES, LAGUM, TUXUR",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR53R,EKR53,EKR53,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ADVOP, GOLGA,ROKAM, MIKSI",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR53ZR,EKR53Z,EKR53Z,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ADVOP, GOLGA,ROKAM, MIKSI",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
-EKR628R,EKR628,EKR628,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKR629R,EKR629,EKR629,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKR629ZR,EKR629Z,EKR629Z,NOT AVBL FOR TFC,,S,"Traffic is not allowed to flight plan across active military area.
-",,EK,06 JUN 2025,N/A Or Empty,N/A Or Empty,
-EKR631R,EKR631,EKR631,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKR632R,EKR632,EKR632,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
-EKR636R,EKR636,EKR636,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area.,,EK,17 APR 2025,N/A Or Empty,N/A Or Empty,Drone_surveillance_insight25
 EKR70R,EKR70,EKR70,NOT AVBL FOR TFC,"L621, P990, Z716",S,"Traffic is not allowed to flight plan across active military area. Nearby points: ETVOK, EVSES, TUXUR, LAGUM",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR70ZR,EKR70Z,EKR70Z,NOT AVBL FOR TFC,"L621, P990, Z716",S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ETVOK, EVSES, TUXUR, LAGUM",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR78R,EKR78,EKR78,NOT AVBL FOR TFC,"M609, P992, P619, P60",S,"Traffic is not allowed to flight plan across active military area. Nearby points: NUGLO,  RERPA, EPILO, BAVTA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
@@ -1519,9 +1546,9 @@ Nearby points: BEBGA, BETMA, KEGAX, LEVLO, PEPIV, ORTEN, IBETU, BEVIP",,EN,02 FE
 END516ZS,END516Z B16Z,END516Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
 Nearby points: ABKUL, DITEB, KUXUS, LELSA, NEPKI, VIBON, KOMUX",,EN,07 DEC 2023,N/A Or Empty,N/A Or Empty,
 END517ZS,END517Z B24Z,END517Z,"NOT AVBL FOR TFC
-1. EXC ARR ENTC & VIA STAR (GILGU)
-2. EXC DEP ENTC & VIA SID (GILGU, EVANI)","Z200, Z203 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: GIBMO, XAPOR, LAMLU, BAPIM, NEGVA, MOBDU, SOZED, BOKIW, GOGPI",,EN,29 OCT 2024,N/A Or Empty,N/A Or Empty,
+1. EXC ARR ENTC & STAR (GILGU)
+2. EXC DEP ENTC & SID (GILGU, EVANI)","Z200, Z203 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
+Nearby points: GIBMO, XAPOR, LAMLU, BAPIM, NEGVA, MOBDU, SOZED, BOKIW, GOGPI",,EN,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 END522ZS,END522Z C2Z,END522Z,NOT AVBL FOR TFC,"M604, Z203",S,"Traffic is not allowed to flight plan across active military area
 Nearby points: ARVIM, RUTOD, XASUM, VEPAT, ORTEN, ABGUN",,EN,01 OCT 2021,N/A Or Empty,N/A Or Empty,
 END526ZS,END526Z C6Z,END526Z,NOT AVBL FOR TFC,M604,S,"Traffic is not allowed to flight plan across active military area
@@ -1530,13 +1557,13 @@ END530ZS,END530Z C10Z,END530Z,NOT AVBL FOR TFC,M604,S,"Traffic is not allowed to
 Nearby points: TUVLA, ULTET, IDLAG, OGNEL, ABGUN, OGPAR",,EN,01 OCT 2021,N/A Or Empty,N/A Or Empty,
 END533ZS,END533Z D2Z,END533Z,"NOT AVBL FOR TFC
 1. EXC ARR/DEP (ENMS, ENRA) & VIA RILUN
-2. EXC ARR ENBO & VIA STAR (BNN)
-3. EXC DEP ENBO & VIA SID (BNN)",M604 / All  DCTs,S,"Traffic is not allowed to flight plan across active military area
-Nearby points: BEVMU, IRKEL, NINUL, PISEL, UGMAL, GUBNO",,EN,29 OCT 2024,END533ZS,END533ZS,
+2. EXC ARR ENBO & STAR (BNN)
+3. EXC DEP ENBO & SID (BNN)",M604 / All  DCTs,S,"Traffic is not allowed to flight plan across active military area
+Nearby points: BEVMU, IRKEL, NINUL, PISEL, UGMAL, GUBNO",,EN,29 JUL 2025,END533ZS,END533ZS,
 END536ZS,END536Z D5Z,END536Z,"NOT AVBL FOR TFC
-1. EXC DEP ENBO & VIA SID (BNN)
-2. EXC ARR ENBO & VIA STAR (BNN)","M604, / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: GOGNO, LUXAM, VEGAS, XEGLA, OGPAR, TABEV",,EN,29 OCT 2024,END536ZS,END536ZS,
+1. EXC DEP ENBO & SID (BNN)
+2. EXC ARR ENBO & STAR (BNN)","M604, / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
+Nearby points: GOGNO, LUXAM, VEGAS, XEGLA, OGPAR, TABEV",,EN,29 JUL 2025,END536ZS,END536ZS,
 END539ZS,END539Z D8Z,END539Z,NOT AVBL FOR TFC,"M604, Z103, Z307, P5, Z202, Z200, Z261, TB1, TR10, Z105, M609 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
 Nearby points: ADSIM, GOPEN, GUBNO, KUVIT, MIKDA, ODEVI,  ROSBO",,EN,16 FEB 2022,N/A Or Empty,N/A Or Empty,
 END542ZS,END542Z E2Z,END542Z,NOT AVBL FOR TFC,"Z202, Z105 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
@@ -1635,11 +1662,11 @@ ENT111ZR,ENT111Z B13Z,ENT111Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic i
 ENT112ZR,ENT112Z C3Z,ENT112Z,NOT AVBL FOR TFC,"Z200, Z203",S,"Traffic is not allowed to flight plan across active military area
 Nearby points: ATKID, BAVIR, NEPEX, MIKMU, GOGPI",,EN,02 FEB 2024,N/A Or Empty,N/A Or Empty,
 ENT113ZR,ENT113Z C4Z,ENT113Z,NOT AVBL FOR TFC,"Z202, Z200, Z203",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: ARVIM, STETI, ELVEN, EKRAB,  TUVUN",,EN,01 OCT 2021,N/A Or Empty,N/A Or Empty,
+Nearby points: ARVIM, STETI, ELVEN, EKRAB,  TUVUN",,EN,30 AUG 2025,N/A Or Empty,N/A Or Empty,
 ENT114ZR,ENT114Z C7Z,ENT114Z,NOT AVBL FOR TFC,"M604, Z200",S,"Traffic is not allowed to flight plan across active military area
 Nearby points: PIKOX, IBNAL, LULIV, XAVAS, GOGPI, VOVIC",,EN,02 FEB 2024,N/A Or Empty,N/A Or Empty,
 ENT115ZR,ENT115Z C8Z,ENT115Z,NOT AVBL FOR TFC,"Z202, Z200",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: ASRED, UDANU, LEGLU, ETUVA, VEPUN, GOGPI",,EN,02 FEB 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: ASRED, UDANU, LEGLU, ETUVA, VEPUN, GOGPI",,EN,30 AUG 2025,N/A Or Empty,N/A Or Empty,
 ENT116ZR,ENT116Z C11Z,ENT116Z,NOT AVBL FOR TFC,M604,S,"Traffic is not allowed to flight plan across active military area
 Nearby points: RILUN, NERAM, POBIX, ADBIT",,EN,01 OCT 2021,N/A Or Empty,N/A Or Empty,
 ENT117ZR,ENT117Z D3Z,ENT117Z,NOT AVBL FOR TFC,"P5, Z201, Z20, Z200, TB1, TR10, M609 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
@@ -1664,12 +1691,12 @@ ENT123ZR,ENT123Z G2Z,ENT123Z,"NOT AVBL FOR TFC
     b. VIA (GIBMO DCT SJA)
     c. VIA (ULNIK DCT SJA)
     d. VIA STAR (BARVI)
-3. EXC ARR ENTC & VIA STAR (BARVI)
+3. EXC ARR ENTC & STAR (BARVI)
 ----------
 NOT AVBL FOR TFC
 1. DEP ENDU AND-THEN VIA (GIBMO, BARVI, SJA) AND-THEN VIA ENT123Z
 2. VIA ENT123Z AND-THEN VIA (GIBMO, BARVI, ULNIK) AND-THEN ARR ENDU","P853, Z201, Z202, P80, Z200, Z156, TR10, Z205, P600, M609",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: PEXOL, ABKIL, EKNAM, TOPTI, UGMIX, RIXEM, POBEL, GAPRO, BOKIW",,EN,29 OCT 2024,ENT123ZR,ENT123ZR,
+Nearby points: PEXOL, ABKIL, EKNAM, TOPTI, UGMIX, RIXEM, POBEL, GAPRO, BOKIW",,EN,29 JUL 2025,ENT123ZR,ENT123ZR,
 ENT124ZR,ENT124Z G4Z,ENT124Z,"NOT AVBL FOR TFC
 1. EXC DEP ENDU AND-THEN VIA (SJA DCT BARVI)
 2. ARR/DEP ENEV & VIA (EVANI, PIKOX)
@@ -1704,15 +1731,15 @@ ENT128ZR,ENT128Z G8Z,ENT128Z,NOT AVBL FOR TFC,"Z101, Z201, P80, Z200, Z156, TR10
 ENT129ZR,ENT129Z G9Z,ENT129Z,NOT AVBL FOR TFC,"Z101, P5, Z201, Z202, Z200, T320, Z156, TR10, T63, M609, T65 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
 Nearby points: ASRED, DISMU, PENAX, KOXEN, GILEN, ROSAP, UBABA",,EN,16 FEB 2022,N/A Or Empty,N/A Or Empty,
 ENT131ZR,ENT131Z H1Z,ENT131Z,"NOT AVBL FOR TFC
-1. EXC ARR ENBO & VIA STAR (BNN)
-2. EXC DEP ENBO & VIA SID (BNN)
+1. EXC ARR ENBO & STAR (BNN)
+2. EXC DEP ENBO & SID (BNN)
 3. EXC ARR/DEP ENMS
     a. BIDI (BINTU DCT XODBA)
     b. BIDI (RILUN DCT BOXDI)
 4. EXC ARR/DEP ENRA
     a. BIDI (RILUN DCT LUXAM)
     b. BIDI (BINTU DCT LUXAM)","Z101, P5, Z201, Z200, Z156, TB1, TR10, T63, M609, T65 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: NORTU, UGMAL, RILUN, MOREB, MIMKI, NOGBO",,EN,29 OCT 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: NORTU, UGMAL, RILUN, MOREB, MIMKI, NOGBO",,EN,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 ENT132ZR,ENT132Z H2Z,ENT132Z,"NOT AVBL FOR TFC
 1. EXC ARR/DEP ENMS
     a. BIDI (BINTU DCT XODBA)
@@ -1732,13 +1759,17 @@ ENT137ZR,ENT137Z I3Z,ENT137Z,"NOT AVBL FOR TFC
 1. EXC DEP (ENGM, ENTO, ENRY)
 2. EXC ARR ENGM 
     a. VIA (XELVI P600 INREX)
-    b. VIA (ABUNO L996 INREX)",All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
+    b. VIA (ABUNO L996 INREX)
+    c. VIA (ABUNO DCT INREX)
+    d. VIA (XELVI DCT INREX)",All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
 Nearby points: IXUMA, LILBA, AGNIL, GIVON, AMOXA, OSKOK, ROVPA",,EN,11 JUN 2025,N/A Or Empty,N/A Or Empty,
 ENT138ZR,ENT138Z I4Z,ENT138Z,"NOT AVBL FOR TFC
 1. EXC DEP (ENGM, ENTO, ENRY)
 2. EXC ARR ENGM 
     a. VIA (XELVI P600 INREX)
-    b. VIA (ABUNO L996 INREX)",All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
+    b. VIA (ABUNO L996 INREX)
+    c. VIA (ABUNO DCT INREX)
+    d. VIA (XELVI DCT INREX)",All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
 Nearby points:  ABUNO, NUVSA, LILBA, OSKOK, ROVPA",,EN,11 JUN 2025,N/A Or Empty,N/A Or Empty,
 ENT139ZR,ENT139Z J2Z,ENT139Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
 Nearby points: NATET, OGMUR, OGETU, PIGED, SORAV, TURER, SORAV, TUGTO, UTUNA",,EN,01 OCT 2021,N/A Or Empty,N/A Or Empty,
@@ -1760,6 +1791,9 @@ ENT150ZR,ENT150Z JC4Z,ENT150Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic i
 ENT151ZR,ENT151Z KC1Z,ENT151Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area,,EN,11 OCT 2021,N/A Or Empty,N/A Or Empty,
 ENT152ZR,ENT152Z KC2Z,ENT152Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area,,EN,11 OCT 2021,N/A Or Empty,N/A Or Empty,
 ENT153ZR,ENT153Z KC3Z,ENT153Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area,,EN,11 OCT 2021,N/A Or Empty,N/A Or Empty,
+ENT154ZR,ENT154Z K1Z,ENT154Z,"NOT AVBL FOR TFC
+EXC VIA EVTOG AND-THEN VIA SELCO AND-THEN VIA BASTU & STAR (BASTU)",All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
+Nearby points: OLOLU, OGETU, EVLED, BASTU",,EN,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 ENT155ZR,ENT155Z K2Z,ENT155Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area,,EN,01 OCT 2021,N/A Or Empty,N/A Or Empty,
 ENT156ZR,ENT156Z K3Z,ENT156Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
 Nearby points: SELCO, VAMTO, TESLU, PIGED, URARU, OLOLU",,EN,06 JAN 2022,N/A Or Empty,N/A Or Empty,
@@ -1774,10 +1808,10 @@ Nearby points: TIMIX, MAMIP, ULVIR, OBITI, OGDIT",,EN,06 JAN 2022,N/A Or Empty,N
 ENT160ZR,ENT160Z K7Z,ENT160Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
 Nearby points: DOPUX, ADOPI, EVTOG, UFGUG",,EN,25 APR 2022,N/A Or Empty,N/A Or Empty,
 ENT161ZR,ENT161Z K8Z,ENT161Z,"NOT AVBL FOR TFC
-1. EXC DEP ENBR & VIA SID (INTUM) AND-THEN VIA (INTUM DCT MIVSO)
+1. EXC DEP ENBR & SID (INTUM) AND-THEN VIA (INTUM DCT MIVSO)
 2. EXC DEP ENHD & VIA (GENVU DCT INTUM) AND-THEN (INTUM DCT MIVSO)
 3. EXC ARR ENHD & VIA (ARNEN DCT UPDER)",All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
-Nearby points: OSPAS, ULVAN, ELKET ",,EN,29 OCT 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: OSPAS, ULVAN, ELKET ",,EN,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 ENT162ZR,ENT162Z K9Z,ENT162Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
 Nearby points: EBAMU, SELCO, EMLER, BITKU",,EN,06 JAN 2022,N/A Or Empty,N/A Or Empty,
 ENT163ZR,ENT163Z K10Z,ENT163Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
@@ -1835,11 +1869,11 @@ Nearby points: MACKA, BAREG, KIIKA, REPGA, TULNO, OSLOL",,EN,07 DEC 2023,N/A Or 
 ENT734ZR,ENT734Z B34Z,ENT734Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area.
 Nearby points: NAXAP, KOPIN, XEGRO, ELROR, GIMUM, SOZED, ICOMA",,EN,02 FEB 2024,N/A Or Empty,N/A Or Empty,
 ENT735ZR,ENT735Z B35Z,ENT735Z,NOT AVBL FOR TFC,"Z202, Z200, TR10, Z203, M609",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: PIKOX, EVABO, LAVNA, ANDOR, ABNAG",,EN,07 DEC 2023,N/A Or Empty,N/A Or Empty,
+Nearby points: PIKOX, EVABO, LAVNA, ANDOR, ABNAG",,EN,30 AUG 2025,N/A Or Empty,N/A Or Empty,
 ENT736ZR,ENT736Z B36Z,ENT736Z,NOT AVBL FOR TFC,"Z202, Z200, Z156, Z203, M609",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: ULGIT, IBSEK, ODPAR, PIVIV, SOZED, ICOMA, GOGPI",,EN,02 FEB 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: ULGIT, IBSEK, ODPAR, PIVIV, SOZED, ICOMA, GOGPI",,EN,30 AUG 2025,N/A Or Empty,N/A Or Empty,
 ENT737ZR,ENT737Z B37Z,ENT737Z,NOT AVBL FOR TFC,"Z202, Z200, TR10, Z203, M609",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: PIKOX, EVABO, LAVNA, ANDOR, ABNAG, VOVIC",,EN,02 FEB 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: PIKOX, EVABO, LAVNA, ANDOR, ABNAG, VOVIC",,EN,30 AUG 2025,N/A Or Empty,N/A Or Empty,
 EPD11R,EPD11,EPD11,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,EP,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EPD11ZR,EPD11Z,EPD11Z,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,EP,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EPD12R,EPD12,EPD12,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,EP,19 SEP 2021,N/A Or Empty,N/A Or Empty,
@@ -2213,7 +2247,6 @@ EXC ARR/DEP (EPGD, EPCE)",All ATS route/s / DCT/s,S,Traffic is not allowed to fl
 EPTR70BZR,EPTR70BZ,EPTR70BZ,"NOT AVBL FOR TFC
 EXC ARR/DEP (EPGD, EPCE)",All ATS route/s / DCT/s,S,Traffic is not allowed to flight plan across active area,,EP,15 OCT 2024,N/A Or Empty,N/A Or Empty,
 EPTR71R,EPTR71,EPTR71,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
-EPTR72AR,EPTR72A,EPTR72A,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
 EPTR72BR,EPTR72B,EPTR72B,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
 EPTR72CR,EPTR72C,EPTR72C,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
 EPTR72DR,EPTR72D,EPTR72D,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
@@ -2649,7 +2682,7 @@ ESTRA80ZR,ESTRA80Z,ESTRA80Z,"NOT AVBL FOR TFC
 2. DEP (OUTSIDE_GROUP, BI**)",All ATS route/s/ DCT/s,S,"To enable traffic to/from AD
 Nearby points: MISMO, BESLA, VAGAS, DOPUD",,ES,27 AUG 2024,N/A Or Empty,N/A Or Empty,
 EUC25FCR,EUC25FC,EUC25FC,"NOT AVBL FOR TFC
-DEP LFSB & VIA SID MOROK",,S,Traffic departing LFSB is not allowed to flight plan across active area as published via AUP/UUP,,LF,29 MAR 2025,N/A Or Empty,N/A Or Empty,
+DEP LFSB & SID MOROK",,S,Traffic departing LFSB is not allowed to flight plan across active area as published via AUP/UUP,,LF,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 EUC25SHZR,EUC25SHZ,EUC25SHZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area,,EU,25 OCT 2021,N/A Or Empty,N/A Or Empty,
 EUC25SLPZR,EUC25SLPZ,EUC25SLPZ,"NOT AVBL FOR TFC
 Except
@@ -2725,6 +2758,8 @@ EVTSA34R,EVTSA34,EVTSA34,NOT AVBL FOR TFC,All ATS route/s/FRA DCT/s,S,Traffic is
 EVTSA35R,EVTSA35,EVTSA35,NOT AVBL FOR TFC,All ATS route/s/ FRA DCT/s,S,Traffic is not allowed to flight plan across active military area,,EV,22 AUG 2024,N/A Or Empty,N/A Or Empty,
 EVTSA36R,EVTSA36,EVTSA36,NOT AVBL FOR TFC,All ATS route/s/ FRA DCT/s,S,Traffic is not allowed to flight plan across active military area,,EV,22 AUG 2024,N/A Or Empty,N/A Or Empty,
 EVTSA47R,EVTSA47,EVTSA47,NOT AVBL FOR TFC,All ATS route/s/FRA DCT/s,S,Traffic is not allowed to flight plan across active military area,,EV,02 APR 2025,N/A Or Empty,N/A Or Empty,
+EVTSA76R,EVTSA76,EVTSA76,NOT AVBL FOR TFC,All ATS route/s/FRA DCT/s,S,Traffic is not allowed to flight plan across active military area.,,EV,23 MAY 2025,N/A Or Empty,N/A Or Empty,
+EVTSA78R,EVTSA78,EVTSA78,NOT AVBL FOR TFC,All ATS route/s/FRA DCT/s,S,Traffic is not allowed to flight plan across active military area.,,EV,23 MAY 2025,N/A Or Empty,N/A Or Empty,
 EYD12ZR,EYD12Z,EYD12Z,"NOT AVBL FOR TFC
 1. EXC DEP (EYSA, EVGA, EEEI) AND-THEN ARR (EYSA, EVGA, EEEI)
 2. EXC FLT-TYPE (M)",ALL FRA DCTs,S,"Traffic is not allowed to flight plan across active FBZ.                            Nearby points: VUBCA, PEKWA, EDFIG, ORZIK",,EY,23 AUG 2024,N/A Or Empty,N/A Or Empty,
@@ -2966,7 +3001,6 @@ LBTRA37R,LBTRA37,LBTRA37,NOT AVBL FOR TFC,"(L622, L742, T555, Y189)",S,Traffic i
 LBTRA38R,LBTRA38,LBTRA38,NOT AVBL FOR TFC,"(L606, L614, M19, N739, P92, P127, T72)",S,Traffic is not allowed to flight plan across active military area,,LB,01 AUG 2023,N/A Or Empty,N/A Or Empty,
 LBTRA41AR,LBTRA41A,LBTRA41A,NOT AVBL FOR TFC,"(L606, L867, T226, Y551, Y553)",S,Traffic is not allowed to flight plan across active military area,,LB,01 AUG 2023,N/A Or Empty,N/A Or Empty,
 LBTRA41BR,LBTRA41B,LBTRA41B,NOT AVBL FOR TFC,Q26,S,Traffic is not allowed to flight plan across active military area,,LB,08 JUL 2022,N/A Or Empty,N/A Or Empty,
-LBTRA41R,LBTRA41,LBTRA41,NOT AVBL FOR TFC,"(L606, L867, Q26, T226, Y551, Y553)",S,Traffic is not allowed to flight plan across active military area,,LB,01 AUG 2023,N/A Or Empty,N/A Or Empty,
 LBTRA43AR,LBTRA43A,LBTRA43A,NOT AVBL FOR TFC,"(L606, L867, M748, N181, N618, Q24, T226, Y520, Y551, Y553)",S,Traffic is not allowed to flight plan across active military area.,,LB,01 AUG 2023,N/A Or Empty,N/A Or Empty,
 LBTRA52AR,LBTRA52A,LBTRA52A,NOT AVBL FOR TFC,T746,S,Traffic is not allowed to flight plan across active military area,,LB,24 OCT 2021,N/A Or Empty,N/A Or Empty,
 LBTRA52BR,LBTRA52B,LBTRA52B,NOT AVBL FOR TFC,"(L619, L852, P975, M859)",S,Traffic is not allowed to flight plan across active military area,,LB,01 AUG 2023,N/A Or Empty,N/A Or Empty,
@@ -3550,6 +3584,7 @@ LED120R,LED120,LED120,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan 
 LED120S,LED120,LED120,"NOT AVBL FOR TFC
 EXC ARR LEZL & VIA OSLEP",,S,To prevent flight planning through active area,,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
 LED121R,LED121,LED121,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,LE,24 OCT 2021,N/A Or Empty,N/A Or Empty,
+LED121RR,LED121R,LED121R,NOT AVBL FOR TFC,All ATS route/s/DCT/s,S,To prevent flight planning through active area,,LE,20 AUG 2025,N/A Or Empty,N/A Or Empty,
 LED122R,LED122,LED122,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,LE,24 OCT 2021,N/A Or Empty,N/A Or Empty,
 LED122S,LED122,LED122,"NOT AVBL FOR TFC
 EXC BLW FL245",All ATS route/s/ DCT/s,S,To prevent flight planning through active area,,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
@@ -3559,7 +3594,7 @@ LED125R,LED125,LED125,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,To prevent fligh
 LED126R,LED126,LED126,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,To prevent flight planning through active area,,LE,08 SEP 2024,N/A Or Empty,N/A Or Empty,
 LED128R,LED128,LED128,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active area,,LE,24 OCT 2021,N/A Or Empty,N/A Or Empty,
 LED128S,LED128,LED128,"NOT AVBL FOR TFC
-EXC BLW FL245",All ATS route/s/ DCT/s,S,To prevent flight planning through active area,,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
+EXC ARR LERT",All ATS route/s/ DCT/s,S,To prevent flight planning through active area,,LE,20 AUG 2025,N/A Or Empty,N/A Or Empty,
 LED129R,LED129,LED129,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,LE,24 OCT 2021,N/A Or Empty,N/A Or Empty,
 LED129S,LED129,LED129,"NOT AVBL FOR TFC
 EXC BLW FL245",All ATS route/s/ DCT/s,S,To prevent flight planning through active area,,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
@@ -3643,7 +3678,6 @@ LED90BR,LED90B,LED90B,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not a
 LED90BS,LED90B,LED90B,"NOT AVBL FOR TFC
 EXC VIA VJF AND-THEN VIA RUNAX",,S,Traffic is not allowed to flight plan across active area,,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
 LED90CR,LED90C,LED90C,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,LE,22 MAR 2024,N/A Or Empty,N/A Or Empty,
-LED90R,LED90,LED90,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area,,LE,24 OCT 2021,N/A Or Empty,N/A Or Empty,
 LED96R,LED96,LED96,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,To prevent flight planning through active area,,LE,24 OCT 2021,N/A Or Empty,N/A Or Empty,
 LED97AR,LED97A,LED97A,NOT AVBL FOR TFC,all ATS route/s/DCT/s,S,Traffic is not allowed to flight plan across active area,,LE,18 SEP 2024,N/A Or Empty,N/A Or Empty,
 LED97AS,LED97A,LED97A,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,To prevent flight planning through active area,,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
@@ -3840,14 +3874,6 @@ LETR62R,LETR62,LETR62,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 LETR63R,LETR63,LETR63,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
 ",TLP exercise,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
-LETR65R,LETR65,LETR65,"NOT AVBL FOR TFC
-EXC ARR/DEP (LELC, LEMI) & VIA ALT
-----------
-NOT AVBL FOR TFC
-1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETR65
-2. VIA LETR65 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)","all ATS route/s/DCT/s
-",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
-",TLP exercise,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
 LETR66HR,LETR66H,LETR66H,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
 ",TLP exercise,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
@@ -3899,12 +3925,6 @@ LETS35R,LETS35,LETS35,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
 LETS36R,LETS36,LETS36,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
-LETS64R,LETS64,LETS64,"NOT AVBL FOR TFC
-EXC ARR/DEP (LELC, LEMI) & VIA ALT
-----------
-NOT AVBL FOR TFC
-1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETS64
-2. VIA LETS64 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)",all ATS route/s/DCT/s,S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,13 OCT 2024,N/A Or Empty,N/A Or Empty,
 LETS91R,LETS91,LETS91,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
 ",TLP exercise,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
@@ -4212,6 +4232,10 @@ In CACD define as per Annex3B:
 GALOF DCT CNA: FL145-UNL
 Other DCTs: FL195-UNL",,LF,14 AUG 2023,N/A Or Empty,N/A Or Empty,
 LFR66DZR,LFR66DZ,LFR66DZ,NOT AVBL FOR TFC,,S,	Traffic is not allowed to flight plan across active military area and associated buffer zone.,,LF,23 MAY 2023,N/A Or Empty,N/A Or Empty,
+LFR68AR,LFR68A,LFR68A,NOT AVBL FOR TFC,"(V15, V13)",S,Traffic is not allowed to fill a flight plan across active military area,,LF,27 JUN 2025,N/A Or Empty,N/A Or Empty,
+LFR68BR,LFR68B,LFR68B,NOT AVBL FOR TFC,"(T19, V12)",S,Traffic is not allowed to fill a flight plan across active military area,,LF,27 JUN 2025,N/A Or Empty,N/A Or Empty,
+LFR68CR,LFR68C,LFR68C,NOT AVBL FOR TFC,"(T616, V12)",S,Traffic is not allowed to fill a flight plan across active military area,,LF,27 JUN 2025,N/A Or Empty,N/A Or Empty,
+LFR68DR,LFR68D,LFR68D,NOT AVBL FOR TFC,,S,Traffic is not allowed to fill a flight plan across active military area,,LF,27 JUN 2025,N/A Or Empty,N/A Or Empty,
 LFR9DZR,LFR9DZ,LFR9DZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRASW FRA),S,Traffic is not allowed to flight plan accros active defence area,,LF,10 SEP 2022,N/A Or Empty,N/A Or Empty,
 LFR9H1ZR,LFR9H1Z,LFR9H1Z,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRASW FRA),S,Traffic is not allowed to flight plan accros active defence area,,LF,10 SEP 2022,N/A Or Empty,N/A Or Empty,
 LFR9H2ZR,LFR9H2Z,LFR9H2Z,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRASW FRA),S,Traffic is not allowed to flight plan accros active defence area,,LF,10 SEP 2022,N/A Or Empty,N/A Or Empty,
@@ -4435,108 +4459,13 @@ LFT9DR,LFTRA9D,LFT9D,NOT AVBL FOR TFC,"UP860, All DCTs (as allowed by RAD Annex3
 LGD102AZR,LGD102AZ,LGD102AZ,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
 LGD102BZR,LGD102BZ,LGD102BZ,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
 LGD102CZR,LGD102CZ,LGD102CZ,NOT AVBL FOR TFC,All ATS Routes  and DCTs,S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
-LGD301R,LGD301,LGD301,NOT AVBL FOR TFC,"(LORNO (A145, UA145) RESPA)
-(KFN (M872, UM872) ETILI)
-(LORNO UP23 SIT)
-ARR/DEP LGZA",S,Traffic is not allowed to flight plan across active military area. ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD301ZR,LGD301Z,LGD301Z,NOT AVBL FOR TFC,"(LORNO (A145, UA145)  BERAP)
-(KFN (M872, UM872) ETILI)
-(LORNO UP23 SIT) ARR/DEP LGZA",S,"LG_MILEX_INIOHOS_INVITEX_2025
-","Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD302R,LGD302,LGD302,NOT AVBL FOR TFC,"(KFN (M872, UM872) ETILI)
-(DILMO UN45 BADOG)
-(LORNO UP23 SIT)",S,LG_MILEX_INIOHOS_INVITEX_2025,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD302S,LGD302,LGD302,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKC","(KFN (M,872 UM872) ETILI)
-(DILMO UN45 BADOG)
-(LORNO UP23 SIT)",S,"Traffic is not allowed to flight plan across active military area 
-EXC DEP/ARR LGKC","Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD302T,LGD302,LGD302,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKL","(KFN M872, UM872) ETILI)
-(DILMO UN45 BADOG)
-(LORNO UP23 SIT)",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR LGKL  ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD302ZR,LGD302Z,LGD302Z,NOT AVBL FOR TFC,"(TRL (A145, UA145) RESPA)
-(KFN (M872, UM872) ETILI)
-(DILMO UN45 BADOG)
-(ETILI (P32, UP32) EBOKA)
-(LORNO UP23 SIT)",S,Traffic is not allowed to flight plan across active military area. ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD302ZS,LGD302Z,LGD302Z,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKC","(TRL (A145, UA145) RESPA)
-(KFN (M872, UM872) ETILI)
-(DILMO UN45 BADOG)
-(ETILI (P32, UP32) EBOKA)
-(LORNO UP23 SIT)",S,"Traffic is not allowed to flight plan across active military area EXC DEP/ARR LGKC
-","Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD302ZT,LGD302Z,LGD302Z,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKL","TRL A/UA145 RESPA
-KFN M/UM872 ETILI
-DILMO UN45 BADOG
-ETILI P/UP32 EBOKA
-LORNO UP23 SIT",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR LGKL  ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD303R,LGD303,LGD303,NOT AVBL FOR TFC,"KFN M/UM872  ETILI
-ZAK Y/UY302 OSDES
-LORNO A/UA145 BERAP
-DEP/ARR LGZA",S,Traffic is not allowed to flight plan across active military area  ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD303S,LGD303,LGD303,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKF","KFN M/UM872  ETILI
-ZAK Y/UY302 OSDES
-LORNO A/UA145 BERAP
-DEP/ARR LGZA",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGKF,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD303T,LGD303,LGD303,"NOT AVBL FOR TFC
-EXC ARR/DEP LGZA","KFN M/UM872  ETILI
-ZAK Y/UY302 OSDES
-LORNO A/UA145 BERAP ",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGZA,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD303ZR, LGD303Z,LGD303Z,NOT AVBL FOR TFC,"KFN M/UM872  ETILI
-ZAK Y/UY302 OSDES
-LORNO A/UA145 ANEPI
-",S,Traffic is not allowed to flight plan across active military area.  ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD303ZS,LGD303Z,LGD303Z,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKF","KFN M/UM872  ETILI
-ZAK Y/UY302 OSDES
-LORNO A/UA145 ANEPI",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGKF,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD303ZT,LGD303Z,LGD303Z,"NOT AVBL FOR TFC
-EXC ARR/DEP LGZA","KFN M/UM872  ETILI
-ZAK Y/UY302 OSDES
-LORNO A/UA145 ANEPI",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGZA,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area ",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD304R,LGD304,LGD304,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area. ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD304S,LGD304,LGD304,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKF",,S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGKF,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD304T,LGD304,LGD304,"NOT AVBL FOR TFC
-EXC ARR/DEP LGZA",,S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGZA,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD304ZR,LGD304Z,LGD304Z,NOT AVBL FOR TFC,"LORNO A/UA145 RESPA 
-KFN M/UM872 ETILI DEP/ARR LGKF/LGZA",S, Traffic is not allowed to flight plan across active military area. ,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD304ZS,LGD304Z,LGD304Z,"NOT AVBL FOR TFC
-EXC ARR/DEP LGKF","LORNO A/UA145 RESPA 
-KFN M/UM872 ETILI
-DEP/ARR LGZA",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGZA,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD304ZT,LGD304Z,LGD304Z,"NOT AVBL FOR TFC
-EXC ARR/DEP LGZA","LORNO A/UA145 RESPA 
-KFN M/UM872 ETILI
-DEP/ARR LGKF",S,Traffic is not allowed to flight plan across active military area EXC DEP/ARR  LGKF,"Will not be simultaneously activated with LGD61, LGD72A, LGD72B, LGD94, LGD95, LGD96, LGR50, LGR52 
-Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.",LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD61R,LGD61,LGD61,NOT AVBL FOR TFC,LORNO A/UA145 RESPA,S,"Traffic is not allowed to flight plan across active military area. 
  ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the  danger area,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
 LGD61ZR,LGD61Z,LGD61Z,NOT AVBL FOR TFC,LORNO A/UA145 RESPA,S,"Traffic is not allowed to flight plan across active military area. 
 ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
+LGD72A2R,LGD72A2,LGD72A2,NOT AVBL FOR TFC,"KFN (M872, UM872) ETILI
+LORNO (A145, UA145) RESPA
+ ",S,  Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD72AR,LGD72A,LGD72A,NOT AVBL FOR TFC,"LASKO UM601 TRL
 ENESI M/UM872 ETILI",S,"Traffic is not allowed to flight plan across active military area. 
  ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area. ,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
@@ -4544,6 +4473,11 @@ LGD72AZR,LGD72AZ,LGD72AZ,NOT AVBL FOR TFC,"""LASKO UM601 TRL
 ENESI M/UM872 ETILI""
 ",S,"Traffic is not allowed to flight plan across active military area. 
 ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area. ,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
+LGD72B2R,LGD72B2,LGD72B2,NOT AVBL FOR TFC,"LORNO (A145, UA145) BERAP
+ SIT UP23 LORNO
+ KFN (M872, UM872) ETILI",S,"  Traffic is not allowed to flight plan across active military area
+",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
+LGD72B2ZR,LGD72B2Z,LGD72B2Z,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD72BR,LGD72B,LGD72B,NOT AVBL FOR TFC,"LORNO A/UA145 RESPA
 ENESI M/UM872 ETILI
 SIT UP23 LORNO",S,"Traffic is not allowed to flight plan across active military area. 
@@ -4552,6 +4486,18 @@ LGD72BZR,LGD72BZ,LGD72BZ,NOT AVBL FOR TFC,"LORNO A/UA145 RESPA
 ENESI M/UM872 ETILI
 SIT UP23 LORNO",S,"Traffic is not allowed to flight plan across active military area. 
 ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area. ,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
+LGD72CR,LGD72C,LGD72C,NOT AVBL FOR TFC,"RESPA (A145, UA145) TRL, 
+SIT UP23 LORNO,
+KFN (M872,UM872) ETILI,
+BADOG UN45  DILMO,
+KAM J61 IPTAG,
+KAM (Y115, UY115) IPTAG",S,Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
+LGD72CZR,LGD72CZ,LGD72CZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
+LGD72DR,LGD72D,LGD72D,NOT AVBL FOR TFC,"LORNO (A145,  UA145)  TRL,
+KFN (M872, UM872) ETILI",S,"Traffic is not allowed to flight plan across active military area 
+
+",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
+LGD72DZR,LGD72DZ,LGD72DZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD83R,LGD83,LGD83,NOT AVBL FOR TFC,"IXIMA L/UL612 RUSOS 
 MONUV P/UP32 MIL
 ATV P/UP169 SUD
@@ -4600,63 +4546,6 @@ LGTRA50AR,LGTRA50A,LGTRA50A,NOT AVBL FOR TFC,NEMES UB34 DDM,S,Laser beam activat
 LGTRA50BR,LGTRA50B,LGTRA50B,NOT AVBL FOR TFC,,S,Laser beam activation for scientific purposes,,LG,05 MAR 2025,N/A Or Empty,N/A Or Empty,
 LGTRA50CR,LGTRA50C,LGTRA50C,NOT AVBL FOR TFC,"KOR (N604, UN604) ARA
 LGR53",S,Laser beam activation for scientific purposes,,LG,05 MAR 2025,N/A Or Empty,N/A Or Empty,
-LGTRA51AR,LGTRA51A,LGTRA51A,NOT AVBL FOR TFC,"(ARA UB34 DDM)
-(ROTSA UN7 NEMES)",S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
-Nearby points: IXONI.","Laser beam activation for scientific purposes.
-The two group areas LGTRA51 and LGTRA52 will be activated successively. 
-DEP LGAV  could file via KOR L/UL53 IXONI J/UJ52 ARA. 
-ARR LGAV could file via NEMES, early descent below FL305.
-",LG,07 MAY 2025,N/A Or Empty,N/A Or Empty,PSYCHE_LINKS
-LGTRA51BR,LGTRA51B,LGTRA51B,NOT AVBL FOR TFC,"(ARA UB34 DDM)
-(ROTSA UN7 NEMES)",S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
-Nearby points: IXONI.","Laser beam activation for scientific purposes.
-The two group areas LGTRA51 and LGTRA52 will be activated successively. 
-DEP LGAV  could file via KOR L/UL53 IXONI J/UJ52 ARA. 
-ARR LGAV could file via NEMES, early descent below FL305.
-",LG,07 MAY 2025,N/A Or Empty,N/A Or Empty,PSYCHE_LINKS
-LGTRA51CR,LGTRA51C,LGTRA51C,NOT AVBL FOR TFC,"(KOR (N604, UN604) ARA)
- LGR53",S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
-Nearby points: IXONI.","Laser beam activation for scientific purposes.
-The two group areas LGTRA51 and LGTRA52 will be activated successively. 
-DEP LGAV could file via KOR L/UL53 IXONI J/UJ52 ARA. 
-ARR LGAV could file via NEMES, early descent below FL305.
-Area LGR53.affected and not simultaneously activated.",LG,07 MAY 2025,N/A Or Empty,N/A Or Empty,PSYCHE_LINKS
-LGTRA52AR,LGTRA52A,LGTRA52A,NOT AVBL FOR TFC,"(ARA UB34 NEMES)
-(ROTSA UN7 NEMES)
-(IPTES UL604 DILMO)
-(ARA UL612 IXIMA)
-(ARA UN1 SOKRI)
-(BERAP UA145 TRL)
-(KFN UM601 EKTOS)",S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
-Nearby point: IXONI.","Laser beam activation for scientific purposes.
-The two group areas LGTRA51 and LGTRA52 will be activated successively. 
-DEP LGAV  could file via KOR L/UL53 IXONI J/UJ52 ARA. 
-ARR LGAV could file via ARA /FL330 DCT TRL DCT ASTOV/FL310 Y115 DDM or via IXONI UL53 PIKAD.
-",LG,07 MAY 2025,N/A Or Empty,N/A Or Empty,PSYCHE_LINKS
-LGTRA52BR,LGTRA52B,LGTRA52B,NOT AVBL FOR TFC,"(ARA UB34 NEMES)
-(ROTSA UN7 NEMES)
-(IPTES UL604 DILMO)
-(ARA UL612 IXIMA)
-(ARA UN1 SOKRI)
-(BERAP UA145 TRL)
-(KFN UM601 EKTOS)",S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
-Nearby points: IXONI, MITOF FRA(I), BACOM FRA(I).","Laser beam activation for scientific purposes.
-The two group areas LGTRA51 and LGTRA52 will be activated successively. 
-DEP LGAV  could file via KOR L/UL53 IXONI J/UJ52 ARA. 
-ARR LGAV could file via ARA /FL330 DCT TRL DCT ASTOV/FL310 Y115 DDM, early decent BLW FL345 or via IXONI UL53 PIKAD.
-Flights via TRL, BTN FL345 & FL425, may use FRA(I) points MITOF, BACOM to bypass TRL.",LG,07 MAY 2025,N/A Or Empty,N/A Or Empty,PSYCHE_LINKS
-LGTRA52CR,LGTRA52C,LGTRA52C,NOT AVBL FOR TFC,"(KOR (N604,UN604)
-ARA)
-(DDM UM619 VARDI)
-(ARA UB34 NEMES)
-(ROTSA UN7 NEMES)
-(IPTES UL604 TRL)
-LGR53",S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
-Nearby points: IXONI, MITOF FRA(I), BACOM FRA(I).","Laser beam activation for scientific purposes.
-The two group areas LGTRA51 and LGTRA52 will be activated successively. 
-DEP LGAV  could file via KOR L/UL53 IXONI J/UJ52 ARA. 
-ARR LGAV could file via ARA /FL330 DCT TRL DCT ASTOV/FL310 Y115 DDM or via IXONI UL53 PIKAD.
-Area LGR53.affected and not simultaneously activated.",LG,07 MAY 2025,N/A Or Empty,N/A Or Empty,PSYCHE_LINKS
 LGTSA1R,LGTSA1,LGTSA1,NOT AVBL FOR TFC,"PIKOS UL607 XORKI
 BITLA  UN132  ROPOX  
 YNN UV651 AGH
@@ -4904,6 +4793,8 @@ LJNPZ1R,LJNPZ1,LJNPZ1,"NOT AVBL FOR TFC
 1. EXC VIA SECSI & VIA (DIMLO, ABLOM)
 2. EXC ARR/DEP LJMB",,S,Traffic is not allowed to flight plan across active area,,LJ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
 LJNPZ2R,LJNPZ2,LJNPZ2,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active area,,LJ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
+LJTSA1R,LJTSA1,LJTSA1,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active area,,LJ,09 AUG 2025,N/A Or Empty,N/A Or Empty,
+LJTSA2R,LJTSA2,LJTSA2,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active area,,LJ,09 AUG 2025,N/A Or Empty,N/A Or Empty,
 LKTRA11ZR,LKTRA11Z,LKTRA11Z,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
 LKTRA12ZR,LKTRA12Z,LKTRA12Z,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
 LKTRA13ZR,LKTRA13Z,LKTRA13Z,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
@@ -4921,7 +4812,7 @@ LKTRA19ZR,LKTRA19Z,LKTRA19Z,"NOT AVBL FOR TFC
 2. EXC ARR LKCS & VIA (BODAL DCT TABEM)",,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,02 AUG 2024,LKTRA19ZR,LKTRA19ZR,
 LKTRA30ZR,LKTRA30Z,LKTRA30Z,"NOT AVBL FOR TFC
 1. EXC ARR/DEP (LKPD, LKCV)
-2. EXC ARR LKVO & VIA STAR (VLM5Z)",,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
+2. EXC ARR LKVO & STAR (VLM5Z)",,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,29 JUL 2025,N/A Or Empty,N/A Or Empty,
 LKTRA31ZR,LKTRA31Z,LKTRA31Z,"NOT AVBL FOR TFC
 EXC ARR/DEP (LKPD, LKCV)",,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
 LKTRA32ZR,LKTRA32Z,LKTRA32Z,"NOT AVBL FOR TFC
@@ -4960,7 +4851,6 @@ LKTRA93R,LKTRA93,LKTRA93,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight pl
 LKTRA94R,LKTRA94,LKTRA94,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active UAV area,,LK,29 JAN 2025,N/A Or Empty,N/A Or Empty,
 LKTRA95R,LKTRA95,LKTRA95,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active UAV area,,LK,29 JAN 2025,N/A Or Empty,N/A Or Empty,
 LKTRA96R,LKTRA96,LKTRA96,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active UAV area,,LK,29 JAN 2025,N/A Or Empty,N/A Or Empty,
-LKTRA99ZR,LKTRA99Z,LKTRA99Z,NOT AVBL FOR TFC,,S,To prevent planning via restricted area LKTRA99Z,,LK,10 FEB 2025,N/A Or Empty,N/A Or Empty,
 LKTSA1R,LKTSA1,LKTSA1,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
 LKTSA1ZR,LKTSA1Z,LKTSA1Z,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area FBZ,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
 LKTSA2AR,LKTSA2A,LKTSA2A,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area,,LK,02 AUG 2024,N/A Or Empty,N/A Or Empty,
@@ -5032,6 +4922,10 @@ EXC DEP LOWW",SECSI FRA DCTs,S,Traffic is not allowed to flight plan across acti
 LOR5R,LOR5,LOR5,NOT AVBL FOR TFC,SECSI FRA DCTs,S,Traffic is not allowed to flight plan across active military area,,LO,17 JUL 2024,N/A Or Empty,N/A Or Empty,
 LOR6R,LOR6,LOR6,NOT AVBL FOR TFC,SECSI FRA DCTs,S,Traffic is not allowed to flight plan across active military area,,LO,17 JUL 2024,N/A Or Empty,N/A Or Empty,
 LPD63R,LPD63,LPD63,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area,,LP,28 AUG 2024,N/A Or Empty,N/A Or Empty,
+LPT10R,LPT10,LPT10,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
+LPT1R,LPT1,LPT1,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
+LPT2R,LPT2,LPT2,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
+LPT3R,LPT3,LPT3,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
 LPTRA54R,LPTRA54,LPTRA54,"NOT AVBL FOR TFC
 VIA (ARDID, BARDI, NETOS, NINOS, RIVRO)",,S,Traffic is not allowed to flight plan across active military area,,LP,28 AUG 2024,N/A Or Empty,N/A Or Empty,
 LPTRA55R,LPTRA55,LPTRA55,"NOT AVBL FOR TFC
@@ -5335,6 +5229,10 @@ LYTR108R,LYTRA108,LYTR108,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs UTEKA L610 DONIV, OKLOP M19 ETIDA, ANASA Y88 ESIRI, UTEKA Y520 ESIRI, DCT DONIV - ETIDA",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
 LYTR108ZR,LYTRA108Z,LYTR108Z,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs UTEKA L610 DONIV, OKLOP M19 ETIDA, OBLAK N188 OKLOP, ANASA Y88 ESIRI, UTEKA Y520 ESIRI, DCT DONIV - ETIDA",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
+LYTR901R,LYTRA901,LYTR901,"NOT AVBL FOR TFC
+EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs, SOMUN N978 MAVIT, IRGOR P129 MAVIT, DONIV L610 PELOV L610 TISAK,  OSVIX L617 PELOV L617 PARAK, TISAK P192 OKLOP, bidi: MAVIT N188 DONIV",S,Traffic is not allowed to flight plan through active military area,,LY,14 AUG 2025,N/A Or Empty,N/A Or Empty,Military_Exercise_Airsolution_LY_AIP_SUP_5_2025
+LYTR901ZR,LYTRA901Z,LYTR901Z,"NOT AVBL FOR TFC
+EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs, SOMUN N978 MAVIT, IRGOR P129 MAVIT, DIRER Z924 VAL, DIRER N164 DONIV, DONIV L610 PELOV L610 TISAK,  OSVIX L617 PELOV L617 PARAK,  TISAK P192 OKLOP, bidi: MAVIT N188 DONIV, bidi: TISAK M173 BGD",S,Traffic is not allowed to flight plan through active military area.,,LY,14 AUG 2025,N/A Or Empty,N/A Or Empty,Military_Exercise_Airsolution_LY_AIP_SUP_5_2025
 LYTSA02R,LYTSA02,LYTSA02,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs PELOV L610 TISAK, bidi: BGD M173 TISAK, SOMUN N978 MAVIT, TISAK P192 OKLOP",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
 LYTSA02ZR,LYTSA02Z,LYTSA02Z,"NOT AVBL FOR TFC
@@ -5391,7 +5289,9 @@ EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDE
 LZNPZ10R,LZNPZ10,LZNPZ10,"NOT AVBL FOR TFC
 EXC VIA ETIPA",,S,Zone preventing inappropriate flight planning close to FIR border or sector border.,,LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
 LZNPZ1R,LZNPZ1,LZNPZ1,"NOT AVBL FOR TFC
-EXC VIA (LADOB, LASOT, MALBE)",,S,Zone within FRA preventing inappropriate flight planning close to FIR border.,"Permanent validity. Traffic is not allowed to flight plan across area, except where the set conditions are met.",LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
+EXC 
+1. VIA (LADOB, LASOT, MALBE)
+2. VIA (HATIP DCT KUSIS)",,S,Zone within FRA preventing inappropriate flight planning close to FIR border.,"Permanent validity. Traffic is not allowed to flight plan across area, except where the set conditions are met.",LZ,14 AUG 2025,N/A Or Empty,N/A Or Empty,
 LZNPZ3R,LZNPZ3,LZNPZ3,"NOT AVBL FOR TFC
 1. EXC VIA BIDI (XNG LZBBFIR - LKAAFIR BDRY)
 2. EXC VIA BIDI (BABNI DCT TUTPI)",,S,Zone within FRA preventing inappropriate flight planning close to FIR border.,"Permanent validity. Traffic is not allowed to flight plan across area, except where the set conditions are met.",LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
