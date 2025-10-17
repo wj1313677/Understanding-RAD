@@ -30,7 +30,7 @@ jobs:
           mkdir -p doc
           python scripts/pdf_to_markdown.py \
             --input eurocontrol-ernip-part-4-v2.8.pdf \
-            --output doc/ch4-6.md
+            --output doc/eurocontrol-ernip-part-4-v2.8.md
 
       - name: Commit and push results
         env:
