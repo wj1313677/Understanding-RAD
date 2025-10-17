@@ -1,0 +1,48 @@
+name: Convert PDF chapters to Markdown
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - convert-pdf-ch4-6
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Run PDF -> Markdown conversion
+        run: |
+          mkdir -p doc
+          python scripts/pdf_to_markdown.py \
+            --input eurocontrol-ernip-part-4-v2.8.pdf \
+            --output doc/ch4-6.md
+
+      - name: Commit and push results
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add doc/ch4-6.md || true
+          git add doc/images || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Convert PDF -> Markdown: chapters 4-6"
+            git push origin HEAD
+          fi
