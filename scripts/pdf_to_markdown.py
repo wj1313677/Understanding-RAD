@@ -27,6 +27,9 @@ If automatic detection fails for your copy of the PDF you can also pass
 chapter start pages manually:
   --chapter-starts 45 78 123
 (where the three numbers are the page numbers (1-based) where chapters 4,5,6 start).
+
+Note: This tool is heuristic; PDF layout varies. Check and tidy the generated
+Markdown when done.
 """
 
 import argparse
