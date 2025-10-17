@@ -1,5 +1,5 @@
 # **TABLE OF CONTENT**
-
+|Chap   | Title                                            | 
 | ----- | ------------------------------------------------ |
 | 4     | RAD GRAMMAR GUIDELINES                           |
 | 4.1   | General Provisions                               |
@@ -50,7 +50,6 @@
 | 6.2.2 | Annex 2C                                         |
 | 6.2.3 | Annex 3A                                         | 
 | 6.2.4 | Annex 3B                                         |
-| ----- | ------------------------------------------------ |
 
 # **4 RAD Grammar Guidelines**
 
