@@ -46,7 +46,7 @@ jobs:
           PGDATABASE: testdb
           PGPORT: 5432
         run: |
-          python .github/scripts/import_csv_to_postgres.py
+          python scripts/import_csv_to_postgres.py
 
       - name: Dump PostgreSQL schema
         run: |
