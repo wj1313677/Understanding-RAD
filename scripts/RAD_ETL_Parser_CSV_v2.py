@@ -212,7 +212,7 @@ class RADParser:
 
     # --- ENTITY RESOLUTION (GET-OR-CREATE) HELPERS ---
     
-def _get_or_create(self, cache, table, pk_col, lookup_col, lookup_val):
+    def _get_or_create(self, cache, table, pk_col, lookup_col, lookup_val):
         """
         Generic helper to get or create an entity ID.
         (Corrected Version)
