@@ -567,9 +567,13 @@ class RADParser:
             adep_id, adep_area_id = (self.get_aerodrome(adep_str), None) if len(adep_str) == 4 else (None, self.get_area(adep_str))
             ades_id, ades_area_id = (self.get_aerodrome(ades_str), None) if len(ades_str) == 4 else (None, self.get_area(ades_str))
             
-            # Extract FL number from string like "RFL FL245"
+            # --- START FIX ---
+            # The original code had an unsafe check.
+            # We must search first, then check if the match object exists.
             max_fl_str = str(row['Flight Level Capping'])
-            max_fl = int(re.search(r'FL(\d{3})', max_fl_str).group(1)) if 'FL' in max_fl_str else 0
+            match = re.search(r'FL(\d{3})', max_fl_str)
+            max_fl = int(match.group(1)) if match else 0
+            # --- END FIX ---
 
             # Insert the main rule
             self.cursor.execute("""
