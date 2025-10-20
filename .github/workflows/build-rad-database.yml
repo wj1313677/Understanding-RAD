@@ -11,7 +11,7 @@ on:
       - main
     paths:
       - 'Annex_*.csv'                 # CSVs in the root
-      - 'script/RAD_ETL_Parser_CSV_v2.py' # Script in the 'script' folder
+      - 'scripts/RAD_ETL_Parser_CSV_v2.py' # Script in the 'script' folder
       - '.github/workflows/build-rad-database.yml'
 
   # 2. Allow you to manually run this workflow from the
@@ -42,7 +42,7 @@ jobs:
         # This installs the 'pandas' library required by the parser.
 
       - name: 4. Run RAD Parser Script
-        run: python script/RAD_ETL_Parser_CSV_v2.py
+        run: python scripts/RAD_ETL_Parser_CSV_v2.py
         # This executes your script from the root directory.
         # The script will find the CSVs in the root and
         # produce 'rad_master.db' in the root.
