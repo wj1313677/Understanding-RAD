@@ -1,0 +1,56 @@
+name: Build RAD Database from CSV
+
+#
+# Triggers for the workflow
+#
+on:
+  # 1. Run on a push to the 'main' branch, but ONLY if
+  #    the CSVs or the parser script itself changed.
+  push:
+    branches:
+      - main
+    paths:
+      - 'Annex_*.csv'                 # CSVs in the root
+      - 'script/RAD_ETL_Parser_CSV_v2.py' # Script in the 'script' folder
+      - '.github/workflows/build-rad-database.yml'
+
+  # 2. Allow you to manually run this workflow from the
+  #    "Actions" tab in your GitHub repository.
+  workflow_dispatch:
+
+jobs:
+  build-db:
+    name: Parse CSVs and Build Database
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. Check out repository
+        uses: actions/checkout@v4
+        # This step downloads your repository's code,
+        # including the 'script' folder and all 9 CSV files.
+
+      - name: 2. Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip' # Cache dependencies for faster builds
+
+      - name: 3. Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+        # This installs the 'pandas' library required by the parser.
+
+      - name: 4. Run RAD Parser Script
+        run: python script/RAD_ETL_Parser_CSV_v2.py
+        # This executes your script from the root directory.
+        # The script will find the CSVs in the root and
+        # produce 'rad_master.db' in the root.
+
+      - name: 5. Upload Database Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rad-database
+          # This is the name of the downloadable file in GitHub Actions.
+          path: rad_master.db
+          # This is the local file from the runner to upload.
