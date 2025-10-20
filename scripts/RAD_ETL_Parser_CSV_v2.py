@@ -212,39 +212,43 @@ class RADParser:
 
     # --- ENTITY RESOLUTION (GET-OR-CREATE) HELPERS ---
     
-    def _get_or_create(self, cache, table, key_col, key_val):
-        """Generic helper to get or create an entity ID."""
-        if not key_val or pd.isna(key_val):
+def _get_or_create(self, cache, table, pk_col, lookup_col, lookup_val):
+        """
+        Generic helper to get or create an entity ID.
+        (Corrected Version)
+        """
+        if not lookup_val or pd.isna(lookup_val):
             return None
-        key_val = str(key_val).strip()
-        if key_val in cache:
-            return cache[key_val]
+        lookup_val = str(lookup_val).strip()
+        if lookup_val in cache:
+            return cache[lookup_val]
         
-        self.cursor.execute(f"SELECT {key_col}_id FROM {table} WHERE {key_col} = ?", (key_val,))
+        # This is the corrected query
+        self.cursor.execute(f"SELECT {pk_col} FROM {table} WHERE {lookup_col} = ?", (lookup_val,))
         row = self.cursor.fetchone()
         if row:
             entity_id = row[0]
         else:
-            self.cursor.execute(f"INSERT INTO {table} ({key_col}) VALUES (?)", (key_val,))
+            self.cursor.execute(f"INSERT INTO {table} ({lookup_col}) VALUES (?)", (lookup_val,))
             entity_id = self.cursor.lastrowid
         
-        cache[key_val] = entity_id
+        cache[lookup_val] = entity_id
         return entity_id
 
     def get_point(self, name):
-        return self._get_or_create(self.point_cache, 'tbl_Points', 'identifier', name)
+        return self._get_or_create(self.point_cache, 'tbl_Points', 'point_id', 'identifier', name)
     
     def get_aerodrome(self, icao):
         if not icao or pd.isna(icao) or len(str(icao).strip()) != 4:
             return None
-        return self._get_or_create(self.aerodrome_cache, 'tbl_Aerodromes', 'icao_code', icao)
+        return self._get_or_create(self.aerodrome_cache, 'tbl_Aerodromes', 'aerodrome_id', 'icao_code', icao)
         
     def get_area(self, name):
-        return self._get_or_create(self.area_cache, 'tbl_Areas_Annex1', 'area_name', name)
+        return self._get_or_create(self.area_cache, 'tbl_Areas_Annex1', 'area_id', 'area_name', name)
 
     def get_ats_route(self, name):
-        return self._get_or_create(self.ats_route_cache, 'tbl_ATS_Routes', 'identifier', name)
-
+        return self._get_or_create(self.ats_route_cache, 'tbl_ATS_Routes', 'route_id', 'identifier', name)
+        
     # --- CONDITION PALETTE (GET-OR-CREATE) HELPERS ---
     
     def get_cond_level(self, logic, lvl_1, lvl_2=None):
