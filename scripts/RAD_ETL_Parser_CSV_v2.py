@@ -1,19 +1,18 @@
 #!/usr/bin/env python
 #
-# NAME: RAD_ETL_Parser_CSV_v2.py
+# NAME: RAD_ETL_Parser_CSV_v2_FIXED.py
 # AUTH: RAD-Advisor
 # DESC: Parses a set of 9 RAD CSV files and loads them into a normalized 
-#       SQLite database for FPL validation.
+#       SQLite database for FPL validation. (Full Bugfix Version)
 
 import sqlite3
 import pandas as pd
 import re
 import sys
 import glob
+import os
 
 # --- REGEX DEFINITIONS FOR RAD CONDITIONAL GRAMMAR ---
-# This list of tuples (token_name, regex_pattern) defines the RAD DSL.
-# It is used by the _parse_condition_string method.
 RAD_GRAMMAR = [
     ('LEVEL_BTN', re.compile(r'BTN (FL\d{3}) AND (FL\d{3})')),
     ('LEVEL_ABV', re.compile(r'(AT OR ABV|ABV) (FL\d{3})')),
@@ -27,7 +26,7 @@ RAD_GRAMMAR = [
     ('FLOW_VIA', re.compile(r'(ONLY|EXC) (TFC VIA|VIA) ([A-Z0-9]+)')),
     ('ACFT_TYPE', re.compile(r'(ONLY|EXC) ACFT TYPE ([A-Z0-9]{3,4})')),
     ('OPERATIONAL', re.compile(r'(ONLY|EXC) (OAT|STATE ACFT|MIL TFC|RNAV\s?\d|PBN/[A-Z0-9]+|FLT-TYPE \([M]\))')),
-    ('FLT_TYPE', re.compile(r'FLT-TYPE \((M)\)')), # Specific case for some rules
+    ('FLT_TYPE', re.compile(r'FLT-TYPE \((M)\)')), # Specific case
 ]
 
 class RADParser:
@@ -39,6 +38,7 @@ class RADParser:
         self.db_path = db_path
         print(f"Initializing parser. Database will be created at: {self.db_path}")
         self.conn = sqlite3.connect(db_path)
+        self.conn.execute("PRAGMA foreign_keys = ON;") # Enforce foreign keys
         self.cursor = self.conn.cursor()
         
         # Caches for fast ID lookups (Entity Resolution)
@@ -61,11 +61,7 @@ class RADParser:
     def _execute_schema(self):
         """Creates all database tables based on our design."""
         print("Creating database schema...")
-        # This schema is normalized and unchanged from the previous design.
-        # It is robust and supports all Annex rules.
         schema = """
-        PRAGMA foreign_keys = ON; -- Enforce foreign key constraints
-
         -- SHARED ENTITIES
         CREATE TABLE IF NOT EXISTS tbl_Points (
             point_id INTEGER PRIMARY KEY, identifier TEXT NOT NULL UNIQUE
@@ -185,11 +181,16 @@ class RADParser:
             FOREIGN KEY (aerodrome_id) REFERENCES tbl_Aerodromes(aerodrome_id),
             FOREIGN KEY (area_id) REFERENCES tbl_Areas_Annex1(area_id)
         );
+        -- *** START SCHEMA FIX FOR BUG 4 ***
+        -- These tables are required to correctly parse DEP/ARR rules
+        -- that have level, flow, or operational conditions.
         CREATE TABLE IF NOT EXISTS jct_Annex3A_Conn_Time (conn_rule_id INTEGER NOT NULL, time_cond_id INTEGER NOT NULL, PRIMARY KEY(conn_rule_id, time_cond_id), FOREIGN KEY (conn_rule_id) REFERENCES tbl_Rules_Annex3A_Connectivity(conn_rule_id), FOREIGN KEY (time_cond_id) REFERENCES tbl_Cond_Time(time_cond_id));
-        CREATE TABLE IF NOT EXISTS jct_Annex3A_Cond_Level (cond_rule_id INTEGER NOT NULL, level_cond_id INTEGER NOT NULL, PRIMARY KEY(cond_rule_id, level_cond_id), FOREIGN KEY (cond_rule_id) REFERENCES tbl_Rules_Annex3A_Conditions(cond_rule_id), FOREIGN KEY (level_cond_id) REFERENCES tbl_Cond_Level(level_cond_id));
         CREATE TABLE IF NOT EXISTS jct_Annex3A_Conn_Level (conn_rule_id INTEGER NOT NULL, level_cond_id INTEGER NOT NULL, PRIMARY KEY(conn_rule_id, level_cond_id), FOREIGN KEY (conn_rule_id) REFERENCES tbl_Rules_Annex3A_Connectivity(conn_rule_id), FOREIGN KEY (level_cond_id) REFERENCES tbl_Cond_Level(level_cond_id));
-        CREATE TABLE IF NOT EXISTS jct_Annex3A_Conn_Operational (conn_rule_id INTEGER NOT NULL, op_cond_id INTEGER NOT NULL, PRIMARY KEY(conn_rule_id, op_cond_id), FOREIGN KEY (conn_rule_id) REFERENCES tbl_Rules_Annex3A_Connectivity(conn_rule_id), FOREIGN KEY (op_cond_id) REFERENCES tbl_Cond_Operational(op_cond_id));
         CREATE TABLE IF NOT EXISTS jct_Annex3A_Conn_Flow (conn_rule_id INTEGER NOT NULL, flow_cond_id INTEGER NOT NULL, PRIMARY KEY(conn_rule_id, flow_cond_id), FOREIGN KEY (conn_rule_id) REFERENCES tbl_Rules_Annex3A_Connectivity(conn_rule_id), FOREIGN KEY (flow_cond_id) REFERENCES tbl_Cond_Flow(flow_cond_id));
+        CREATE TABLE IF NOT EXISTS jct_Annex3A_Conn_Operational (conn_rule_id INTEGER NOT NULL, op_cond_id INTEGER NOT NULL, PRIMARY KEY(conn_rule_id, op_cond_id), FOREIGN KEY (conn_rule_id) REFERENCES tbl_Rules_Annex3A_Connectivity(conn_rule_id), FOREIGN KEY (op_cond_id) REFERENCES tbl_Cond_Operational(op_cond_id));
+        -- This table is for the "Conditions" file (e.g., "LG_LIM_AD")
+        CREATE TABLE IF NOT EXISTS jct_Annex3A_Cond_Time (cond_rule_id INTEGER NOT NULL, time_cond_id INTEGER NOT NULL, PRIMARY KEY(cond_rule_id, time_cond_id), FOREIGN KEY (cond_rule_id) REFERENCES tbl_Rules_Annex3A_Conditions(cond_rule_id), FOREIGN KEY (time_cond_id) REFERENCES tbl_Cond_Time(time_cond_id));
+        -- *** END SCHEMA FIX FOR BUG 4 ***
 
         -- ANNEX 3B RULES (En-route DCT)
         CREATE TABLE IF NOT EXISTS tbl_Rules_Annex3B (
@@ -212,6 +213,7 @@ class RADParser:
 
     # --- ENTITY RESOLUTION (GET-OR-CREATE) HELPERS ---
     
+    # *** START FIX FOR BUG 1 ***
     def _get_or_create(self, cache, table, pk_col, lookup_col, lookup_val):
         """
         Generic helper to get or create an entity ID.
@@ -223,7 +225,6 @@ class RADParser:
         if lookup_val in cache:
             return cache[lookup_val]
         
-        # This is the corrected query
         self.cursor.execute(f"SELECT {pk_col} FROM {table} WHERE {lookup_col} = ?", (lookup_val,))
         row = self.cursor.fetchone()
         if row:
@@ -248,7 +249,43 @@ class RADParser:
 
     def get_ats_route(self, name):
         return self._get_or_create(self.ats_route_cache, 'tbl_ATS_Routes', 'route_id', 'identifier', name)
+    # *** END FIX FOR BUG 1 ***
+
+    def get_procedure(self, name, type, ad_id, pt_id):
+        """
+        Get-or-create helper for Procedures. This one is more complex
+        as it doesn't fit the simple get_or_create pattern.
+        """
+        if not name or pd.isna(name) or not ad_id:
+            return None # Cannot create a procedure without a name and AD
         
+        # A procedure is uniquely identified by its name, type, and aerodrome
+        cache_key = (name, type, ad_id)
+        if cache_key in self.procedure_cache:
+            return self.procedure_cache[cache_key]
+
+        # Use a real point ID if available, otherwise use a placeholder (e.g., -1)
+        # This handles cases where a SID/STAR name (e.g., 'LOPIK2R') is given
+        # but the en-route point ('LOPIK') isn't explicitly listed.
+        db_point_id = pt_id if pt_id else -1 
+
+        self.cursor.execute("""
+            SELECT procedure_id FROM tbl_Procedures 
+            WHERE procedure_name = ? AND procedure_type = ? AND aerodrome_id = ?
+        """, (name, type, ad_id))
+        row = self.cursor.fetchone()
+        if row:
+            proc_id = row[0]
+        else:
+            self.cursor.execute("""
+                INSERT INTO tbl_Procedures (procedure_name, procedure_type, aerodrome_id, point_id)
+                VALUES (?, ?, ?, ?)
+            """, (name, type, ad_id, db_point_id))
+            proc_id = self.cursor.lastrowid
+        
+        self.procedure_cache[cache_key] = proc_id
+        return proc_id
+
     # --- CONDITION PALETTE (GET-OR-CREATE) HELPERS ---
     
     def get_cond_level(self, logic, lvl_1, lvl_2=None):
@@ -358,8 +395,9 @@ class RADParser:
         rem_str = str(cond_str).upper().replace('\n', ' ').strip() + " "
         
         # Handle simple time-only strings
-        if re.fullmatch(r'(\d{4})-(\d{4})', rem_str.strip()):
-            groups = re.match(r'(\d{4})-(\d{4})', rem_str.strip()).groups()
+        time_only_match = re.fullmatch(r'(\d{4})-(\d{4})', rem_str.strip())
+        if time_only_match:
+            groups = time_only_match.groups()
             conditions['time'].append(self.get_cond_time('DLY', groups[0], groups[1]))
             return conditions
         if rem_str.strip() == 'H24':
@@ -455,7 +493,16 @@ class RADParser:
     def _read_csv(self, filename):
         """Helper to read CSV, clean headers, and return DataFrame."""
         try:
-            df = pd.read_csv(filename)
+            # Use os.path.join to build the path correctly
+            # Assumes CSVs are in the root, one level up from the script dir
+            # script_dir = os.path.dirname(__file__)
+            # root_dir = os.path.abspath(os.path.join(script_dir, '..'))
+            # file_path = os.path.join(root_dir, filename)
+            
+            # Simplified: Assumes script is run from root, CSVs are in root.
+            file_path = filename 
+            
+            df = pd.read_csv(file_path)
             df.columns = [self.clean_header(c) for c in df.columns]
             return df
         except FileNotFoundError:
@@ -490,281 +537,3 @@ class RADParser:
         
         self.conn.commit()
         print(f"Processed {len(df)} areas, {count} aerodrome links in Annex 1.")
-
-    def parse_annex_2a(self):
-        print("Parsing Annex 2A (Flight Level Capping)...")
-        df = self._read_csv("Annex_2A.csv")
-        if df is None: return
-
-        for _, row in df.iterrows():
-            adep_str = str(row['From (ADEP)']).strip()
-            ades_str = str(row['To (ADES)']).strip()
-            
-            adep_id, adep_area_id = (self.get_aerodrome(adep_str), None) if len(adep_str) == 4 else (None, self.get_area(adep_str))
-            ades_id, ades_area_id = (self.get_aerodrome(ades_str), None) if len(ades_str) == 4 else (None, self.get_area(ades_str))
-            
-            max_fl_str = str(row['Flight Level Capping'])
-            max_fl = int(re.search(r'FL(\d{3})', max_fl_str).group(1)) if 'FL' in max_fl_str else 0
-
-            self.cursor.execute("""
-                INSERT OR IGNORE INTO tbl_Rules_Annex2A 
-                (rule_identifier, adep_aerodrome_id, adep_area_id, ades_aerodrome_id, ades_area_id, max_flight_level, description)
-                VALUES (?, ?, ?, ?, ?, ?, ?)
-            """, (row['ID'], adep_id, adep_area_id, ades_id, ades_area_id, max_fl, row['Remarks']))
-            
-            rule_id = self.cursor.lastrowid
-            if rule_id == 0: # Rule already existed
-                self.cursor.execute("SELECT rule_id FROM tbl_Rules_Annex2A WHERE rule_identifier = ?", (row['ID'],))
-                rule_id = self.cursor.fetchone()[0]
-
-            # Combine 'Condition' and 'Time Applicability' for parsing
-            cond_str = str(row['Condition'])
-            time_str = str(row['Time Applicability'])
-            full_cond_str = f"{cond_str} {time_str}" if time_str != 'H24' else cond_str
-
-            conditions = self._parse_condition_string(full_cond_str)
-            self._load_conditions(rule_id, conditions, 'Annex2A', 'rule_id')
-
-        self.conn.commit()
-        print(f"Processed {len(df)} Annex 2A rules.")
-
-    def parse_annex_2b(self):
-        print("Parsing Annex 2B (En-route Structural)...")
-        df = self._read_csv("Annex_2B.csv")
-        if df is None: return
-
-        for _, row in df.iterrows():
-            route_id = self.get_ats_route(row['Airway'])
-            from_id = self.get_point(row['From'])
-            to_id = self.get_point(row['To'])
-            point_id = self.get_point(row['Point or Airspace'])
-            
-            util_str = str(row['Utilization']).upper()
-            if 'COMPULSORY' in util_str:
-                availability = 'COMPULSORY'
-            elif 'NOT AVBL' in util_str:
-                availability = 'NOT AVBL'
-            else:
-                availability = 'AVBL'
-
-            self.cursor.execute("""
-                INSERT OR IGNORE INTO tbl_Rules_Annex2B 
-                (rule_identifier, ats_route_id, from_point_id, to_point_id, point_or_airspace_id, availability, description)
-                VALUES (?, ?, ?, ?, ?, ?, ?)
-            """, (row['ID'], route_id, from_id, to_id, point_id, availability, row['Remarks']))
-            
-            rule_id = self.cursor.lastrowid
-            if rule_id == 0:
-                self.cursor.execute("SELECT rule_id FROM tbl_Rules_Annex2B WHERE rule_identifier = ?", (row['ID'],))
-                rule_id = self.cursor.fetchone()[0]
-            
-            time_str = str(row['Time Applicability'])
-            full_cond_str = f"{util_str} {time_str}" if time_str != 'H24' else util_str
-            
-            conditions = self._parse_condition_string(full_cond_str)
-            self._load_conditions(rule_id, conditions, 'Annex2B', 'rule_id')
-
-        self.conn.commit()
-        print(f"Processed {len(df)} Annex 2B rules.")
-
-    def parse_annex_2c(self):
-        print("Parsing Annex 2C (FUA / AUP-UUP)...")
-        df = self._read_csv("Annex_2C.csv")
-        if df is None: return
-
-        for _, row in df.iterrows():
-            self.cursor.execute("""
-                INSERT OR IGNORE INTO tbl_Rules_Annex2C
-                (rule_identifier, airspace_name, description)
-                VALUES (?, ?, ?)
-            """, (row['ID'], row['AIP RSA ID'], row['Remarks']))
-            
-            rule_id = self.cursor.lastrowid
-            if rule_id == 0:
-                self.cursor.execute("SELECT rule_id FROM tbl_Rules_Annex2C WHERE rule_identifier = ?", (row['ID'],))
-                rule_id = self.cursor.fetchone()[0]
-                
-            cond_str = str(row['Traffic Flow Rule applied during times and within vertical limits allocated at EAUP/EUUP'])
-            conditions = self._parse_condition_string(cond_str)
-            self._load_conditions(rule_id, conditions, 'Annex2C', 'rule_id')
-        
-        self.conn.commit()
-        print(f"Processed {len(df)} Annex 2C rules.")
-        
-    def parse_annex_3a(self):
-        print("Parsing Annex 3A (Aerodrome Connectivity)...")
-        
-        # --- Parse DEP ---
-        df_dep = self._read_csv("Annex_3A_DEP.csv")
-        if df_dep is not None:
-            for _, row in df_dep.iterrows():
-                ad_id = self.get_aerodrome(row['DEP AD'])
-                proc_name = str(row['Last PT SID / SID ID'])
-                pt_name = str(row['DCT DEP PT'])
-                
-                en_route_point_id = self.get_point(pt_name) if pd.notna(pt_name) else self.get_point(proc_name)
-                
-                self.cursor.execute("""
-                    INSERT OR IGNORE INTO tbl_Rules_Annex3A_Connectivity
-                    (rule_identifier, aerodrome_id, rule_type, en_route_point_id, required_procedure_name)
-                    VALUES (?, ?, 'DEP', ?, ?)
-                """, (row['DEP ID'], ad_id, en_route_point_id, proc_name if pd.notna(proc_name) else None))
-
-                rule_id = self.cursor.lastrowid
-                if rule_id == 0:
-                    self.cursor.execute("SELECT conn_rule_id FROM tbl_Rules_Annex3A_Connectivity WHERE rule_identifier = ?", (row['DEP ID'],))
-                    rule_id = self.cursor.fetchone()[0]
-
-                time_str = str(row['DEP Time Applicability'])
-                cond_str = str(row['DEP FPL Options'])
-                full_cond_str = f"{cond_str} {time_str}" if time_str != 'H24' else cond_str
-                
-                conditions = self._parse_condition_string(full_cond_str)
-                self._load_conditions(rule_id, conditions, 'Annex3A_Conn', 'conn_rule_id')
-            print(f"Processed {len(df_dep)} Annex 3A-DEP rules.")
-
-        # --- Parse ARR ---
-        df_arr = self._read_csv("Annex_3A_ARR.csv")
-        if df_arr is not None:
-            for _, row in df_arr.iterrows():
-                ad_id = self.get_aerodrome(row['ARR AD'])
-                proc_name = str(row['First PT STAR / STAR ID'])
-                pt_name = str(row['DCT ARR PT'])
-                
-                en_route_point_id = self.get_point(pt_name) if pd.notna(pt_name) else self.get_point(proc_name)
-
-                self.cursor.execute("""
-                    INSERT OR IGNORE INTO tbl_Rules_Annex3A_Connectivity
-                    (rule_identifier, aerodrome_id, rule_type, en_route_point_id, required_procedure_name)
-                    VALUES (?, ?, 'ARR', ?, ?)
-                """, (row['ARR ID'], ad_id, en_route_point_id, proc_name if pd.notna(proc_name) else None))
-
-                rule_id = self.cursor.lastrowid
-                if rule_id == 0:
-                    self.cursor.execute("SELECT conn_rule_id FROM tbl_Rules_Annex3A_Connectivity WHERE rule_identifier = ?", (row['ARR ID'],))
-                    rule_id = self.cursor.fetchone()[0]
-
-                time_str = str(row['ARR Time Applicability'])
-                cond_str = str(row['ARR FPL Option'])
-                full_cond_str = f"{cond_str} {time_str}" if time_str != 'H24' else cond_str
-                
-                conditions = self._parse_condition_string(full_cond_str)
-                self._load_conditions(rule_id, conditions, 'Annex3A_Conn', 'conn_rule_id')
-            print(f"Processed {len(df_arr)} Annex 3A-ARR rules.")
-
-        # --- Parse Conditions (The complex ones) ---
-        df_cond = self._read_csv("Annex_3A_Conditions.csv")
-        if df_cond is not None:
-            for _, row in df_cond.iterrows():
-                # Extract the 2-letter country code (e.g., 'LG' from 'LG_LIM_AD')
-                nas_fab = str(row['NAS / FAB']).strip()
-                ad_id = None # This rule applies to an area, not one AD
-                
-                self.cursor.execute("""
-                    INSERT OR IGNORE INTO tbl_Rules_Annex3A_Conditions
-                    (rule_identifier, condition_type, value, description)
-                    VALUES (?, ?, ?, ?)
-                """, (row['RAD Application ID'], row['Condition'], row['Explanation'], row['Condition']))
-            print(f"Processed {len(df_cond)} Annex 3A-COND rules.")
-
-        self.conn.commit()
-
-    def parse_annex_3b(self):
-        print("Parsing Annex 3B (En-route DCT & FRA)...")
-        
-        # --- Parse DCT ---
-        df_dct = self._read_csv("Annex_3B_DCT.csv")
-        if df_dct is not None:
-            for _, row in df_dct.iterrows():
-                from_id = self.get_point(row['From'])
-                to_id = self.get_point(row['To'])
-                
-                if not from_id or not to_id:
-                    print(f"Skipping rule {row['ID']} due to missing point.")
-                    continue
-                    
-                availability = 'AVBL' if str(row['Available or Not (Y/N)']).strip().lower() == 'yes' else 'NOT AVBL'
-                
-                self.cursor.execute("""
-                    INSERT OR IGNORE INTO tbl_Rules_Annex3B
-                    (rule_identifier, from_point_id, to_point_id, availability, rule_type, description)
-                    VALUES (?, ?, ?, ?, 'DCT', ?)
-                """, (row['ID'], from_id, to_id, availability, row['Remarks']))
-                
-                rule_id = self.cursor.lastrowid
-                if rule_id == 0:
-                    self.cursor.execute("SELECT rule_id FROM tbl_Rules_Annex3B WHERE rule_identifier = ?", (row['ID'],))
-                    rule_id = self.cursor.fetchone()[0]
-                
-                # Manually build condition string from multiple columns
-                cond_str = str(row['Utilization'])
-                time_str = str(row['Time Availability'])
-                
-                level_cond = ""
-                lower_fl = row['Lower Vert. Limit (FL)']
-                upper_fl = row['Upper Vert. Limit (FL)']
-                
-                if pd.notna(lower_fl) and pd.notna(upper_fl):
-                    level_cond = f"BTN {lower_fl} AND {upper_fl}"
-                elif pd.notna(lower_fl):
-                    level_cond = f"AT OR ABV {lower_fl}"
-                elif pd.notna(upper_fl):
-                    level_cond = f"AT OR BLW {upper_fl}"
-
-                full_cond_str = f"{cond_str} {time_str if time_str != 'H24' else ''} {level_cond}"
-                
-                conditions = self._parse_condition_string(full_cond_str)
-                self._load_conditions(rule_id, conditions, 'Annex3B', 'rule_id')
-            print(f"Processed {len(df_dct)} Annex 3B-DCT rules.")
-
-        # --- Parse FRA_LIM (Loading as 3A-Conditions) ---
-        df_fra = self._read_csv("Annex_3B_FRA_LIM.csv")
-        if df_fra is not None:
-            for _, row in df_fra.iterrows():
-                area_id = self.get_area(row['Airspace']) # This is an airspace, not an AD
-                
-                self.cursor.execute("""
-                    INSERT OR IGNORE INTO tbl_Rules_Annex3A_Conditions
-                    (rule_identifier, area_id, applicability, condition_type, value, description)
-                    VALUES (?, ?, 'GENERAL', 'FRA LIM', ?, ?)
-                """, (row['RAD Application ID'], area_id, row['DCT Horiz. Limit'], row['Remarks']))
-            print(f"Processed {len(df_fra)} Annex 3B-FRA_LIM rules.")
-
-        self.conn.commit()
-
-    def run_all(self):
-        """Runs the full ETL process in the correct order."""
-        self._execute_schema()
-        
-        # --- Run Parsers ---
-        # Prerequisites must run first
-        self.parse_annex_1() 
-        
-        # Core rules
-        self.parse_annex_2a()
-        self.parse_annex_2b()
-        self.parse_annex_2c()
-        self.parse_annex_3a() # This now handles DEP, ARR, and COND
-        self.parse_annex_3b() # This now handles DCT and FRA_LIM
-        
-        print("\n" + "="*80)
-        print(f"--- RAD Database Load Complete ---")
-        print(f"Database file is located at: {self.db_path}")
-        print("="*80)
-        self.conn.close()
-
-
-if __name__ == "__main__":
-    # --- CONFIGURATION ---
-    # The script expects the 9 CSV files to be in the same directory.
-    DATABASE_FILE = "rad_master.db"
-    
-    print(f"Starting RAD CSV Parser...")
-    
-    try:
-        parser = RADParser(db_path=DATABASE_FILE)
-        parser.run_all()
-    except Exception as e:
-        print(f"\n--- A FATAL ERROR OCCURRED ---")
-        print(f"Error: {e}")
-        sys.exit(1)
