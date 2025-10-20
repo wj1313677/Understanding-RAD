@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# NAME: RAD_ETL_Parser_CSV_v2_FIXED.py
+# NAME: RAD_ETL_Parser_CSV_v2.py
 # AUTH: RAD-Advisor
 # DESC: Parses a set of 9 RAD CSV files and loads them into a normalized 
 #       SQLite database for FPL validation. (Full Bugfix Version)
@@ -212,8 +212,7 @@ class RADParser:
         print("Schema created successfully.")
 
     # --- ENTITY RESOLUTION (GET-OR-CREATE) HELPERS ---
-    
-    # *** START FIX FOR BUG 1 ***
+
     def _get_or_create(self, cache, table, pk_col, lookup_col, lookup_val):
         """
         Generic helper to get or create an entity ID.
@@ -249,7 +248,6 @@ class RADParser:
 
     def get_ats_route(self, name):
         return self._get_or_create(self.ats_route_cache, 'tbl_ATS_Routes', 'route_id', 'identifier', name)
-    # *** END FIX FOR BUG 1 ***
 
     def get_procedure(self, name, type, ad_id, pt_id):
         """
@@ -312,7 +310,6 @@ class RADParser:
         end = str(end).strip()
         days = str(days).strip()
         
-        # Format time if it's 0600
         start = f"{start[:2]}:{start[2:]}" if len(start) == 4 else start
         end = f"{end[:2]}:{end[2:]}" if len(end) == 4 else end
         
