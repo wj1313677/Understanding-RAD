@@ -696,12 +696,19 @@ class RADParser:
         if df_dep is not None:
             for _, row in df_dep.iterrows():
                 ad_id = self.get_aerodrome(row['DEP AD'])
+                
+                # --- START FIX ---
+                # This guard clause prevents the FOREIGN KEY constraint error.
+                # If the aerodrome is invalid, ad_id is None, and we must skip the row.
+                if not ad_id:
+                    print(f"Skipping DEP rule {row['DEP ID']} due to invalid Aerodrome: {row['DEP AD']}")
+                    continue # Skip to the next row
+                # --- END FIX ---
+                
                 proc_name = str(row['Last PT SID / SID ID'])
                 pt_name = str(row['DCT DEP PT'])
                 
-                # The rule is defined by the AD and the en-route point
                 en_route_point_id = self.get_point(pt_name) if pd.notna(pt_name) else self.get_point(proc_name)
-                # Create the procedure entity itself
                 proc_id = self.get_procedure(proc_name, 'SID', ad_id, en_route_point_id)
 
                 self.cursor.execute("""
@@ -713,16 +720,18 @@ class RADParser:
                 rule_id = self.cursor.lastrowid
                 if rule_id == 0:
                     self.cursor.execute("SELECT conn_rule_id FROM tbl_Rules_Annex3A_Connectivity WHERE rule_identifier = ?", (row['DEP ID'],))
-                    rule_id = self.cursor.fetchone()[0]
+                    # Add a check here in case fetchone fails, though it shouldn't if ad_id is valid.
+                    result = self.cursor.fetchone()
+                    if not result:
+                        print(f"Warning: Could not re-fetch rule_id for {row['DEP ID']}. Skipping conditions.")
+                        continue
+                    rule_id = result[0]
 
-                # Parse conditions from 'DEP FPL Options' and 'DEP Time Applicability'
                 time_str = str(row['DEP Time Applicability'])
                 cond_str = str(row['DEP FPL Options'])
                 full_cond_str = f"{cond_str} {time_str}" if time_str != 'H24' else cond_str
                 
                 conditions = self._parse_condition_string(full_cond_str)
-                
-                # Use the generic loader as DEP rules can have level, flow, etc.
                 self._load_conditions(rule_id, conditions, 'Annex3A_Conn', 'conn_rule_id')
                 
             print(f"Processed {len(df_dep)} Annex 3A-DEP rules.")
@@ -732,6 +741,14 @@ class RADParser:
         if df_arr is not None:
             for _, row in df_arr.iterrows():
                 ad_id = self.get_aerodrome(row['ARR AD'])
+                
+                # --- START FIX ---
+                # This guard clause prevents the FOREIGN KEY constraint error.
+                if not ad_id:
+                    print(f"Skipping ARR rule {row['ARR ID']} due to invalid Aerodrome: {row['ARR AD']}")
+                    continue # Skip to the next row
+                # --- END FIX ---
+
                 proc_name = str(row['First PT STAR / STAR ID'])
                 pt_name = str(row['DCT ARR PT'])
                 
@@ -747,15 +764,17 @@ class RADParser:
                 rule_id = self.cursor.lastrowid
                 if rule_id == 0:
                     self.cursor.execute("SELECT conn_rule_id FROM tbl_Rules_Annex3A_Connectivity WHERE rule_identifier = ?", (row['ARR ID'],))
-                    rule_id = self.cursor.fetchone()[0]
+                    result = self.cursor.fetchone()
+                    if not result:
+                        print(f"Warning: Could not re-fetch rule_id for {row['ARR ID']}. Skipping conditions.")
+                        continue
+                    rule_id = result[0]
 
                 time_str = str(row['ARR Time Applicability'])
                 cond_str = str(row['ARR FPL Option'])
                 full_cond_str = f"{cond_str} {time_str}" if time_str != 'H24' else cond_str
                 
                 conditions = self._parse_condition_string(full_cond_str)
-                
-                # Use the generic loader as ARR rules can have level, flow, etc.
                 self._load_conditions(rule_id, conditions, 'Annex3A_Conn', 'conn_rule_id')
                 
             print(f"Processed {len(df_arr)} Annex 3A-ARR rules.")
@@ -764,7 +783,6 @@ class RADParser:
         df_cond = self._read_csv("Annex_3A_Conditions.csv")
         if df_cond is not None:
             for _, row in df_cond.iterrows():
-                # Store the main rule
                 self.cursor.execute("""
                     INSERT OR IGNORE INTO tbl_Rules_Annex3A_Conditions
                     (rule_identifier, condition_type, value, description)
@@ -776,7 +794,6 @@ class RADParser:
                     self.cursor.execute("SELECT cond_rule_id FROM tbl_Rules_Annex3A_Conditions WHERE rule_identifier = ?", (row['RAD Application ID'],))
                     rule_id = self.cursor.fetchone()[0]
                 
-                # These rules only have Time Applicability
                 time_str = str(row['Time Applicability'])
                 if time_str != 'H24':
                     conditions = self._parse_condition_string(time_str)
@@ -787,7 +804,6 @@ class RADParser:
             print(f"Processed {len(df_cond)} Annex 3A-COND rules.")
 
         self.conn.commit()
-
     def parse_annex_3b(self):
         """Parses both Annex 3B files (DCT & FRA_LIM)"""
         print("Parsing Annex 3B (En-route DCT & FRA)...")
