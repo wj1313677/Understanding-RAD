@@ -6,80 +6,127 @@ Goal",Remarks,"Direction of
 Cruising Levels",ATC Unit,"Release
 Date","Special Event and 
 Crisis"
-ED50038,AKOSI,LASGA,FL245,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (EDDV, EDDW, EDBM, EDBC, EDVE, ETNW)",H24,To offer shorter route option to specified traffic,,EVEN,"(EDUUUAC, EDMMACC)",25 SEP 2025,
-ED51528,KONIN,AMEXO,FL245,FL660,Yes,"ONLY AVBL FOR TFC
-DEP LOWS",H24,To offer shorter connection. Subject to frequent AUP-FUA restriction EDR307CZR/407CZR (MON..FRI daytime). Listed DCT refers to ANNEX3B MIN FL245.,,EVEN,"(EDUUUAC, EDMMACC)",18 SEP 2025,
-ED5154,VEKIR,UMDAS,FL235,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK",H24,"To offer shorter route option for ARR EDDK.
-Subject to frequent AUP-FUA restriction EDR307CZR/407CZR (MON..FRI daytime)",,EVEN,EDUUUAC,18 SEP 2025,
-ED51679,UNIMI,USUDO,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-1. VIA (UNIMI DCT USUDO DCT LIRSU)
-2. VIA (UNIMI DCT USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
-ED51681,SOTOV,USUDO,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-1. VIA (SOTOV DCT USUDO DCT LIRSU)
-2. VIA (SOTOV DCT USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
-GC5001,ERONI,INSAD,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI DCT INSAD)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
-GC5002,ERONI,KUXOV,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI DCT KUXOV)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
-GC5003,INSAD,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (INSAD DCT ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
-GC5004,KUXOV,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (KUXOV DCT ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
-GC5016,ETIBA,ISOKA,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
-GC5018,ISOKA,ETIBA,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
-GC5019,ISOKA,YORGI,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
-GC5020,IXIKU,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (IXIKU DCT ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
-GC5021,ERONI,IXIKU,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI DCT IXIKU)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
-GC5022,ERONI,YORGI,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
-GC5024,YORGI,ISOKA,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
-GC5025,YORGI,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
-VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
-LL5058,BGN,ZACCI,MEA,FL375,Yes,"ONLY AVBL FOR TFC
-DEP LLBG",NOTAM ACT,"Exercise P, P1, P2 scenario",,EVEN,LLLLACC,07 SEP 2025,
-LL5059,ZACCI,RAPIV,FL115,FL600,Yes,"ONLY AVBL FOR TFC
-1. VIA OJ AND-THEN VIA LL
-2. DEP (LLBG, LLER, LLNV, LLRM, LLOV)",NOTAM ACT,"Exercise P, P1, P2, Q, Q1, Q2 scenario",,EVEN,LLLLACC,07 SEP 2025,
-LL5065,RAPIV,ZACCI,FL115,FL600,Yes,"ONLY AVBL FOR TFC
-1. VIA LC AND-THEN VIA LL AND-THEN VIA OJ
-2. ARR (LLER, LLNV, LLOV, LLRM, LLBG)",NOTAM ACT,"Exercise R, R1, R2, R3 scenario",,ODD,LLLLACC,07 SEP 2025,
-LL5066,ZACCI,BGN,MEA,FL195,Yes,"ONLY AVBL FOR TFC
-ARR LLBG",NOTAM ACT,Exercise R  scenario,,ODD,LLLLACC,07 SEP 2025,
-LL5067,ZACCI,TOMAL,FL115,FL600,Yes,"ONLY AVBL FOR TFC
-ARR (LLER, LLNV, LLOV, LLRM)",NOTAM ACT,Exercise R1 scenario,,ODD,LLLLACC,07 SEP 2025,
-LL5068,ZACCI,SALAM,FL115,FL600,Yes,"ONLY AVBL FOR TFC
-1.VIA LC AND-THEN VIA LL AND-THEN VIA OJ
-2.ARR (LLER, LLNV, LLOV, LLRM)",NOTAM ACT,"Exercise R2, R3 scenario",,ODD,LLLLACC,07 SEP 2025,
-LL5088,ADLOD,ZACCI,FL115,FL600,Yes,"ONLY AVBL FOR TFC
-1. VIA OJ AND-THEN VIA LL AND-THEN VIA LC 
-2. DEP (LLER, LLOV, LLNV, LLRM)",NOTAM ACT,"Exercise Q, Q1, Q2 scenario",,EVEN,LLLLACC,07 SEP 2025,
-LT5061,SUDES,DUGLA,FL245,FL285,Yes,"ONLY AVBL FOR TFC
-ARR LTBJ",H24,TO ALLOW FURTHER DESCENT AND CONNECTIVITY TO OVZOK STAR,,ODD,LTAA,06 OCT 2025,
-LT5061,SUDES,DUGLA,FL195,FL285,Yes,"ONLY AVBL FOR TFC
-ARR LTBJ",H24,TO ALLOW FURTHER DESCENT AND CONNECTIVITY TO OVZOK STAR,,ODD,LTAA,06 OCT 2025,
-LT5062,DUGLA,OVZOK,FL215,FL285,Yes,"ONLY AVBL FOR TFC
-ARR LTBJ",H24,TO ALLOW FURTHER DESCENT AND CONNECTIVITY TO OVZOK STAR,,ODD,LTAA,06 OCT 2025,
-LT5062,DUGLA,OVZOK,FL195,FL285,Yes,"ONLY AVBL FOR TFC
-ARR LTBJ",H24,TO ALLOW FURTHER DESCENT AND CONNECTIVITY TO OVZOK STAR,,ODD,LTAA,06 OCT 2025,
-ED51684,AMEXO,VEKIR,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK",H24,To offer connectivity towards EDDK. ,,EVEN,EDUUUAC,11 SEP 2025,
-ED51698,USUDO,UTABA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
-ED51699,UTABA,BANIM,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
-ED51700,BANIM,LIRSU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
-LQ5006,DOBOT,SOMUN,095,205,Yes,"ONLY AVBL FOR TFC
-DEP LQBK",H24,"To facilitate the departures from LQBK via DOBOT and to enable connection DOBOT - SOMUN below FRA
-",,,LQSBACC,11 SEP 2025,
+LT5003,RUPOM,VAN,FL165,FL660,Yes,"ONLY AVBL FOR TFC
+DEP LTCW",H24,Only available during activation of exercise published by NOTAM for traffic DEP LTCW,,,LTAAACC,05 DEC 2025,
+LT5004,VAN,RUPOM,FL165,FL660,Yes,"ONLY AVBL FOR TFC
+ARR LTCW",H24,Only available during activation of exercise published by NOTAM for traffic ARR LTCW,,,LTAAACC,05 DEC 2025,
+EB5024,BUB,ARWEF,FL115,FL245,Yes,"ONLY AVBL FOR TFC
+ARR EBKT",H24,to allow better connectivity to ARWEF ,,,EBBUACC,17 OCT 2025,
+ED50034,ASKIK,DILUG,FL145,FL325,Yes,"ONLY AVBL FOR TFC
+ARR EDDK & VIA ((ABUKA, ETASA) DCT ASKIK)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent)
+For listed DCTs see RAD ANNEX 3B (FL205-660).",,Even,"(EDUUUAC, EDGGACC)",21 OCT 2025,
+ED50035,ERKIR,ETASA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG) & ABV FL335 AT ERKIR",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
+For listed DCTs see RAD ANNEX 3B",,EVEN,EDUUUAC,28 OCT 2025,
+ED50036,ETASA,ASKIK,FL205,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK & VIA (ERKIR, KUNOD, KPT, SUDEN, VEKIR) AND-THEN VIA (ASKIK DCT DILUG)
+----------
+NOT AVBL FOR TFC
+VIA EDUUSLN1S & BLW FL255 IN EDUUSLN1S","22:00-04:00 (21:00-03:00) AT ASKIK
+----------
+H24","To offer shorter route option ARR EDDK at night with better vertical profile (late descent)
+For listed DCT see RAD ANNEX 3B.
+Level constraint (sector) to avoid early descend at ETASA. ",,Even,"(EDUUUAC, EDGGACC)",28 OCT 2025,
+ED51402,KUNOD,ETASA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
+For listed DCTs see RAD ANNEX 3B",,even,EDUUUAC,28 OCT 2025,
+ED51403,SUDEN,ETASA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
+For listed DCTs see RAD ANNEX 3B",,even,EDUUUAC,28 OCT 2025,
+ED51405,KPT,ETASA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
+For listed DCTs see RAD ANNEX 3B",,even,EDUUUAC,28 OCT 2025,
+ED51406,VEKIR,ETASA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
+For listed DCTs see RAD ANNEX 3B ",,even,EDUUUAC,28 OCT 2025,
+ED51686,OSN,EXPUH,MEA,FL660,Yes,"ONLY AVBL FOR TFC
+DEP EDLW",H24,to offer connectivity for DEP EDLW until SID redesign,,ODD,EDGGACC,21 OCT 2025,
+ED51687,OSN,MOBSA,MEA,FL660,Yes,"ONLY AVBL FOR TFC
+DEP EDLW",H24,to offer connectivity for DEP EDLW until SID redesign,,ODD,EDGGACC,21 OCT 2025,
+ED51688,SUVOX,REBGU,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+DEP EDDG",H24,to offer connectivity for DEP EDDG via RWY07,,EVEN,EDGGACC,29 OCT 2025,
+EDLF5043,VABEN,OVTEC,195,660,Yes,"ONLY AVBL FOR TFC
+DEP EDDF AND-THEN ARR (LEMD, LEBL, LEMG, LEJR, LPFR)","LAST AIRAC OCT-AIRAC DEC H24 & 
+AIRAC JAN-AIRAC MAR MON-FRI H24 & 
+AIRAC APR-FIRST AIRAC OCT MON-FRI H24 & SAT-SUN 20:00-07:00 (19:00-06:00)","To offer citypairs EDDF to LEMD/LEBL/LEMG/LEJR/LPGR shorter route option. 
+Subject to AUP/UUP closure of EDR205CZR and LFT22AZR",,EVEN,"EDGGACC, LFEEACC",04 NOV 2025,
+EG5190,CLN,OTR,195,245,Yes,"ONLY AVBL FOR TFC
+FLT-TYPE (M, X)",H24,Routes through TRA003. Facilitates a fuel efficient route for traffic which can use ATSOCAS,,,EG**ACC,24 OCT 2025,
+EG5303,BKY,BUSTA,MEA,660,Yes,"ONLY AVBL FOR TFC
+ARR (EGGW, EGS*)
+----------
+COMPULSORY FOR TFC
+1. DEP EGSS & ARR EGGW EXC FLT-TYPE (X)
+2. DEP (EGTB, EGWU) & ARR (EGSC, EGSS) EXC FLT-TYPE (X)
+3. DEP WESSEX_GROUP & ARR (EGSS, EGSC)
+EXC
+  a. VIA (DTY, WOBUN)
+  b. FLT-TYPE (X)
+4. DEP EGTK & ARR (EGSS, EGSC)
+EXC
+  a. FLT-TYPE (X)
+  b. STAR (SILVA1L)","H24
+----------
+H24","Standard route for specified airfields is BKY DCT BUSTA DCT LOREL.
+4.b. The standard route from EGTK to EGSS/SC is to pick up the SILVA1L STAR at SILVA.",,,EG**ACC,26 NOV 2025,
+EG5304,BUSTA,LOREL,MEA,660,Yes,"COMPULSORY FOR TFC
+1. DEP (EGGW, EGHO, EGLL, EGWU, WESSEX_GROUP) AND-THEN ARR (EGSC, EGSS) EXC FLT-TYPE (X)
+2. DEP EGTK AND-THEN ARR (EGSC, EGSS)
+   EXC 
+   a. FLT-TYPE (X)
+   b. STAR (SILVA1L)",H24,"Standard route for EGGW/SS/SU within the TMA. Training Flights with established routings between these airfields are exempted from this restriction. 
+2.b. The standard route from EGTK to EGSS/SC is to pick up the SILVA1L STAR at SILVA.",,,EG**ACC,26 NOV 2025,
+LF50432,AHVEC  ,KETEX,FL295,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (MEDIL, GIMER, FAMEN) AND-THEN VIA KETEX",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
+Time limitation refers to time over AHVEC",,ODD,"(LFEEACC, LFRRACC, LFBBACC)",19 NOV 2025,
+LF50558,FAMEN,LABUL,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+VIA FAMEN AND-THEN VIA (TIVLU, RIVAK)",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
+Time limitation refers to time over FAMEN",,ODD,"(LFEEACC, LFRRACC)",26 NOV 2025,
+LF50581,LEQOS   ,OQQAL,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LF50583,SUBIP,KUNAV,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LF50584,KUNAV,SUBIP,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LF50585,ALESO,KUNAV,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LF50588,ETINO,DIPCE,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LF50610,NIK,KOVIN,FL265,FL660,Yes,,H24,To avoid LFFFAENB in accordance with LOA between LFFF and EDYY,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LF50610,NIK,KOVIN,FL265,FL660,Yes,,H24,To avoid LFFFAENB in accordance with LOA between LFFF and EDYY,,,"(LFFFACC, LFEEACC, EDYYUAC)",30 NOV 2025,
+LF50611,SISGA,KOVIN,FL265,FL660,Yes,,H24,To avoid LFFFAENB in accordance with LOA between LFFF and EDYY,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LF50612,CIV,KOVIN,FL265,FL660,Yes,,H24,To avoid LFFFAENB in accordance with LOA between LFFF and EDYY,,,"(LFFFACC, LFEEACC)",19 NOV 2025,
+LC5142,PEDER,LUTIG,MEA,FL205,Yes,"ONLY AVBL FOR TFC
+RFL ABV FL205 IN LC",H24,To facilitate DEP LCPH connectivity,CLASS C airspace,,LCCCACC,21 NOV 2025,
+LF50410,FAMEN,DISAK,315,660,Yes,"ONLY AVBL FOR TFC
+VIA FAMEN AND-THEN VIA DISAK",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
+Time limitation refers to time over FAMEN",,ODD,"LFEEACC, LFRRACC, LFBBACC",26 NOV 2025,
+LF50411,FAMEN ,KETEX,315,660,Yes,"ONLY AVBL FOR TFC
+VIA FAMEN AND-THEN VIA KETEX",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
+Time limitation refers to time over FAMEN",,ODD,"LFEEACC, LFRRACC, LFBBACC",26 NOV 2025,
+LF50661,MADKA,AJO,145,195,Yes,"ONLY AVBL FOR TFC
+ARR (LFMN, LFMD, LFTZ, LFMC, LFTH, LFMF, LFTF, LFKB, LFKC)
+----------
+NOT AVBL FOR TFC
+VIA AJO","H24
+----------
+LFD540EZ NOT ACT",To allow bypass of LFD540 military area,,EVEN,LFMMACC,07 NOV 2025,
+LF50662,CORSI,AJO,145,195,Yes,"ONLY AVBL FOR TFC
+ARR (LFMN, LFMD, LFTZ, LFMC, LFTH, LFMF, LFTF, LFKB, LFKC)
+----------
+NOT AVBL FOR TFC
+VIA AJO","H24
+----------
+LFD540EZ NOT ACT",To allow bypass of LFD540 military area,,EVEN,LFMMACC,07 NOV 2025,
+LF50663,RESMI,LUVAL,FL345,FL660,Yes,"NOT AVBL FOR TFC
+VIA (INPAX, KOVIN)",21:00-06:00 (20:00-05:00),"Timing refers to time at RESMI
+Night FRA",FRAF,ODD,"(LFRRACC,_x000D_
+LFEEACC)",26 NOV 2025,
+LF50664,SOSUN,SUBIP,195,265,Yes,"ONLY AVBL FOR TFC
+ARR (EGDM, EGDN, EGDR, EGDY, EGGW, EGHH, EGHI, EGHO, EGHQ, EGHR, EGUL, EGUN, EGSC, EGSS, EGTE, EGTK, FARNBOROUGH_GROUP)",H24,allow those ARR to descent in LFFRANE,,EVEN/ODD,"LFFFACC, LFEEACC",28 NOV 2025,
+LF5294,PODEM,RUBUT,FL295,FL660,Yes,,22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
+Time limitation refers to time over PODEM and RUBUT",FRAF,Even,"(LFRRACC,
+LFEEACC)",26 NOV 2025,
+LF5295,PODEM,GIRVI,FL295,FL660,Yes,,22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
+Time limitation refers to time over PODEM and GIRVI",FRAF,Even,"(LFRRACC,
+LFEEACC)",26 NOV 2025,
+LF5459,EKTIR,BELDI,FL305,FL500,Yes,,23:00-04:00 (22:00-05:00),"In case of military activity, rerouting via UN873",FRAF,Even,"(LFRRACC,
+LFEEACC)",26 NOV 2025,
 ED50000,RUDNO,MASEK,FL335,FL660,Yes,"ONLY AVBL FOR TFC
 VIA (EDGTTIVUN, EDGTMAPOX)
 ----------
@@ -87,58 +134,24 @@ NOT AVBL FOR TFC
 DEP (ED**, LOWL, LOWS)","H24
 ----------
 H24","To offer shorter route option  x-border EDUUFRA 
-First limitation to avoid turns (use different FRA segments) and second to support LoA procedures.",X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
+First limitation to avoid turns (use different FRA segments) and second to support LoA procedures.",X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
+ED50001,DEXIT,MASEK,FL335,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (EDGTTIVUN, EDGTMAPOX)",H24,To offer shorter route option  x-border FRA.,X BORDER EDUUW and EDUUE,Even,EDUUUAC,17 OCT 2025,
+ED50002,LAMSI,MASEK,FL335,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (EDGTTIVUN, EDGTMAPOX)",H24,"To offer shorter route option x-border FRA.
+Subject to occasional AUP closures of EDR171Z.",X BORDER EDUUW and EDUUE,Even,EDUUUAC,17 OCT 2025,
+ED50003,KODUK,MASEK,FL335,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (EDGTTIVUN, EDGTMAPOX)",H24,To offer shorter route options x-border FRA,X BORDER EDUUW and EDUUE,Even,EDUUUAC,17 OCT 2025,
 ED5003,OKG,ADKUV,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 ABV FL335 AT OKG
 ----------
 NOT AVBL FOR TFC
 DEP (PRAGUE_GROUP, LKKV)","23:00-05:00 (22:00-04:00) AT ADKUV
 ----------
-23:00-05:00 (22:00-04:00) AT ADKUV",Night time direct route for overflights and EBBR/MB on late descent profile avoiding Langen ACC.,X BORDER DCT EDUUFRAW and EDUUFRAE,EVEN,EDUUUAC,21 AUG 2025,
-ED50039,LAMSI,LASGA,FL275,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (EDDV, EDDW, EDBM, EDBC, EDVE, ETNW) & ABV FL335 AT LAMSI",H24,To offer shorter route option to specified traffic,,EVEN,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50046,RENDO,MILGU,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (MILGU DCT KOSIX) & ABV FL315 AT MILGU
-----------
-NOT AVBL FOR TFC
-DEP EDMMFIR","H24
-----------
-H24",To offer shorter connection,,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50050,PESEL,NATOR,FL335,FL660,Yes,"NOT AVBL FOR TFC
-1. DEP (EK**, ESEK, ESMK, ESMS)
-2. ARR (LS**, LFLB, LFLI, LFLJ, LFLP)",22:00-05:00 (21:00-04:00),"To offer shorter connections. 
-Restricted traffic shall use other  transition routes.",,Even,EDUUUAC,21 AUG 2025,
-ED50093,AKOSI,DOSEL,FL245,FL315,Yes,"ONLY AVBL FOR TFC
-VIA (LIZUM, DETSA)
-----------
-NOT AVBL FOR TFC
-DEP EDMMFIR EXC DEP EDDP","21:00-07:00 (20:00-06:00)
-----------
-21:00-07:00 (20:00-06:00)","To offer shorter connection.
-Note: DCT is also published above FL315.",,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50095,ERKIR,BABEG,FL245,FL315,Yes,"NOT AVBL FOR TFC
-ARR (EDGGFIR, ELLX)",MON-THU 23:00-05:00 (22:00-04:00) & FRI 23:00 (22:00)-MON 05:00 (04:00) & HOL ED H24,To offer shorter route option at night/weekend.,,Even,"(EDUUUAC,
-EDMMACC)",21 AUG 2025,
-ED50096,ETAGO,KRH,FL125,FL660,Yes,"ONLY AVBL FOR TFC
-1. DEP (LSZH, LSZR,EDNY, EDJA, EDTM) & VIA EDUUNTM1N & ABV FL255 IN EDUUNTM1N
-2. VIA ERKIR",H24,"To enable traffic departing via ETAGO
-and offer short cuts for overflights via ERKIR",,Even,EDUUUAC,21 AUG 2025,
-ED50098,LALIN,MOOCE,FL245,FL315,Yes,"NOT AVBL FOR TFC
-1. ARR (EDFQ, EDGS, EDDK, EDKZ, EDLA, EDLI, EDLP, EDLW, EDVK) & ABV FL305 IN (ED, LO)
-2. ARR EDDS",21:00-07:00 (20:00-06:00),"To offer shorter connection for overflghts.
-1. Listed ARR requires early descent or different routing 
-  (e.g. via AKOSI DCT TIPAM)
-2. ARR EDDS shall file different transition route",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50099,BUMIL,BODLA,FL245,FL285,Yes,"NOT AVBL FOR TFC
-1. DEP EDWWFIR
-2. ARR EPSC",MON-THU 21:00-07:00 (20:00-06:00) & FRI 16:00 (15:00)-MON 07:00 (06:00),"To offer shorter route option at night/weekend
-DCT is H24 available above FL285 in FRA.",,Odd,"(EDUUUAC, EDWWACC)",21 AUG 2025,
-ED50100,BODLA,BUMIL,FL245,FL285,Yes,"NOT AVBL FOR TFC
-1. ARR (EDWWFIR, EDFQ, EDLI, EDLP, EDVK)
-2. DEP EPSC",MON-THU 21:00-07:00 (20:00-06:00) & FRI 16:00 (15:00)-MON 07:00 (06:00),"To offer shorter route option at night/weekend
-DCT is H24 available above FL285 in FRA.",,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
-ED50101,ETAGO,IBAGA,FL245,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDP",20:00-05:00 (19:00-04:00),To offer shorter route option during period of low traffic,,EVEN/ODD,EDUUUAC,21 AUG 2025,
+23:00-05:00 (22:00-04:00) AT ADKUV",Night time direct route for overflights and EBBR/MB on late descent profile avoiding Langen ACC.,X BORDER EDUUFRAW and EDUUFRAE,EVEN,EDUUUAC,17 OCT 2025,
+ED50061,ETAGO,TABAT,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDB & VIA (LOKTA DCT ETAGO)",20:00-05:00 (21:30-03:00) AT ETAGO,"Additional DCT option for night / little extended night (in winter will be offered slightly longer time). 
+Time is given via utilization to avoid programming issues with NM system (x-border RAD ANNEX 3B DCT itself is added H24 in FRA DCT restrictions for EDUUFRAW and EDUUFRAE, but utilization is limiting the flow on it).",X BORDER EDUUW and EDUUE,EVEN/ODD,EDUUUAC,17 OCT 2025,
 ED50110,IBAGA,DEXIT,FL245,FL315,Yes,"NOT AVBL FOR TFC
 ARR (LOWL, LOWS)
 ----------
@@ -147,103 +160,17 @@ VIA (TESGA DCT IBAGA)","22:30-04:00 (21:30-03:00)
 ----------
 22:30-04:00 (21:30-03:00)","To offer shorter connection for DEP EDDK at night.
 (only connected via night DCT)
-Note: DCT is also published above FL315.",X BORDER DCT EDUUFRAW and EDUUFRAE,Odd,"(EDUUUAC, EDGGACC)",21 AUG 2025,
-ED50124,TABAT,GOLAT,FL285,FL660,Yes,"ONLY AVBL FOR TFC
-1. ARR (EDDB, EDAY, EDAZ)
-    a. VIA (ETAGO DCT TABAT)
-    b. VIA (IBAGA DCT TABAT)",H24,"To offer better profile for listed ARR during night as limited in ED2351 and ED50061 via listed DCTs (ETAGO-TABAT- RAD ANNEX 3B, H24, MINFL315; IBAGA -TABAT EDUUFRAE, H24, MIN FL315).",,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50128,LASIS,KOSIX,FL275,FL660,Yes,"NOT AVBL FOR TFC
-1. DEP EPWR
-2. BLW FL335 AT LASIS
-----------
-ONLY AVBL FOR TFC
-ARR (EDDV, EDDW, EDLP, EDLI, EDVK, ETNW)","H24
-----------
-H24","To offer shorter route option,
-specified traffic shall use transition routes",,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
-ED5015,SONAL,ROSOK,FL245,FL660,Yes,"NOT AVBL FOR TFC
-1. DEP (COPENHAGEN_GROUP, ESEK, ESMK, ESMS, EKRN)
-2. BLW FL295 AT SONAL",H24,To offer shorter connection,,Even,EDUUUAC,21 AUG 2025,
-ED50171,ZUCKA,GALMA,FL245,FL315,Yes,"ONLY AVBL FOR TFC
-DEP HAMBURG_GROUP",H24,"To offer a shorter route option for 
-ARR EDDH GROUP",,Odd,EDMMACC,21 AUG 2025,
-ED50176,BIRKA,ABGUS,FL245,FL315,Yes,"ONLY AVBL FOR TFC
-ARR (HAMBURG_GROUP, EKCH, EKRK, ESMS)",H24,"To offer a shorter route option for 
-ARR EDDH GROUP and listed airports",,Even,EDMMACC,21 AUG 2025,
-ED50177,LASTO,ABGUS,FL245,FL315,Yes,"ONLY AVBL FOR TFC
-ARR (HAMBURG_GROUP, EKCH, EKRK, ESMS)",H24,"To offer a shorter route option for 
-ARR EDDH GROUP and listed airports",,Even,EDMMACC,21 AUG 2025,
-ED50181,KILNU,SOGMA,FL275,FL660,Yes,"ONLY AVBL FOR TFC
-DEP EDDM & ABV FL325 AT KILNU",H24,"To offer extra route option (e.g. WX in EDDM), time restriction due to  ED-R308",,Even,EDUUUAC,21 AUG 2025,
-ED5020,ETAGO,HAREM,FL055,FL660,Yes,,H24,To enable traffic departing via ETAGO,,EVEN,EDGGACC,21 AUG 2025,
-ED5021,ETAGO,SUNEG,FL055,FL660,Yes,,H24,To enable traffic departing via ETAGO,,EVEN,EDGGACC,21 AUG 2025,
-ED5023,SONAL,RODEP,FL185,FL660,Yes,"NOT AVBL FOR TFC
-1. DEP (COPENHAGEN_GROUP, ESEK, ESMK, ESMS, EKRN)
-2. BLW FL285 AT SONAL",H24,To offer shorter route options to overflights. ,,Odd,EDUUUAC,21 AUG 2025,
-ED50254,BEBKU,LASIS,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EPWR",H24,To offer additional connecting route in Free Route,,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50262,VIBIS,ADUKI,FL245,FL660,Yes,"NOT AVBL FOR TFC
-BLW FL285 AT VIBIS",H24,To offer shorter connection for eligable ARR via ADUKI (e.g. ESMS),,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
-ED50265,XIGRI,GERGA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
-DEP (EPPO, EPZG) & ABV FL285 AT GERGA",H24,To offer shorter connection for eligable DEP via XIGRI,,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
-ED50312,TOPDI,NIMAB,FL285,FL315,Yes,"ONLY AVBL FOR TFC
-ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
-(see also connecting routes ARR EDDF: ED3714)
-This route option is calculated below EDUUSAL1A",,Even,"(EDUUUAC,
-EDMMACC)",21 AUG 2025,
-ED50314,KOSIX,NIMAB,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
-(see also connecting routes ARR EDDF: ED3714)",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50315,KUBOG,NIMAB,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
-(see also connecting routes ARR EDDF: ED3714)",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50316,PENEK,NIMAB,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
-(see also connecting routes ARR EDDF: ED3714)",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED50317,ORTAG,BAMKI,FL285,FL660,Yes,"ONLY AVBL FOR TFC
-DEP EDDB & VIA EDUUSAL1A
-----------
-NOT AVBL FOR TFC
-ARR (M***, K***)","H24
-----------
-H24","Connecting route Dep EDDB to KUAC
-According to RAD ED3813/3815 allowed DEP shall file ORTAG DCT BAMKI DCT IBAGA DCT DKB if via EDUUSAL1A sector.
-Restricted ARR may file via MIPSI DCT KEGOS or below FL315 via MIPSI Z117 KEGOS",,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED5034,NIKDA,RODEP,FL185,FL660,Yes,"NOT AVBL FOR TFC
-1. DEP (COPENHAGEN_GROUP, ESEK, ESMK, ESMS, EKRN)
-2. BLW FL285 AT NIKDA",H24,"To offer shorter connection
-e.g. for ARR EDDB
-Subject to AUP airspace closures (EDR401Z).",,Odd,"(EDUUUAC, EDWWACC)",21 AUG 2025,
-ED5046,ETAGO,TIKNI,FL125,FL660,Yes,"NOT AVBL FOR TFC
-1. ARR EDDE
-2. BLW FL255 AT TIKNI",H24,To offer shorter connections to overflying traffic,,Even,EDUUUAC,21 AUG 2025,
-ED5051,KORUP,SULED,FL245,FL660,Yes,,H24,"To offer shorter route option.
-Anticipate ATC vectors via TADUV-TAMEB 
-(route extension max 2,5 NM) during military activity 
-within ED-R308",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED5055,SOGMA,NEDIK,FL245,FL660,Yes,"NOT AVBL FOR TFC
-1. ARR COPENHAGEN_GROUP
-2. BLW FL285 AT NEDIK",H24,"To offer shorter connection via NUAC DCTs
-e.g. for DEP EDDP via NEDIK DCT RISMA
-Subject to AUP airspace closures (EDR401Z).",,Even,EDUUUAC,21 AUG 2025,
-ED5059,OLETU,GOMIG,FL245,FL660,Yes,,H24,To offer shorter connection,,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
-ED5072,BAMKI,KUMER,FL275,FL660,Yes,"NOT AVBL FOR TFC
-BLW FL315 AT (BAMKI DCT KUMER) EXC DEP EDDM",H24,"To offer shorter route options for DEP EDDM or other flights above FL315, 
-",,,"(EDMMACC, EDUUUAC)",21 AUG 2025,
-ED5101,SUBEN,ADKUV,FL295,FL660,Yes,"NOT AVBL FOR TFC
-1. DEP LO**
-2. BLW FL335 AT SUBEN",21:30-03:30 (20:30-02:30) AT SUBEN,"To offer shorter route option for overflights,
-time limited to reduce conflicts with ARR EDDF",,Even,EDUUUAC,21 AUG 2025,
-ED5103,RADIZ,ADENU,FL275,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (EBBR, EBMB) & RFL ABV FL335 AT RADIZ",00:00-05:00 (23:00-04:00) AT ADENU,"To offer shorter route option for listed ARR. 
-RFL checking to avoid early descend into Munich ACC.",,Even,EDUUUAC,21 AUG 2025,
+Note: DCT is also published above FL315.",X BORDER EDUUFRAW and EDUUFRAE,Odd,"(EDUUUAC, EDGGACC)",17 OCT 2025,
+ED5024,SUVUT,SODRO,FL265,FL660,Yes,"ONLY AVBL FOR TFC
+ARR LOWS","AIRAC NOV - AIRAC MAR 
+SAT H24",For Ski Traffic Scenario,SKI,Odd,EDUUUAC,17 OCT 2025,
+ED5075,RUDNO,MAPOX,FL335,FL660,Yes,"NOT AVBL FOR TFC
+DEP (EDMMFIR, LOWL, LOWS)",H24,To offer shorter route options x border FRA EDUUFRAE / W towards EDYYFRA.,X BORDER EDUUW and EDUUE,,EDUUUAC,17 OCT 2025,
+ED5102,SUBEN,MAPOX,FL335,FL660,Yes,"NOT AVBL FOR TFC
+DEP LO**",21:30-03:30 (20:30-02:30) AT SUBEN,"To offer shorter route options x border FRA EDUUFRAE / W towards EDYYFRA.
+Time limited to reduce conflicts with ARR EDDF",X BORDER EDUUW and EDUUE,Even,EDUUUAC,17 OCT 2025,
 ED5104,RADIZ,EDISA,FL335,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (EDISA DCT LIMGO)",22:30-05:00 (22:00-04:00),To offer shorter route option during night x-border EDUUFRAE and EDUUFRAW.,X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
-ED5105,RADIZ,LIRSU,FL335,FL660,Yes,"NOT AVBL FOR TFC
-ARR (BRUSSELS_GROUP, EBLG, ED**, EHBD, EHBK, EHEH, EHGR, EHVK, EHWO)",22:30-05:00 (22:00-04:00),To offer shorter route option for overflights,,Even,EDUUUAC,21 AUG 2025,
-ED5117,MILGU,KOSIX,FL275,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (EDDV, EDDW, EDLP, EDLI, EDVK, ETNW) & VIA ((HDO, LALUK, RENDO) DCT MILGU)",H24,"To offer shorter connection and better vertical profile 
-for listed ARR.",,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
+VIA (EDISA DCT LIMGO)",22:30-05:00 (22:00-04:00),To offer shorter route option during night x-border EDUUFRAE and EDUUFRAW.,X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
 ED5124,KPT,LUPEN,FL335,FL660,Yes,"ONLY AVBL FOR TFC
 ARR EGKK
 ----------
@@ -252,124 +179,207 @@ DEP (ED**, LIPB, LOWI, LOWS)","22:30-05:00 (21:30-04:00)
 ----------
 22:30-05:00 (21:30-04:00)","To offer shorter route option for  ARR EGKK
 during  night
-connected via L608 or UMVEG DCT KPT",X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
+connected via L608 or UMVEG DCT KPT",X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
 ED5128,LUPEN,RIDAR,FL325,FL660,Yes,"ONLY AVBL FOR TFC
 ABV FL345 AT RIDAR",21:30-05:00 (20:30-04:00),"To offer shorter route options for during  night
-(e.g. for ARR LOWW: LUPEN DCT RIDAR Z98 MIQ L605 BIBAG Q104 AKIMA DCT MASUR)",X BORDER DCT EDUUFRAW and EDUUFRAE,Odd,EDUUUAC,21 AUG 2025,
-ED5215,VIBOM,ELMOX,FL245,FL660,Yes,"ONLY AVBL FOR TFC
-ARR  EDDM  & VIA (EXCOS DCT VIBOM)",H24,To offer direct route option for listed ARR. (EXCOS DCT VIBOM refers to EDUUFRAW above FL245),,ODD,EDUUUAC,21 AUG 2025,
+(e.g. for ARR LOWW: LUPEN DCT RIDAR Z98 MIQ L605 BIBAG Q104 AKIMA DCT MASUR)",X BORDER EDUUFRAW and EDUUFRAE,Odd,EDUUUAC,17 OCT 2025,
+ED51373,KOBUS,POZUM,FL285,FL660,Yes,"NOT AVBL FOR TFC
+BLW FL315 AT (KOBUS DCT POZUM) EXC ARR (EPPO, EPZG)",H24,Vertical x-border DCT via EDUUFRAE and EDMM ACC to allow descend for listed arrivals according LoA and OLDI. ,X BORDER EDUUW and EDUUE,,"(EDUUUAC, EDMMACC)",17 OCT 2025,
+ED51425,ANEKI,VABEN,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+DEP EDDF AND-THEN ARR (LEBL,LEJR, LEMD, LEMG, LPFR)",H24,"To offer citypairs EDDF to listed LE** arrivals shorter route option. 
+Subject to AUP/UUP closure of EDR205CZR and LFT22AZR",,EVEN,EDGGACC,19 SEP 2025,
+ED51509,MASEK,POZUM,FL345,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (AMASI, BOMBI, NOSPA, LIMGO)",H24,"To offer shorter route option - crossborder DCT via EDUUFRAW, EDUUFRAE towards EP.",X BORDER EDUUW and EDUUE,ODD,EDUUUAC,17 OCT 2025,
+ED51510,MASEK,LASIS,FL345,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (AMASI, BOMBI, NOSPA, LIMGO)",H24,"To offer shorter route option - crossborder DCT via EDUUFRAW, EDUUFRAE towards EP.",X BORDER EDUUW and EDUUE,ODD,EDUUUAC,17 OCT 2025,
+ED51570,KEMES,TEKTU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (EBAW, EBBR, EBCI, EBCV, EBMB, EHEH, EHGR, EHVK, EHWO)",H24,"To offer shorter connection, x-border EDUUFRAE, EDUUFRAW",X BORDER EDUUW and EDUUE,EVEN,EDUUUAC,17 OCT 2025,
+ED51571,EXITI,TEKTU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (EBAW, EBBR, EBCI, EBCV, EBMB, EHEH, EHGR, EHVK, EHWO)",H24,"To offer shorter connection, x-border EDUUFRAE, EDUUFRAW",X BORDER EDUUW and EDUUE,EVEN,EDUUUAC,17 OCT 2025,
+ED51572,MOOCE,TEKTU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (EBAW, EBBR, EBCI, EBCV, EBMB, EHEH, EHGR, EHVK, EHWO)",H24,"To offer shorter connection, x-border EDUUFRAE, EDUUFRAW",X BORDER EDUUW and EDUUE,EVEN,EDUUUAC,17 OCT 2025,
 ED5230,BIKRU,RODEP,FL185,FL660,Yes,"NOT AVBL FOR TFC
 1. VIA BIKRU
-2. BLW FL305 AT BIKRU","1. (BIKRU N33 POBOX) NOT AVBL
-2. H24",To offer shorter route option to overflying traffic. Anticipate ATC vectors (route extension max 2NM) due to military activity within MVPA. When N 33 is closed this DCT shall be unavailable.,,ODD,EDUUUAC,21 AUG 2025,
+2. BLW FL305 AT BIKRU","1. (BIKRU N33 CIPPI) NOT AVBL
+2. H24",To offer shorter route option to overflying traffic. Anticipate ATC vectors (route extension max 2NM) due to military activity within MVPA. When N 33 is closed this DCT shall be unavailable.,,ODD,EDUUUAC,17 OCT 2025,
 ED5254,GOVEN,NOSPA,FL335,FL660,Yes,"ONLY AVBL FOR TFC
 VIA (RAPOR, REMGO, TOLVU)
-EXC DEP (EPPO, EPZG)
-----------
-NOT AVBL FOR TFC
-DEP (E***, U***)","22:30-07:00 (21:30-06:00)
-----------
-05:00-07:00(04:00-06:00) AT NOSPA",To offer shorter route option to overflying traffic during night.,X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
+EXC DEP (EPPO, EPZG)",22:30-07:00 (21:30-06:00),To offer shorter route option to overflying traffic during night.,X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
 ED5277,KORUP,NOSPA,FL335,FL660,Yes,"ONLY AVBL FOR TFC
 VIA (RAPOR, REMGO, TOLVU)
-EXC DEP (EPPO, EPZG)
-----------
-NOT AVBL FOR TFC
-DEP (E***, U***)","22:30-07:00  (21:30-06:00)
-----------
-05:00-07:00(04:00-06:00) AT NOSPA","To offer shorter route option to traffic ARR LFP*. 
+EXC DEP (EPPO, EPZG)",22:30-07:00  (21:30-06:00),"To offer shorter route option to traffic ARR LFP*. 
 Traffic DEP EPPO/ZG shall use transition routes
-Morning time is restricted to higher FL and certain flows to limit sector on-load",X BORDER DCT EDUUFRAW and EDUUFRAE,even,EDUUUAC,21 AUG 2025,
-ED5278,REKDI,COSJE,FL245,FL660,Yes,"ONLY AVBL FOR TFC
-DEP EDMMFIR & VIA (INBED DCT REKDI) & ARR ELLX",H24,To offer shorter connection for listed citypair.,,EVEN,EDUUUAC,21 AUG 2025,
-ED5325,GOVEN,ESIKA,FL285,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDV & ABV FL335 AT GOVEN",H24,To offer shorter route option to specified destination,,EVEN,EDUUUAC,21 AUG 2025,
-ED5341,LASIS,SULED,FL295,FL660,Yes,"NOT AVBL FOR TFC
-1. BLW FL335 AT LASIS
-2. DEP EPWR
-3. ARR EDMMFIR",H24,To offer shorter route option.  During activation of ED-R306 expect radar vectors via TADUV,,EVEN,EDUUUAC,21 AUG 2025,
-ED5353,ETAGO,LIRSU,FL125,FL660,Yes,"NOT AVBL FOR TFC
-1. ARR (BRUSSELS_GROUP, EBLG, ED**, EHBD, EHBK, EHEH, EHGR, EHVK, EHWO)
-2. VIA EDUUNTM1N & BLW FL255 IN EDUUNTM1N",H24,"To offer shorter connections 
-Subject to frequent AUP-FUA restriction EDR305CZR (MON..FRI daytime)
-Only traffic able to climb above FL255 upon entering listed sector is allowed.",,Even,EDUUUAC,21 AUG 2025,
-ED5362,RENDO,SULED,FL295,FL660,Yes,"NOT AVBL FOR TFC
-ARR/DEP EDMMFIR",H24,To offer shorter route option. (e.g. EPWR-EDDF). During activation of ED-R308 expect radar vectors via TADUV,,,EDUUUAC,21 AUG 2025,
-ED5391,LOHRE,MASIR,FL215,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (ETNG, ETNN) & VIA (LOHRE DCT MASIR DCT DITAM DCT BIBTI DCT
-NVO) & ABV FL255 AT LOHRE
-----------
-COMPULSORY FOR TFC
-ARR (ETNG, ETNN) & VIA LOHRE & ABV FL255 AT LOHRE","H24
-----------
-H24",To force traffic on shorter connection to dedicated ARR transition route.  Traffic shall continue on transition route via MASIR DCT DITAM DCT BIBTI DCT NVO,,Even,EDUUUAC,21 AUG 2025,
+Morning time is restricted to higher FL and certain flows to limit sector on-load",X BORDER EDUUFRAW and EDUUFRAE,even,EDUUUAC,17 OCT 2025,
+ED5310,MASEK,SUBIX,FL345,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (AMASI, BOMBI, NOSPA, LIMGO)",H24,"To offer shorter route option - crossborder DCT via EDUUFRAW, EDUUFRAE towards EP.",X BORDER EDUUW and EDUUE,ODD,EDUUUAC,17 OCT 2025,
 ED5403,KPT,LIRSU,FL335,FL660,Yes,"NOT AVBL FOR TFC
 1. DEP (LIPB, LOWI, LOWS)
 2. ARR (BRUSSELS_GROUP, EBLG, ED**, EHBD, EHBK, EHEH, EHGR, EHVK, EHWO)",23:00-06:45 (22:00-05:45),"To offer shorter route option at night, crossing EDUUFRAE and EDUUFRAW. 
-Linked with MUAC",X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
-ED5405,LAMSI,MAPOX,FL335,FL660,Yes,,H24,To offer shorter route option x-border EDUUFRAE. Subject to occasional AUP closures of EDR171Z.,X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
+Linked with MUAC",X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
+ED5405,LAMSI,MAPOX,FL335,FL660,Yes,,H24,To offer shorter route option x-border EDUUFRAE. Subject to occasional AUP closures of EDR171Z.,X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
 ED5420,DEXIT,MAPOX,FL335,FL660,Yes,,H24,"To offer shorter route. Linked with MUAC e.g. via
-MAPOX DCT MIMVA/GODOS ",X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
+MAPOX DCT MIMVA/GODOS ",X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
 ED5428,RENKA,ADKUV,FL295,FL660,Yes,"NOT AVBL FOR TFC
 1. DEP (LOWL, LOWS)
 2. BLW FL335 AT RENKA",22:30-06:00 (21:30-05:00),"To offer shorter route during night, crossing EDUUFRAE and EDUUFRAW. 
-Linked with MUAC",X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
+Linked with MUAC",X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
+ED5429,KPT,TEDGO,FL315,FL660,Yes,,H24,"To offer shorter connection, x-border EDUUFRAE to EDUUFRAW.",X BORDER EDUUW and EDUUE,EVEN,EDUUUAC,17 OCT 2025,
 ED5430,TITIG,LIMGO,FL335,FL660,Yes,"NOT AVBL FOR TFC
 DEP (LOWI, LOWL, LOWS)",23:00-04:15 (22:00-03:15),"To offer shorter route option during night
-For further time and utilization restriction via LIMGO see YX2174",X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
+For further time and utilization restriction via LIMGO see YX2174",X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
 ED5431,TITIG,LIRSU,FL335,FL660,Yes,"NOT AVBL FOR TFC
 1. ARR (BRUSSELS_GROUP, EBLG, ED**, EHBD, EHBK, EHEH, EHGR, EHVK, EHWO)
 2. DEP (LOWI, LOWL, LOWS)",23:00-04:15 (22:00-03:15),"To offer shorter route during night, crossing EDUUFRAE and EDUUFRAW.
-Linked with MUAC ",X BORDER DCT EDUUFRAW and EDUUFRAE,Even,EDUUUAC,21 AUG 2025,
-EDEP5109,PESEL,ODEGU,FL335,FL660,Yes,"NOT AVBL FOR TFC
-ARR (ED**, ET**)",H24,"Offers shorter connection for traffic overfly Rhein UIR, other traffic shall use transition routes",,EVEN,EDUUUAC,21 AUG 2025,
-EG50161,BKY,SILVA,MEA,FL665,Yes,"NOT AVBL FOR TFC
-DEP (EGSC, EGSS, EGSU, EGSW)",H24,"To ensure traffic follows correct departure procedure from EGSU.
-----------------------------------
-This traffic shall depart via a EBOTO from EGSC/EGSU and  a NUGBO SID from EGSS ",,,EG**ACC,22 AUG 2025,
-EG50312,ADNAM,TEDSA,MEA,FL660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
-DEP (EGSC, EGSU, EGSW) & 
-VIA (GIVPO, EFMIH, REDFA, SOMVA)",H24,To ensure this traffic follows standard departure routing. To de-conflict with EGSS airspace,,,EG**ACC,22 AUG 2025,
-EG50678,EBOTO,DTY,MEA,FL665,Yes,"COMPULSORY FOR TFC
-DEP (EGSC, EGSU, EGSW) & 
-VIA SILVA",H24,To ensure traffic follows correct departure procedure from EGSC/EGSU,,,EG**ACC,22 AUG 2025,
-EG50949,EBOTO,WELIN,FL105,FL195,Yes,"ONLY AVBL FOR TFC
-DEP (EGSC, EGSU, EGSW)",H24,to facilitate flight planning,,,EG**ACC,22 AUG 2025,
-EG5250,RAPIX,ELVOS,FL165,FL660,Yes,"ONLY AVBL FOR TFC
-ARR MANCHESTER_GROUP & VIA RAPIX & RFL ABV FL245 IN EG",21:30-06:00 (22:30-05:00) AT RAPIX,Night Time Flight Efficiency option.,,,EG**ACC,22 AUG 2025,
-EG5262,ADNAM,CLN,MEA,FL660,Yes,"ONLY AVBL FOR TFC
-1. DEP (EGSC, EGSU, EGSW)
-    a. VIA (KONAN, SUMUM)
-    b. ARR (EGKB, EGLC, EGLL, EGMC, EGTO, EGWU)
+Linked with MUAC ",X BORDER EDUUFRAW and EDUUFRAE,Even,EDUUUAC,17 OCT 2025,
+EG50188,CLN,LAM,MEA,155,Yes,"COMPULSORY FOR TFC
+1. DEP EGSH & BLW FL155 & ARR (EGLD, EGLL, EGWU)
+2. DEP EGLC & ARR (EGLD, EGLL, EGWU)
+3. DEP EGSS & ARR (EGLD, EGLL, EGWU)",H24,"1.Link route for city pair / combined with BANEM DCT CLN.
+2. To ensure positioning traffic follows standard routeing.",,,EG**ACC,17 OCT 2025,
+EG51200,BLACA,MAKUX,105,245,Yes,"COMPULSORY FOR TFC
+1. DEP EGPI & ARR FARNBOROUGH_GROUP & VIA (BLACA,SOSIM) 
+2. DEP EGPK & ARR EGGP & VIA (BLACA,SOSIM)",H24,To enforce the correct routing for these city pairs via SOSIM L15,,,EG,17 OCT 2025,
+EG5308,LAM,HEN,MEA,245,Yes,"COMPULSORY FOR TFC
+ARR EGLJ & VIA LAM
 ----------
-COMPULSORY FOR TFC
-1. DEP EGSC
-    a. VIA (KONAN, SUMUM)
-    b. ARR (EGKB, EGLC, EGLL, EGMC, EGTO, EGWU)","H24
+NOT AVBL FOR TFC
+1. ARR MIDLANDS_GROUP
+2. DEP EGMC","H24
 ----------
-H24",To ensure this traffic follows standard departure routing. To de-conflict with EGSS airspace,,,EG**ACC,22 AUG 2025,
-EG5263,ADNAM,DET,MEA,FL660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
-DEP (EGSC, EGSU, EGSW) & VIA (DVR, LYD, NEVIL, SANDY, SFD)",H24,To ensure this traffic follows correct departure routing. To de-conflict with EGSS airspace,,,EG**ACC,22 AUG 2025,
-EG5277,GALSO,ELVOS,105,660,Yes,"ONLY AVBL FOR TFC
-ARR MANCHESTER_GROUP & RFL ABV FL245",21:30-06:00 (22:30-05:00) AT GALSO,Night Time Flight Efficiency option.,,,EG**ACC,22 AUG 2025,
-EG5343,EBOTO,AKUPA,MEA,245,Yes,"COMPULSORY FOR TFC
-1. DEP (EGSC, EGSU, EGSW) & ARR MANCHESTER_GROUP
-2. DEP EGSU & VIA (TNT, POL)",H24,To ensure correct departure routing of EGSC/SU DCT EBOTO DCT AKUPA T420,,,EG**ACC,22 AUG 2025,
-LF50549,USODA,KORIQ,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA DELOG AND-THEN VIA (GIRVI, RUBUT, VICOT)",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
-Time limitation refers to time over USODA",,EVEN,LFRRACC,22 AUG 2025,
-LS5166,WIL,BERSU,MEA,FL660,Yes,"ONLY AVBL FOR TFC
-1. DEP LSZG
-    a. VIA (BERSU Z50 URIGI)
-    b. VIA (BERSU Z141 AMRUP) & ABV FL125 AT (BERSU Z141 AMRUP)",H24,"a. To provide connection from  LSZG to BERSU Z50 GERSA.
-FLTs via WIL-SIDs towards N871 shall file via T901 SUREP.
-b. FLTs via WIL direction north with RFL90- shall file via WIL Z601 GIPOL ",,Odd,LSAZACC,21 AUG 2025,
+H24","To ensure correct arrival routing into EGLJ
+---------------------
+2. Not available for EGMC departures. This traffic shall use LAM L10 BPK DCT SAXBI N27 HEN",,,EG**ACC,18 SEP 2025,
+EG5378,AVANT,VELAG,MEA,660,Yes,"ONLY AVBL FOR TFC
+VIA AVANT AND-THEN ARR EGNX & ABV FL215 IN (EGTTFIR, EGTTUIR)",23:00-05:00 (23:00-04:00) AT AVANT,Fuel efficient routeing for EGNX arrivals during night time hours,,,EG**ACC,01 OCT 2025,
+EG5381,AVANT,CPT,MEA,660,Yes,"ONLY AVBL FOR TFC
+VIA AVANT AND-THEN ARR (EGBB, EGBE, EGBO) & ABV FL215 IN (EGTTFIR, EGTTUIR)",23:00-05:00 (23:00-04:00) AT AVANT,Fuel efficient routeing for EGBB/BE/BO arrivals during night time hours,,,EG**ACC,01 OCT 2025,
+LF5002,NG,MOLEN,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+DEP (MONTPELLIER_GROUP, RHONE_GROUP, LFMP)",H24,To facilitate departures through military airspace,,,LFMMACC,20 OCT 2025,
+LF5003,MOLEN,NG,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+ARR (MONTPELLIER_GROUP, RHONE_GROUP, LFMP)",H24,To facilitate arrivals through military airspace,,,LFMMACC,20 OCT 2025,
+LF5012,JULEE,SALIN,MEA,FL500,Yes,"ONLY AVBL FOR TFC
+DEP LFTH & RFL ABV FL145 AT (JULEE DCT SALIN)",H24,To allow shortest connection to upper airspace.,,,LFMMACC,20 OCT 2025,
+LF50236,PADKO,MTG,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+VIA LFFRASE AND-THEN ARR (LFMS, LFHO, LFNH)",H24,"To connect (LFMS, LFHO, LFNH) to LFMM FRA",,,LFMMACC,20 OCT 2025,
+LF50237,SOFFY,MTG,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+VIA LFFRASE AND-THEN ARR (LFMS, LFHO, LFNH)",H24,"To connect (LFMS, LFHO, LFNH) to LFMM FRA",,,LFMMACC,20 OCT 2025,
+LF50238,LACAZ,CM,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+ARR LFMO",H24,"Connection ARR LFMO
+LACAZ DCT CM DCT LFMO",,,LFMMACC,20 OCT 2025,
+LF5034,LTP,LSE,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+ARR LFMH",H24,To facilitate arrivals via the LSE STAR. LFLL APP and internal flight plan processing system requirement.,,,LFMMACC,20 OCT 2025,
+LF5056,MOLEN,MTL,FL085,FL195,Yes,"ONLY AVBL FOR TFC
+DEP (MONTPELLIER_GROUP, RHONE_GROUP, LFMP)",H24,To facilitate departures through military airspace,,,LFMMACC,20 OCT 2025,
+LF50568,LSE,MEBAK,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+DEP (LFLB, LFLP, LFKA, LFLJ, LFHM, LFLG)",H24,To connect LSE SID to the routes,,,LFMMACC,20 OCT 2025,
+LF5057,MTL,MOLEN,FL085,FL195,Yes,"ONLY AVBL FOR TFC
+ARR (MONTPELLIER_GROUP, RHONE_GROUP, LFMP)",H24,To facilitate arrivals through military airspace,,,LFMMACC,20 OCT 2025,
+LF5066,OSMAS,ROMAM,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+ 1. ARR LFLU & VIA GIGUS
+ 2. DEP (LFKA, LFLJ, LFHM, LFLG)",H24,to connect  GIGUS UZ40 OSMAS to the first point of the STAR ROMAM1V,,EVEN/ODD,LFMMACC,20 OCT 2025,
+LF5102,FJR,NG,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+1. ARR (LFMI, LFMV)
+2. DEP (LFMP, LFMU)
+3. DEP LFMY AND-THEN ARR LFMY",H24,"1. To facilitate connection to NG STAR by using the shortest route.
+2. To facilitate northbound departures through military airspace.
+3. To allow training flights on this route",,,LFMMACC,20 OCT 2025,
+LF5104,ROLIR,AMFOU,FL125,FL500,Yes,"ONLY AVBL FOR TFC
+VIA (IBNIT DCT ROLIR) & ABV FL245 AT (IBNIT DCT ROLIR)",H24,"Night time fuel saving route (NTFSR)
+Time limits in LF2720",FRAF,Odd,LFMMACC,20 OCT 2025,
+LF5159,SUIPE,VALEK,FL185,FL660,Yes,"ONLY AVBL FOR TFC
+1. DEP (PARIS_GROUP, LFOB)
+2. VIA OQQAL
+3. DEP (LFOK, LFSI, LFQB, LFLA, LFOZ, LFOJ, LFPM) & VIA DIKOL","1. LFR175BZ2 ACT
+2. LFR175BZ2 ACT
+3. H24","To avoid LFR175B, see associated FUA APP7 restrictions",,ODD,LFFFACC,29 OCT 2025,
+LF5237,AMIKO,NOQAS,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+DEP LFLU",H24,"ARR/DEP organisation, LoA",,EVEN/ODD,"(LFMMACC, LFBBACC)",20 OCT 2025,
+LF5241,LSE,RUSIT,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+1. DEP GENEVA_GROUP
+    a. VIA TIS
+    b. VIA LFFRASE",H24,"To provide connection to the west in lower airspace
+To connect LFMM FRA","LSE DCT RUSIT: GND - UNL
+(Annex 3B: LF5241)",EVEN/ODD,LFMMACC,20 OCT 2025,
+LF5318,SIZZA,ENORI,FL195,FL285,No,,H24,Traffic organization.,,Even,LFEEACC,29 OCT 2025,
+LF5323,ROTSI,KOTUN,FL255,FL265,No,,H24,"Traffic organization , Paris DEP opposite way",,Even,"(LFFFACC, LFEEACC)",29 OCT 2025,
+LF5325,RLP,ROTSI,FL255,FL265,No,,H24,Traffic organization,,Even,LFEEACC,29 OCT 2025,
+LF5399,SIZZA,TRO,FL135,FL195,Yes,"ONLY AVBL FOR TFC
+ARR (LFPG, LFPB)",22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
+In case of Defence activity route via ARFOZ.",,Even,LFFFACC,29 OCT 2025,
+LF5454,NUCIF,TRO,FL135,FL195,Yes,"ONLY AVBL FOR TFC
+ARR (LFPG, LFPB)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route.
+In case of Military activity, route via  ARFOZ.",,Even,LFFFACC,29 OCT 2025,
+LF5464,BREMO,BTA,MEA,FL500,Yes,"ONLY AVBL FOR TFC
+DEP LFKS",H24,To facilitate departures,,,LFMMACC,20 OCT 2025,
 ,,,,,,,,,,,,09 JUN 2025,
-EG51202,HAWFA,NUCHU,FL055,FL660,Yes,"ONLY AVBL FOR TFC
-ABV FL245 IN EG & DEP (EGFF, EGGD) & VIA ALHAD",H24,To enable and assist CFPSPs to file a higher RFL from departure point when using L607. Climbs above FL245 prior to NUCHU will be accommodated on a tactical basis.,,,EGTTACC,22 AUG 2025,
-EG51203,YORQI,NUCHU,FL055,FL660,Yes,"ONLY AVBL FOR TFC
-ABV FL245 IN EG & DEP EGGD & VIA ALHAD",H24,To enable and assist CFPSPs to file a higher RFL from departure point when using L607. Climbs above FL245 prior to NUCHU will be accommodated on a tactical basis.,,,EGTTACC,22 AUG 2025,
-EG51204,HAVEN,ALASO,FL245,FL660,No,,H24,To prevent filing along EGPXFRA/EGTTUIR boundary departing EGPF. HAVEN DCT ALASO not available.,,,EGTTFIR,22 AUG 2025,
+ED51689,OBIGA,RAMOB,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+ARR EDDF",H24,to offer connectivity for ARR EDDF via (IDARO - OBIGA - RAMOB),,EVEN,EDGGACC,19 SEP 2025,
+ED51692,KLF,BBI,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+ARR EDDB EXC ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To offer ARR EDDB connectivity for non-RNAV equipped flights.,,EVEN,EDWWACC,19 SEP 2025,
+ED51693,ATGUP,BBI,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+ARR EDDB EXC ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To offer ARR EDDB connectivity for non-RNAV equipped flights.,,EVEN,EDWWACC,19 SEP 2025,
+ED51694,NUKRO,BBI,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+ARR EDDB EXC ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To offer ARR EDDB connectivity for non-RNAV equipped flights.,,EVEN,EDWWACC,19 SEP 2025,
+ED51695,OGBER,BBI,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+ARR EDDB EXC ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To offer ARR EDDB connectivity for non-RNAV equipped flights.,,ODD,EDWWACC,19 SEP 2025,
+ED51696,KETAP,BBI,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+ARR EDDB EXC ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To offer ARR EDDB connectivity for non-RNAV equipped flights.,,EVEN,EDWWACC,19 SEP 2025,
+ED51697,NISGA,ESIKA,MEA,FL245,Yes,"ONLY AVBL FOR TFC
+DEP EDDB EXC ACFT-PBN (D1, D2, D3, D4, O1, O2, O3, O4)",H24,To offer DEP EDDB connectivity for non-RNAV equipped flights.,,EVEN,EDWWACC,19 SEP 2025,
+EG51220,ELVOS,TNT,075,195,Yes,"ONLY AVBL FOR TFC
+DEP LONDON_GROUP AND-THEN VIA ELVOS AND-THEN ARR MANCHESTER_GROUP & RFL BLW FL195 IN EG",H24,To assist AO's joining the ELVOS1L/1M at TNT when positioning from London_Group to Manchester_Group.,,,EGTTFIR,18 SEP 2025,
+LF50571,RLP,JOCUZ,FL195,FL660,No,,H24,Avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50572,JOCUZ,RLP,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50573,LUVAL,MANAG,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50574,MANAG,LUVAL,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50575,UTFAV,MOTOX,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50576,MOTOX,UTFAV,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50577,KORIQ,BAZOS,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50578,BAZOS,KORIQ       ,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50579,ARSAF,BAZOS,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50580,BAZOS   ,ARSAF,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50582,OQQAL,LEQOS,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50586,KUNAV,ALESO,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50587,DIPCE,ETINO,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50589,LUVAL,SUKHA,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50590,SUKHA,LUVAL,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50591,POGZI,VEZAQ,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50592,VEZAQ,POGZI,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50593,AHVEC,DUCRA,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50594,DUCRA,AHVEC,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50595,ESTOC,DUCRA,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50596,DUCRA,ESTOC,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50597,ESTOC,KIHVI,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50598,KIHVI,ESTOC,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50599,DUCRA,KIHVI   ,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50600,KIHVI,DUCRA,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50601,ARSAF,KIHVI,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50602,KIHVI,ARSAF,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50603,ARSAF,ESTOC,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50604,ESTOC,ARSAF,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50605,NUCIF,SIZZA,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50606,ALESO,SUBIP,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50609,SUBIP,ALESO,FL195,FL660,No,,H24,To avoid sector clipping,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50617,CLM,VEZAQ,FL195,FL295,Yes,"ONLY AVBL FOR TFC
+1. DEP LILLE_GROUP & ARR (LYON_GROUP, CHAMBERY_GROUP, LFGJ, LFHN, LFKD, LFLI, LFSD, LS** EXC LSGS)
+2. DEP EB** & ARR LYON_GROUP",H24,Traffic organization,,,"(LFFFACC, LFEEACC)",20 OCT 2025,
+LF50618,CLM,VEZAQ,FL295,FL660,No,,H24,"Traffic organization, to offload LFRREST",,,"(LFFFACC, LFEEACC)",29 OCT 2025,
+LF50640,JULEE,SOFFY,MEA,FL500,Yes,"ONLY AVBL FOR TFC
+DEP LFTH & VIA LFFRASE",H24,To allow shortest connection to upper airspace.,,,LFMMACC,20 OCT 2025,
+LF50647,OSMAS,LSE,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+DEP (LFKA, LFLJ, LFMJ, LFLG)",H24,To allow connection to the routes,,EVEN,LFMMACC,20 OCT 2025,
+LF50648,OSMAS,LTP,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+ARR (LFXA, LFLM, LFHS)",H24,To connect Upper and Lower routes for arriving Via GIGUS,,EVEN,LFMMACC,20 OCT 2025,
+LF50652,GIPNO,LSE,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+ARR LFMH & VIA LFFRASE",H24,To connect LFMM FRA to LFMH,,EVEN/ODD,LFMMACC,20 OCT 2025,
+LF50655,JULEE,CIFZU,MEA,FL500,Yes,"ONLY AVBL FOR TFC
+DEP LFTH",H24,Connexion to GAT/OAT point CIFZU,,EVEN,LFMMACC,20 OCT 2025,
+LF50656,ECHUH,ODILO,FL055,FL065,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
+DEP LFOP AND-THEN ARR (LFPN, LFPV)",H24,"shorter route, mandatory for LFOP to LFPN flights",,EVEN,LFFFACC,20 OCT 2025,
+LF50658,KORIQ  ,VICOT,FL295,FL660,Yes,,22:00-05:00 (23:00-04:00),Cross-border procedure between LFEE and MUAC. Night DCT.,,,"(LFEEACC, EDYYUAC)",20 OCT 2025,
+LF50659,BAZOS,VICOT,FL345,FL660,Yes,,23:00-05:00 (22:00-04:00),Cross-border procedure between LFEE and MUAC. Night DCT,,,"(LFEEACC, EDYYUAC)",20 OCT 2025,
+LF50660,BELDI,VICOT,FL265,FL660,Yes,,H24,Cross-border procedure between LFEE and MUAC.,,,"(LFEEACC, EDYYUAC)",20 OCT 2025,
+LT5063,ZAFLE,TOMBI,FL235,FL660,Yes,,H24,To facilitate FRA operations,,ODD,LTAAACC,29 OCT 2025,
 EB5000,GILOM,HUL,FL075,FL245,Yes,,H24,"to keep traffic on standard flows, avoid complexity ",,,EBBUACC,29 AUG 2024,
 EB5001,HUL,GILOM,FL075,FL245,Yes,,H24,"to keep traffic on standard flows, avoid complexity ",,,EBBUACC,29 AUG 2024,
 EB5002,BUB,KOK,FL195,FL245,Yes,"ONLY AVBL FOR TFC
@@ -475,8 +485,6 @@ WED-FRI 17:00-07:00 (16:00-06:00)
 ",29 AUG 2024,
 EB5023,LNO,SOPOK,FL115,FL175,Yes,"ONLY AVBL FOR TFC
 DEP (EBLG, EBBL, EBST, EHBK) & VIA ETENO",EBTSA28CZ ACT ,To allow re-routeing around the active military area EBTSA28CZ during its activation,traffic shall route LNO SOPOK ETENO ,,EBBUACC,29 AUG 2024,
-EB5024,BUB,MAK,FL115,FL245,Yes,"ONLY AVBL FOR TFC
-ARR EBKT",H24,to allow better connectivity to MAK  ,,,EBBUACC,09 SEP 2024,
 EBED5000,NETEX,DELOM,FL105,FL245,Yes,"ONLY AVBL FOR TFC
 DEP (EDDL, EDLV) AND-THEN ARR PARIS_GROUP & RFL ABV FL195 IN (EB, ED)","(EBTRANA, EBTRANB,  EBTRASB) NOT ACT",Better flight planning,,,EBBUACC,29 AUG 2024,
 EBED5001,NETEX,RASCA,FL105,FL660,Yes,"ONLY AVBL FOR TFC
@@ -487,13 +495,6 @@ EDYYUAC",29 AUG 2024,
 EBYX5001,ADKUV,BATTY,FL155,FL660,Yes,"ONLY AVBL FOR TFC
 ARR (EBBR, EBMB) & VIA ADKUV ABV FL245 AT ADKUV","00:00-05:00 (23:00-04:00)
 ","To facilitate ARR EBBR, EBMB via ADKUV during nights.",,EVEN,"EBBUACC, EDYYUAC",29 AUG 2024,
-ED50001,DEXIT,MASEK,FL335,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (EDGTTIVUN, EDGTMAPOX)",H24,To offer shorter route option  x-border FRA.,,Even,EDUUUAC,06 OCT 2023,
-ED50002,LAMSI,MASEK,FL335,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (EDGTTIVUN, EDGTMAPOX)",H24,"To offer shorter route option x-border FRA.
-Subject to occasional AUP closures of EDR171Z.",,Even,EDUUUAC,06 OCT 2023,
-ED50003,KODUK,MASEK,FL335,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (EDGTTIVUN, EDGTMAPOX)",H24,To offer shorter route options x-border FRA,,Even,EDUUUAC,06 OCT 2023,
 ED50028,LAMPU,NOMBO,FL145,FL660,Yes,"ONLY AVBL FOR TFC
 1. DEP EDDF & ABV FL245 AT NOMBO                          
 2. DEP (EDFE, EDFB, ETOU) & ABV FL245 AT NOMBO",H24,"To enable specific traffic into upper via DCT.
@@ -504,28 +505,25 @@ DEP EDDM AND-THEN ARR EDDH",H24,To offer alternative plannable connection for CP
 ED50031,RAPET,MASEK,FL315,FL660,Yes,"ONLY AVBL FOR TFC
 1. VIA (MASEK DCT AMETU T852 KULIX)
 2. VIA MASEK AND-THEN VIA (EDGTMAPOX, EDGTTIVUN) & ABV FL335 IN (EDGTMAPOX, EDGTTIVUN)",H24,To offer shorter H24 route option  x-border FRA (for certain arrival via T852). For listed DCT in option 1 see RAD ANNEX 3B( MIN FL 245).,,Even,EDUUUAC,13 JAN 2025,
-ED50034,ASKIK,DILUG,FL145,FL265,Yes,"ONLY AVBL FOR TFC
-ARR EDDK & VIA ((ABUKA, ETASA) DCT ASKIK)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent)
-For listed DCTs see RAD ANNEX 3B (FL205-660).",,Even,"(EDUUUAC, EDGGACC)",05 MAY 2025,
-ED50035,ERKIR,ETASA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG) & ABV FL335 AT ERKIR",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
-For listed DCTs see RAD ANNEX 3B (ETASA DCT ASKIK FL205-660; ASKIK DCT DILUG FL145-265)",,EVEN,EDUUUAC,05 MAY 2025,
-ED50036,ETASA,ASKIK,FL205,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK & VIA (ERKIR, KUNOD, KPT, SUDEN, VEKIR) AND-THEN VIA (ASKIK DCT DILUG)
+ED50038,AKOSI,LASGA,FL245,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (EDDV, EDDW, EDBM, EDBC, EDVE, ETNW)",H24,To offer shorter route option to specified traffic,,EVEN,"(EDUUUAC, EDMMACC)",25 SEP 2025,
+ED50039,LAMSI,LASGA,FL275,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (EDDV, EDDW, EDBM, EDBC, EDVE, ETNW) & ABV FL335 AT LAMSI",H24,To offer shorter route option to specified traffic,,EVEN,"(EDUUUAC, EDMMACC)",21 AUG 2025,
+ED50046,RENDO,MILGU,FL265,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (MILGU DCT KOSIX) & ABV FL315 AT MILGU
 ----------
 NOT AVBL FOR TFC
-VIA EDUUSLN1S & BLW FL255 IN EDUUSLN1S","22:00-04:00 (21:00-03:00) AT ASKIK
+DEP EDMMFIR","H24
 ----------
-H24","To offer shorter route option ARR EDDK at night with better vertical profile (late descent)
-For listed DCT see RAD ANNEX 3B (ASKIK DCT DILUG FL145-265).
-Level constraint (sector) to avoid early descend at ETASA. ",,Even,"(EDUUUAC, EDGGACC)",05 MAY 2025,
+H24",To offer shorter connection,,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
 ED5005,ROSOK,SALLO,FL225,FL660,Yes,"NOT AVBL FOR TFC
 BLW FL285 AT SALLO",H24,"To offer shorter connection 
 e.g. via SALLO DCT VIBAR",FRAMaK,Odd,EDUUUAC,23 JUL 2023,
+ED50050,PESEL,NATOR,FL335,FL660,Yes,"NOT AVBL FOR TFC
+1. DEP (EK**, ESEK, ESMK, ESMS)
+2. ARR (LS**, LFLB, LFLI, LFLJ, LFLP)",22:00-05:00 (21:00-04:00),"To offer shorter connections. 
+Restricted traffic shall use other  transition routes.",,Even,EDUUUAC,21 AUG 2025,
 ED5006,ABGUS,POVEL,FL045,FL245,No,,H24,Traffic DEP EDBC shall file MAG SID,FRAMaK,,EDUUUAC,05 MAY 2025,
-ED50061,ETAGO,TABAT,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDB & VIA (LOKTA DCT ETAGO)",20:00-05:00 (21:30-03:00) AT ETAGO,"Additional DCT option for night / little extended night (in winter will be offered slightly longer time). 
-Time is given via utilization to avoid programming issues with NM system (x-border RAD ANNEX 3B DCT itself is added H24 in FRA DCT restrictions for EDUUFRAW and EDUUFRAE, but utilization is limiting the flow on it).",,EVEN/ODD,EDUUUAC,05 MAY 2025,
 ED5007,KLF,GILAS,FL145,FL660,Yes,"ONLY AVBL FOR TFC
 DEP EDDP",H24,To offer direct route option for DEP EDDP,,ODD,"(EDUUUAC, EDWWACC)",31 JUL 2025,
 ED50081,GOLMO,AKANU,FL215,FL245,Yes,"ONLY AVBL FOR TFC
@@ -539,6 +537,37 @@ DEP EDLI",H24,To prevent re-entries in Langen ACC,,,EDGGACC,23 JUL 2023,
 ED50091,DINKU,ESEGA,FL245,FL660,Yes,"NOT AVBL FOR TFC
 1. ARR (LOWL, LOWG, LOWW)
 2. DEP EDDF",21:00-04:00 (20:00-03:00),To offer shorter connection during period of low traffic (night).,,Odd,"(EDUUUAC, EDMMACC)",05 MAY 2025,
+ED50093,AKOSI,DOSEL,FL245,FL315,Yes,"ONLY AVBL FOR TFC
+VIA (LIZUM, DETSA)
+----------
+NOT AVBL FOR TFC
+DEP EDMMFIR EXC DEP EDDP","21:00-07:00 (20:00-06:00)
+----------
+21:00-07:00 (20:00-06:00)","To offer shorter connection.
+Note: DCT is also published above FL315.",,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
+ED50095,ERKIR,BABEG,FL245,FL315,Yes,"NOT AVBL FOR TFC
+ARR (EDGGFIR, ELLX)",MON-THU 23:00-05:00 (22:00-04:00) & FRI 23:00 (22:00)-MON 05:00 (04:00) & HOL ED H24,To offer shorter route option at night/weekend.,,Even,"(EDUUUAC,
+EDMMACC)",21 AUG 2025,
+ED50096,ETAGO,KRH,FL125,FL660,Yes,"ONLY AVBL FOR TFC
+1. DEP (LSZH, LSZR,EDNY, EDJA, EDTM) & VIA EDUUNTM1N & ABV FL255 IN EDUUNTM1N
+2. VIA ERKIR",H24,"To enable traffic departing via ETAGO
+and offer short cuts for overflights via ERKIR",,Even,EDUUUAC,21 AUG 2025,
+ED50098,LALIN,MOOCE,FL245,FL315,Yes,"NOT AVBL FOR TFC
+1. ARR (EDFQ, EDGS, EDDK, EDKZ, EDLA, EDLI, EDLP, EDLW, EDVK) & ABV FL305 IN (ED, LO)
+2. ARR EDDS",21:00-07:00 (20:00-06:00),"To offer shorter connection for overflghts.
+1. Listed ARR requires early descent or different routing 
+  (e.g. via AKOSI DCT TIPAM)
+2. ARR EDDS shall file different transition route",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
+ED50099,BUMIL,BODLA,FL245,FL285,Yes,"NOT AVBL FOR TFC
+1. DEP EDWWFIR
+2. ARR EPSC",MON-THU 21:00-07:00 (20:00-06:00) & FRI 16:00 (15:00)-MON 07:00 (06:00),"To offer shorter route option at night/weekend
+DCT is H24 available above FL285 in FRA.",,Odd,"(EDUUUAC, EDWWACC)",21 AUG 2025,
+ED50100,BODLA,BUMIL,FL245,FL285,Yes,"NOT AVBL FOR TFC
+1. ARR (EDWWFIR, EDFQ, EDLI, EDLP, EDVK)
+2. DEP EPSC",MON-THU 21:00-07:00 (20:00-06:00) & FRI 16:00 (15:00)-MON 07:00 (06:00),"To offer shorter route option at night/weekend
+DCT is H24 available above FL285 in FRA.",,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
+ED50101,ETAGO,IBAGA,FL245,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDP",20:00-05:00 (19:00-04:00),To offer shorter route option during period of low traffic,,EVEN/ODD,EDUUUAC,21 AUG 2025,
 ED50109,IBAGA,LAMSI,FL245,FL315,Yes,"NOT AVBL FOR TFC
 ARR (LOWL, LOWS)
 ----------
@@ -559,12 +588,28 @@ VIA (LOVVW17, LOVVS17)","H24
 H24","To offer shorter connection keeping traffic clear of Munich App AoR. 
 Traffic via restricted sectors shall file via TITIG L173 RIDAR.
 Higher profile above FL315 (via Karlsruhe UAC) at KIRDI shall use KIRDI DCT OTT. ",,Even,EDMMACC,13 JAN 2025,
+ED50124,TABAT,GOLAT,FL285,FL660,Yes,"ONLY AVBL FOR TFC
+1. ARR (EDDB, EDAY, EDAZ)
+    a. VIA (ETAGO DCT TABAT)
+    b. VIA (IBAGA DCT TABAT)",H24,"To offer better profile for listed ARR during night as limited in ED2351 and ED50061 via listed DCTs (ETAGO-TABAT- RAD ANNEX 3B, H24, MINFL315; IBAGA -TABAT EDUUFRAE, H24, MIN FL315).",,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
+ED50128,LASIS,KOSIX,FL275,FL660,Yes,"NOT AVBL FOR TFC
+1. DEP EPWR
+2. BLW FL335 AT LASIS
+----------
+ONLY AVBL FOR TFC
+ARR (EDDV, EDDW, EDLP, EDLI, EDVK, ETNW)","H24
+----------
+H24","To offer shorter route option,
+specified traffic shall use transition routes",,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
 ED50133,DITAM,OBOKA,FL075,FL245,Yes,"ONLY AVBL FOR TFC
 1. DEP (EDFE, EDFZ, ETOU)
     a. VIA (OBOKA Z28 DIBIR)
     b. VIA (OBOKA Z29 TINIK)",H24,to offer shorter connection for DEP EDFE towards the north-west.,,Even,EDGGACC,05 MAY 2025,
 ED50136,ULNOK,PETOM,FL245,FL660,Yes,"ONLY AVBL FOR TFC
 DEP EDDS & FLT-TYPE (M)",H24,To offer upper route option type MIL clear of EDYY Brussels sectors,,Even,"(EDUUUAC, EDYYUAC)",05 MAY 2025,
+ED5015,SONAL,ROSOK,FL245,FL660,Yes,"NOT AVBL FOR TFC
+1. DEP (COPENHAGEN_GROUP, ESEK, ESMK, ESMS, EKRN)
+2. BLW FL295 AT SONAL",H24,To offer shorter connection,,Even,EDUUUAC,21 AUG 2025,
 ED50157,MOPAN,KOVAN,FL155,FL225,Yes,"ONLY AVBL FOR TFC
 DEP LFSB AND-THEN ARR EDDF",H24,"to offer shorter connection for CP, but keeping clear from EDUUUAC",,Even,EDGGACC,06 AUG 2024,
 ED5016,EKPEK,BODLA,FL335,FL660,Yes,,H24,To offer shorter route option. Traffic ARR EPSC shall file transition routes,FRAK,,EDUUUAC,06 AUG 2024,
@@ -573,9 +618,18 @@ VIA GAMSA",22:30-04:00 (21:30-03:00),"To offer shorter connection
 for overflights and ARR LK**",FRAK,Odd,"(EDUUUAC, EDMMACC)",05 MAY 2025,
 ED50161,RUDAP,MAMOR,FL245,FL660,Yes,"ONLY AVBL FOR TFC
 VIA UMTEX",22:30-04:00 (21:30-03:00),To offer shorter route option during night,FRAK,Even,"(EDUUUAC, EDMMACC)",05 MAY 2025,
+ED50171,ZUCKA,GALMA,FL245,FL315,Yes,"ONLY AVBL FOR TFC
+DEP HAMBURG_GROUP",H24,"To offer a shorter route option for 
+ARR EDDH GROUP",,Odd,EDMMACC,21 AUG 2025,
 ED50175,BAMKI,ABGUS,FL275,FL660,Yes,"ONLY AVBL FOR TFC
 DEP EDDM AND-THEN ARR (HAMBURG_GROUP, EKCH, EKRK, ESMS)",H24,"To offer shorter route option for DEP EDDM, 
 either with slow climb performance type or with step climb to stay below EDUU ERL sector (below FL315 until BAMKI)",FRAMaK,Even,"(EDMMACC, EDUUUAC)",05 MAY 2025,
+ED50176,BIRKA,ABGUS,FL245,FL315,Yes,"ONLY AVBL FOR TFC
+ARR (HAMBURG_GROUP, EKCH, EKRK, ESMS)",H24,"To offer a shorter route option for 
+ARR EDDH GROUP and listed airports",,Even,EDMMACC,21 AUG 2025,
+ED50177,LASTO,ABGUS,FL245,FL315,Yes,"ONLY AVBL FOR TFC
+ARR (HAMBURG_GROUP, EKCH, EKRK, ESMS)",H24,"To offer a shorter route option for 
+ARR EDDH GROUP and listed airports",,Even,EDMMACC,21 AUG 2025,
 ED50178,VEBAK,SONEB,FL055,FL245,Yes,"ONLY AVBL FOR TFC
 1. DEP EDLV
     a. VIA (SONEB P55 GOTIG)
@@ -591,6 +645,8 @@ ED50180,GOLAT,BIRKA,FL125,FL660,Yes,"ONLY AVBL FOR TFC
 2. ARR EDDV","MON-THU 22:30-07:00 (21:30-06:00)
 FRI 12:00 (11:00)-MON 07:00 (06:00)","Time restriction due to  ED-R208/308
 Option 1: To offer extra route option (e.g. WX in EDDM)",,Even,"(EDMMACC, EDUUUAC)",14 AUG 2025,
+ED50181,KILNU,SOGMA,FL275,FL660,Yes,"ONLY AVBL FOR TFC
+DEP EDDM & ABV FL325 AT KILNU",H24,"To offer extra route option (e.g. WX in EDDM), time restriction due to  ED-R308",,Even,EDUUUAC,21 AUG 2025,
 ED50182,RIVSA,SOGMA,FL275,FL660,Yes,"ONLY AVBL FOR TFC
 DEP EDDM & ABV FL335 AT RIVSA",H24,To offer extra route option (e.g. WX in EDDM) clear of ED-R308,FRAK,Even,EDUUUAC,05 MAY 2025,
 ED50183,ADLIR,OSKAN,FL305,FL660,Yes,"ONLY AVBL FOR TFC
@@ -615,11 +671,12 @@ ARR ETNS",H24,To prevent incorrect routeings,,Even,EDWWACC,23 JUL 2023,
 ED50197,EKPEK,KOBUS,FL285,FL660,Yes,"ONLY AVBL FOR TFC
 ARR (EPPO, EPKS, EPPW) & ABV FL315 AT EKPEK & BLW FL325 AT KOBUS",H24,"Part of connecting route for listed ARR. The DCT shall allow descent below FRA as the following ATS route has MAX FL315 and ARR are required to descent GOVEN below FL175.
 Note: ARR EPPO can also use the option via KOBUS DCT POZUM.",,Odd,"(EDUUUAC, EDMMACC)",03 JUL 2025,
+ED5020,ETAGO,HAREM,FL055,FL660,Yes,,H24,To enable traffic departing via ETAGO,,EVEN,EDGGACC,21 AUG 2025,
+ED5021,ETAGO,SUNEG,FL055,FL660,Yes,,H24,To enable traffic departing via ETAGO,,EVEN,EDGGACC,21 AUG 2025,
 ED5022,GMH,KOPAG,FL035,FL245,No,,H24,To prevent wrong route,,,EDGGACC,06 AUG 2024,
-ED5024,SUVUT,SODRO,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-ARR LOWS","AIRAC DEC - AIRAC MAR 
-SAT H24",For Ski Traffic Scenario,"SKI
-FRAK",Odd,EDUUUAC,05 MAY 2025,
+ED5023,SONAL,RODEP,FL185,FL660,Yes,"NOT AVBL FOR TFC
+1. DEP (COPENHAGEN_GROUP, ESEK, ESMK, ESMS, EKRN)
+2. BLW FL285 AT SONAL",H24,To offer shorter route options to overflights. ,,Odd,EDUUUAC,21 AUG 2025,
 ED5025,GOVEN,HLZ,FL295,FL660,Yes,"NOT AVBL FOR TFC
 1. DEP (EPKK, EPKT, EPPO, EPRZ, EPWR, EPZG)
 2. ARR (EDDV, EDDW, EDVE)
@@ -635,16 +692,22 @@ DEP EDDN",H24,To offer shorter connection,,Odd,EDMMACC,23 JUL 2023,
 ED50253,ERETO,TABAT,FL065,FL315,Yes,"ONLY AVBL FOR TFC
 1. DEP EDDN 
 2. ARR EDDB",H24,To offer shorter connection,,Odd,EDMMACC,23 JUL 2023,
+ED50254,BEBKU,LASIS,FL265,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EPWR",H24,To offer additional connecting route in Free Route,,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
 ED50255,KLF,SUBIX,FL105,FL660,Yes,"ONLY AVBL FOR TFC
 DEP EDDP",H24,To offer direct route option for DEP EDDP,,Odd,"(EDUUUAC, EDWWACC)",31 JUL 2025,
 ED50259,ROSOK,NONSA,FL225,FL660,Yes,"NOT AVBL FOR TFC
 BLW FL285 AT NONSA",H24,To offer shorter route option to overflying traffic. Anticipate ATC vectors (route extension max 4 NM) due military activity within MVPA.,FRAMaK,Odd,EDUUUAC,23 JUL 2023,
 ED50261,SODRO,KATCE,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 DEP (PRAGUE_GROUP, LKKV, LKCS) & ABV FL315 AT KATCE",H24,To offer seamless shorter connection for slowclimbing DEP below Free Route,,Even,"(EDUUUAC, EDMMACC)",03 JUL 2025,
+ED50262,VIBIS,ADUKI,FL245,FL660,Yes,"NOT AVBL FOR TFC
+BLW FL285 AT VIBIS",H24,To offer shorter connection for eligable ARR via ADUKI (e.g. ESMS),,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
 ED50263,BAKDO,LEGSA,FL255,FL660,Yes,"NOT AVBL FOR TFC
 BLW FL285 AT LEGSA",H24,To offer shorter connection for eligable DEP via BAKDO (e.g. ESMS),FRAK,Odd,"(EDUUUAC, EDWWACC)",05 MAY 2025,
 ED50264,PEROM,NUVEN,FL245,FL660,Yes,"NOT AVBL FOR TFC
 BLW FL285 AT NUVEN",H24,To offer shorter connection for eligable DEP via PEROM (e.g. ESMS),FRAK,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
+ED50265,XIGRI,GERGA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
+DEP (EPPO, EPZG) & ABV FL285 AT GERGA",H24,To offer shorter connection for eligable DEP via XIGRI,,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
 ED50266,MAG,RIMKO,FL225,FL660,Yes,"ONLY AVBL FOR TFC
 DEP EDDE & ABV FL285 AT RIMKO",H24,"Part of connecting route DEP EDDE allowing use of the DCT below EDUUFRAN.
 Above FL285 the DCT is unrestricted.",,,EDUUUAC,03 JUL 2025,
@@ -714,13 +777,34 @@ ED50311,SULED,ROBEL,FL195,FL345,Yes,"ONLY AVBL FOR TFC
 ARR EDDF & VIA ROBEL & BLW FL245 AT ROBEL",H24,"To offer shorter route option coming via upper sector (above FL315).
 Note, overlapping restriction ED2564 for ROBEL / ARR EDDF (early morning TUE-FRI)",,Even,"(EDUUUAC,
 EDMMACC)",03 APR 2025,
+ED50312,TOPDI,NIMAB,FL285,FL315,Yes,"ONLY AVBL FOR TFC
+ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
+(see also connecting routes ARR EDDF: ED3714)
+This route option is calculated below EDUUSAL1A",,Even,"(EDUUUAC,
+EDMMACC)",21 AUG 2025,
 ED50313,DIDGI,NIMAB,FL285,FL315,Yes,"ONLY AVBL FOR TFC
 ARR EDDF
 VIA EDUUOH NOT ABV FL315",H24,"To offer shorter connection after exit point EDUUFRAN
 (see also connecting routes ARR EDDF: ED3714)",FRAK,Even,"(EDUUUAC,
 EDMMACC)",23 JUL 2023,
-ED5032,CEL,ULSEN,FL035,FL660,Yes,"ONLY AVBL FOR TFC
-DEP EDDV",H24,"To enable traffic DEP EDDV to connect to ALS, ELSOB",,,"(EDWWACC, EDYYUAC)",05 MAY 2025,
+ED50314,KOSIX,NIMAB,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
+(see also connecting routes ARR EDDF: ED3714)",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
+ED50315,KUBOG,NIMAB,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
+(see also connecting routes ARR EDDF: ED3714)",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
+ED50316,PENEK,NIMAB,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDF",H24,"To offer shorter connection after exit point EDUUFRAN
+(see also connecting routes ARR EDDF: ED3714)",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
+ED50317,ORTAG,BAMKI,FL285,FL660,Yes,"ONLY AVBL FOR TFC
+DEP EDDB & VIA EDUUSAL1A
+----------
+NOT AVBL FOR TFC
+ARR (M***, K***)","H24
+----------
+H24","Connecting route Dep EDDB to KUAC
+According to RAD ED3813/3815 allowed DEP shall file ORTAG DCT BAMKI DCT IBAGA DCT DKB if via EDUUSAL1A sector.
+Restricted ARR may file via MIPSI DCT KEGOS or below FL315 via MIPSI Z117 KEGOS",,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
 ED50324,SIMBA,AKINI,FL335,FL660,Yes,"NOT AVBL FOR TFC
 1. DEP LO** 
 2. VIA AKINI AND-THEN VIA MAMOR
@@ -732,6 +816,11 @@ ED50331,BOLBO,KLF,FL035,FL095,Yes,"ONLY AVBL FOR TFC
 DEP EDAZ AND-THEN ARR EDDB",H24,Connectivity to Berlin Airport,,Odd,EDWWACC,06 AUG 2024,
 ED50334,ERKUM,SONEB,FL135,FL245,Yes,"ONLY AVBL FOR TFC
 DEP (ETNG, ETNN)",H24,to offer connection for MIL departures via EHAA to EDYY,,Odd,EDGGACC,23 JUL 2023,
+ED5034,NIKDA,RODEP,FL185,FL660,Yes,"NOT AVBL FOR TFC
+1. DEP (COPENHAGEN_GROUP, ESEK, ESMK, ESMS, EKRN)
+2. BLW FL285 AT NIKDA",H24,"To offer shorter connection
+e.g. for ARR EDDB
+Subject to AUP airspace closures (EDR401Z).",,Odd,"(EDUUUAC, EDWWACC)",21 AUG 2025,
 ED5035,XERUM,RENLO,FL045,FL245,Yes,"ONLY AVBL FOR TFC
 ARR ETSI",H24,To enable connection to destination,,,EDMMACC,23 JUL 2023,
 ED5036,RIXED,XERUM,FL055,FL245,Yes,"ONLY AVBL FOR TFC
@@ -742,14 +831,27 @@ ED5043,IDARO,OBIGA,FL065,FL245,Yes,"ONLY AVBL FOR TFC
 ARR EDDF",H24 ,FABEC Night Network ,,,ED**ACC,06 AUG 2024,
 ED5044,IDARO,HAN,FL065,FL245,Yes,"ONLY AVBL FOR TFC
 ARR EDFH",H24,FABEC Night Network ,,,EDGGACC,23 JUL 2023,
+ED5046,ETAGO,TIKNI,FL125,FL660,Yes,"NOT AVBL FOR TFC
+1. ARR EDDE
+2. BLW FL255 AT TIKNI",H24,To offer shorter connections to overflying traffic,,Even,EDUUUAC,21 AUG 2025,
+ED5051,KORUP,SULED,FL245,FL660,Yes,,H24,"To offer shorter route option.
+Anticipate ATC vectors via TADUV-TAMEB 
+(route extension max 2,5 NM) during military activity 
+within ED-R308",,Even,"(EDUUUAC, EDMMACC)",21 AUG 2025,
 ED5052,MAMBU,FUL,FL055,FL105,Yes,,H24,to circum navigate EDR135 on shorter route option,,EVEN,EDGGACC,06 AUG 2024,
 ED5053,DENIX,NOLGO,FL035,FL165,Yes,"ONLY AVBL FOR TFC
 ARR (EDDH, EDHI, EDHL, EDHK)",(SAS P605 NOLGO) NOT AVBL BTN FL035-FL165,"To allow ARR EDDH, EDHI, EDHL, EDHK northbound when P605 is closed between FL035 and FL165 acc. AUP/UUP.
 To avoid EDR31 and/or EDR32A/B
 Reference TFR RAD ANNEX 2B ED3492.",,,EDWWACC,05 MAY 2025,
 ED5054,MEFTO,BIBTA,FL035,FL145,No,,H24,To prevent wrong routing,,,EDGGACC,28 MAY 2025,
+ED5055,SOGMA,NEDIK,FL245,FL660,Yes,"NOT AVBL FOR TFC
+1. ARR COPENHAGEN_GROUP
+2. BLW FL285 AT NEDIK",H24,"To offer shorter connection via NUAC DCTs
+e.g. for DEP EDDP via NEDIK DCT RISMA
+Subject to AUP airspace closures (EDR401Z).",,Even,EDUUUAC,21 AUG 2025,
 ED5057,NIE,KEGAB,FL035,FL245,No,,H24,To force traffic DEP EDDV via the CEL SID to deconflict with traffic DEP Hamburg Group,,,EDWWACC,06 AUG 2024,
 ED5058,NIKUT,COSJE,FL055,FL245,Yes,,H24,To offer shorter route option,,,EDGGACC,06 AUG 2024,
+ED5059,OLETU,GOMIG,FL245,FL660,Yes,,H24,To offer shorter connection,,Odd,"(EDUUUAC, EDMMACC)",21 AUG 2025,
 ED5063,SONOR,ESADU,FL035,FL245,Yes,"ONLY AVBL FOR TFC
 DEP EDLI",H24,To enable connection to the airway structure,,,EDGGACC,23 JUL 2023,
 ED5064,MAG,KLF,FL035,FL235,Yes,"ONLY AVBL FOR TFC
@@ -768,11 +870,12 @@ ARR (EDFE, EDFB, EDFC, EDFZ)",H24,"To facilitate arriving traffic
 Reference TFR RAD Annex 2B ED2183",,ODD,EDGGACC,24 JUL 2025,
 ED5071,VEBAK,LIPMI,FL055,FL245,Yes,"ONLY AVBL FOR TFC
 DEP EDLV AND-THEN ARR EDDF",H24,To offer shorter route option for specified traffic,,,EDGGACC,06 AUG 2024,
+ED5072,BAMKI,KUMER,FL275,FL660,Yes,"NOT AVBL FOR TFC
+BLW FL315 AT (BAMKI DCT KUMER) EXC DEP EDDM",H24,"To offer shorter route options for DEP EDDM or other flights above FL315, 
+",,,"(EDMMACC, EDUUUAC)",21 AUG 2025,
 ED5073,ONUNE,LIPMI,FL055,FL245,Yes,"ONLY AVBL FOR TFC
 DEP EDDG AND-THEN ARR EDDF",H24,To offer shorter route option for specified traffic,,,EDGGACC,06 AUG 2024,
 ED5074,RIDNI,DIRBO,FL035,FL245,No,,H24,To avoid usage of this segment.,,,EDWWACC,06 AUG 2024,
-ED5075,RUDNO,MAPOX,FL335,FL660,Yes,"NOT AVBL FOR TFC
-DEP (EDMMFIR, LOWL, LOWS)",H24,To offer shorter route options x border FRA EDUUFRAE / W towards EDYYFRA.,,,EDUUUAC,06 OCT 2023,
 ED5078,RIXED,ELVAG,FL045,FL205,Yes,,H24,To enable flight planning northbound to join from L173 to Z76 at ELVAG,,,EDMMACC,06 AUG 2024,
 ED5083,TOBSO,BAKOR,FL245,FL315,Yes,,H24,To faciliate FRA traffic,,,EDMMACC,06 AUG 2024,
 ED5085,OSBIT,ARMUT,FL305,FL660,Yes,"ONLY AVBL FOR TFC
@@ -786,12 +889,21 @@ ED5095,GOXLI,GOT,MEA,FL125,Yes,"ONLY AVBL FOR TFC
 ARR EDDP",H24,to offer connection to STAR from GOT for non RNAV equipped acft,,ODD,EDMMACC,07 AUG 2024,
 ED5096,LUXBO,GOT,MEA,FL125,Yes,"ONLY AVBL FOR TFC
 ARR EDDP",H24,to offer connection to STAR from GOT for non RNAV equipped acft,,EVEN,EDMMACC,07 AUG 2024,
-ED5102,SUBEN,MAPOX,FL335,FL660,Yes,"NOT AVBL FOR TFC
-DEP LO**",21:30-03:30 (20:30-02:30) AT SUBEN,"To offer shorter route options x border FRA EDUUFRAE / W towards EDYYFRA.
-Time limited to reduce conflicts with ARR EDDF",,Even,EDUUUAC,06 OCT 2023,
+ED5101,SUBEN,ADKUV,FL295,FL660,Yes,"NOT AVBL FOR TFC
+1. DEP LO**
+2. BLW FL335 AT SUBEN",21:30-03:30 (20:30-02:30) AT SUBEN,"To offer shorter route option for overflights,
+time limited to reduce conflicts with ARR EDDF",,Even,EDUUUAC,21 AUG 2025,
+ED5103,RADIZ,ADENU,FL275,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (EBBR, EBMB) & RFL ABV FL335 AT RADIZ",00:00-05:00 (23:00-04:00) AT ADENU,"To offer shorter route option for listed ARR. 
+RFL checking to avoid early descend into Munich ACC.",,Even,EDUUUAC,21 AUG 2025,
+ED5105,RADIZ,LIRSU,FL335,FL660,Yes,"NOT AVBL FOR TFC
+ARR (BRUSSELS_GROUP, EBLG, ED**, EHBD, EHBK, EHEH, EHGR, EHVK, EHWO)",22:30-05:00 (22:00-04:00),To offer shorter route option for overflights,,Even,EDUUUAC,21 AUG 2025,
 ED5115,BAKDO,KOSEB,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 ARR EKCH & VIA (EKPEK, GODUR, HDO, LALUK, LUROS, MILGU, POGAB) & ABV FL315 AT (EKPEK, GODUR, HDO, LALUK, LUROS, MILGU, POGAB)",H24,"To offer shorter connection for ARR EKCH via FRA points EDUUFRAE.
 Subject to AUP airspace closure (EDR401Z).",,Even,"(EDUUUAC, EDWWACC)",05 MAY 2025,
+ED5117,MILGU,KOSIX,FL275,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (EDDV, EDDW, EDLP, EDLI, EDVK, ETNW) & VIA ((HDO, LALUK, RENDO) DCT MILGU)",H24,"To offer shorter connection and better vertical profile 
+for listed ARR.",,Even,"(EDUUUAC, EDWWACC)",21 AUG 2025,
 ED5118,TESGA,IBAGA,FL225,FL660,Yes,"ONLY AVBL FOR TFC
 DEP EDDK & VIA (LAMSI, DEXIT) & ABV FL245 AT IBAGA",22:30-05:00 (21:30-04:00),To offer shorter connection at night. Below FL245 the DCT is limited  for DEP EDDK only and with given restrictions,FRAK,Odd,"(EDUUUAC, EDGGACC)",05 MAY 2025,
 ED5130,MARUN,XAROL,FL055,FL245,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
@@ -813,8 +925,6 @@ ED51367,HLZ,AMALI,FL045,FL105,Yes,"ONLY AVBL FOR TFC
 ARR ETHC",H24,To enable connection of ARR ETHC from the route network,,EVEN,EDWWACC,23 JUL 2023,
 ED51369,SAS,AMALI,FL045,FL105,Yes,"ONLY AVBL FOR TFC
 ARR ETHC",H24,To enable connection of ARR ETHC from the route network,,ODD,EDWWACC,23 JUL 2023,
-ED51373,KOBUS,POZUM,FL285,FL660,Yes,"NOT AVBL FOR TFC
-BLW FL315 AT (KOBUS DCT POZUM) EXC ARR (EPPO, EPZG)",H24,Vertical x-border DCT via EDUUFRAE and EDMM ACC to allow descend for listed arrivals according LoA and OLDI. ,,,"(EDUUUAC, EDMMACC)",28 MAY 2025,
 ED51375,SODRO,SULUS,FL215,FL660,Yes,"ONLY AVBL FOR TFC
 VIA EDUUSPE1P & ARR EDDF",H24,To offer shorter connection for listed ARR via EDUUFRAE (above FL315) towards SODRO.,,EVEN,"(EDUUUAC, EDMMACC)",26 MAY 2025,
 ED51376,GAMSA,UPALA,FL295,FL660,Yes,"ONLY AVBL FOR TFC
@@ -842,21 +952,9 @@ ED51398,MAMBU,TOSTU,FL055,FL105,Yes,,H24,to circumnavigate EDR135 on shorter rou
 ED51399,FUL,MAMBU,FL065,FL105,Yes,,H24,to circumnavigate EDR135 on shorter route option,,ODD,EDGGACC,06 AUG 2024,
 ED51400,FULNO,FUL,FL055,FL125,Yes,,H24,to circumnavigate EDR135 on shorter route option,,EVEN,EDGGACC,06 AUG 2024,
 ED51401,SOPOX,FUL,FL055,FL125,Yes,,H24,to circumnavigate EDR135 on shorter route option,,EVEN,EDGGACC,06 AUG 2024,
-ED51402,KUNOD,ETASA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
-For listed DCTs see RAD ANNEX 3B (ETASA DCT ASKIK FL205-660; ASKIK DCT DILUG FL145-265)",,even,EDUUUAC,28 MAY 2025,
-ED51403,SUDEN,ETASA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
-For listed DCTs see RAD ANNEX 3B (ETASA DCT ASKIK FL205-660; ASKIK DCT DILUG FL145-265)",,even,EDUUUAC,28 MAY 2025,
 ED51404,ABUKA,ASKIK,FL245,FL660,Yes,"ONLY AVBL FOR TFC
 ARR EDDK & VIA (ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
 For listed DCT see RAD ANNEX 3B (ASKIK DCT DILUG FL145-265). Level constraint for the sector to avoid early descend at ABUKA.",,even,EDUUUAC,28 MAY 2025,
-ED51405,KPT,ETASA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
-For listed DCTs see RAD ANNEX 3B (ETASA DCT ASKIK FL205-660; ASKIK DCT DILUG FL145-265)",,even,EDUUUAC,28 MAY 2025,
-ED51406,VEKIR,ETASA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDDK & VIA (ETASA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent). 
-For listed DCTs see RAD ANNEX 3B (ETASA DCT ASKIK FL205-660; ASKIK DCT DILUG FL145-265)",,even,EDUUUAC,28 MAY 2025,
 ED51408,LADOL,ABUKA,FL255,FL660,Yes,"ONLY AVBL FOR TFC
 ARR EDDK & VIA (ABUKA DCT ASKIK DCT DILUG)",22:00-04:00 (21:00-03:00) AT ASKIK,"To offer shorter route option ARR EDDK at night with better vertical profile (late descent)
 For listed DCTs see RAD ANNEX 3B (ABUKA DCT ASKIK  FL205-660; ASKIK DCT DILUG FL145-265).",,Even,EDUUUAC,28 MAY 2025,
@@ -869,9 +967,6 @@ ED51418,ALG,LUPOL,MEA,FL095,Yes,"ONLY AVBL FOR TFC
 DEP EDJA",H24,to offer connection for flights using ALG SID,,EVEN,EDMMACC,23 JUL 2023,
 ED51419,ALG,KPT,MEA,FL095,Yes,"ONLY AVBL FOR TFC
 DEP EDJA",H24,to offer connection for flights using ALG SID,,ODD,EDMMACC,23 JUL 2023,
-ED51425,ANEKI,VABEN,MEA,FL245,Yes,"ONLY AVBL FOR TFC
-DEP EDDF AND-THEN ARR (LEMD, LEBL)",H24,"To offer citypairs EDDF to LEMD/LEBL shorter route option. 
-Subject to AUP/UUP closure of EDR205CZR and LFT22AZR",,EVEN,EDGGACC,19 SEP 2025,
 ED51426,EKSOS,LULAR,FL315,FL660,Yes,"ONLY AVBL FOR TFC
 ARR (LOWW, LHBP, LZIB)",H24,To offer shorter connection for listed ARR,,ODD,EDUUUAC,23 JUL 2023,
 ED51427,GISEM,BOMBI,FL205,FL660,Yes,"ONLY AVBL FOR TFC
@@ -882,9 +977,6 @@ ED51431,SILWE,OSBIT,FL205,FL660,Yes,"ONLY AVBL FOR TFC
 ABV FL245 AT SILWE",H24,To offer seamless connection into lower airspace e.g. for ARR EDQG.,,ODD,"(EDUUUAC, EDGGACC)",23 JUL 2023,
 ED51432,GAPTO,KOGOL,FL225,FL660,Yes,"ONLY AVBL FOR TFC
 DEP LSZH AND-THEN ARR (Z***, W***, R***, V***)",H24,"To offer a different connecting route for longrange DEP LSZH ensuring LoA and OLDI constraints for Munich ACC, by-passing standard connecting route for the others (GAPTO N871 SUGIP N871 KOGOL).",,ODD,"(EDUUUAC, EDMMACC)",06 AUG 2024,
-ED51435,BOMBI,HAREM,FL175,FL660,Yes,"NOT AVBL FOR TFC
-1. BLW FL245 AT HAREM EXC ARR EDTY_x000D_
-2. BLW FL245 AT BOMBI",H24,To offer seamless connection from upper.,,ODD,"(EDUUUAC, EDGGACC)",05 MAY 2025,
 ED51436,ELNAT,KEMAD,FL045,FL245,Yes,"ONLY AVBL FOR TFC
 ARR ETHF",H24,To offer connectivity after realignment of P605.,,EVEN,"(EDGGACC, EDWWACC)",23 JUL 2023,
 ED51438,BEBKU,MAREM,FL285,FL660,Yes,"NOT AVBL FOR TFC
@@ -894,14 +986,6 @@ EDMMACC)",05 MAY 2025,
 ED5145,DITAM,BIBTI,FL055,FL245,Yes,"ONLY AVBL FOR TFC
 ARR (ETNG, ETNN)
 & ABV FL245 VIA ED**",H24,To facilitate arriving traffic on transfer from upper,,,EDGGACC,06 AUG 2024,
-ED51452,DLE,ROBEG,FL045,FL245,Yes,"ONLY AVBL FOR TFC
-DEP EDVE",H24,To offer connectivity for DEP EDVE until redesign of terminal procedures has been performed.,,EVEN,EDWWACC,23 JUL 2023,
-ED51453,DLE,EXOBA,MEA,FL660,Yes,"ONLY AVBL FOR TFC
-DEP EDVE",H24,To offer connectivity for DEP EDVE until redesign of terminal procedures has been performed.,,EVEN,"(EDWWACC, EDYYUAC)",05 MAY 2025,
-ED51454,ROBEG,DLE,MEA,FL245,Yes,"ONLY AVBL FOR TFC
-ARR EDVE",H24,To offer connectivity for ARR EDVE until redesign of terminal procedures has been performed.,,ODD,EDWWACC,23 JUL 2023,
-ED51455,EXOBA,DLE,MEA,FL660,Yes,"ONLY AVBL FOR TFC
-ARR EDVE",H24,To offer connectivity for ARR EDVE until redesign of terminal procedures has been performed.,,ODD,"(EDWWACC, EDYYUAC)",05 MAY 2025,
 ED51456,PELUN,ERSET,MEA,245,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP EDDK AND-THEN ARR (EDDP, EPPO, EPWR, EYKA) & RFL BLW FL245 AT (PELUN DCT ERSET)",00:50-04:10 (23:50-03:10),Alternative to the route via ABSUL to offload EDWW sector HRZ at night., DCT due to closure EDWWHRZ for EDDP/EDDK at night ,ODD,"(EDGGACC, EDWWACC)",05 MAY 2025,
 ED51457,ETIDI,MAG,FL245,FL315,Yes,"ONLY AVBL FOR TFC
@@ -985,10 +1069,6 @@ ED51507,TAU,MEFTO,FL055,FL245,Yes,"ONLY AVBL FOR TFC
 ARR ETOU",H24,to offer connectivity for arriving traffic ETOU,,ODD,EDGGACC,28 MAY 2025,
 ED51508,RAMOB,TAU,FL055,FL245,Yes,"ONLY AVBL FOR TFC
 ARR ETOU",H24,to offer connectivity for arriving traffic ETOU,,ODD,EDGGACC,23 JUL 2023,
-ED51509,MASEK,POZUM,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (AMASI, BOMBI, NOSPA, LIMGO)",H24,"To offer shorter route option - crossborder DCT via EDUUFRAW, EDUUFRAE towards EP.",,ODD,EDUUUAC,06 OCT 2023,
-ED51510,MASEK,LASIS,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (AMASI, BOMBI, NOSPA, LIMGO)",H24,"To offer shorter route option - crossborder DCT via EDUUFRAW, EDUUFRAE towards EP.",,ODD,EDUUUAC,06 OCT 2023,
 ED51512,ADEMI,DOMEG,FL155,FL245,Yes,"ONLY AVBL FOR TFC
 ARR EHEH & VIA (EDGGPADH, EDGGHMM) AND-THEN EDGGBOT",H24,to offer shorter connection and force all flights ARR EHEH via Sectors EDGGPADH or EDGGHMM and then EDGGBOT on this routing,,EVEN,EDGGACC,06 AUG 2024,
 ED51515,ERNAS,SULUS,FL315,FL660,No,,H24,To avoid FRA DCT option in EDUUFRAE above FL315 to close to airspace boundary.,,EVEN,EDUUUAC,18 OCT 2023,
@@ -1021,11 +1101,16 @@ DEP EDDN AND-THEN ARR EDDF",H24,To offer connection for CP EDDN-EDDF,,EVEN,EDGGA
 ED51527,MIQ,ALUTU,MEA,FL660,Yes,"ONLY AVBL FOR TFC
 1. DEP (EDDS, EDTY) & ABV FL325 AT BIBAG
 2. DEP EDDF",H24,"option1: Part of connecting route RIDAR DCT/Z98 MIQ DCT ALUTU for DEP EDDS, EDTY either via EDUUISA1I (ABV FL315) or staying below FL315 until ALUTU, and start climb over ALUTU towards BIBAG/ESEGA/AKIMA. See also ED5530, ED3749 and ED2803. Option2: part of connecting route ASLEP DCT TAKUT L603 BESNI L605 MIQ DCT ALUTU DCT BIBAG",,ODD,EDUUUAC,07 MAY 2025,
+ED51528,KONIN,AMEXO,FL245,FL660,Yes,"ONLY AVBL FOR TFC
+DEP LOWS",H24,To offer shorter connection. Subject to frequent AUP-FUA restriction EDR307CZR/407CZR (MON..FRI daytime). Listed DCT refers to ANNEX3B MIN FL245.,,EVEN,"(EDUUUAC, EDMMACC)",18 SEP 2025,
 ED51529,AMEXO,BABEG,FL245,FL660,Yes,"ONLY AVBL FOR TFC
 DEP LOWS & ABV FL315 AT BABEG",H24,To offer shorter connection. Subject to frequent AUP-FUA restriction EDR307CZR/407CZR (MON..FRI daytime).,,EVEN,"(EDUUUAC, EDMMACC)",07 MAY 2025,
 ED51530,ALUTU,BIBAG,MEA,FL660,Yes,"ONLY AVBL FOR TFC
 1. DEP (EDDS, EDTY)
 2. DEP EDDF",H24,"Option 1: Part of connecting route RIDAR DCT/Z98 MIQ DCT ALUTU for DEP EDDS, EDTY either via EDUUISA1I (ABV FL315) or staying below FL315 until ALUTU, and start climb over ALUTU towards BIBAG/ESEGA/AKIMA. See also ED5530, ED3749 and ED2803. Option 2: part of connecting route ASLEP DCT TAKUT L603 BESNI L605 MIQ DCT ALUTU DCT BIBAG",,ODD,EDUUUAC,07 MAY 2025,
+ED5154,VEKIR,UMDAS,FL235,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK",H24,"To offer shorter route option for ARR EDDK.
+Subject to frequent AUP-FUA restriction EDR307CZR/407CZR (MON..FRI daytime)",,EVEN,EDUUUAC,18 SEP 2025,
 ED51546,ODVUX  ,BITBU,MEA,FL095,Yes,"NOT AVBL FOR TFC
 ARR ELLX",H24,To force traffic on correct routing. This traffic shall file LEPSA Z104 AGBUL T894 BITBU Z110 BETEX,,EVEN,EDGGACC,07 JUN 2024,
 ED51549,SALLO,BEBEB,MEA,FL285,Yes,"ONLY AVBL FOR TFC
@@ -1064,12 +1149,6 @@ ED51568,OKIBA,COSJE,FL325,FL660,Yes,"ONLY AVBL FOR TFC
 ARR PRAGUE_GROUP",H24,To offer connection for ARR Prague_group avoiding EDUUUTAS.,,EVEN/ODD,EDUUUAC,02 OCT 2024,
 ED51569,LUPOL,ABGAS,MEA,FL245,Yes,"NOT AVBL FOR TFC
 DEP EDJA",H24,To prevent creative flightplanning and cheat on RAD Annex 2B ED3969,,ODD,EDMMACC,07 MAY 2025,
-ED51570,KEMES,TEKTU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (EBAW, EBBR, EBCI, EBCV, EBMB, EHEH, EHGR, EHVK, EHWO)",H24,"To offer shorter connection, x-border EDUUFRAE, EDUUFRAW",,EVEN,EDUUUAC,14 DEC 2024,
-ED51571,EXITI,TEKTU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (EBAW, EBBR, EBCI, EBCV, EBMB, EHEH, EHGR, EHVK, EHWO)",H24,"To offer shorter connection, x-border EDUUFRAE, EDUUFRAW",,EVEN,EDUUUAC,14 DEC 2024,
-ED51572,MOOCE,TEKTU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-ARR (EBAW, EBBR, EBCI, EBCV, EBMB, EHEH, EHGR, EHVK, EHWO)",H24,"To offer shorter connection, x-border EDUUFRAE, EDUUFRAW",,EVEN,EDUUUAC,14 DEC 2024,
 ED51573,HLZ,CEL,MEA,FL245,Yes,"ONLY AVBL FOR TFC
 ARR ETNW",H24,To offer connection to ETNW from HLZ. Traffic shall file HLZ DCT CEL DCT NIE.,,EVEN,EDWWACC,15 FEB 2025,
 ED51574,CEL,NIE,MEA,FL245,Yes,"ONLY AVBL FOR TFC
@@ -1191,8 +1270,6 @@ ED51663,LAMPU,NIKUT,FL245,FL660,Yes,"ONLY AVBL FOR TFC
 DEP (EDNY, LSZH, LSZR) AND-THEN ARR PRAGUE_GROUP",H24,"To offer connectivity from (EDNY, LSZH, LSZR) to Prague_group",,ODD,EDUUUAC,10 FEB 2025,
 ED51664,COSJE,DINKU,FL245,FL660,Yes,"ONLY AVBL FOR TFC
 DEP (EDDV, EDVE)",H24,To offer connectivity to the southeast.,,ODD,EDUUUAC,17 FEB 2025,
-ED51665,CEL,BATEL,MEA,FL245,Yes,"ONLY AVBL FOR TFC
-DEP EDDV",H24,to offer DEP EDDV shorter connection inbound EDDB,,ODD,EDWWACC,19 FEB 2025,
 ED51666,IXWIB,ZWN,MEA,FL245,Yes,"ONLY AVBL FOR TFC
 ARR (EDDR, EDRZ) & ACFT-PBN (CONV)",H24,To offer non-RNAV equipped flights connectivity between ATS route structure and conventional approach,,EVEN,EDGGACC,07 MAY 2025,
 ED51667,ZWN,IXWIB,MEA,FL245,Yes,"ONLY AVBL FOR TFC
@@ -1223,9 +1300,23 @@ Reference TFR RAD Annex 2B ED2183, Option 1.",,ODD,EDGGACC,24 JUL 2025,
 ED51678,FUL,KERAX,FL055,FL135,Yes,"ONLY AVBL FOR TFC
 ARR (EDDF, ETOU)",H24,"To offer DCT routing for mentioned ARR.
 Reference TFR RAD Annex 2B ED2183, Option 1.",,ODD,EDGGACC,24 JUL 2025,
+ED51679,UNIMI,USUDO,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+1. VIA (UNIMI DCT USUDO DCT LIRSU)
+2. VIA (UNIMI DCT USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
 ED51680,USUDO,LIRSU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
 1. VIA (UNIMI DCT USUDO DCT LIRSU)
 2. VIA (SOTOV DCT USUDO DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,28 AUG 2025,
+ED51681,SOTOV,USUDO,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+1. VIA (SOTOV DCT USUDO DCT LIRSU)
+2. VIA (SOTOV DCT USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
+ED51684,AMEXO,VEKIR,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDK",H24,To offer connectivity towards EDDK. ,,EVEN,EDUUUAC,11 SEP 2025,
+ED51698,USUDO,UTABA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
+ED51699,UTABA,BANIM,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
+ED51700,BANIM,LIRSU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
+VIA (USUDO DCT UTABA DCT BANIM DCT LIRSU)",19:00-03:30 (18:00-02:30),to offer route option when LASER area Ottobeuren (in the vicinity of KPT) is active.,,EVEN,EDUUUAC,04 OCT 2025,
 ED5180,KODUK,GORKO,FL215,FL305,Yes,"ONLY AVBL FOR TFC
 ARR EDVK",H24,To offer connecting route ARR EDVK,,EVEN,EDMMACC,23 JUL 2023,
 ED5181,MIQ,INPUD,MEA,FL195,Yes,"ONLY AVBL FOR TFC
@@ -1248,6 +1339,8 @@ ARR (ED**, ET**)","H24
 H24",To offer shorter route option to specified traffic To force specified destinations via transition routes Use ODD FLs,FRAK,,EDUUUAC,27 JUL 2023,
 ED5208,GARKI,POGAB,FL245,FL660,Yes,"COMPULSORY FOR TFC
 DEP PRAGUE_GROUP & VIA GARKI AND-THEN VIA EDUUHVL1H",H24,To offer shorter route option to specified traffic and to segregate this traffic from overflights. After POGAB: UZ36 OBANI or via listed DCTs,FRAK,,EDUUUAC,07 MAY 2025,
+ED5215,VIBOM,ELMOX,FL245,FL660,Yes,"ONLY AVBL FOR TFC
+ARR  EDDM  & VIA (EXCOS DCT VIBOM)",H24,To offer direct route option for listed ARR. (EXCOS DCT VIBOM refers to EDUUFRAW above FL245),,ODD,EDUUUAC,21 AUG 2025,
 ED5252,BEFRE,IVQOQ,FL075,FL315,Yes,"ONLY AVBL FOR TFC
 ARR EDDP",H24 ,To offer direct route option for ARR EDDP,,EVEN,EDMMACC,08 MAR 2025,
 ED5257,GOVEN,VIBIS,FL285,FL660,Yes,"NOT AVBL FOR TFC
@@ -1267,6 +1360,8 @@ ED5271,KOGIM,MAREM,FL285,FL660,Yes,"ONLY AVBL FOR TFC
 DEP (EKCH, EKRK) & ABV FL325 AT MAREM",H24,To offer shorter route option to overflying traffic. Anticipate ATC vectors (route extension max 5 NM) due to military activity within MVPA,FRAK,,EDUUUAC,07 MAY 2025,
 ED5274,MAXAN,ORTAG,MEA,FL245,Yes,"ONLY AVBL FOR TFC
 DEP (EDDB, HAVEL_GROUP)",H24,to offer mentioned departures proper connection to the ATS route system,,EVEN,EDMMACC,27 JUL 2023,
+ED5278,REKDI,COSJE,FL245,FL660,Yes,"ONLY AVBL FOR TFC
+DEP EDMMFIR & VIA (INBED DCT REKDI) & ARR ELLX",H24,To offer shorter connection for listed citypair.,,EVEN,EDUUUAC,21 AUG 2025,
 ED5283,MASEK,KOBUS,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA (AMASI, BOMBI, LIMGO, NOSPA)
 ----------
@@ -1283,8 +1378,6 @@ BLW FL325 AT NOMKA",H24,To offer shorter route option,FRAMaK,,EDUUUAC,27 JUL 202
 ED5307,SALLO,IDOBA,FL285,FL660,Yes,"NOT AVBL FOR TFC
 1. DEP (COPENHAGEN_GROUP, ESMS)
 2. ARR EDDB",H24,To offer shorter route option to overflying traffic. Anticipate ATC vectors (route extension max 5NM) due to military activity within MVPA,FRAK,,EDUUUAC,27 JUL 2023,
-ED5310,MASEK,SUBIX,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (AMASI, BOMBI, NOSPA, LIMGO)",H24,"To offer shorter route option - crossborder DCT via EDUUFRAW, EDUUFRAE towards EP.",,ODD,EDUUUAC,06 OCT 2023,
 ED5317,ROSOK,DETNI,FL225,FL660,Yes,"NOT AVBL FOR TFC
 1. BLW FL285 AT DETNI
 2. DEP (EDWWFIR EXC HAMBURG_GROUP, EDDW, EDWE, EDWI)
@@ -1298,10 +1391,23 @@ ED5321,ROSOK,POKEN,FL225,FL660,Yes,"NOT AVBL FOR TFC
 1. BLW FL285 AT POKEN
 2. DEP EDWWFIR EXC (HAMBURG_GROUP, EDDW, EDWE, EDWI)
 3. ARR (ESEK, ESMK, ESMS, EKRN)",H24,To offer shorter route option.  Anticipate ATC vectors (route extension max 4NM) due to military activity within MVPA,FRAMaK,,EDUUUAC,27 JUL 2023,
+ED5325,GOVEN,ESIKA,FL285,FL660,Yes,"ONLY AVBL FOR TFC
+ARR EDDV & ABV FL335 AT GOVEN",H24,To offer shorter route option to specified destination,,EVEN,EDUUUAC,21 AUG 2025,
 ED5329,ADLIR,MAREM,FL305,FL660,Yes,"ONLY AVBL FOR TFC
 VIA KOGIM & ABV FL325 AT MAREM",H24,To offer shorter route option to overflying traffic.,FRAK,,EDUUUAC,07 MAY 2025,
+ED5341,LASIS,SULED,FL295,FL660,Yes,"NOT AVBL FOR TFC
+1. BLW FL335 AT LASIS
+2. DEP EPWR
+3. ARR EDMMFIR",H24,To offer shorter route option.  During activation of ED-R306 expect radar vectors via TADUV,,EVEN,EDUUUAC,21 AUG 2025,
 ED5349,KODUK,MARZA,FL245,FL660,Yes,,H24,To offer shorter connection via KODUK in EDMMACC and EDUUUAC.,,EVEN,"(EDUUUAC, EDMMACC)",27 JUL 2023,
 ED5351,KODUK,GASKA,FL245,FL660,Yes,,H24,To offer shorter connection via KODUK in EDMMACC and EDUUUAC.,,EVEN,"(EDUUUAC, EDMMACC)",27 JUL 2023,
+ED5353,ETAGO,LIRSU,FL125,FL660,Yes,"NOT AVBL FOR TFC
+1. ARR (BRUSSELS_GROUP, EBLG, ED**, EHBD, EHBK, EHEH, EHGR, EHVK, EHWO)
+2. VIA EDUUNTM1N & BLW FL255 IN EDUUNTM1N",H24,"To offer shorter connections 
+Subject to frequent AUP-FUA restriction EDR305CZR (MON..FRI daytime)
+Only traffic able to climb above FL255 upon entering listed sector is allowed.",,Even,EDUUUAC,21 AUG 2025,
+ED5362,RENDO,SULED,FL295,FL660,Yes,"NOT AVBL FOR TFC
+ARR/DEP EDMMFIR",H24,To offer shorter route option. (e.g. EPWR-EDDF). During activation of ED-R308 expect radar vectors via TADUV,,,EDUUUAC,21 AUG 2025,
 ED5370,BIKRU,ROSOK,FL245,FL660,Yes,"NOT AVBL FOR TFC
 1. DEP (EK**, ESEK, ESMK, ESMS)
 2. BLW FL295 AT BIKRU",H24,"To offer shorter route option to overflying traffic. Anticipate ATC vectors (route extension max 11 NM) due to military activity within MVPA. Linked with NUAC / FRA Sweden. Linked with MUAC via ROSOK DCT DENOL/ FAMEN/VALKO/NVO/RAVLO
@@ -1315,6 +1421,14 @@ ED5385,SALLO,ROSOK,FL245,FL660,Yes,"NOT AVBL FOR TFC
 ED5389,UNGAV,ROSOK,FL245,FL660,Yes,"NOT AVBL FOR TFC
 1. DEP (EK**, ESEK, ESMK, ESMS)
 2. BLW FL295 AT UNGAV",H24,To offer shorter route option to overflying traffic. Anticipate ATC vectors (route extension max 11 NM) due to military activity within MVPA. Linked with MUAC via ROSOK DCT DENOL/FAMEN/VALKO/NVO/RAVLO. FRA Maastricht and Karlsruhe (FRAMaK),FRAMaK,Even,EDUUUAC,27 JUL 2023,
+ED5391,LOHRE,MASIR,FL215,FL660,Yes,"ONLY AVBL FOR TFC
+ARR (ETNG, ETNN) & VIA (LOHRE DCT MASIR DCT DITAM DCT BIBTI DCT
+NVO) & ABV FL255 AT LOHRE
+----------
+COMPULSORY FOR TFC
+ARR (ETNG, ETNN) & VIA LOHRE & ABV FL255 AT LOHRE","H24
+----------
+H24",To force traffic on shorter connection to dedicated ARR transition route.  Traffic shall continue on transition route via MASIR DCT DITAM DCT BIBTI DCT NVO,,Even,EDUUUAC,21 AUG 2025,
 ED5394,AKOSI,PILAM,FL305,FL660,Yes,"ONLY AVBL FOR TFC
 ARR (EDDK, EDKZ, EDLA, EDLI, EDLP, EDLW, ETOU) & ABV FL315 AT AKOSI",H24,To offer better profil for listed traffic ( avoiding early descent ),FRAK,,EDUUUAC,07 MAY 2025,
 ED5412,ASDIN,ROSOK,FL245,FL660,Yes,"NOT AVBL FOR TFC
@@ -1323,7 +1437,6 @@ ED5412,ASDIN,ROSOK,FL245,FL660,Yes,"NOT AVBL FOR TFC
 FRA Maastricht and Karlsruhe (FRAMaK)",FRAMaK,Even,EDUUUAC,27 JUL 2023,
 ED5418,DEXIT,PILAM,FL305,FL660,Yes,"ONLY AVBL FOR TFC
 ARR (EDDK, EDKZ, EDLA, EDLI, EDLP, EDLW, EDVK) & ABV FL315 AT DEXIT",H24,To offer better profile for listed traffic.,FRAK,Even,EDUUUAC,07 MAY 2025,
-ED5429,KPT,TEDGO,FL315,FL660,Yes,,H24,"To offer shorter connection, x-border EDUUFRAE to EDUUFRAW.",,EVEN,EDUUUAC,27 JUL 2023,
 ED5432,KRH,EXCOS,FL085,FL245,Yes,"ONLY AVBL FOR TFC
 ARR ELLX",MON-THU 22:30-07:00 (21:30-06:00) & FRI 16:00 (15:00)-MON 07:00 (06:00) & HOL ED H24,To offer a shorter route option for specified traffic,,,EDGGACC,07 MAY 2025,
 ED5434,ABGUS,ALOSO,FL285,FL660,Yes,"NOT AVBL FOR TFC
@@ -1349,15 +1462,12 @@ DEP EDLP WITH ARR EDDK",H24,to offer shorter connection for CP EDLP - EDDK,,Even
 ED5499,LBU,HAREM,FL055,FL660,Yes,"NOT AVBL FOR TFC
 DEP (EDDR, EDRZ, ETAR, LFSB)",H24,To facilitate departing traffic. DEP LFSB shall file N851 after LBU to ensure proper data exchange between EDGG ACC and EDUU UAC,,,"(EDGGACC,
 EDUUUAC)",27 JUL 2023,
+EDEP5109,PESEL,ODEGU,FL335,FL660,Yes,"NOT AVBL FOR TFC
+ARR (ED**, ET**)",H24,"Offers shorter connection for traffic overfly Rhein UIR, other traffic shall use transition routes",,EVEN,EDUUUAC,21 AUG 2025,
 EDEP5110,ROBEL,BODLA,FL345,FL660,Yes,"NOT AVBL FOR TFC
 ARR EPSC",H24,To offer shorter route option,FRAK,,EDUUUAC,07 MAY 2025,
 EDLF5042,ERADI,IDARO,FL065,FL245,Yes,"ONLY AVBL FOR TFC
 ARR (EDDF, EDFH)",H24,To offer shorter route options.,,ODD,EDGGACC,30 APR 2025,
-EDLF5043,VABEN,OVTEC,195,660,Yes,"ONLY AVBL FOR TFC
-DEP EDDF AND-THEN ARR (LEMD, LEBL)","MON-FRI
-H24
-SAT-SUN 20:00-07:00 (19:00-06:00)","To offer citypairs EDDF to LEMD/LEBL shorter route option. 
-Subject to AUP/UUP closure of EDR205CZR and LFT22AZR",,EVEN,"EDGGACC, LFEEACC",30 APR 2025,
 EDLF5044,MOPAN,LHR,MEA,FL245,Yes,"ONLY AVBL FOR TFC
 1. ARR EDTL
     a. VIA LSAZCTA
@@ -1826,6 +1936,10 @@ NOT AVBL FOR TFC
 DEP (EGBB, EGGW)","H24
 ----------
 H24",Allows traffic to join standard route,,,EG**ACC,08 MAY 2025,
+EG50161,BKY,SILVA,MEA,FL665,Yes,"NOT AVBL FOR TFC
+DEP (EGSC, EGSS, EGSU, EGSW)",H24,"To ensure traffic follows correct departure procedure from EGSU.
+----------------------------------
+This traffic shall depart via a EBOTO from EGSC/EGSU and  a NUGBO SID from EGSS ",,,EG**ACC,22 AUG 2025,
 EG50162,BKY,SILVA,245,665,Yes,"ONLY AVBL FOR TFC
 DEP EGSU",H24,To enable flight planning above FL245.,"EGSC REMOVED FROM RESTRICTION 10 SEPT 2020 AIRAC
 Structural CAA recommendation ",,EG**ACC,07 AUG 2020,
@@ -1946,13 +2060,6 @@ To enforce correct routeing.  EGGD/FF deps remaining below FL105 shall file CONK
 EG50187,KUMIL,ABSAV,165,660,Yes,"ONLY AVBL FOR TFC
 1. ARR WESSEX_GROUP
 2. ARR EGLF acft-eqpt NOT (D1, D2, D3, D4, O1, O2, O3, O4)",H24,DCT from airway structure to airfields (WESSEX_GROUP) AND EGLF ABSAV1P,,,EG**ACC,25 APR 2022,
-EG50188,CLN,LAM,MEA,155,Yes,"COMPULSORY FOR TFC
-1. DEP EGSH
-Below FL155
-With ARR EGLD/LL/WU
-2. DEP EGLC
-With ARR EGLD/LL/WU",H24,"1.Link route for city pair / combined with BANEM DCT CLN.
-2. To ensure positioning traffic follows standard routeing.",,,EG**ACC,,
 EG50189,ROBEM,RIVOT,MEA,245,Yes,"ONLY AVBL FOR TFC
 RFL BLW FL245
 DEP EGNT
@@ -2227,6 +2334,9 @@ DEP EGSC
 Via SOMVA",H24,To ensure this traffic follows standard departure routing. To de-conflict with EGSS airspace,,,EG**ACC,,
 EG50311,CLN,EFMIH,105,660,Yes,"ONLY AVBL FOR TFC
 RFL ABV FL245 & DEP (EGLC, EGMC, EGSS) & VIA (LARGA, RENEQ)",H24,To reflect operational procedures. Link route to M604.,,,EG**ACC,10 FEB 2025,
+EG50312,ADNAM,TEDSA,MEA,FL660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
+DEP (EGSC, EGSU, EGSW) & 
+VIA (GIVPO, EFMIH, REDFA, SOMVA)",H24,To ensure this traffic follows standard departure routing. To de-conflict with EGSS airspace,,,EG**ACC,22 AUG 2025,
 EG50313,LOGAN,REDFA,MEA,195,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 acft-eqpt Not (D1, D2, D3, D4, O1, O2, O3, O4)
 DEP EGMD
@@ -3023,6 +3133,9 @@ EG50672,SAM,PEPIS,065,075,Yes,"ONLY AVBL FOR TFC
     ARR WESSEX_GROUP, EGLF
    acft-eqpt NOT ( D1, D2, D3, D4, O1, O2, O3, O4)",H24,"1. For positioning flights from EGLF using the HAZEL SIDs.
 2. To provide connectivity for positioning flights from EGKK to Wessex_Group and EGLF, aircraft not equipped  ( D1, D2, D3, D4, O1, O2, O3, O4)",,,EG**ACC,09 FEB 2023,
+EG50678,EBOTO,DTY,MEA,FL665,Yes,"COMPULSORY FOR TFC
+DEP (EGSC, EGSU, EGSW) & 
+VIA SILVA",H24,To ensure traffic follows correct departure procedure from EGSC/EGSU,,,EG**ACC,22 AUG 2025,
 EG50679,DTY,SILVA,MEA,665,Yes,"COMPULSORY FOR TFC
 DEP (EGSC, EGSU) & 
 VIA SILVA",H24,To ensure traffic follows correct departure procedure from EGSC/EGSU,Structural CAA recommendation ,,EG**ACC,17 JUL 2024,
@@ -3657,6 +3770,8 @@ ARR EGSU",H24,To facilitate flight planning,,,EG**ACC,29 OCT 2021,
 EG50948,SIVDA,CAM,105,195,Yes,"ONLY AVBL FOR TFC
 DEP EGNO
 ARR EGSU",H24,To facilitate flight planning,,,EG**ACC,29 OCT 2021,
+EG50949,EBOTO,WELIN,FL105,FL195,Yes,"ONLY AVBL FOR TFC
+DEP (EGSC, EGSU, EGSW)",H24,to facilitate flight planning,,,EG**ACC,22 AUG 2025,
 EG5095,LAKEY,NUGRA,105,660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 ARR EGLD/LL/WU
 With RFL above FL245 
@@ -4036,7 +4151,7 @@ EG51054,NUCHU,CPT,075,245,Yes,"COMPULSORY FOR TFC
     Via NUCHU and-then BIG",H24,"To enforce standard routeings.  
 1. RNAV1 arrivals to Farnborough Group shall file via P73.
 2. EGBB/BE arrivals shall file NUCHU DCT CPT L9 NORRY Q41 SILVA.  EGNX arrivals shall file NUCHU DCT CPT M183 SILVA M605 DTY.
-3. This traffic is unable to route via NUCHU L607 due to the lower limit of L607 between ALHAD and BIG.",,,EG**ACC,08 MAR 2023,
+3. This traffic is unable to route via NUCHU L607 due to the lower limit of L607 between ALHAD and BIG.",,,EG**ACC,13 NOV 2025,
 EG51055,CPT,ASHUM,095,125,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 acft-eqpt NOT (D1, D2, D3, D4, O1, O2, O3, O4)_x000D_
 ARR BRIZE_GROUP_x000D_
@@ -4652,10 +4767,13 @@ EG51199,BLACA,CBL,080,245,Yes,"NOT AVBL FOR TFC
 ARR EGPI & VIA (IOM DCT BLACA)","(EGD509,EGD509Z) ACT",To allow BLACA DCT CBL for traffic via IOM arr EGPI,,,EG,24 JUL 2025,
 EG5120,BEN,BRUCE,245,660,Yes,"TBD
 - General conditions apply",H24,Enables connectivity above Y958,,,EG**ACC,,
-EG51200,BLACA,MAKUX,105,245,Yes,"COMPULSORY FOR TFC
-DEP EGPI & ARR FARNBOROUGH_GROUP & VIA (BLACA,SOSIM)",H24,To enforce the correct routing for these city pairs via SOSIM L15,,,EG,24 JUL 2025,
 EG51201,CBL,BLACA,080,245,Yes,"NOT AVBL FOR TFC
 DEP EGPI & VIA BLACA","(EGD509,EGD509Z) ACT",To ensure this DCT can not be used during the activation of EGD509.,,,EG,24 JUL 2025,
+EG51202,HAWFA,NUCHU,FL055,FL660,Yes,"ONLY AVBL FOR TFC
+ABV FL245 IN EG & DEP (EGFF, EGGD) & VIA ALHAD",H24,To enable and assist CFPSPs to file a higher RFL from departure point when using L607. Climbs above FL245 prior to NUCHU will be accommodated on a tactical basis.,,,EGTTACC,22 AUG 2025,
+EG51203,YORQI,NUCHU,FL055,FL660,Yes,"ONLY AVBL FOR TFC
+ABV FL245 IN EG & DEP EGGD & VIA ALHAD",H24,To enable and assist CFPSPs to file a higher RFL from departure point when using L607. Climbs above FL245 prior to NUCHU will be accommodated on a tactical basis.,,,EGTTACC,22 AUG 2025,
+EG51204,HAVEN,ALASO,FL245,FL660,No,,H24,To prevent filing along EGPXFRA/EGTTUIR boundary departing EGPF. HAVEN DCT ALASO not available.,,,EGTTFIR,22 AUG 2025,
 EG5121,TLA,DONIB,MEA,255,Yes,"TBD
 - General conditions apply",When EGD701K/EGD701KZ is active,Provide routing for traffic to avoid D701K when active,,,EG**ACC,29 OCT 2021,
 EG5122,TLA,TUXOS,MEA,255,Yes,"TBD
@@ -4793,8 +4911,6 @@ EG5187,BUZAD,CPT,MEA,245,No,"TBD
 - General conditions apply",H24,To reflect operational procedures and ensure correct FDP.,,,EG**ACC,17 JUL 2022,
 EG5189,CLN,WELIN,085,245,No,"TBD
 - General conditions apply",H24,To reduce complexity,,,EG**ACC,,
-EG5190,CLN,OTR,MEA,245,Yes,"ONLY AVBL FOR TFC
-With Mil Service Agreement",H24,Routes through TRA003. Facilitates a fuel efficient route for traffic which can use ATSOCAS,,,EG**ACC,,
 EG5191,CLN,RAPIX,MEA,245,No,"TBD
 - General conditions apply",H24,To reduce complexity,,,EG**ACC,,
 EG5192,COWLY,CPT,MEA,245,No,"TBD
@@ -4946,6 +5062,8 @@ H24",Fuel Saving Route,,,EG**ACC,06 OCT 2022,
 EG5249,MASOP,NELBO,MEA,255,Yes,"ONLY AVBL FOR TFC
 Non RNAV1 (Not equippage D1 D2 D3 D4 O1 O2 O3 or O4)
 ARR BELFAST_GROUP",H24,RNAV1 traffic shall route M148,,,EG**ACC,29 OCT 2021,
+EG5250,RAPIX,ELVOS,FL165,FL660,Yes,"ONLY AVBL FOR TFC
+ARR MANCHESTER_GROUP & RFL ABV FL245 AT RAPIX",21:30-06:00 (22:30-05:00) AT RAPIX,Night Time Flight Efficiency option.,,,EG**ACC,18 OCT 2025,
 EG5251,RAPIX,LESTA,185,660,Yes,"ONLY AVBL FOR TFC
 Via RAPIX with RFL above FL245
 1. ARR EGCN/NH/NJ/NM/NO/NS
@@ -4972,6 +5090,19 @@ EG5258,DCS,IOM,105,245,Yes,"NOT AVBL FOR TFC
 - ARR EGAA / EGAC / EGAE",H24,To allow expeditious routing outside controlled airspace where traffic levels do not warrant a permanent air route.,,,EG**ACC,02 SEP 2021,
 EG5259,DEGOS,LIFFY,245,660,No,"TBD
 - General conditions apply",H24,To prevent traffic filing in close proximity to the FIR boundary.,,,EG**ACC,,
+EG5262,ADNAM,CLN,MEA,FL660,Yes,"ONLY AVBL FOR TFC
+1. DEP (EGSC, EGSU, EGSW)
+    a. VIA (KONAN, SUMUM)
+    b. ARR (EGKB, EGLC, EGLL, EGMC, EGTO, EGWU)
+----------
+COMPULSORY FOR TFC
+1. DEP EGSC
+    a. VIA (KONAN, SUMUM)
+    b. ARR (EGKB, EGLC, EGLL, EGMC, EGTO, EGWU)","H24
+----------
+H24",To ensure this traffic follows standard departure routing. To de-conflict with EGSS airspace,,,EG**ACC,22 AUG 2025,
+EG5263,ADNAM,DET,MEA,FL660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
+DEP (EGSC, EGSU, EGSW) & VIA (DVR, LYD, NEVIL, SANDY, SFD)",H24,To ensure this traffic follows correct departure routing. To de-conflict with EGSS airspace,,,EG**ACC,22 AUG 2025,
 EG5264,VASUX,ELVOS,185,660,Yes,"ONLY AVBL FOR TFC
 With RFL above FL285
 1. ARR MANCHESTER_GROUP, SCOTTISH_GROUP ,
@@ -4987,8 +5118,7 @@ DEP EGSG
 via LELNA/ORTAC
 with ARR EGHO",H24,To force traffic DEP EGSG onto the correct standard route within TC airspace,,,EG**ACC,,
 EG5268,RAPIX,WELIN,075,660,Yes,"ONLY AVBL FOR TFC
-With RFL above FL245
-ARR MIDLANDS_GROUP",00:30..06:00 (23:30..05:00) at RAPIX,Night Time Flight Efficiency option.,,,EG**ACC,10 AUG 2023,
+ARR MIDLANDS_GROUP & RFL ABV FL245 AT RAPIX",00:30 - 06:00 (23:30 - 05:00) AT RAPIX,Night Time Flight Efficiency option.,,,EG**ACC,18 OCT 2025,
 EG5269,DET,DVR,085,245,No,"TBD
 - General conditions apply",H24,Traffic shall file L6 between these 2 waypoints,,,EG**ACC,,
 EG5270,BKY,LAM,MEA,660,Yes,"COMPULSORY FOR TFC
@@ -5020,13 +5150,14 @@ ARR LFPB/PG via SFD
 With RFL above FL305
 Via BEXET/GISTI/OLGON and-then via ENJEX",00:01..05:20 (23:01..04:20) at ENJEX,"Night Time Fuel Saving Route 
 This traffic shall file GISTI/OLGON/BEXET DCT ENJEX DCT HOTXI DCT SFD UM605.",,,EG**ACC,09 FEB 2023,
+EG5277,GALSO,ELVOS,105,660,Yes,"ONLY AVBL FOR TFC
+ARR MANCHESTER_GROUP & RFL ABV FL245 AT GALSO",21:30-06:00 (22:30-05:00) AT GALSO,Night Time Flight Efficiency option.,,,EG**ACC,18 OCT 2025,
 EG5278,GALSO,LESTA,125,660,Yes,"ONLY AVBL FOR TFC
 With RFL above FL245
 1. ARR EGCN/NC/NH/NJ/NM/NO/NS
 2. Via RODOL",00:30..06:00 (23:30..05:00) at GALSO,Night Time Flight Efficiency option.,,,EG**ACC,,
 EG5280,GALSO,WELIN,075,660,Yes,"ONLY AVBL FOR TFC
-ARR MIDLANDS_GROUP
-With RFL above FL245",00:30..06:00 (23:30..05:00) at GALSO,Night Time Flight Efficiency option.,,,EG**ACC,,
+ARR MIDLANDS_GROUP & RFL ABV FL245 AT GALSO",00:30 - 06:00 (23:30 - 05:00) AT GALSO,Night Time Flight Efficiency option.,,,EG**ACC,18 OCT 2025,
 EG5282,DEVBI,BAMRA,MEA,245,Yes,"TBD
 - General conditions apply",H24,To enable flight planning during military exercise activity. There is no reasonable alternative ATS route available.,,,EG**ACC,,
 EG5283,TUXOS,IBROD,MEA,255,Yes,"TBD
@@ -5137,35 +5268,10 @@ With RFL above FL285",23:59..06:15 (22:59..05:15) at LIFFY,Night Time Fuel Savin
 EG5302,KONAN,DVR,075,105,Yes,"ONLY AVBL FOR TFC
 1. ARR EGMD/TO
 2. DEP BRUSSELS_GROUP with ARR EGHH/HI",H24,To facilitate traffic to destinations close to the EG** boundary. To facilitate traffic ARR EGHH/HI.,,,EG**ACC,,
-EG5303,BKY,BUSTA,MEA,660,Yes,"ONLY AVBL FOR TFC
-ARR EGGW/EGS*
-----------
-COMPULSORY FOR TFC
-except training flights
-1. DEP EGSS with ARR EGGW
-2. DEP EGTB/WU,
-    with ARR EGSC/SS
-3. DEP EGTK, WESSEX_GROUP With ARR EGSS/SC
-    except via DTY, WOBUN","H24
-----------
-H24",Standard route for specified airfields is BKY DCT BUSTA DCT LOREL,,,EG**ACC,09 MAY 2022,
-EG5304,BUSTA,LOREL,MEA,660,Yes,"COMPULSORY FOR TFC
-EXC FLT-TYPE X
-1. DEP (EGGW, EGHO, EGLL, EGWU, WESSEX_GROUP) AND-THEN ARR (EGSC, EGSS)
-2. DEP EGTK AND-THEN ARR (EGSC, EGSS)
-   EXC VIA DTY",H24,Standard route for EGGW/SS/SU within the TMA. Training Flights with established routings between these airfields are exempted from this restriction,,,EG**ACC,02 FEB 2024,
 EG5305,DOSUN,PEMOS,MEA,255,Yes,"TBD
 - General conditions apply",H24,To reflect operational procedures and ensure correct FDP.,,,EG**ACC,17 JUL 2022,
 EG5307,DOSUN,STN,MEA,255,Yes,"TBD
 - General conditions apply",H24,To reflect operational procedures and ensure correct FDP.,,,EG**ACC,17 JUL 2022,
-EG5308,LAM,HEN,MEA,245,Yes,"COMPULSORY FOR TFC
-ARR EGLJ
-Via LAM
-----------
-NOT AVBL FOR TFC
-ARR MIDLANDS_GROUP","H24
-----------
-H24",To ensure correct arrival routing into EGLJ,,,EG**ACC,18 SEP 2025,
 EG5309,NUBRI,KENET,MEA,660,Yes,"COMPULSORY FOR TFC
 1. ARR EGTK_x000D_
 Via (KATHY, SAM, PEPIS, VOUGA)_x000D_
@@ -5297,6 +5403,9 @@ via  (ASHUM, CONKO, CPT, DIDZA, KENET, OZZIL, SAWPE)
 Via (ASHUM, CONKO, COWLY, CPT, DIDZA, OZZIL, SAWPE)","H24
 ----------
 H24","To ensure correct sector entry within Terminal Control Area, this traffic shall use N27 SAXBI - HEN",,,EG**ACC,09 FEB 2023,
+EG5343,EBOTO,AKUPA,MEA,245,Yes,"COMPULSORY FOR TFC
+1. DEP (EGSC, EGSU, EGSW) & ARR MANCHESTER_GROUP
+2. DEP EGSU & VIA (TNT, POL)",H24,To ensure correct departure routing of EGSC/SU DCT EBOTO DCT AKUPA T420,,,EG**ACC,22 AUG 2025,
 EG5344,BANEM,SONDO,MEA,660,Yes,"COMPULSORY FOR TFC
 DEP EGSH
 Via REDFA
@@ -5404,14 +5513,6 @@ ARR SCOTTISH_GROUP",H24,To keep descending traffic within Controlled Airspace an
 EG5376,NIPIT,MAC,MEA,255,Yes,"COMPULSORY FOR TFC
 With RFL below FL255
 ARR EGPH/EGPK via NIPIT",H24,To keep descending traffic within Controlled Airspace and to ensure predictable traffic flow into ScTMA airspace,,,EG**ACC,29 OCT 2021,
-EG5378,AVANT,VELAG,MEA,660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
-VIA AVANT 
-ARR EGNX
-ABV FL215 IN (EGTTFIR, EGTTUIR)",23:00..05:00 (23:00..04:00) AT AVANT,Fuel efficient routeing for EGNX arrivals during night time hours,,,EG**ACC,01 OCT 2025,
-EG5381,AVANT,CPT,MEA,660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
-VIA AVANT 
-ARR (EGBB, EGBE, EGBO)
-ABV FL215 IN (EGTTFIR, EGTTUIR)",23:00..05:00 (23:00..04:00) AT AVANT,Fuel efficient routeing for EGBB/BE/BO arrivals during night time hours,,,EG**ACC,01 OCT 2025,
 EG5383,ELKOG,STN,MEA,255,Yes,"TBD
 - General conditions apply",H24,Provide Fpl connectivity from Oceanic Exit Point,,,EG**ACC,29 OCT 2021,
 EG5384,STN,BELZU,MEA,255,Yes,"NOT AVBL FOR TFC
@@ -6041,6 +6142,14 @@ EY5038,URIDO,IRBEX,FL095,FL660,No,,H24,To prevent traffic filling along the FIR 
 EY5039,VABER,TUMKI,FL095,FL660,No,,H24,To prevent traffic filling along the FIR boundary,,,EYVCACC,23 AUG 2024,
 EY5040,ZENIT,LAFAT,FL095,FL660,No,,H24,To prevent traffic filling along the FIR boundary,,,EYVCACC,23 AUG 2024,
 GC5000,TERTO,LIMAL,195,305,Yes,TBD,H24,To improve connectivity between airways,Cross GCD79B/C/N/E/T,EVEN,GCCCACC,03 DEC 2022,
+GC5001,ERONI,INSAD,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI DCT INSAD)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
+GC5002,ERONI,KUXOV,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI DCT KUXOV)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
+GC5003,INSAD,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (INSAD DCT ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
+GC5004,KUXOV,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (KUXOV DCT ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
 GC5007,NOCUT,SILUC,245,305,Yes,"ONLY AVBL FOR TFC
 ACFT-PBN (B1, B2)",H24,Improve connectivity with GQNO,,ODD,GCCCACC,13 OCT 2024,
 GC5008,SILUC,NOCUT,245,305,Yes,"ONLY AVBL FOR TFC
@@ -6054,8 +6163,24 @@ GC5012,CABOJ,BIPET,195,305,Yes,TBD,H24,To improve connectivity between airways,C
 GC5013,NOCUT,ETIBA,145,305,Yes,ONLY AVBL FOR TFC,H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,10 NOV 2021,
 GC5014,BIPET,GDV,195,305,Yes,TBD,H24,To improve connectivity between airways,Cross GCD79B/C/N/E/T,ODD,GCCCACC,03 DEC 2022,
 GC5015,ETIBA,NOCUT,145,305,Yes,ONLY AVBL FOR TFC,H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,10 NOV 2021,
+GC5016,ETIBA,ISOKA,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
 GC5017,GDV,BIPET,195,305,Yes,TBD,H24,To improve connectivity between airways,Cross GCD79B/C/N/E/T,EVEN,GCCCACC,03 DEC 2022,
+GC5018,ISOKA,ETIBA,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
+GC5019,ISOKA,YORGI,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
+GC5020,IXIKU,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (IXIKU DCT ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
+GC5021,ERONI,IXIKU,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI DCT IXIKU)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
+GC5022,ERONI,YORGI,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
 GC5023,RUSIK,BIPET,195,305,Yes,TBD,H24,Shorter route,Cross GCD79A/C/N/E/T,EVEN,GCCCACC,03 DEC 2022,
+GC5024,YORGI,ISOKA,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (ERONI DCT YORGI DCT ISOKA DCT ETIBA DCT NOCUT)",H24,To facilitate connections where there is no appropriate ATS route structure,,EVEN,GCCCACC,11 SEP 2025,
+GC5025,YORGI,ERONI,195,305,Yes,"ONLY AVBL FOR TFC
+VIA (NOCUT DCT ETIBA DCT ISOKA DCT YORGI DCT ERONI)",H24,To facilitate connections where there is no appropriate ATS route structure,,ODD,GCCCACC,11 SEP 2025,
 GC5027,ETIBA,DKH,195,305,Yes,TBD,"(GCD79T, GCD79TE) ACT","Alternative route to avoid GCD79T/TE
 Offset -30 minutes prior to activation.",,ODD,GCCCACC,13 OCT 2024,
 GC5028,DKH,ETIBA,195,305,Yes,"TBD
@@ -6287,9 +6412,8 @@ DEP GMMG & FLT-TYPE (M)",H24,To avoid crossing prohibited area,,,GMMMACC,27 AUG 
 GM5024,MAK,BGR,MEA,FL460,Yes,"ONLY AVBL FOR TFC
 DEP GMMG & FLT-TYPE (M)",H24,To avoid crossing prohibited area,,,GMMMACC,27 AUG 2024,
 GM5025,IBALU,SAMAR,FL195,FL460,Yes,"ONLY AVBL FOR TFC
-ARR (GCLP, GCXO)","SAT-SUN
-06:00-22:00
-",To avoid GC RNE sector in Canarias ACC during peak hours.,Rate 4/60. Could be also allowed on other days by AIM in coordination between ENAIRE and ONDA,Odd,GMACACC,27 AUG 2024,
+ARR (GCLP, GCXO)","06:00-22:00
+",To avoid GC RNE sector in Canarias ACC during peak hours.,Rate 4/60. Could be also allowed on other days by AIM in coordination between ENAIRE and ONDA,Odd,GMACACC,20 OCT 2025,
 GM5026,DONAS,SAKOF,MEA ,FL460,Yes,"ONLY AVBL FOR TFC
 ARR GMMN",H24,To faciltate arriving traffic,,,GMMMACC,27 AUG 2024,
 GM5027,SAKOF,GODPO,MEA,FL460,Yes,"ONLY AVBL FOR TFC
@@ -6574,8 +6698,6 @@ LC5112,KUKLA,ANANE,MEA,FL205,Yes,"ONLY AVBL FOR TFC
 DEP OLBA & RFL ABV FL205 IN LC",H24,To facilitate DEP OLBA connectivity,,,LCCCACC,29 JAN 2025,
 LC5114,TOSKA,BONEK,FL095,FL205,Yes,,H24,To facilitate ARR LCLK connectivity,CLASS C airspace,,LCCCACC,25 FEB 2025,
 LC5115,GENOS,TOSKA,MEA,FL205,Yes,,H24,"To facilitate DEP (LCLK, LCPH) connectivity",CLASS C airspace,,LCCCACC,29 JAN 2025,
-LC5116,PEDER,EVENO,MEA,FL205,Yes,"ONLY AVBL FOR TFC
-RFL ABV FL205 IN LC",H24,To facilitate DEP LC** connectivity,CLASS C airspace,,LCCCACC,29 JAN 2025,
 LC5117,VESAR,EMEDA,FL035,FL205,Yes,"ONLY AVBL FOR TFC
 RFL ABV FL205 IN LC",H24,"To facilitate ARR (LCPH, LCRA) connectivity",CLASS C airspace,,LCCCACC,29 JAN 2025,
 LC5118,TUZIB,EMEDA,FL045,FL205,Yes,,H24,"To facilitate DEP (OLBA, LLBG) connectivity",CLASS C airspace,,LCCCACC,25 FEB 2025,
@@ -6725,8 +6847,6 @@ DEP GMTT",H24,LOA LECS-GMMM. To open connectivity options,,EVEN,LECSACC,07 JUL 2
 LE5287,KASAS,SAMAR,145,305,Yes,,H24,Improve connectivity,,EVEN,GCCCACC,09 AUG 2023,
 LE5288,UMUKA,RESTU,145,245,Yes,"NOT AVBL FOR TFC
 EXC DEP LEMG",H24,Improve en-route efficiency and facilitate climbing of DEP LEMG,,EVEN,LECSACC,25 APR 2025,
-LF5000,FAMEN,BSN,265,660,Yes,"TBD
-- General conditions apply",H24,To offer shorter connection,,ODD,LFEEACC,20 DEC 2019,
 LF50009,BIDAC,ORTEZ,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LEPP, LERJ, LESO) AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,,LFBBACC,07 NOV 2024,
 LF50010,ORTEZ,TBO,MEA,FL195,Yes,"ONLY AVBL FOR TFC
@@ -6739,8 +6859,6 @@ LF50013,ORTEZ,BIDAC,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX AND-THEN ARR (LEPP, LERJ, LESO)",H24,To facilitate connection with LFBB FRA,,,LFBBACC,07 NOV 2024,
 LF50019,OBLOC,OSMOB,FL145,FL195,Yes,"ONLY AVBL FOR TFC
 DEP LFBE AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,Odd,LFBBACC,07 NOV 2024,
-LF5002,NG,MOLEN,MEA,FL500,Yes,"ONLY AVBL FOR TFC
-DEP (MONTPELLIER_GROUP, RHONE_GROUP , LFMP)",H24,To facilitate departures through military airspace,,,LFMMACC,07 NOV 2024,
 LF50020,OSMOB,OBLOC,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX AND-THEN ARR LFBE",H24,To facilitate connection with LFBB FRA,,Even,LFBBACC,07 NOV 2024,
 LF50023,VELIN,OSMOB,FL145,FL195,Yes,"ONLY AVBL FOR TFC
@@ -6748,8 +6866,6 @@ DEP (LFBL, LFBX) AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB F
 LF50024,OSMOB,VELIN,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX AND-THEN ARR (LFBL, LFBX)",H24,To facilitate connection with LFBB FRA,,Even,LFBBACC,07 NOV 2024,
 LF50025,LAVRA,NARAK,MEA,FL195,Yes,,H24,To facilitate connection with LFBB FRA,,Odd,LFBBACC,07 NOV 2024,
-LF5003,MOLEN,NG,MEA,FL305,Yes,"ONLY AVBL FOR TFC
-ARR (MONTPELLIER_GROUP, RHONE_GROUP ,  LFMP)",H24,To facilitate arrivals through military airspace,,,LFMMACC,07 NOV 2024,
 LF50046,UVELI,OBLOC,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX AND-THEN ARR (LFBC, LFBM)",H24,To facilitate connection with LFBB FRA,,ODD,LFBBACC,07 NOV 2024,
 LF50047,OBLOC,UVELI,FL145,FL195,Yes,"ONLY AVBL FOR TFC
@@ -6759,9 +6875,6 @@ LF50048,VAVIX,OBLOC,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 2. DEP LFBS",H24,"To facilitate connection with LFBB FIR and LFBB FRA
 1. To enable connection between SID and lower airspace network",,Even,LFBBACC,07 NOV 2024,
 LF5005,BANTI,VELOL,FL065,FL195,Yes,,H24,To allow connection for ARR LFPB/PT/OB,,,LFFFACC,07 NOV 2024,
-LF50054,BELDI,GIRVI,FL295,FL500,Yes,,22:00-05:00 (22:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over BELDI and GIRVI
- In case of Defence activity route via DELOG-UN873-ADUTO",FRAF,EVEN,LFEEACC,07 NOV 2024,
 LF50057,ERIGA,FUJTI,FL145,FL660,Yes,,H24,To facilitate connection to superior network from FIR,,Odd,LFRRACC,07 NOV 2024,
 LF50058,AZFIC,EPIXO,FL115,FL345,Yes,"ONLY AVBL FOR TFC
 ARR NANTES_GROUP",H24,To facilitate connection,,Even,LFRRACC,07 NOV 2024,
@@ -6785,18 +6898,9 @@ In case of military activity route via BOKNO -UN858- TSU ",,Even,LFRRACC,04 OCT 
 LF50065,DIBES,VIQAQ,FL305,FL500,Yes,"ONLY AVBL FOR TFC
 VIA BOKNO AND-THEN DIBES AND-THEN VIQAQ AND-THEN TSU",H24,"Fuel saving trajectory 
 In case of military activity route via BOKNO -UN858- TSU ",FRAF,Even,LFRRACC,04 OCT 2024,
-LF5007,GIMER,DIDOR,FL315,FL500,Yes,,H24,Lower and Upper Level band limitations refereds to RFL not FL,,,LFEEACC,07 NOV 2024,
 LF50076,BUSIL,EKNOS,FL065,FL105,Yes,"ONLY AVBL FOR TFC
 DEP (LFHV, LFLM, LFLN) & ARR (LFLB, LFLP)",H24,To comply with internal system and local ATC management,,Even,LFMMACC,07 NOV 2024,
-LF50079,CTL,ARDEN,FL295,FL660,Yes,"NOT AVBL FOR TFC
-1. ARR (EDFH, EDLN, EBLG)
-2. RFL ABV FL305 AT (CTL DCT ARDEN) & ARR (EDDK, EDGS, EDKB, EDKL, ETNG, ETNN)",H24,To offer shorter connection,1. Traffic shall file via VALEK,Even,"LFEEACC,LFFFACC",07 NOV 2024,
 LF5008,GOVNA,PIRUV,MEA,FL085,Yes,,H24,Connection facilitation,,,LF,07 NOV 2024,
-LF50080,BSN,BUZIK,FL265,FL660,Yes,"NOT AVBL FOR TFC
-1. ARR (LFBI, LFBL, LFLC, LFLN, LFLO, LFLV) & RFL ABV FL335 AT (BSN DCT BUZIK)
-2. ARR (LFLA, LFLD, LFLX, LFOA, LFOC, LFOJ, LFOQ, LFOZ, LFQG) & RFL ABV FL275 AT (BSN DCT BUZIK)
-3. VIA (GELTA, ODEBU, PEKIM, TABOV)
-4. VIA GIMER",H24,To offer shorter connection,,ODD,"LFEEACC, LFFFACC",07 NOV 2024,
 LF50081,BUZIK,RESMI,FL265,FL660,Yes,"NOT AVBL FOR TFC
 1. ARR (LFBI, LFBL, LFLC, LFLN, LFLO, LFLV) & ABV FL335 AT (BUZIK DCT RESMI)
 2. ARR (LFLD, LFLX, LFOA, LFOQ, LFQG) & ABV FL275 AT (BUZIK DCT RESMI)
@@ -6879,8 +6983,6 @@ LF50118,LACOU,CHALA,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFBO, LFBF, LFBR, LFCC) AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,EVEN,LFBBACC,07 NOV 2024,
 LF50119,SECHE,UVELI,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFBA, LFDH) AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,EVEN,LFBBACC,07 NOV 2024,
-LF5012,JULEE,PADKO,MEA,FL500,Yes,"ONLY AVBL FOR TFC
-DEP LFTH & VIA LFMMCTA & RFL ABV FL195 IN LFMMCTA",H24,To allow shortest connection to upper airspace.,,,LFMMACC,07 NOV 2024,
 LF50120,LERGA,MINSO,FL115,FL195,Yes,"ONLY AVBL FOR TFC
 DEP LFMH AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,ODD,LFBBACC,07 NOV 2024,
 LF50121,BTZ,VAVIX,MEA,FL195,Yes,"ONLY AVBL FOR TFC
@@ -6921,24 +7023,6 @@ LF50142,VAVIX,BTZ,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX AND-THEN ARR (LEPP, LERJ, LESO)",H24,To facilitate connection with LFBB FRA,,ODD,LFBBACC,07 NOV 2024,
 LF50143,BOLSA,SIJAN,FL115,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX AND-THEN ARR LFMP",H24,To facilitate connection with LFBB FRA,,ODD,"(LFBBACC, LFMMACC)",07 NOV 2024,
-LF50146,KOTUN,LUPAM,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RLP",H24,To offer shorter option,,EVEN,LFEEACC,07 NOV 2024,
-LF50147,LUPAM,KESAX,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (KOTUN DCT LUPAM)
-----------
-NOT AVBL FOR TFC
-ARR EGKA","H24
-----------
-H24",To offer shorter option,,EVEN,LFEEACC,07 NOV 2024,
-LF50148,KOTUN,AMAXA,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RLP",H24,To offer shorter option,,EVEN,LFEEACC,07 NOV 2024,
-LF50149,AMAXA,VESAN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (KOTUN DCT AMAXA)
-----------
-NOT AVBL FOR TFC
-ARR (EGKB, EGLC, EGMC, EGMD, EGMH, EGSG, EGSX, EGTO, EGKA, EGTR)","H24
-----------
-H24",To offer shorter option,,EVEN,LFEEACC,07 NOV 2024,
 LF5015,KUVIV,PEKIM,FL195,FL295,Yes,,H24,To offer shorter route in upper airspace,,,LFFFACC,07 NOV 2024,
 LF50150,TORPA,EDOPI,FL155,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFFRAE & DEP (LSZH, LFSB)",H24,to offer shorter route option,,EVEN,LFEEACC,07 OCT 2024,
@@ -6957,7 +7041,7 @@ VIA OZNOH AND-THEN VIA PODEM",H24,Green RAD - TO BE UPDATED,,EVEN,LFRRACC,27 JUN
 LF50158,TADUP,PODEM,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA OZNOH AND-THEN VIA PODEM",H24,Green RAD - TO BE UPDATED,,EVEN,LFRRACC,27 JUN 2025,
 LF50159,OZNOH,BULOX,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA OZNOH AND-THEN VIA TABOV",H24,Green RAD - TO BE UPDATED,,EVEN,LFRRACC,27 JUN 2025,
+VIA OZNOH AND-THEN VIA TABOV",H24,Green RAD - TO BE UPDATED,,EVEN,LFRRACC,27 NOV 2025,
 LF5016,VALKU,LARON,FL145,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,,LFBBACC,07 NOV 2024,
 LF50160,BULOX,TABOV,FL295,FL660,Yes,"ONLY AVBL FOR TFC
@@ -7059,24 +7143,7 @@ LF50223,LUL,EPL,FL115,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFFRAE & ARR (LFSI, ELLX, EDDR, EDRZ, ETAR)",H24,To facilitate connection with LFEE FRA,,EVEN/ODD,LFEEACC,07 OCT 2024,
 LF50224,SOSUR,JULEE,MEA,FL660,Yes,"ONLY AVBL FOR TFC
 ARR LFTH",H24,To connect LFTH JULEE STAR,,,LFMMACC,07 NOV 2024,
-LF50225,MANAG,ROTSI,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA KOTUN",22:00-06:00 (23:00-04:00),Night Time Fuel saving Route,,EVEN,LFEEACC,07 NOV 2024,
-LF50226,MANAG,RAVMU,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (RAVMU DCT VESAN)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over VESAN",,EVEN,LFEEACC,07 NOV 2024,
-LF50227,MANAG,ASGUN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (ASGUN DCT ABNUR)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over ABNUR",,EVEN,LFEEACC,07 NOV 2024,
-LF50228,MANAG,PIKAG,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (PIKAG DCT KESAX)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KESAX",,EVEN,LFEEACC,07 NOV 2024,
-LF50229,MANAG,NUBVO,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (NUBVO DCT SOSUN)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over SOSUN",,EVEN,LFEEACC,07 NOV 2024,
 LF5023,EGOZE,PON,MEA,FL195,No,,H24,To avoid conflicts with LFPG traffic,,,LF**ACC,07 NOV 2024,
-LF50230,LUVAL,KOTUN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (SOSUN,KESAX,ABNUR,VESAN)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KOTUN",,EVEN,LFEEACC,07 NOV 2024,
 LF50231,CM,VENTA,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP LFMO",H24,"Connection DEP LFMO.
 After VENTA: VENTA DCT LACAZ or VENTA DCT TRETS
@@ -7092,24 +7159,10 @@ LF50234,TRETS,NASIK,MEA,FL245,Yes,"ONLY AVBL FOR TFC
 DEP (LFMV, LFMA, LFMO, LFMY) AND-THEN VIA LFMMCTA & ABV FL145 IN LFMMCTA",H24,"DEP LFMO: DCT CM DCT VENTA DCT TRETS DCT NASIK
 DEP LFMY: DCT SAURG DCT VENTA DCT TRETS DCT NASIK
 ",,,LFMMACC,07 NOV 2024,
-LF50235,MTG,PADKO,MEA,FL245,Yes,"ONLY AVBL FOR TFC
-DEP (LFMS, LFHO, LFNU) AND-THEN VIA LFFRASE",H24,"To connect (LFMS, LFHO, LFNU) to LFMM FRA",,,LFMMACC,07 NOV 2024,
-LF50236,PADKO,MTG,MEA,FL245,Yes,"ONLY AVBL FOR TFC
-VIA LFFRASE AND-THEN ARR (LFMS, LFHO, LFNU)",H24,"To connect (LFMS, LFHO, LFNU) to LFMM FRA",,,LFMMACC,07 NOV 2024,
-LF50237,SOFFY,MTG,MEA,FL245,Yes,"ONLY AVBL FOR TFC
-VIA LFFRASE AND-THEN ARR (LFMS, LFHO, LFNU)",H24,"To connect (LFMS, LFHO, LFNU) to LFMM FRA",,,LFMMACC,07 NOV 2024,
-LF50238,LACAZ,CM,MEA,FL245,Yes,"ONLY AVBL FOR TFC
-ARR LFMO",H24,"Connection ARR LFMO
-LACAZ DCT CM DCT LFMO",,,LFMMACC,07 NOV 2024,
 LF50239,LACAZ,SIMON,MEA,FL145,Yes,"ONLY AVBL FOR TFC
 ARR LFMY",H24,"Connection ARR LFMY
 LACAZ DCT SIMON DCT LFMO",,,LFMMACC,07 NOV 2024,
 LF5024,MTZ,MMD,MEA,FL195,Yes,,H24,To allow a shorter Westbound connection in lower airspace,,,LF**ACC,07 NOV 2024,
-LF50240,PADKO,MOPEM,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (OTARO, DOLIS, KAMER, SALMA)",21:30 - 05:00 (20:30 - 04:00),"Night-time fuel-saving route (NTFSR)
-Time limitation refers to time over BARSO and IDAVO.",,,LFMMACC,07 NOV 2024,
-LF50241,BARSO,IDAVO,FL245,FL500,Yes,,21:30 - 05:00 (20:30 - 04:00),"Night-time fuel-saving route (NTFSR)
-Time limitation refers to time over PADKO and MOPEM.",,,LFMMACC,07 NOV 2024,
 LF50244,ETPAR,SECHE,FL055,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFCD, LFCH)",H24,To facilitate connection with LFBB FIR and LFBB FRA,,ODD,LFBBACC,07 NOV 2024,
 LF50245,SECHE,ETPAR,FL055,FL195,Yes,"ONLY AVBL FOR TFC
@@ -7151,7 +7204,6 @@ LF50318,CLM,YODHA,FL265,FL660,Yes,"ONLY AVBL FOR TFC
 FLT-TYPE (M)",H24,To allow military traffic to connect to EPT FR17,,EVEN,LFEEACC,07 NOV 2024,
 LF50319,YODHA,KOVIN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
 FLT-TYPE (M)",H24,To allow military traffic to exit from EPT FR17,,ODD,LFEEACC,07 NOV 2024,
-LF50320,DIVKO,TICRE,FL195,FL660,Yes,,H24,At TICRE: change from GAT to OAT,,ODD,LFMMACC,07 NOV 2024,
 LF50321,AGN,DODOM,FL055,FL195,Yes,,H24,"To facilitate connection with LFBB FIR 
 Airport connectivity around Toulouse",,EVEN,LFBBACC,07 NOV 2024,
 LF50322,DODOM,AGN,FL055,FL195,Yes,,H24,"To facilitate connection with LFBB FIR 
@@ -7171,11 +7223,8 @@ LF50332,LAPEX,EBOMO,FL195,FL660,No,,H24,Avoid sector clipping,,,LFRRACC,07 NOV 2
 LF50334,RIVAK,EBOMO,FL195,FL660,No,,H24,Avoid sector clipping,,,LFRRACC,07 NOV 2024,
 LF50335,COQUE,NOZHU,FL195,FL660,No,,H24,Avoid sector clipping,,,LFRRACC,07 NOV 2024,
 LF50336,COQUE,TEJOP,FL195,FL660,No,,H24,Avoid sector clipping,,,LFRRACC,07 NOV 2024,
-LF50337,TICRE,DIVKO,FL195,FL660,Yes,,H24,At TICRE: change from OAT to GAT,,,LFMMACC,07 NOV 2024,
 LF50338,VEULE,DEKOD,FL265,FL660,Yes,,H24,Fuel saving Direct trajectories,,ODD,"LFRRACC, LFFFACC",14 DEC 2024,
 LF50339,VEULE,KOTAP,FL265,FL660,Yes,,H24,Fuel saving Direct trajectories,,ODD,"LFRRACC, LFFFACC",14 DEC 2024,
-LF5034,LTP,LSE,MEA,FL305,Yes,"ONLY AVBL FOR TFC
-ARR LFMH",H24,To facilitate arrivals via the LSE STAR. LFLL APP and internal flight plan processing system requirement.,,,LFMMACC,07 NOV 2024,
 LF50340,VEULE,PEKIM,FL265,FL660,Yes,,H24,Fuel saving Direct trajectories,,ODD,"LFRRACC, LFFFACC",14 DEC 2024,
 LF50341,VEULE,TEPRI,FL265,FL660,Yes,,H24,Fuel saving Direct trajectories,,ODD,"LFRRACC, LFFFACC",14 DEC 2024,
 LF50342,ELCOB,ARGED,FL295,FL660,Yes,"NOT AVBL FOR TFC
@@ -7246,10 +7295,6 @@ LF50366,PIWIZ,RESMI,FL295,FL660,Yes,,H24,Fuel saving Direct trajectories,,EVEN,L
 LF50367,TERPO,PEXOD,FL195,FL660,Yes,,H24,Fuel saving Direct trajectories,,ODD,LFRRACC,07 NOV 2024,
 LF50368,ADSET,TUPAR,FL195,FL660,Yes,,H24,Fuel saving Direct trajectories,,ODD,LFRRACC,07 NOV 2024,
 LF50369,ADSET,LEMKA,FL195,FL660,Yes,,H24,Fuel saving Direct trajectories,,ODD,LFRRACC,07 NOV 2024,
-LF50370,LIPNI       ,EDJAR,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA LFFRAE",22:00-05:00 (23:00-04:00),Night FRA            ,FRAF,ODD,LFEEACC,07 NOV 2024,
-LF50371,ETINO,KESAX,FL315,FL660,Yes,"NOT AVBL FOR TFC
-ARR EGKA",22:00-05:00 (22:00-04:00),Night FRA           ,FRAF,EVEN,LFEEACC,07 NOV 2024,
 LF50372,ELCOB,GALBO,FL295,FL660,Yes,"NOT AVBL FOR TFC
 DEP LFP*",H24,Fuel saving Direct trajectories,,ODD,LFRRACC,14 DEC 2024,
 LF50373,LIPSU,JULEE,MEA,FL660,Yes,"ONLY AVBL FOR TFC
@@ -7257,8 +7302,6 @@ ARR LFTH",H24,To connect LFTH when LFD54BNZ is active,,,LFMMACC,07 NOV 2024,
 LF50374,AHVEC,ERJAZ,FL305,FL660,Yes,"ONLY AVBL FOR TFC
 VIA RAPOR AND-THEN VIA ATLEN",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over AHVEC",,ODD,LFRRACC,07 NOV 2024,
-LF50375,VAMTU,GANGU,FL245,FL500,Yes,,21:30-05:00 (20:30-04:00),"Night-time fuel-saving route (NTFSR)
-Time limitation refers to time over VAMTU and GANGU.",,ODD,LFMMACC,07 NOV 2024,
 LF50376,OBORN,POGOL,FL195,FL660,Yes,"NOT AVBL FOR TFC
 1. VIA (ELVET DCT OBORN)
 2. VIA (VABEN DCT OBORN)",H24,"To avoid turn at OBORN
@@ -7302,9 +7345,6 @@ Time limitation refers to time over ARSAF",,ODD,LFRRACC,07 NOV 2024,
 LF50387,ARTIV,LAPEX,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA MEDIL AND-THEN VIA LAPEX",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over ARTIV",,EVEN,LFRRACC,07 NOV 2024,
-LF50388,AHVEC,ARDEN,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA BOKNO AND-THEN VIA ARDEN",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over AHVEC",,EVEN,LFEEACC,07 NOV 2024,
 LF50389,ARTIV,REGHI,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA RAPOR AND-THEN VIA REGHI",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over ARTIV",,EVEN,LFRRACC,07 NOV 2024,
@@ -7313,174 +7353,48 @@ ARR LFBA",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 N
 LF50390,ARTIV,UMOXA,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA FAMEN AND-THEN VIA UMOXA",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over ARTIV",,EVEN,LFRRACC,07 NOV 2024,
-LF50391,AMCAK,DUCRA ,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA LUPEN AND-THEN VIA LARLA",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over AMCAK",,EVEN,LFEEACC,07 NOV 2024,
-LF50392,ARSAF,BELOB,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA BOKNO AND-THEN VIA BELOB",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over ARSAF",,EVEN,LFEEACC,07 NOV 2024,
-LF50393,ARSAF,GIRVI,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA BOKNO AND-THEN VIA GIRVI",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over ARSAF",,EVEN,LFEEACC,07 NOV 2024,
-LF50394,ARSAF,ARDEN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (TIVLU, LAPEX) AND-THEN VIA ARDEN",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over ARSAF",,EVEN,LFEEACC,07 NOV 2024,
 LF50395,BAZOS,ARTIV,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA FAMEN AND-THEN VIA UMOXA",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over BAZOS",,EVEN,LFRRACC,07 NOV 2024,
-LF50396,BAZOS,BELOB,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA DELOG AND-THEN VIA BELOB",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over BAZOS",,EVEN,LFEEACC,07 NOV 2024,
 LF50398,BAZOS,DIN,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA FAMEN AND-THEN VIA LAPEX",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over BAZOS",,EVEN,LFRRACC,07 NOV 2024,
-LF50399,BAZOS,RUBUT,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA BOKNO AND-THEN VIA RUBUT",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over BAZOS",,EVEN,LFEEACC,07 NOV 2024,
 LF5040,ASPET,OGRIL,FL065,FL195,Yes,"ONLY AVBL FOR TFC
 ARR (LFMK, LFBR, LFDJ)",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 NOV 2024,
-LF50400,BAZOS,ARDEN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (REGHI, UMOXA) AND-THEN ARDEN",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over BAZOS",,EVEN,LFEEACC,07 NOV 2024,
 LF50401,BAZOS,TERPO,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA MEDIL AND-THEN VIA LOTEE",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over BAZOS",,ODD,LFRRACC,07 NOV 2024,
-LF50402,BUZIK   ,ARDEN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA LOTEE AND-THEN VIA ARDEN",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over BUZIK",,EVEN,LFEEACC,07 NOV 2024,
-LF50403,DUCRA,VALEK,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (RIVAK, TIVLU) AND-THEN VIA VALEK",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over DUCRA",,EVEN,LFEEACC,07 NOV 2024,
-LF50404,ETINO   ,KIHVI,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA LUPEN AND-THEN VIA LIZAD",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over ETINO",,EVEN,LFEEACC,07 NOV 2024,
 LF50405,COHPA,LABUL,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA LUPEN AND-THEN VIA REGHI",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over COHPA",,EVEN,LFRRACC,07 NOV 2024,
-LF50406,FAMEN   ,ESTOC,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN AND-THEN VIA LOTEE",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN",,ODD,LFEEACC,07 NOV 2024,
-LF50407,FAMEN,DUCRA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN AND-THEN VIA (ATLEN, NENEM, BAKUP)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN",,ODD,LFEEACC,07 NOV 2024,
-LF50408,FAMEN,BAZOS,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN AND-THEN VIA (LAPEX, UMOXA)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN",,ODD,LFEEACC,07 NOV 2024,
 LF5041,CNA,ROYAN,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 1. ARR (LFEY, LFFK, LFJB, LFOO, LFOU, LFRI)
 2. VIA LFBBUBDX AND-THEN ARR (LFEY, LFFK, LFJB, LFOO, LFOU, LFRI, LFRRFIR)",H24,"To facilitate connection with LFBB FIR and LFBB FRA
 2.  LFBB-LFRR contingency plan: on standard OPS (LF3750 activated) trajectory only available for ARR LFEY/FK/JB/OO/OU/RI",,,LFBBACC,07 NOV 2024,
-LF50410,FAMEN,DISAK,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN AND-THEN VIA DISAK",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN",,ODD,"LFEEACC, LFRRACC, LFBBACC",07 NOV 2024,
-LF50411,FAMEN ,KETEX,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN AND-THEN VIA KETEX",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN",,ODD,"LFEEACC, LFRRACC, LFBBACC",07 NOV 2024,
 LF50412,COHPA  ,LUTAS,FL305,FL660,Yes,"ONLY AVBL FOR TFC
 VIA LUPEN AND-THEN VIA TIVLU",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over COHPA",,ODD,LFRRACC,07 NOV 2024,
-LF50413,FAMEN,KORIQ,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN AND-THEN VIA REGHI",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN",,ODD,LFEEACC,07 NOV 2024,
-LF50414,GIMER,NEPAR,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA DISAK",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over GIMER",,ODD,"LFEEACC, LFRRACC, LFBBACC",07 NOV 2024,
-LF50415,GIMER,KETEX,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA KETEX",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over GIMER",,ODD,"LFEEACC, LFRRACC, LFBBACC",07 NOV 2024,
-LF50416,KICQA,AHVEC,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA LUPEN AND-THEN VIA ALUTA",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KICQA",,EVEN,LFEEACC,07 NOV 2024,
 LF50417,COHPA,OSGES,FL305,FL660,Yes,"ONLY AVBL FOR TFC
 VIA LUPEN AND-THEN VIA RIVAK",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over COHPA",,ODD,LFRRACC,07 NOV 2024,
-LF50418,KIHVI,ADUTO,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA BOKNO AND-THEN VIA ADUTO",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KIHVI",,EVEN,LFEEACC,07 NOV 2024,
-LF50419,KIHVI,ARDEN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RIVAK AND-THEN VIA ARDEN",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KIHVI",,EVEN,LFEEACC,07 NOV 2024,
 LF5042,ROYAN,CNA,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 VIA LFBBUBDX & VIA (LUSON A25 OLERO)",H24, Trajectory only available in case of LFBB-LFRR contingency plan (LF3750 deactivated),,,LFBBACC,07 NOV 2024,
-LF50420,KIHVI,VALEK,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (REGHI, UMOXA) AND-THEN VIA VALEK",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KIHVI",,EVEN,LFEEACC,07 NOV 2024,
-LF50421,KORIQ,GIRVI,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (DELOG, REGHI, UMOXA, RIVAK, TIVLU, LAPEX, LOTEE) AND-THEN VIA GIRVI",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KORIQ",,EVEN,LFEEACC,07 NOV 2024,
-LF50422,KORIQ,RUBUT,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (DELOG, LOTEE, RIVAK, TIVLU, LAPEX, REGHI, UMOXA) AND-THEN VIA RUBUT",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KORIQ",,EVEN,LFEEACC,07 NOV 2024,
-LF50423,KORIQ,ADUTO,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (REGHI, UMOXA, RIVAK,TIVLU, LAPEX) AND-THEN VIA ADUTO",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KORIQ",,EVEN,LFEEACC,07 NOV 2024,
-LF50424,KORIQ,BELOB,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (REGHI, UMOXA, RIVAK, TIVLU, LAPEX, LOTEE) AND-THEN VIA BELOB",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KORIQ",,EVEN,LFEEACC,07 NOV 2024,
 LF50425,COHPA,REN,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA LUPEN AND-THEN VIA UMOXA",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over COHPA",,ODD,LFRRACC,07 NOV 2024,
-LF50426,LEQOS,ARDEN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA DELOG AND-THEN VIA ARDEN",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over LEQOS",,EVEN,LFEEACC,07 NOV 2024,
 LF50427,LUPEN,COHPA,FL345,FL660,Yes,"ONLY AVBL FOR TFC
 VIA LUPEN AND-THEN VIA (REGHI, RIVAK, LAPEX, TIVLU, UMOXA)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
 Time limitation refers to time over LUPEN",,EVEN,LFEEACC,07 NOV 2024,
-LF50428,MEDIL,BAZOS,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA MEDIL AND-THEN VIA LOTEE",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over MEDIL",,ODD,LFEEACC,07 NOV 2024,
-LF50429,MEDIL,ARSAF,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA MEDIL AND-THEN VIA (ATLEN, BAKUP)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over MEDIL",,ODD,LFEEACC,07 NOV 2024,
 LF5043,GONUP,RAPES,FL065,FL195,Yes,"ONLY AVBL FOR TFC
 ARR LFMK AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,,LFBBACC,07 NOV 2024,
-LF50430,MEDIL,VERMA,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA MEDIL AND-THEN VIA NENEM",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over MEDIL",,ODD,LFEEACC,07 NOV 2024,
-LF50431,MEDIL,KORIQ,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA MEDIL AND-THEN VIA (LAPEX, TIVLU, RIVAK, REGHI, UMOXA)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over MEDIL",,ODD,LFEEACC,07 NOV 2024,
-LF50432,MEDIL   ,KETEX,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA MEDIL AND-THEN VIA KETEX",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over MEDIL",,ODD,"LFEEACC, LFRRACC, LFBBACC",07 NOV 2024,
 LF50433,COHPA,RINSO,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA LUPEN AND-THEN VIA LAPEX",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over COHPA",,ODD,LFRRACC,07 NOV 2024,
-LF50434,POGZI,EPURI,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (LARLA, UMOXA, REGHI, LIZAD, LOTEE, RIVAK, TIVLU, LAPEX) AND-THEN VIA LUVAL",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over POGZI",,ODD,LFEEACC,07 NOV 2024,
-LF50435,POGZI,MANAG,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (LARLA, UMOXA, LIZAD, LOTEE, RIVAK, TIVLU, LAPEX) AND-THEN VIA MANAG",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over POGZI",,ODD,LFEEACC,07 NOV 2024,
-LF50436,RAPOR  ,VEZAQ,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA (BAKUP, NENEM, LOTEE)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over RAPOR",,ODD,LFEEACC,07 NOV 2024,
-LF50437,RAPOR,NEPAR,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA ATLEN",22:00..05:00 (23:00..04:00),"Night Time Fuel saving Route
-Time limitation refers to time over RAPOR",,ODD,LFEEACC,07 NOV 2024,
-LF50438,RAPOR,KIHVI,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA (LAPEX, ALUTA, UMOXA)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over RAPOR",,ODD,LFEEACC,07 NOV 2024,
-LF50439,RAPOR,ESTOC,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA (TIVLU, ALUTA)",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over RAPOR",,ODD,LFEEACC,07 NOV 2024,
 LF5044,TOU,RAPES,FL065,FL195,Yes,"ONLY AVBL FOR TFC
 ARR LFMK",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 NOV 2024,
-LF50440,RAPOR,DUCRA,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA RIVAK",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over RAPOR",,ODD,LFEEACC,07 NOV 2024,
-LF50441,RAPOR,ARSAF,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA REGHI",22:00..05:00 (23:00..04:00),"Night Time Fuel saving Route
-Time limitation refers to time over RAPOR",,ODD,LFEEACC,07 NOV 2024,
 LF50442,DIN,LAPEX,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA FAMEN AND-THEN VIA LAPEX",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over DIN",,EVEN,LFRRACC,07 NOV 2024,
-LF50443,RUBUT,KORIQ,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RUBUT AND-THEN VIA (LOTEE, ATLEN, BAKUP, NENEM)",22:00..05:00 (23:00..04:00),"Night Time Fuel saving Route
-Time limitation refers to time over RUBUT",,ODD,LFEEACC,07 NOV 2024,
-LF50444,VEZAQ,VALEK,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (DELOG, LOTEE) AND-THEN VIA VALEK",22:00..05:00 (23:00..04:00),"Night Time Fuel saving Route
-Time limitation refers to time over VEZAQ",,EVEN,LFEEACC,07 NOV 2024,
 LF50445,DIN,TIVLU,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA MEDIL AND-THEN VIA TIVLU",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over DIN",,EVEN,LFRRACC,07 NOV 2024,
@@ -7618,8 +7532,6 @@ Time limitation refers to time over NORMI",,ODD,LFRRACC,07 NOV 2024,
 LF50489,ORVAL,UMOXA,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA MEDIL AND-THEN VIA UMOXA",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over ORVAL",,EVEN,LFRRACC,07 NOV 2024,
-LF5049,SALIN,DIVKO,MEA,FL500,Yes,"ONLY AVBL FOR TFC
-DEP (LFTW, MONTPELLIER_GROUP)",H24,To allow shortest connection in upper airspace. Internal flight plan processing system requirement,,,LFMMACC,07 NOV 2024,
 LF50490,OSGES,RIVAK,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA LUPEN AND-THEN VIA RIVAK",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over OSGES",,EVEN,LFRRACC,07 NOV 2024,
@@ -7801,6 +7713,9 @@ Time limitation refers to time over UPALO",,EVEN,LFRRACC,07 NOV 2024,
 LF50548,USODA,BAZOS,FL305,FL660,Yes,"ONLY AVBL FOR TFC
 VIA DELOG AND-THEN VIA (ADUTO, BELOB)",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over USODA",,EVEN,LFRRACC,07 NOV 2024,
+LF50549,USODA,KORIQ,FL295,FL660,Yes,"ONLY AVBL FOR TFC
+VIA DELOG AND-THEN VIA (GIRVI, RUBUT, VICOT)",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
+Time limitation refers to time over USODA",,EVEN,LFRRACC,22 AUG 2025,
 LF5055,ESERA,NG,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 ARR RHONE_GROUP",H24,To facilitate arrivals through military airspace,,,"(LFBBACC, LFMMACC)",07 NOV 2024,
 LF50550,USODA,LEQOS,FL305,FL660,Yes,"ONLY AVBL FOR TFC
@@ -7813,31 +7728,9 @@ VIA (R11, J301, Z318, Y112, B13, B3)",H24,To avoid traffic flight planning a des
 LF50553,RODSA,LOTEE,FL295,FL660,Yes,"ONLY AVBL FOR TFC
 VIA RUBUT AND-THEN VIALOTEE",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
 Time limitation refers to time over RODSA",,ODD,LFRRACC,07 NOV 2024,
-LF50554,NEPAR,DISAK,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA DISAK",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
-Time limitation refers to time over NEPAR",,ODD,"LFEEACC
-LFRRACC",07 NOV 2024,
-LF50555,VERMA,KIHVI,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA MEDIL AND-THEN VIA NENEM",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over VERMA",,ODD,LFEEACC,07 NOV 2024,
-LF50556,EPURI,LUVAL,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (LARLA, UMOXA, REGHI, LIZAD, LOTEE, RIVAK, TIVLU, LAPEX) AND-THEN VIA LUVAL",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over EPURI",,ODD,LFEEACC,07 NOV 2024,
-LF50557,NEPAR,AHVEC,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RAPOR AND-THEN VIA ATLEN",22:00-05:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over NEPAR",,ODD,LFEEACC,07 NOV 2024,
-LF50558,FAMEN,LABUL,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN AND-THEN VIA (TIVLU, RIVAK)",22:00-05:00 (23:00-03:30),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN",,ODD,LFEEACC LFRRACC,07 NOV 2024,
-LF5056,MOLEN,MTL,FL085,FL500,Yes,"ONLY AVBL FOR TFC
-DEP (MONTPELLIER_GROUP, RHONE_GROUP , LFMP)",H24,To facilitate departures through military airspace,,,LFMMACC,07 NOV 2024,
 LF50563,ROA,LESPI,FL065,FL145,Yes,"ONLY AVBL FOR TFC
 DEP LFLC AND-THEN ARR (LFLL, LFLY, LFLS, LFHV)",H24,Airport Connectivity,,EVEN,LFMMACC,07 NOV 2024,
-LF50568,LSE,MEBAK,MEA,FL660,Yes,"ONLY AVBL FOR TFC
-DEP (LFLB, LFLP)",H24,To connect LSE SID to the routes,,,LFMMACC,07 NOV 2024,
 LF50569,JOCUZ,GILIR,FL195,FL660,No,,H24,To ensure correct traffic orientation,,,LFEEACC,07 NOV 2024,
-LF5057,MTL,MOLEN,FL085,FL500,Yes,"ONLY AVBL FOR TFC
-ARR (MONTPELLIER_GROUP, RHONE_GROUP , LFMP)",H24,To facilitate arrivals through military airspace,,,LFMMACC,07 NOV 2024,
 LF50570,GILIR,JOCUZ,FL195,FL660,No,,H24,To ensure correct traffic orientation,,,LFEEACC,07 NOV 2024,
 LF5059,JULEE,LIPSU,MEA,FL125,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP LFTH AND-THEN ARR LFML",H24,"To force traffic via the shortest route, to avoid the LFMMST and LFMMML sectors",,,LFMMACC,07 NOV 2024,
@@ -7873,10 +7766,6 @@ LF50631,TIRAV,NORMI,FL065,FL660,Yes,"ONLY AVBL FOR TFC
 DEP LFBH VIA LUSON AND-THEN TIRAV",H24,Propose a more direct route for DEP LFBH towards LFRR sector G (exit via ATLEN or BAKUP). ,,EVEN,LFRRACC,05 SEP 2024,
 LF50632,NORMI,FUJTI,FL115,FL660,Yes,"ONLY AVBL FOR TFC
 DEP LFBH VIA LUSON AND-THEN TIRAV AND-THEN NORMI",H24,Propose a more direct route for DEP LFBH towards LFRR sector G (exit via ATLEN or BAKUP). ,,ODD,LFRRACC,05 SEP 2024,
-LF50633,OB,PADKO,MEA,FL195,Yes,"ONLY AVBL FOR TFC
-DEP (LFTF, LFMF) & VIA (CUERS G7 OB) AND-THEN VIA (OB DCT PADKO)",H24,"To connect departures to upper network
-LFTF: FL>195 available from PADKO
-LFMF: FL>195 available on OB DCT PADKO",OB DCT PADKO = FRA DCT,,LFMMACC,07 NOV 2024,
 LF50634,VIQAQ,TSU,FL305,FL500,Yes,"ONLY AVBL FOR TFC
 VIA BOKNO AND-THEN DIBES AND-THEN VIQAQ AND-THEN TSU",H24,"Fuel saving trajectory 
 In case of military activity route via BOKNO -UN858- TSU ",FRAF,EVEN,LFRRACC,04 OCT 2024,
@@ -7906,168 +7795,24 @@ LF50650,RUCAC,EKCEC,195,660,Yes,"NOT AVBL FOR TFC
  EXC
 1. DEP EGKK AND-THEN ARR (LI**, LD**) & RFL ABV FL345 AT UTFAV
 2. DEP EGGW AND-THEN ARR (LI**, LD**, LA**, LM**, BKPR) & RFL ABV FL345 AT UTFAV",H24,To ensure this portion of the DCT is only used by this traffic,,,LFEEACC,04 APR 2025,
-LF50651,EKCEC,LESDO,265,660,Yes,"NOT AVBL FOR TFC
-EXC
-1. DEP EGKK AND-THEN ARR  (LI**, LD**)
-    a. VIA (LESDO UL15 ETINO)
-    b. VIA (LESDO UG42 BUBLI)
-2. DEP EGGW AND-THEN ARR (LI**,LD**,LA**,LM**,BKPR)
-    a. VIA (LESDO UL15 ETINO)
-    b. VIA (LESDO UG42 BUBLI)",H24,To ensure this portion of the DCT is only used by this traffic,,,LFEEACC,04 APR 2025,
 LF50654,NIMER,CAD,FL125,FL305,Yes,"ONLY AVBL FOR TFC
 ARR LFPO",11:00-17:00 (10:00-16:00),shorter route during low trafic,"at night, the DCT ANG-CAD shall be used",EVEN/ODD,LFFFACC,20 AUG 2025,
-LF5066,OSMAS,ROMAM,MEA,FL285,Yes,"ONLY AVBL FOR TFC
-ARR LFLU & VIA GIGUS",H24,to connect  GIGUS UZ40 OSMAS to the first point of the STAR ROMAM1V,,EVEN/ODD,LFMMACC,07 NOV 2024,
 LF5070,FEJAC,JSY,FL195,FL500,Yes,"ONLY AVBL FOR TFC
 VIA (REVTU, AKIKI)",H24,Replacement of UN472 between BADUR  and JSY,FRAF,EVEN,LFRRACC,07 NOV 2024,
 LF5071,JSY,REVTU,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA (FEJAC, OZNOH) EXC DEP  (LFRR_FIR, DEAUVILLE_GROUP)",H24,offered direct routeing in FRA,,EVEN,LFRRACC,18 JUL 2025,
 LF5073,OLZOM,ERIXU,FL115,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFOB, LFPB, LFPG, LFPT) & ENG-TYPE (E, P, R, T) & RFL ABV FL195 IN LF",H24,To allow connection between lower and upper airspace for specific traffic.,"ATT.  NOT ENG-TYPE JET is not coded in CACD....if you need this we need to write  & ENG-TYPE (E, P, R, T) and ask CACD to code it. if not  we can remove NOT ENG-TYPE JET ",ODD,LFFFACC,07 NOV 2024,
-LF5077,ROTIS,LOGNI,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (KAMER DCT EDINO DCT ROTIS DCT LOGNI)",H24,"Night-time fuel-saving route (NTFSR).
-Time limitation in LF2267",,Even,LFMMACC,07 NOV 2024,
-LF5078,PADKO,LOGNI,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (OTARO, DOLIS, KAMER, SALMA)",22:00 - 04:30 (21:00 - 03:30),"Night-time fuel-saving route (NTFSR)
-Time limitation refers to time over PADKO and LOGNI.",,Even,LFMMACC,07 NOV 2024,
-LF5079,KICQA,GIKEL,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (GIKEL DCT KESAX)",22:00-05:00 (23:00-04:00),Night FRA            ,FRAF,,LFEEACC,07 NOV 2024,
-LF5080,AMCAK,RODIN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (RODIN DCT ABNUR)",22:00-05:00 (23:00-04:00),Night FRA             ,FRAF,,LF**ACC,07 NOV 2024,
 LF5081,ETINO,ROSIV,FL315,FL660,Yes,"ONLY AVBL FOR TFC
 VIA (ROSIV DCT VESAN)",22:00-05:00 (23:00-04:00),"Timing refers to time at ETINO
 Night FRA
 In case of military activity, re-routing via HOC UL613 DIDOR",FRAF,,LF**ACC,07 NOV 2024,
-LF5082,NINAL,SOSUN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (SOSUN (M733, UM733) SUBIP)
-----------
-NOT AVBL FOR TFC
-ARR (EGHH, EGHI, EGHL, EGHO, EGHR, EGLF, EGLK, EGTD, EGTF, EGVO)","22:00-05:00 (23:00-04:00)
-----------
-22:00-05:00 (23:00-04:00)","Timing refers to time at NINAL
-Night FRA
-In case of military activity, re-routing via HOC UL613 DIDOR",FRAF,,LF**ACC,07 NOV 2024,
-LF5083,GIKEL,KESAX,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (KESAX (T421, UT421) KUNAV)
-----------
-NOT AVBL FOR TFC
-ARR EGKA","22:00-05:00 (23:00-04:00)
-----------
-22:00-05:00 (23:00-04:00)","Timing refers to time at GIKEL
-Night FRA
-In case of military activity, re-routing via HOC UL613 DIDOR",FRAF,EVEN,LF**ACC,07 NOV 2024,
-LF5084,RODIN,ABNUR,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (ABNUR (T10, UT10) ALESO)",22:00-05:00 (23:00-04:00),"Timing refers to time at RODIN
-Night FRA
-In case of military activity, re-routing via HOC UL613 DIDOR",FRAF,,LF**ACC,07 NOV 2024,
-LF5085,ROSIV,VESAN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (VESAN (L613, UL613) SOVAT)
-----------
-NOT AVBL FOR TFC
-ARR (EGKB, EGLC, EGMC, EGMD, EGMH, EGSG, EGSX, EGTO, EGKA, EGTR)","22:00-05:00 (23:00-04:00)
-----------
-22:00-05:00 (23:00-04:00)","Timing refers to time at ROSIV
-Night FRA
-In case of military activity, re-routing via HOC UL613 DIDOR",FRAF,,LF**ACC,07 NOV 2024,
-LF5086,RAPOR,NITAR,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (NITAR DCT SOSUN)",23:00-05:00 (22:00-04:00),"Timing refers to time at RAPOR
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UZ912 PODUK",FRAF,,LF**ACC,07 NOV 2024,
-LF5087,RAPOR,RODIN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (RODIN DCT KESAX)",23:00-05:00 (22:00-04:00),"Timing refers to time at RAPOR
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UZ912 PODUK",FRAF,,LF**ACC,07 NOV 2024,
-LF5088,RAPOR,ROSIV,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (ROSIV DCT ABNUR)",23:00-05:00 (22:00-04:00),"Timing refers to time at RAPOR
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UZ912 PODUK",FRAF,,LF**ACC,07 NOV 2024,
-LF5089,RAPOR,VELOK,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (VELOK DCT VESAN)",23:00-05:00 (22:00-04:00),"Timing refers to time at RAPOR
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UZ912 PODUK",FRAF,,LF**ACC,07 NOV 2024,
-LF5090,NITAR,SOSUN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (SOSUN (M733, UM733) SUBIP)
-----------
-NOT AVBL FOR TFC
-ARR (EGHH, EGHI, EGHL, EGHO, EGHR, EGLF, EGLK, EGTD, EGTF, EGVO)","23:00-05:00 (22:00-04:00)
-----------
-23:00-05:00 (22:00-04:00)","Timing refers to time at NITAR
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UZ912 PODUK",FRAF,,LF**ACC,07 NOV 2024,
-LF5091,RODIN,KESAX,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (KESAX (T421, UT421) KUNAV)
-----------
-NOT AVBL FOR TFC
-ARR EGKA","23:00-05:00 (22:00-04:00)
-----------
-23:00-05:00 (22:00-04:00)","Timing refers to time at RODIN
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UZ912 PODUK",FRAF,EVEN,LF**ACC,07 NOV 2024,
-LF5092,ROSIV,ABNUR,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (ABNUR (T10, UT10) ALESO)",23:00-05:00 (22:00-04:00),"Timing refers to time at ROSIV
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UT300 PODUK",FRAF,,LF**ACC,07 NOV 2024,
-LF5093,VELOK,VESAN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (VESAN (L613, UL613) SOVAT)
-----------
-NOT AVBL FOR TFC
-ARR (EGKB, EGLC, EGMC, EGMD, EGMH, EGSG, EGSX, EGTO, EGKA, EGTR)","23:00-05:00 (22:00-04:00)
-----------
-23:00-05:00 (22:00-04:00)","Timing refers to time at VELOK
-Night FRA
-In case of military activity, re-routing via RAPOR UN857 GIMER UZ912 PODUK",FRAF,,LF**ACC,07 NOV 2024,
 LF5094,OGRIL,RAPES,FL065,FL195,Yes,"ONLY AVBL FOR TFC
 ARR LFMK",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 NOV 2024,
-LF5095,CLM,SOPIG,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (SOPIG DCT SOSUN)",22:00-06:00 (21:00-05:00) ,"Timing refers to time at CLM
-Night FRA",FRAF,,LF**ACC,07 NOV 2024,
-LF5096,CLM,MEBAL,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (MEBAL DCT KESAX)",22:00-06:00 (21:00-05:00),"Timing refers to time at CLM
-Night FRA",FRAF,,LF**ACC,07 NOV 2024,
-LF5097,CLM,RODIN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (RODIN DCT VESAN)",22:00-06:00 (21:00-05:00),"Timing refers to time at CLM
-Night FRA",FRAF,,LF**ACC,07 NOV 2024,
-LF5098,SOPIG,SOSUN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (SOSUN UM733 SUBIP)",22:00-06:00 (21:00-05:00),"Timing refers to time at SOPIG
-Night FRA",FRAF,,LF**ACC,07 NOV 2024,
-LF5099,MEBAL,KESAX,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (KESAX (T421, UT421) KUNAV)",22:00-06:00 (21:00-05:00),"Timing refers to time at MEBAL
-Night FRA",FRAF,EVEN,LF**ACC,07 NOV 2024,
-LF5100,RODIN,VESAN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (VESAN (L613, UL613) SOVAT)",22:00-06:00 (21:00-05:00),"Timing refers to time at RODIN
-Night FRA",FRAF,,LF**ACC,07 NOV 2024,
-LF5101,SUKHA,NINAL,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (NINAL DCT SOSUN)",22:00-05:00 (23:00-04:00),Night FRA              ,FRAF,,LF**ACC,07 NOV 2024,
-LF5102,FJR,NG,MEA,FL305,Yes,"ONLY AVBL FOR TFC
-1. ARR (LFMI, LFMV)
-2. DEP (LFMP, LFMU)
-3. DEP LFMY AND-THEN ARR LFMY",H24,"1. To facilitate connection to NG STAR by using the shortest route.
-2. To facilitate northbound departures through military airspace.
-3. To allow training flights on this route",,,LFMMACC,07 NOV 2024,
-LF5103,IBNIT,ROLIR,FL195,FL500,Yes,"ONLY AVBL FOR TFC
-DEP PARIS_GROUP & VIA (ROLIR DCT AMFOU) AND-THEN ARR LFMN",22:00-04:30 (21:00-03:30),"Night time fuel saving route (NTFSR)
-Shorter route for specified traffic
-Time limitation refers to the time over IBNIT and AMFOU",FRAF,Odd,"(LFFFACC, LFMMACC)",07 NOV 2024,
-LF5104,ROLIR,AMFOU,FL125,FL500,Yes,"ONLY AVBL FOR TFC
-DEP PARIS_GROUP & VIA (IBNIT DCT ROLIR) AND-THEN ARR LFMN",22:00-04:30 (21:00-03:30),"Night time fuel saving route (NTFSR)
-Shorter route for specified traffic
-Time limitation refers to the time over IBNIT and AMFOU",FRAF,Odd,LFMMACC,07 NOV 2024,
-LF5108,NESUL,BARSO,FL245,FL500,Yes,"ONLY AVBL FOR TFC
- VIA (CIRTA DCT NESUL DCT BARSO)",H24,"Night-time fuel-saving route (NTFSR).
-Time limitation in LF2263",,Even,LFMMACC,07 NOV 2024,
 LF5128,OZNOH,ARTIV,FL305,FL500,Yes,"ONLY AVBL FOR TFC
 VIA (AKIKI, DIKRO)",H24,Green RAD fuel saving route,FRAF,Even,LFRRACC,27 JUN 2025,
 LF5129,ARTIV,DIKRO,FL305,FL500,Yes,"ONLY AVBL FOR TFC
 VIA LOTEE",H24,Green RAD revisionprintemps (kept until nov 2021 check),FRAF,Even,LFRRACC,07 NOV 2024,
-LF5141,URELO,GELTA,FL345,FL660,Yes,,21:00-06:00 (20:00-05:00),"Timing refers to time at URELO
-Night FRA",FRAF,Odd,LFEEACC,07 NOV 2024,
-LF5142,URELO,LUVAL,FL345,FL660,Yes,,21:00-06:00 (20:00-05:00),"Timing refers to time at LUVAL
-Night FRA",FRAF,Odd,LFEEACC,07 NOV 2024,
-LF5143,TEPRI,NANOP,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (NANOP DCT MANAG)",21:00-06:00 (20:00-05:00),Night FRA             ,FRAF,Odd,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
-LF5144,NANOP,MANAG,FL345,FL660,Yes,,	21:00-06:00 (20:00-05:00),"Timing refers to time at MANAG
-Night FRA",FRAF,Odd,LFEEACC,07 NOV 2024,
 LF5145,RIBOU,ROCAN,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFBO, LFBF, LFBR) & VIA LFBBUBDX",H24,"To facilitate connection with LFBB FRA
 ",,,LFBBACC,09 SEP 2024,
@@ -8076,38 +7821,10 @@ VIA (ARSUK DCT RESMI)",H24,Green RAD fuel saving route,FRAF,Odd,LFRRACC,07 NOV 2
 LF5148,ARSUK,RESMI,FL295,FL500,Yes,,H24,Green RAD revisionprintemps (kept until nov 2021 check),FRAF,Odd,LFRRACC,07 NOV 2024,
 LF5150,GAUDE,ANETO,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFBF, LFBR) AND-THEN VIA LFBBUBDX",H24,To facilitate connection with LFBB FRA,,,LFBBACC,07 NOV 2024,
-LF5154,RESMI,SOMDA,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (SOMDA DCT LUVAL)
-----------
-NOT AVBL FOR TFC
-VIA (INPAX, KOVIN)","21:00-06:00 (20:00-05:00)
-----------
-21:00-06:00 (20:00-05:00)","Timing refers to time at RESMI
-Night FRA",FRAF,Odd,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
-LF5155,SOMDA,LUVAL,FL345,FL660,Yes,,21:00-06:00 (20:00-05:00),"Timing refers to time at BEGAR
-Night FRA",FRAF,Odd,LFEEACC,07 NOV 2024,
 LF5156,ASPET,DODOM,FL095,FL195,Yes,"ONLY AVBL FOR TFC
 ARR (LFBP, LFBT)",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 NOV 2024,
 LF5157,DODOM,TEPTI,FL065,FL195,Yes,"ONLY AVBL FOR TFC
 VIA (ASPET DCT DODOM) AND-THEN ARR (LFBP, LFBT)",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 NOV 2024,
-LF5159,SUIPE,VALEK,FL185,FL315,Yes,"ONLY AVBL FOR TFC
-1. DEP (PARIS_GROUP, LFOB)
-2. VIA UTELA","1. LFR175BZ2 ACT
-2. H24","To avoid LFR175B, see associated FUA APP7 restrictions",,ODD,LFFFACC,27 AUG 2024,
-LF5160,SUIPE,VALEK,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-1. DEP (PARIS_GROUP, LFOB)
-2. VIA UTELA
-----------
-NOT AVBL FOR TFC
-1. ARR (EDDF, EDFE) & VIA BETEX & ABV FL245 AT BETEX
-2. FLT-TYPE (M) EXC VIA (DIK, LIMGO)
-3. ARR (EDDK, EDGS, EDKB, EDKL, EDRK, ETNG, ETNN) & RFL ABV FL305 AT (SUIPE DCT VALEK)","1. LFR175BZ2 ACT
-2. H24
-----------
-H24","To avoid LFR175B, see associated FUA APP7 restrictions",,EVEN,LFEEACC,29 NOV 2024,
-LF5161,UTELA,SUIPE,FL195,FL660,Yes,"ONLY AVBL FOR TFC
-VIA TSU",LFR175BZ2 ACT,"To avoid LFR175B, see associated FUA APP7 restrictions ",,EVEN,LFEEACC,27 AUG 2024,
 LF5162,SUQOC,ANG,FL195,FL500,Yes,"ONLY AVBL FOR TFC
 VIA (GIROM DCT SUQOC DCT ANG) AND-THEN VIA (AKIKI, DIKRO, ANGLO)",22:00-05:00 (23:00-04:00),"Night time route saving fuel.
 Time limitation refers to time over GIROM and ANG.
@@ -8140,18 +7857,6 @@ LF5214,DORDI,DIVDA,MEA,FL065,Yes,"ONLY AVBL FOR TFC
 DEP ORLY_GROUP & RFL BLW FL115 IN LF",H24,To allow connection to network for Orly Group departures via DORDI,,,LFFFACC,07 NOV 2024,
 LF5215,SAURG,CM,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP LFMY",H24,To facilitate departures changing from OAT to GAT rules after SAURG,,,LFMMACC,07 NOV 2024,
-LF5219,YAQEL,RETNO,FL345,FL500,Yes,"ONLY AVBL FOR TFC
-1. VIA (BEBIX DCT YAQEL DCT RETNO)
-2. VIA (TUPAR DCT ETENU DCT YAQEL DCT RETNO)",22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
-1. Time limitation refers to time over BEBIX and RETNO. 
-2. Time limitation refers to time over TUPAR and RETNO.",FRAF,Odd,LFMMACC,07 NOV 2024,
-LF5222,NINUN,MTL,FL345,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (NINUN DCT MTL DCT RETNO)",22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over CNA and RETNO. ",FRAF,Odd,LFMMACC,07 NOV 2024,
-LF5223,MTL,RETNO,FL345,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (NINUN DCT MTL DCT RETNO)",22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over CNA and RETNO. 
-",FRAF,Odd,LFMMACC,07 NOV 2024,
 LF5224,ELBOX,KOLIV,FL065,FL095,Yes,"ONLY AVBL FOR TFC
 ARR LFPT & ACFT-PBN (CONV)",H24,To allow non-RNAV flights to LFPT on a CONV trajectory,,,LFFFACC,07 NOV 2024,
 LF5225,CAN,KOLIV,FL065,FL095,Yes,"ONLY AVBL FOR TFC
@@ -8172,17 +7877,6 @@ LF5233,ETPAR,ASKAN,FL055,FL195,Yes,"ONLY AVBL FOR TFC
 ARR (LFBC, LFCD, LFCH)",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 NOV 2024,
 LF5234,OBLOC,MOTIK,FL065,FL195,Yes,"ONLY AVBL FOR TFC
 ARR LFBC",H24,To facilitate connection with LFBB FIR and LFBB FRA,,,LFBBACC,07 NOV 2024,
-LF5237,AMIKO,NOQAS,MEA,FL500,Yes,"ONLY AVBL FOR TFC
-DEP LFLU",H24,"ARR/DEP organisation, LoA",,EVEN/ODD,"LFMMACC, LFBBACC",07 NOV 2024,
-LF5239,TUNOR,OKRIX,FL195,FL660,Yes,"ONLY AVBL FOR TFC
-VIA DJL",LFT24AZ2 ACT,To avoid LFT24A     ,,EVEN,LFFFACC,07 NOV 2024,
-LF5240,BULOL,BUSIL,FL195,FL660,Yes,"ONLY AVBL FOR TFC
-1. VIA (GIPNO, LTP, RUSIT) EXC
-    a. ARR ORLY_GROUP & ABV  FL345 AT BUSIL
-    b. ARR (ROISSY_GROUP, LFOB)
-    c. ARR LFEEFIR","(LFT24AZ2, LFT24BZ2) ACT",To avoid LFTSA24A or LFTSA24B,,EVEN,"(LFFFACC, LFMMACC)",07 NOV 2024,
-LF5241,LSE,RUSIT,MEA,FL195,Yes,"ONLY AVBL FOR TFC
-DEP GENEVA_GROUP & VIA TIS",H24,To provide connection to the west,,EVEN,LFMMACC,07 NOV 2024,
 LF5243,MANAK,MUREL,FL275,FL500,Yes,"ONLY AVBL FOR TFC
 VIA NOZHU",H24,"In case of activity of LFT6Z, route via MANAK and then BAGAD DCT TERKU DCT MUREL",,EVEN,LFRRACC,07 NOV 2024,
 LF5244,FJR,GAI,FL145,FL195,Yes,"ONLY AVBL FOR TFC
@@ -8195,39 +7889,6 @@ LF5248,ERIGA,ARTIV,FL275,FL500,Yes,"ONLY AVBL FOR TFC
 VIA REVTU",H24,Green RAD Fuel saving route,,EVEN,LFRRACC,07 NOV 2024,
 LF5251,ARTIV,AKIKI,FL305,FL500,Yes,"ONLY AVBL FOR TFC
 VIA LOTEE",H24,Green RAD Fuel saving route,,EVEN,LFRRACC,07 NOV 2024,
-LF5265,RENSA,ABNUR,FL315,FL600,Yes,"ONLY AVBL FOR TFC
-VIA (ABNUR (T10, UT10) ALESO)",23:00-05:00 (22:00-04:00),"created COVID19 To offer direct route option only available during low traffic period 
-revisionprintemps (kept until nov 2021 check)",,,LFEEACC,07 NOV 2024,
-LF5267,RENSA,VESAN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (VESAN (L613, UL613) SOVAT)
-----------
-NOT AVBL FOR TFC
-ARR (EGKB, EGLC, EGMC, EGMD, EGMH, EGSG, EGSX, EGTO, EGKA, EGTR)","23:00-05:00 (22:00-04:00)
-----------
-23:00-05:00 (22:00-04:00)",To offer direct route option only available during low traffic period ,,,LFEEACC,07 NOV 2024,
-LF5274,DIVKO,SALIN,MEA,FL500,Yes,"ONLY AVBL FOR TFC
-ARR LFTW",H24,To allow shortest connection in upper airspace. Internal flight plan processing system requirement,,,LFMMACC,07 NOV 2024,
-LF5275,RETNO,NIRDO,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (RETNO DCT NIRDO DCT DOKAR)",21:30 - 05:00 (20:30 - 04:00),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over RETNO and DOKAR",,Odd,LFMMACC,07 NOV 2024,
-LF5276,BODRU,DOKAR,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (OTROT DCT BODRU DCT DOKAR)",21:30 - 05:00 (20:30 - 04:00),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over OTROT and DOKAR.",,Odd,LFMMACC,07 NOV 2024,
-LF5280,RASPA,FJR,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (TABOT DCT ERETI DCT RASPA DCT FJR)",H24,"Night-time fuel-saving route (NTFSR).
-Time limitation in LF2259",,Even,LFMMACC,07 NOV 2024,
-LF5281,FJR,RASPA,FL245,FL500,Yes,"ONLY AVBL FOR TFC
- VIA (FJR DCT RASPA DCT ERETI DCT TABOT)",21:30 - 05:00 (20:30 - 04:00),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over FJR and TABOT.
-TABOT is only available on saturdays and sundays.",,Odd,LFMMACC,07 NOV 2024,
-LF5284,GANGU,NILDU,FL245,FL500,Yes,,22:00-04:30 (22:00-03:30),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over GANGU and NILDU. 
-Only available via VAMTU DCT GANGU",,Odd,LFMMACC,07 NOV 2024,
-LF5286,LUMAS,LUSOL,FL255,FL500,Yes,,22:00-04:30 (22:00-03:30),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over LUMAS and LUSOL. In case of military activity, anticipate ATC vectors via LUMAS UM976 SOFFY DCT LUSOL. The route extension from LUMAS to LUSOL is 3 NM",FRAF,Even,LFMMACC,07 NOV 2024,
-LF5288,RETNO,STP,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (RETNO DCT STP DCT PELOS)",22:00-04:30 (22:00-03:30),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over RETNO and PELOS.",,Odd,LFMMACC,07 NOV 2024,
 LF5291,AZFIC,ERIGA,FL285,FL660,Yes,"ONLY AVBL FOR TFC
 VIA (ERIGA DCT GODIX)",H24,Green RAD fuel saving,FRAF,Even,LFRRACC,07 NOV 2024,
 LF5292,ERIGA,GODIX,FL295,FL660,Yes,"ONLY AVBL FOR TFC
@@ -8235,90 +7896,12 @@ VIA (GODIX DCT PODEM)",H24,Green RAD fuel saving,FRAF,Even,LFRRACC,07 NOV 2024,
 LF5293,GODIX,PODEM,FL295,FL660,Yes,"NOT AVBL FOR TFC
 1. ARR (LILLE_GROUP, EBCV, EBKT)
 2. ARR (EB**, EHBK, EHBD, EHWO) & ABV FL365 AT (GODIX DCT PODEM)",H24,Green RAD Fuel saving Route,FRAF,Even,LFRRACC,07 NOV 2024,
-LF5294,PODEM,RUBUT,FL295,FL660,Yes,,22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over PODEM and RUBUT",FRAF,Even,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
-LF5295,PODEM,GIRVI,FL295,FL660,Yes,,22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over PODEM and GIRVI",FRAF,Even,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
-LF5296,RENSA,SOSUN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (SOSUN (M733, UM733) SUBIP)
-----------
-NOT AVBL FOR TFC
-ARR (EGHH, EGHI, EGHL, EGHO, EGHR, EGLF, EGLK, EGTD, EGTF, EGVO)","23:00-05:00 (22:00-04:00)
-----------
-23:00-05:00 (22:00-04:00)",To offer direct route option only available during low traffic period ,,,LFEEACC,07 NOV 2024,
-LF5304,RENSA,KESAX,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (KESAX (T421, UT421) KUNAV)
-----------
-NOT AVBL FOR TFC
-ARR EGKA","23:00-05:00 (22:00-04:00)
-----------
-23:00-05:00 (22:00-04:00)",created COVID19 To offer direct route option only available during low traffic period ,,EVEN,LFEEACC,07 NOV 2024,
-LF5305,BOKNO,PON,FL305,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (PON DCT LUMIL)",21:00-06:00 (22:00-05:00),"Night Time Fuel saving Route
-Time limitation refers to time over BOKNO and LUMIL
-In case of Defence activity route via BOKNO UN858 VANAD UN874 BAMES UT191 PODEM UN873 VEKIN",FRAF,Even,LFRRACC,07 NOV 2024,
-LF5306,PON,LUMIL,FL295,FL660,Yes,"ONLY AVBL FOR TFC
-VIA BOKNO",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-In case of Defence activity route via BOKNO UN858 VANAD UN874 BAMES UT191 PODEM UN873 VEKIN",FRAF,Even,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
-LF5310,NILEM,PON,FL315,FL660,Yes,"NOT AVBL FOR TFC
-DEP EHAM",22:00-06:00 (23:00-05:00),"Night Time Fuel saving Route
-",FRAF,Odd,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
-LF5311,FAMEN,NIDUV,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (NIDUV DCT PON)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN and PON
-In case of Defence activity route via MEDIL UN872 PON or RAPOR UN857 GIMER UT300 PON",FRAF,Odd,LFEEACC,07 NOV 2024,
-LF5312,NIDUV,PON,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA FAMEN",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over FAMEN and PON",FRAF,Odd,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
-LF5315,GELTA,LUVAL,FL285,FL660,Yes,,22:00-06:00 (23:00-04:00),To offer direct route option,,ODD,LFEEACC,07 NOV 2024,
-LF5318,TRO,ENORI,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (ENORI DCT MEDIL)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-In case of Defence activity route via CACHI DCT AVLON UM976 BRY UM733 KOPOR UN874 VEKIN",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5319,ENORI,MEDIL,FL285,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (MEDIL DCT FERDI)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over MEDIL",FRAF,Even,LFEEACC,07 NOV 2024,
 LF5320,ARTIV,REVTU,FL275,FL500,Yes,"ONLY AVBL FOR TFC
 VIA REVTU",H24,Green RAD Fuel saving route,,EVEN,LFRRACC,07 NOV 2024,
-LF5323,RLP,RAVMU,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (RAVMU DCT VESAN)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over VESAN",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5324,RAVMU,VESAN,FL315,FL660,Yes,"NOT AVBL FOR TFC
-ARR (EGKB, EGLC, EGMC, EGMD, EGMH, EGSG, EGSX, EGTO, EGKA, EGTR)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over VESAN",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5325,RLP,ASGUN,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (ASGUN DCT ABNUR)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over ABNUR",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5326,ASGUN,ABNUR,FL315,FL660,Yes,,22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over ABNUR",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5327,RLP,PIKAG,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (PIKAG DCT KESAX)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KESAX",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5328,PIKAG,KESAX,FL265,FL660,Yes,"NOT AVBL FOR TFC
-ARR EGKA",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KESAX",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5329,RLP,NUBVO,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (NUBVO DCT SOSUN)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over SOSUN",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5330,NUBVO,SOSUN,FL265,FL660,Yes,"NOT AVBL FOR TFC
-ARR (EGHH, EGHI, EGHL, EGHO, EGHR, EGLF, EGLK, EGTD, EGTF, EGVO)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over SOSUN",FRAF,Even,LFEEACC,07 NOV 2024,
 LF5331,DIDIG,USODA,FL305,FL500,Yes,,H24,Fuel saving Direct trajectories,,EVEN,LFRRACC,04 APR 2025,
 LF5336,MONOT,UFFIX,FL115,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFOB, LFPB, LFPG,LFPT) EXC ENG-TYPE (J) & RFL ABV FL195",H24,"To avoid LFOA military airspace
 To allow connection between lower and upper airspace for specific traffic",,ODD,LFFFACC,07 NOV 2024,
-LF5337,DIPCE,GIMER,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (GIMER DCT SOSUN)",	22:00-06:00 (23:00-04:00),Night Time Fuel saving Route,FRAF,Even,LFEEACC,07 NOV 2024,
-LF5338,GIMER,SOSUN,FL315,FL660,Yes,,22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over SOSUN",FRAF,Even,LFEEACC,07 NOV 2024,
-LF5339,DIPCE,ENORI,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-VIA (ENORI DCT KESAX)",	22:00-06:00 (23:00-04:00),Night Time Fuel saving Route,FRAF,Even,LFEEACC,07 NOV 2024,
-LF5340,ENORI,KESAX,FL315,FL660,Yes,,22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-Time limitation refers to time over KESAX",FRAF,Even,LFEEACC,07 NOV 2024,
 LF5347,LATGO,ROMGO,FL145,FL405,Yes,"ONLY AVBL FOR TFC
 ARR LFPG",01:00-08:00 (00:00-07:00),"Night Time Fuel saving route
 Shorter route for traffic via LATGO
@@ -8336,10 +7919,6 @@ LF5362,RLP,AMODO,FL345,FL500,Yes,"NOT AVBL FOR TFC
 DEP (ZURICH_AREA, LFEEFIR)","AIRAC  NOV - AIRAC  FEB
 H24
 ",To offer shorter route option,,Even,LFEEACC,07 NOV 2024,
-LF5365,EDJAR,LIPNI,FL315,FL500,Yes,"ONLY AVBL FOR TFC
-ARR (EBBR,EBMB)",22:00-06:00 (23:00-04:00),"Night Time Fuel saving Route
-
-",FRAF,Even,LFEEACC,07 NOV 2024,
 LF5366,SALIN,JULEE,MEA,FL295,Yes,"ONLY AVBL FOR TFC
 ARR LFTH",H24,To allow direct routing and offload  traffic from/to Provence,,,LFMMACC,07 NOV 2024,
 LF5367,TINOT,JULEE,MEA,FL660,Yes,"ONLY AVBL FOR TFC
@@ -8360,57 +7939,14 @@ LF5395,YURZI,OLEBA,FL195,FL660,Yes,,H24,Green RAD fuel saving route,,Even,LFRRAC
 LF5396,OLEBA,ROGPU,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 VIA BELEN",H24,Green RAD..........................,,Even,LFRRACC,07 NOV 2024,
 LF5397,ROGPU,DIKRO,FL195,FL660,Yes,TBD,H24,Green RAD ..........,,Even,LFRRACC,07 NOV 2024,
-LF5399,SIZZA,TRO,FL135,FL500,Yes,"ONLY AVBL FOR TFC
-VIA MOPEM",22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
-In case of Defence activity route via CACHI DCT AVLON UM976 BRY UM733 KOPOR UN874 VEKIN UN873 ADUTO or route via LOGNI DCT MOKIP DCT ARFOZ UN854 DJL UM729 TRO",FRAF,Even,"(LFFFACC, LFEEACC)",21 NOV 2024,
 LF5401,MEDIL,DISAK,FL285,FL500,Yes,,22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
 Time limitation refers to MEDIL. 
 In case of defence activity route via MEDIL-UN872-KOVIN-UM728-RESMI-UN857-DISAK",FRAF,Odd,"(LFEEACC,
 LFRRACC)",07 NOV 2024,
-LF5402,RLP,TRO,FL195,FL500,Yes,"NOT AVBL FOR TFC
-1. VIA CLM
-2. DEP (LSZH, BERN_GROUP, BASEL_GROUP)
-3. ARR PARIS_GROUP",23:00-06:00 (22:00-05:00),"Night time fuel saving route (NTFSR).
-",FRAF,Even,"(LFEEACC,
-LFFFACC)",07 NOV 2024,
 LF5403,OZNOH,JSY,FL195,FL600,Yes,"ONLY AVBL FOR TFC
 VIA (REVTU, AKIKI)",H24,offered direct routeing in FRA,,EVEN,LFRRACC,27 JUN 2025,
-LF5404,FAMEN,CLM,FL295,FL500,Yes,,22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to FAMEN and DISAK. In case of Military activity, re-routing on ATC instruction via UN857 or UN872.",FRAF,Odd,"(LFEEACC,
-LFFFACC)",07 NOV 2024,
-LF5405,CLM,DISAK,FL295,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (FAMEN DCT CLM)",22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over FAMEN and DISAK",FRAF,Odd,"(LFEEACC,
-LFRRACC)",07 NOV 2024,
 LF5410,DIDIG,LUSON,MEA,FL660,Yes,"ONLY AVBL FOR TFC
 ARR (LFBH, LFOU, LFRI)",H24,to enable arrivals from DELOG,,EVEN,LFRRACC,04 APR 2025,
-LF5418,CORSI,BARSO,FL245,FL500,Yes,ONLY AVBL FOR TFC,H24,"Night-time fuel-saving route (NTFSR).
-Time limitation in LF2251",,Even,LFMMACC,07 NOV 2024,
-LF5419,BARSO,LOGNI,FL245,FL500,Yes,ONLY AVBL FOR TFC,21:30 - 05:00 (20:30 - 04:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over BARSO and LOGNI.",,Even,LFMMACC,07 NOV 2024,
-LF5420,BALSI,NILDU,FL245,FL500,Yes,,22:00-04:00 (22:00-03:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over BALSI and NILDU. In case of military activity, anticipate ATC vectors via BALSI DCT MTG DCT MAMES DCT BISBA.",FRAF,Odd,LFMMACC,07 NOV 2024,
-LF5421,BALSI,VATIR,FL245,FL500,Yes,,22:00-04:00 (22:00-03:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over BALSI and VATIR. In case of military activity, anticipate ATC vectors via BALSI UN852 VATIR.",FRAF,Odd,LFMMACC,07 NOV 2024,
-LF5426,SOFFY,GIGUS,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-1. VIA (DIBER DCT SOSUR DCT SOFFY DCT GIGUS)
-2. VIA (LUMAS DCT SOFFY DCT GIGUS)",22:00 - 04:00 (22:00 - 03:00),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over SOFFY and GIGUS.",,Even,LFMMACC,07 NOV 2024,
-LF5427,OTROT,BODRU,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (OTROT DCT BODRU DCT DOKAR)",21:30 - 05:00 (20:30 - 04:00),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over OTROT and DOKAR.",,Odd,LFMMACC,07 NOV 2024,
-LF5428,ZETCO,GIGUS,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-VIA (CIRTA DCT ZETCO DCT GIGUS)",22:00-04:30 (21:00-03:30),"Night-time fuel-saving route (NTFSR).
-Time limitation refers to time over ZETCO and GIGUS.",,Even,LFMMACC,07 NOV 2024,
-LF5429,NINTU,NILDU,FL245,FL500,Yes,,22:00-04:00 (22:00-03:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over NINTU and NILDU. In case of military activity, anticipate ATC vectors via NINTU DCT MTG DCT MAMES DCT BISBA.",FRAF,Odd,LFMMACC,07 NOV 2024,
-LF5430,NINTU,VATIR,FL245,FL500,Yes,,22:00-04:00 (22:00-03:00),"Night time fuel saving route (NTFSR).
-Time limitation refers to time over NINTU and VATIR. In case of military activity, anticipate ATC vectors via NINTU DCT MTG DCT VATIR.",FRAF,Odd,LFMMACC,07 NOV 2024,
-LF5431,FJR,OBLAD,FL245,FL500,Yes,"ONLY AVBL FOR TFC
-1. VIA (FJR DCT OBLAD DCT KAMER)
-2. VIA (FJR DCT OBLAD DCT DOLIS)
-3. VIA (FJR DCT OBLAD DCT RISEP DCT OTARO)",21:30 - 05:00 (20:30 - 04:00),"Night-time fuel-saving route (NTFSR).
- Time limitation refers to time over FJR and KAMER/DOLIS/OTARO.",,Odd,LFMMACC,07 NOV 2024,
 LF5433,AVN,NG,MEA,FL085,Yes,"ONLY AVBL FOR TFC
 ARR (MONTPELLIER_GROUP, RHONE_GROUP, LFMP)",H24,To facilitate arrivals through military airspace,,,LFMMACC,07 NOV 2024,
 LF5434,BAMGO,AKUNU,MEA,FL115,Yes,"ONLY AVBL FOR TFC
@@ -8439,33 +7975,17 @@ LF5447,NG,CM,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 ARR LFMY",H24,To facilitate arrivals changing from GAT to OAT rules after CM,,,LFMMACC,07 NOV 2024,
 LF5450,VENTA,MTG,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 DEP (LFMV, LFMY)",H24,To allow connection from SID to network,,,LFMMACC,07 NOV 2024,
-LF5452,XERAM,DIPCE,FL315,FL660,Yes,"ONLY AVBL FOR TFC
-RFL ABV FL345 AT (XERAM DCT DIPCE)",22:00-05:00  (23:00-04:00),To offer shorter route option,,ODD,LFEEACC,07 NOV 2024,
-LF5454,NUCIF,TRO,FL135,FL500,Yes,"ONLY AVBL FOR TFC
-VIA LOGNI",23:00-03:30 (23:00-02:30),"Night Time Fuel saving Route
-In case of Military activity, re-routing on ATC instruction via  LOGNI DCT MOKIP DCT ARFOZ UN854 DJL UM729 TRO",FRAF,Even,LFFFACC,21 NOV 2024,
 LF5457,USODA,UVIKO,FL305,FL500,Yes,"NOT AVBL FOR TFC
 ARR (LILLE_GROUP, EBKT, EBCV)",H24,"Green RAD 
 In case of military activity, rerouting via UN873",FRAF,Even,LFRRACC,07 NOV 2024,
 LF5458,UVIKO,EKTIR,FL305,FL500,Yes,"NOT AVBL FOR TFC
 ARR (EB**, EHBK, EHBD, EHWO) & ABV FL365",H24,"Green RAD revisionprintemps (kept until june 2021 check)
 In case of military activity, rerouting via UN873",FRAF,Even,LFRRACC,07 NOV 2024,
-LF5459,EKTIR,BELDI,FL305,FL500,Yes,,23:00-04:00 (22:00-05:00),"In case of military activity, rerouting via UN873",FRAF,Even,"(LFRRACC,
-LFEEACC)",07 NOV 2024,
 LF5460,ETRAT,GONEK,FL305,FL500,Yes,,22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
 In case of military activity, rerouting on ATC instructions",FRAF,Odd,LFRRACC,07 NOV 2024,
 LF5461,GONEK,ELKUK,FL305,FL500,Yes,"ONLY AVBL FOR TFC
 VIA (ETRAT DCT GONEK DCT ELKUK DCT ROCAN)",22:00-05:00 (23:00-04:00),"Night time fuel saving route (NTFSR).
 In case of military activity, rerouting on ATC instructions",FRAF,Odd,LFRRACC,07 NOV 2024,
-LF5462,MELKO,RLP,FL195,FL660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
-ARR (LFSG, LFSN) & VIA MELKO
-----------
-NOT AVBL FOR TFC
-BLW FL265 AT MELKO","H24
-----------
-H24",Connection facilitation,,Odd,LFEEACC,07 NOV 2024,
-LF5464,BREMO,BTA,MEA,FL195,Yes,"ONLY AVBL FOR TFC
-DEP LFKS",H24,To facilitate departures changing from GAT to OAT rules after BREMO,,,LFMMACC,07 NOV 2024,
 LF5466,GTQ,MTZ,MEA,FL195,Yes,"NOT AVBL FOR TFC
 VIA LFEECTAN
 ----------
@@ -8479,15 +7999,6 @@ LF5479,GUSON,LARON,FL065,FL195,Yes,"ONLY AVBL FOR TFC
 2. DEP (LFLX, LFBI, LFBN)",H24,To facilitate connection with LFBB FRA and LFBB FIR,,Odd,LFBBACC,07 NOV 2024,
 LF5482,EPATI,LUGIS,FL195,FL245,Yes,"ONLY AVBL FOR TFC
 DEP JERSEY_GROUP AND-THEN ARR (EGSS, EGGW, EGSC, EGTC)",EGD039 NOT ACT,To allow planning via UM185 for traffic DEP EGJ*. When EGD039 is active this traffic shall file UM184 during mil activity.,FRAF,Even,LFRRACC,07 NOV 2024,
-LF5485,KOTUN,SOSUN,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RLP
-----------
-NOT AVBL FOR TFC
-ARR (EGHH, EGHI, EGHL, EGHO, EGHR, EGLF, EGLK, EGTD, EGTF, EGVO)","H24
-----------
-H24",To offer direct route option,,EVEN,LFEEACC,07 NOV 2024,
-LF5487,KOTUN,ABNUR,FL265,FL660,Yes,"ONLY AVBL FOR TFC
-VIA RLP",H24,To offer direct route option ,,EVEN,LFEEACC,07 NOV 2024,
 LF5491,GONEK,TABOV,FL305,FL500,Yes,"ONLY AVBL FOR TFC
 VIA LFRRGA",H24,Fuel saving Direct trajectories,FRAF,Even,LFRRACC,07 NOV 2024,
 LF5492,POMEG,LACAZ,MEA,FL145,Yes,"ONLY AVBL FOR TFC
@@ -8507,8 +8018,6 @@ LFEB5000,GTQ,SUTAL,FL195,FL660,Yes,"NOT AVBL FOR TFC
 DEP LFST & ABV FL245 AT (GTQ, SUTAL)",H24,Loa requirement between EBBUACC and LFEEACC and more accurate flight planning and data exchange,,ODD,LFEEACC,07 NOV 2024,
 LFEB5001,GIVOR,IBERA,FL195,FL660,Yes,"NOT AVBL FOR TFC
 ARR (EBLG, EDLN, EDRK, EHBK) & ABV FL245 AT (GIVOR, IBERA)",H24,To keep traffic out of EDYYACC,,EVEN,LFEEACC,07 NOV 2024,
-LFEG5004,MOTOX,XERAM,FL345,FL660,Yes,"ONLY AVBL FOR TFC
-RFL ABV FL345 AT (MOTOX DCT XERAM) & VIA (XERAM DCT DIPCE) EXC DEP (FARNBOROUGH_GROUP, LILLE_GROUP, LONDON_GROUP, PARIS_GROUP, LFOB, EGHH, EGHI, EGKA, EGMD, EGMH, EGSH, EGTC, EGTK, EGUL, EGUN, EGXW)",22:00-05:00  (23:00-04:00),to offer shorter route option,,ODD,LFEEACC,07 NOV 2024,
 LFEG5005,UTFAV       ,RUCAC,195,660,Yes,"NOT AVBL FOR TFC
  EXC
 1. DEP EGKK AND-THEN ARR  (LI**, LD**) & RFL ABV FL345 AT UTFAV
@@ -8521,7 +8030,6 @@ LFLS5001,DEPUL,AMKEN,MEA,FL195,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 2. ARR LFLS & ACFT-PBN (CONV) & RFL BLW FL105 IN LF",H24,"To facilitate city pair traffic
 LOA  LSGG APP / LFLL APP",,,"(LFMMACC,
 LSAGACC)",11 NOV 2024,
-LFLS5015,INCUS,BALSI,FL245,FL500,Yes,,H24,To offer shorter connections,,ODD,"LFMMACC,LSAGACC",07 NOV 2024,
 LG5054,MES,RDS,FL305,FL660,No,,H24,Traffic shall file UL609 between these waypoints,,EVEN/ODD,LG**ACC,19 SEP 2024,
 LG5056,RDS,MES,FL305,FL660,No,,H24,Traffic shall file UL609 between these waypoints,,EVEN/ODD,LG**ACC,19 SEP 2024,
 LG5058,EVENO,KOPAR,FL305,FL660,No,,H24,Traffic shall file UM601 RDS UL995 between these waypoints,,EVEN,LG**ACC,19 SEP 2024,
@@ -8597,7 +8105,6 @@ LI5236,KUGIX,GINAR,FL105,FL195,Yes,"ONLY AVBL FOR TFC
 ARR LIRP",H24,to be removed after the implementation of the route network,,,LIRRCTA,21 OCT 2024,
 LI5239,AKUTO,DOCME,FL105,FL195,Yes,"ONLY AVBL FOR TFC
 DEP LIRP",H24,to optimise DEP LIRP,,,LIRRCTA,12 FEB 2025,
-LI5240,BALUK,RUXOL,GND,FL195,Yes,,H24,To optimize the vertical profile of the trajectory,,,LI*ACC,27 JUN 2025,
 LILS5000,LUGAN,CANNE,FL135,FL195,Yes,"ONLY AVBL FOR TFC
 DEP LSZL & FLT-TYPE (M)",H24,To facilitate traffic to MIL airfields for which no SID is published in the Civil AIP,,,LI**ACC,28 OCT 2024,
 LILS5001,LUGAN,OMETO,FL135,FL195,Yes,"ONLY AVBL FOR TFC
@@ -8820,6 +8327,11 @@ LL5055,RAPIV   ,MERVA,FL115,FL600,Yes,"ONLY AVBL FOR TFC
 LL5056,RAPIV ,SUVAS,FL115,FL600,Yes,"ONLY AVBL FOR TFC
 1. VIA OJ AND-THEN VIA LL_x000D_
 2. DEP (LLBG, LLER, LLNV, LLRM, LLOV)",NOTAM ACT,"Exercise K1, L1, M1, N1, P1, Q1 scenario",,EVEN,LLLLACC,26 SEP 2024,
+LL5058,BGN,ZACCI,MEA,FL375,Yes,"ONLY AVBL FOR TFC
+DEP LLBG",NOTAM ACT,"Exercise P, P1, P2 scenario",,EVEN,LLLLACC,07 SEP 2025,
+LL5059,ZACCI,RAPIV,FL115,FL600,Yes,"ONLY AVBL FOR TFC
+1. VIA OJ AND-THEN VIA LL_x000D_
+2. DEP (LLBG, LLER, LLNV, LLRM, LLOV)",NOTAM ACT,"Exercise P, P1, P2, Q, Q1, Q2 scenario",,EVEN,LLLLACC,07 SEP 2025,
 LL5060,BGN,TOMAL,MEA,FL375,Yes,"ONLY AVBL FOR TFC
 DEP LLBG",NOTAM ACT,Exercise  X scenario,,ODD,LLLLACC,26 SEP 2024,
 LL5061,NAT,BGN,GND,FL375,Yes,"ONLY AVBL FOR TFC
@@ -8832,6 +8344,16 @@ LL5063,RAPIV,GAFAZ,FL105,FL600,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 2. VIA LC AND-THEN VIA LL & ARR (LLER, LLNV, LLRM, LLOV, LLBG)",NOTAM ACT,"Exercise O, O1, O2, O3, scenario",,ODD,LLLLACC,26 SEP 2024,
 LL5064,GAFAZ,BGN,MEA,FL375,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 VIA RAPIV & ARR LLBG",NOTAM ACT,Exercise  O scenario,,ODD,LLLLACC,26 SEP 2024,
+LL5065,RAPIV,ZACCI,FL115,FL600,Yes,"ONLY AVBL FOR TFC
+1. VIA LC AND-THEN VIA LL AND-THEN VIA OJ_x000D_
+2. ARR (LLER, LLNV, LLOV, LLRM, LLBG)",NOTAM ACT,"Exercise R, R1, R2, R3 scenario",,ODD,LLLLACC,07 SEP 2025,
+LL5066,ZACCI,BGN,MEA,FL195,Yes,"ONLY AVBL FOR TFC
+ARR LLBG",NOTAM ACT,Exercise R  scenario,,ODD,LLLLACC,07 SEP 2025,
+LL5067,ZACCI,TOMAL,FL115,FL600,Yes,"ONLY AVBL FOR TFC
+ARR (LLER, LLNV, LLOV, LLRM)",NOTAM ACT,Exercise R1 scenario,,ODD,LLLLACC,07 SEP 2025,
+LL5068,ZACCI,SALAM,FL115,FL600,Yes,"ONLY AVBL FOR TFC
+1.VIA LC AND-THEN VIA LL AND-THEN VIA OJ_x000D_
+2.ARR (LLER, LLNV, LLOV, LLRM)",NOTAM ACT,"Exercise R2, R3 scenario",,ODD,LLLLACC,07 SEP 2025,
 LL5069,SALAM,TOMAL,FL115,FL600,Yes,"ONLY AVBL FOR TFC
 ARR (LLER, LLNV, LLOV, LLRM)",NOTAM ACT,"Exercise J1, O3, R3, S2 scenario",,ODD,LLLLACC,26 SEP 2024,
 LL5070,VOLFO,BOFIR,FL115,FL375,Yes,"ONLY AVBL FOR TFC
@@ -8879,6 +8401,9 @@ LL5086,DIVLA,MERVA,FL115,FL600,Yes,"ONLY AVBL FOR TFC
 LL5087,DIVLA,SUVAS,FL115,FL600,Yes,"ONLY AVBL FOR TFC
 1. VIA OJ AND-THEN VIA LL AND-THEN VIA LC _x000D_
 2. DEP (LLER, LLOV, LLNV, LLRM)",NOTAM ACT,"Exercise T1, T3 scenario",,EVEN,LLLLACC,26 SEP 2024,
+LL5088,ADLOD,ZACCI,FL115,FL600,Yes,"ONLY AVBL FOR TFC
+1. VIA OJ AND-THEN VIA LL AND-THEN VIA LC _x000D_
+2. DEP (LLER, LLOV, LLNV, LLRM)",NOTAM ACT,"Exercise Q, Q1, Q2 scenario",,EVEN,LLLLACC,07 SEP 2025,
 LL5089,ADLOD,GAFAZ,FL115,FL600,Yes,"ONLY AVBL FOR TFC
 1. VIA OJ AND-THEN VIA LL AND-THEN VIA LC _x000D_
 2. DEP (LLER, LLOV, LLNV, LLRM)",NOTAM ACT,"Exercise N, N1, N2 scenario",,EVEN,LLLLACC,26 SEP 2024,
@@ -9124,6 +8649,9 @@ LQ5002,GEBNI,KEB,FL105,FL205,Yes,,H24,To enable shorter route option.,,Odd,LQSBA
 LQ5003,GILUK,NILKU,FL105,FL205,Yes,,H24,To enable shorter route option.,,Odd,LQSBACC,12 AUG 2024,
 LQ5004,KEB,NILKU,FL105,FL205,Yes,,H24,To enable shorter route option.,,Odd,LQSBACC,12 AUG 2024,
 LQ5005,KEB,SOMUN,FL105,FL205,Yes,,H24,To enable shorter route option.,,Odd,LQSBACC,12 AUG 2024,
+LQ5006,DOBOT,SOMUN,095,205,Yes,"ONLY AVBL FOR TFC
+DEP LQBK",H24,"To facilitate the departures from LQBK via DOBOT and to enable connection DOBOT - SOMUN below FRA
+",,,LQSBACC,11 SEP 2025,
 LR5000,CETUL,DINRO,FL105,FL175,Yes,,H24,To facilitate overflights within Constanta TMA,,Odd,LRBBACC,28 AUG 2024,
 LR5003,CND,DINRO,FL105,FL175,Yes,,H24,To facilitate overflights within Constanta TMA,,Odd,LRBBACC,28 AUG 2024,
 LR5004,CND,RIVOS,FL105,FL175,Yes,,H24,To facilitate overflights within Constanta TMA,,EVEN,LRBBACC,28 AUG 2024,
@@ -9283,6 +8811,12 @@ LS5158,UMTOP,ABNOR,MEA,FL095,Yes,"ONLY AVBL FOR TFC
 TYP (HEL)",H24,To provide connectivity between LFN and AD and to prevent fixed wing ACFT to fly on helicopter routes.,Helicopter Low Flying Network,,LSAZACC,15 FEB 2025,
 LS5159,LS201,ASGED,MEA,FL195,Yes,"ONLY AVBL FOR TFC
 TYP (HEL)",H24,To provide connectivity between LFN and AD and to prevent fixed wing ACFT to fly on helicopter routes.,Helicopter Low Flying Network,,LSAZACC,15 FEB 2025,
+LS5166,WIL,BERSU,MEA,FL660,Yes,"ONLY AVBL FOR TFC
+1. DEP LSZG
+    a. VIA (BERSU Z50 URIGI)
+    b. VIA (BERSU Z141 AMRUP) & ABV FL125 AT (BERSU Z141 AMRUP)",H24,"a. To provide connection from  LSZG to BERSU Z50 GERSA.
+FLTs via WIL-SIDs towards N871 shall file via T901 SUREP.
+b. FLTs via WIL direction north with RFL90- shall file via WIL Z601 GIPOL ",,Odd,LSAZACC,21 AUG 2025,
 LS5167,ASGED,GERSA,FL095,FL295,Yes,"ONLY AVBL FOR TFC
 DEP (LSMA, LSMD, LSME, LSZC)",H24,"To connect LSMA, LSMD, LSME, LSZC
  with the ATS RTE network direction south.",,Even,LSAZACC,19 FEB 2025,
@@ -9322,14 +8856,6 @@ DEP (LFHM, LFHN, LFHU, LFKA, LFKD, LFKX, LFLE, LFLJ) & ARR (LFLL, LFLS, LFLY)",H
 LT5000,ADKAR,HTY,FL275,FL660,Yes,"NOT AVBL FOR TFC
 ARR LTDA",H24,To avoid ADZ-TO UPDATE,,,LTAAACC,25 OCT 2024,
 LT5001,ADKAR,KEMER,FL275,FL660,Yes,,H24,To avoid ADZ- TO UPDATE,,,LTAAACC,25 OCT 2024,
-LT5002,YKV,RUPOM,FL175,FL660,Yes,"ONLY AVBL FOR TFC
-ARR/DEP LTCW",H24,Only available during activation of exercise published  by NOTAM for traffic ARR/DEP LTCW,,,LTAAACC,25 OCT 2024,
-LT5003,RUPOM,VAN,FL215,FL660,Yes,"ONLY AVBL FOR TFC
-ARR/DEP LTCW",H24,Only available during activation of exercise published  by NOTAM for traffic ARR/DEP LTCW,,,LTAAACC,25 OCT 2024,
-LT5004,VAN,RUPOM,FL215,FL660,Yes,"ONLY AVBL FOR TFC
-ARR/DEP LTCW",H24,Only available during activation of exercise published  by NOTAM for traffic ARR/DEP LTCW,,,LTAAACC,25 OCT 2024,
-LT5005,RUPOM,YKV,FL175,FL660,Yes,"ONLY AVBL FOR TFC
-ARR/DEP LTCW",H24,Only available during activation of exercise published  by NOTAM for traffic ARR/DEP LTCW,,,LTAAACC,25 OCT 2024,
 LT5006,CAY,PAZAR,FL125,FL660,Yes,,H24,Only available during activation of exercise published  by NOTAM,,,LTAAACC,25 OCT 2024,
 LT5007,ADKAR,MANAZ,FL275,FL660,Yes,,H24,To avoid ADZ - TO BE UPDATED,,,LTAAACC,25 OCT 2024,
 LT5008,GEDVA,GAKSU,FL085,FL660,Yes,,H24,Only available during activation of exercise published  by NOTAM,,,LTAAACC,25 OCT 2024,
@@ -9389,8 +8915,6 @@ LT5043,ORMAN,LETBU,FL155,FL660,Yes,"ONLY AVBL FOR TFC
 DEP LTAL",H24,To provide connectivity,,EVEN,LTAAACC,10 APR 2025,
 LT5044,KEKIK,YOYYO,FL135,FL660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
 DEP LTBS & VIA IMR",H24,TO PROVIDE CONNECTIVIY,,EVEN,LTAAACC,26 MAY 2025,
-LT5045,TUMER,LAVTA,FL235,FL660,Yes,"ONLY AVBL AND COMPULSORY FOR TFC
-ARR (LTBS, LTFE) & VIA KFK",H24,TO PROVIDE CONNECTIVIY,,ODD,LTAAACC,26 MAY 2025,
 LT5046,LASON,ODNOD,FL235,FL660,Yes,"ONLY AVBL FOR TFC
 ARR LTBS",H24,TO PROVIDE CONNECTIVIY,,ODD,LTAAACC,14 MAY 2025,
 LT5047,TUKTU,ALNYA,FL125,FL660,Yes,"ONLY AVBL FOR TFC
@@ -9421,6 +8945,10 @@ LT5059,NUMTI,KULAR,FL195,FL660,Yes,"ONLY AVBL FOR TFC
 DEP (ISTANBUL_GROUP, LTFM, LTBU)",H24,TO SEGREGATE TRAFFIC FLOW,,EVEN,LTAAACC,26 MAY 2025,
 LT5060,APTOX,ERGUN,FL115,FL660,Yes,"ONLY AVBL FOR TFC
 DEP (ISTANBUL_GROUP, LTBU, LTFM) AND-THEN ARR LTAP",H24,To provide connectivity.,,ODD,LTAAACC,11 JUL 2025,
+LT5061,SUDES,DUGLA,FL195,FL285,Yes,"ONLY AVBL FOR TFC
+ARR LTBJ",H24,TO ALLOW FURTHER DESCENT AND CONNECTIVITY TO OVZOK STAR,,ODD,LTAA,06 OCT 2025,
+LT5062,DUGLA,OVZOK,FL195,FL285,Yes,"ONLY AVBL FOR TFC
+ARR LTBJ",H24,TO ALLOW FURTHER DESCENT AND CONNECTIVITY TO OVZOK STAR,,ODD,LTAA,06 OCT 2025,
 LU5001,ANEDO,BUSES,FL095,FL660,No,,H24,To prevent traffic filing along the FIR boundary,,,LUUUACC,12 SEP 2024,
 LU5003,ANEDO,POGAV,FL095,FL660,No,,H24,To prevent traffic filing along the FIR boundary,,,LUUUACC,12 SEP 2024,
 LU5004,DOBOK,GIDRO,FL095,FL660,No,,H24,To prevent traffic filing along the FIR boundary,,,LUUUACC,12 SEP 2024,
@@ -9804,12 +9332,6 @@ YX50098,MAKEL,GARLU,245,660,No,,H24,To block DCT segments along sector boundarie
 YX50099,NEBUN,GARLU,245,660,No,,H24,To block DCT segments along sector boundaries which are not covered by the general IFPS feature 'Proximity Check to an AUA Border'.,YX100B,,EDYYUAC,16 FEB 2022,
 YX5010,SUTEB,GREFI,245,660,No,"TBD
 - General conditions apply",H24,"To block DCT segments along sector boundaries which are not covered by the general IFPS feature ""Proximity Check to an AUA Border"".",YX100C,,EDYYUAC,,
-YX50102,DENOX,SISGA,245,660,Yes,"ONLY AVBL FOR TFC
-ARR (PARIS_GROUP, LFOK, LFOB)",H24,"Free Route Airspace Maastricht
-To enable that flights above FL245 can follow the same route alignment compared to ATS-Route UZ319. This DCT segment is published in the RAD until the upper vertical limit of UZ319 can be updated in AIP Belgium & Luxembourg.",FRAM,ODD,EDYYUAC,27 OCT 2023,
-YX50103,SISGA,DELOM,245,660,Yes,"ONLY AVBL FOR TFC
-ARR (PARIS_GROUP, LFOK, LFOB)",H24,"Free Route Airspace Maastricht
-To enable that flights above FL245 can follow the same route alignment compared to ATS-Route UZ319. This DCT segment is published in the RAD until the upper vertical limit of UZ319 can be updated in AIP Belgium & Luxembourg.",FRAM,ODD,EDYYUAC,27 OCT 2023,
 YX5011,SUTAL,NVO,245,660,No,"TBD
 - General conditions apply",H24,"To block DCT segments along sector boundaries which are not covered by the general IFPS feature ""Proximity Check to an AUA Border"".",YX100B,,EDYYUAC,,
 YX50111,KOZUF,IMPOH,245,660,Yes,,H24,"Free Route Airspace Maastricht

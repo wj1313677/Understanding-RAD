@@ -5,49 +5,349 @@ Goal",Remarks,NAS/FAB,"Release
 Date",Group ID,"Group
 Description","Special Event and 
 Crisis"
-EDR824ZR,EDR824Z,EDR824Z,"NOT AVBL FOR TFC
-EXC ARR EDDB & VIA BATEL",ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,13 OCT 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_II
-EDR850ZR,EDR850FZ,EDR850Z,"NOT AVBL FOR TFC
+LTTSA201R,LTTSA201,LTTSA201,"NOT AVBL FOR TFC
+1. EXC ARR LTCW VIA (VAN DCT RUPOM DCT YKV)
+2. EXC DEP LTCW VIA (YKV DCT RUPOM DCT VAN)",ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA201R,LTTSA201,LTTSA201,"NOT AVBL FOR TFC
+1. EXC ARR LTCW VIA (VAN DCT RUPOM)
+2. EXC DEP LTCW VIA (RUPOM DCT VAN)",ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,05 DEC 2025,N/A Or Empty,N/A Or Empty,
+LTTSA202R,LTTSA202,LTTSA202,"NOT AVBL FOR TFC
+1. EXC ARR LTCW VIA (VAN DCT RUPOM DCT YKV)
+2. EXC DEP LTCW VIA (YKV DCT RUPOM DCT VAN)",ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA202R,LTTSA202,LTTSA202,"NOT AVBL FOR TFC
+1. EXC ARR LTCW VIA (VAN DCT RUPOM)
+2. EXC DEP LTCW VIA (RUPOM DCT VAN)",ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,05 DEC 2025,N/A Or Empty,N/A Or Empty,
+EDR834ZR,EDR834Z,EDR834Z,"NOT AVBL FOR TFC
+EXC ARR EDDB & VIA BATEL",ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,15 OCT 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_III
+END485AZR,END485AZ,END485AZ,NOT AVBL FOR TFC,All ATS-routes and DCTs,S,Traffic is not allowed to flight plan across active space launch area,"RENU space launch November 2025, Andoya space",EN,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+END485BZR,END485BZ,END485BZ,NOT AVBL FOR TFC,All ATS-routes and DCTs,S,Traffic is not allowed to flight plan across active space launch area,"RENU space launch November 2025, Andoya space",EN,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+END485CZR,END485CZ,END485CZ,NOT AVBL FOR TFC,All ATS-routes and DCTs,S,Traffic is not allowed to flight plan across active space launch area,"RENU space launch November 2025, Andoya space",EN,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFD540EZR,LFD540EZ,LFD540EZ,"NOT AVBL FOR TFC
+1. EXC DEP TOULON_GROUP & VIA (OMARD DCT RAPUR)
+2. EXC DEP (LFKJ, LFKF, LFKO)
+    a. VIA (LONSU M622 MERLU) AND-THEN VIA (PIGOS, PADKO)
+    b. VIA TORTU
+3. EXC DEP (LFKJ, LFKF, LFKB, LFKC, LFKS) & VIA (NEGAT DCT (NESUL, BUKID, ORKUM))
+4. EXC DEP (LFMN, LFMD, LFTZ, TOULON_GROUP) & VIA LONSU AND-THEN VIA IWAZA
+5. EXC ARR LIEO & VIA (PADKO, KOLON) AND-THEN VIA MERLU
+6. EXC ARR LIEA & VIA KOLON AND-THEN VIA MERLU
+7. EXC ARR (LFKJ, LFKF, LFKO) & VIA (LONSU, NEGAT, TORTU)
+8. EXC ARR (LFMN, LFMD, LFTZ) & VIA (NEGAT DCT IWAZA)
+9. EXC ARR (LFKB, LFKC, LFKS) & VIA NEGAT",,S,Traffic is not allowed to flight plan across active military area.,,LF,18 NOV 2025,LFD540EZR,LFD540EZR,
+LFD54BNZR,LFD54BNZ,LFD54BNZ,"NOT AVBL FOR TFC
+1. EXC DEP LFTH & VIA JULEE
+2. EXC ARR LFTH & VIA (LIPSU DCT JULEE)
+3. EXC VIA (JESOC DCT (OBLAD, JUSQO))",,S,	Traffic is not allowed to flight plan across active defence area.,,LF,18 NOV 2025,LFD54BNZR,LFD54BNZR,
+LGD102AZR,LGD102AZ,LGD102AZ,NOT AVBL FOR TFC,"UJ56 (SUD - MIL) UJ62 (IRA - SNI) UJ65 (SOKRI - SUD - IRA) UL612 (MANOK - SIT) UL613 (RESTI - AMAXI) UL617 (MIL - SIT) UM749 (MIL - IRA) UP169 (MANOK - SUD), all DCTs crossing the area and FRA DCTs",S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+LGD102BZR,LGD102BZ,LGD102BZ,NOT AVBL FOR TFC," UL41 (LABUX - PAMIC) UL53 (MADEX - TIPAS) UL607 (NETIS - SIT) UN132 (MADEX - NIBOX) UN134 (MIL - TIPAS) UN136 (LABUX - TIPAS) UT514 (PEXAN - XAVIS), all DCTs crossing the area and FRA DCTs ",S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+LGD102CZR,LGD102CZ,LGD102CZ,NOT AVBL FOR TFC,"UN133 (ADESO - SOTIX)   UN137 (ASTIS - TIPAS)   UN139 (NAXAS - MASES),  all DCTs crossing the area and FRA DCTs",S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+LGD72A2R,LGD72A2,LGD72A2,NOT AVBL FOR TFC,"KFN (M872, UM872) ETILI
+LORNO (A145, UA145) RESPA, all DCTs crossing the area and FRA DCTs
+
+
+
+ ",S,  Traffic is not allowed to flight plan across active military area ,"Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.
+(LGKF, LGZA) airports affected depending on actual activated vertical limits",LG,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+LGD72CR,LGD72C,LGD72C,NOT AVBL FOR TFC,"RESPA (A145, UA145) TRL, 
+SIT UP23 LORNO,
+KFN (M872,UM872) ETILI,
+BADOG UN45  DILMO,
+KAM J61 IPTAG,
+KAM (Y115, UY115) IPTAG, all DCTs crossing the area and FRA DCTs
+
+",S,Traffic is not allowed to flight plan across active military area ,"Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area
+LGKL airport affected depending on actual activated vertical limits",LG,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+LGD72DR,LGD72D,LGD72D,NOT AVBL FOR TFC,"LORNO (A145,  UA145)  TRL,
+KFN (M872, UM872) ETILI, all DCTs crossing the area and FRA DCTs
+
+
+",S,"Traffic is not allowed to flight plan across active military area 
+
+","Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.
+(LGKF, LGZA) airports affected depending on actual activated vertical limits",LG,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+EFD982AZR,EFD982AZ,EFD982AZ,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 144/2025,EF,13 NOV 2025,N/A Or Empty,N/A Or Empty,MILEX_FREEZING_WINDS_25
+EFD982BZR,EFD982BZ,EFD982BZ,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 144/2025,EF,13 NOV 2025,N/A Or Empty,N/A Or Empty,MILEX_FREEZING_WINDS_25
+EFR638AZR,EFR638AZ,EFR638AZ,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 144/2025,EF,13 NOV 2025,N/A Or Empty,N/A Or Empty,MILEX_FREEZING_WINDS_25
+EFR638BZR,EFR638BZ,EFR638BZ,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 144/2025,EF,13 NOV 2025,N/A Or Empty,N/A Or Empty,MILEX_FREEZING_WINDS_25
+EFTIKCO1R,EFTIKCO1,EFTIKCO1,"NOT AVBL FOR TFC
+EXC FLT-TYPE (N,S)",All ATS routes / DCTs ,S,"Traffic is not allowed to flight plan across active military area EXC FLT-TYPE (N,S)",AIP SUP 129/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_ITAKAIRA_3_25
+EFTIKCO1ZR,EFTIKCO1Z,EFTIKCO1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AUP SUP 129/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_ITAKAIRA_3_25
+EFTIKGI1ZR,EFTIKGI1Z,EFTIKGI1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AUP SUP 129/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_ITAKAIRA_3_25
+EFTIKGO1ZR,EFTIKGO1Z,EFTIKGO1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AUP SUP 129/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_ITAKAIRA_3_25
+EFTIKKI1R,EFTIKKI1,EFTIKKI1,"NOT AVBL FOR TFC
+EXC FLT-TYPE (N,S)",All ATS routes / DCTs ,S,"Traffic is not allowed to flight plan across active military area EXC FLT-TYPE (N,S)",AIP SUP 129/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_ITAKAIRA_3_25
+EFTIKKI1ZR,EFTIKKI1Z,EFTIKKI1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AUP SUP 129/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_ITAKAIRA_3_25
+EFTIKKU1ZR,EFTIKKU1Z,EFTIKKU1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AUP SUP 129/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_ITAKAIRA_3_25
+EFTPMCO1R,,,,,,,,EF,03 NOV 2025,,,
+EFTPMCO1R,EFTPMCO1,EFTPMCO1,"NOT AVBL FOR TFC
+EXC FLT-TYPE (N,S)",All ATS routes / DCTs ,S,"Traffic is not allowed to flight plan across active military area EXC FLT-TYPE (N,S)",AIP SUP 134/2025,EF,03 NOV 2025,N/A Or Empty,N/A Or Empty,
+EFTPMCO1ZR,,,,,,,,EF,22 OCT 2025,,,MILEX_POHJANMAA_3_25
+EFTPMCO1ZR,EFTPMCO1Z,EFTPMCO1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 128/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_2_25
+EFTPMHG1ZR,,,,,,,,EF,22 OCT 2025,,,MILEX_POHJANMAA_3_25
+EFTPMHG1ZR,EFTPMHG1Z,EFTPMHG1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 128/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_2_25
+EFTPMKE1ZR,,,,,,,,EF,22 OCT 2025,,,MILEX_POHJANMAA_3_25
+EFTPMKE1ZR,EFTPMKE1Z,EFTPMKE1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 128/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_2_25
+EFTPMKK1R,EFTPMKK1,EFTPMKK1,"NOT AVBL FOR TFC
+EXC FLT-TYPE (N,S)",All ATS routes / DCTs ,S,"Traffic is not allowed to flight plan across active military area EXC FLT-TYPE (N,S)",AIP SUP 134/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_3_25
+EFTPMKK1S,EFTPMKK1,EFTPMKK1,"NOT AVBL FOR TFC
+EXC FLT-TYPE (N,S)",All ATS routes / DCTs ,S,"Traffic is not allowed to flight plan across active military area EXC FLT-TYPE (N,S)",AIP SUP 128/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_2_25
+EFTPMKK1ZR,,,,,,,,EF,22 OCT 2025,,,MILEX_POHJANMAA_3_25
+EFTPMKK1ZR,EFTPMKK1Z,EFTPMKK1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 128/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_2_25
+EFTPMME1ZR,,,,,,,,EF,22 OCT 2025,,,MILEX_POHJANMAA_3_25
+EFTPMME1ZR,EFTPMME1Z,EFTPMME1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 128/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_2_25
+EFTPMOU1ZR,,,,,,,,EF,22 OCT 2025,,,MILEX_POHJANMAA_3_25
+EFTPMOU1ZR,EFTPMOU1Z,EFTPMOU1Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area,AIP SUP 128/2025,EF,22 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX_POHJANMAA_2_25
+EKR674R,,,,,,,,EK,14 NOV 2025,,,
+EKR674R,EKR674,EKR674,NOT AVBL FOR TFC,,S,MILEX AIP-SUP 50/25 BORRIS,,EK,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+EKR674ZR,,,,,,,,EK,14 NOV 2025,,,
+EKR674ZR,EKR674Z,EKR674Z,NOT AVBL FOR TFC,,S,MILEX AIP-SUP 50/25 BORRIS,,EK,14 NOV 2025,N/A Or Empty,N/A Or Empty,
+LGD7FRR,LGD7FR,LGD7FR,NOT AVBL FOR TFC,All ATS routes / DCTs,S, Traffic is not allowed to flight plan across active military area,NOTAM A3896/25,LG,18 NOV 2025,N/A Or Empty,N/A Or Empty,HellenicFrench_Training_Nov_2025
+LGD7FRZR,LGD7FRZ,LGD7FRZ,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area. ,NOTAM A3896/25,LG,18 NOV 2025,N/A Or Empty,N/A Or Empty,HellenicFrench_Training_Nov_2025
+LGD8FRR,LGD8FR,LGD8FR,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area. ,NOTAM A3897/25,LG,18 NOV 2025,N/A Or Empty,N/A Or Empty,HellenicFrench_Training_Nov_2025
+LGD8FRZR,LGD8FRZ,LGD8FRZ,NOT AVBL FOR TFC,All ATS routes / DCTs,S, Traffic is not allowed to flight plan across active military area. ,NOTAM A3897/25,LG,18 NOV 2025,N/A Or Empty,N/A Or Empty,HellenicFrench_Training_Nov_2025
+LPT1R,,,,,,,,LP,26 OCT 2025,,,
+LPT1R,LPT1,LPT1,NOT AVBL FOR TFC,,S,"MILEX NOTAM A4891/25 , A4931/25 ",,LP,26 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX
+LPT2R,,,,,,,,LP,26 OCT 2025,,,
+LPT2R,LPT2,LPT2,NOT AVBL FOR TFC,,S,"MILEX NOTAM A4891/25 , A4931/25 ",,LP,26 OCT 2025,N/A Or Empty,N/A Or Empty,MILEX
+LFD14WZR,LFD14WZ,LFD14WZ,NOT AVBL FOR TFC,,S,"Traffic is not allowed to flight plan across active military area
+Nearby points : ERCOZ, EBOMO, IDRIK, COQUE, NOVAN, KOLEK.",,LF,18 NOV 2025,N/A Or Empty,N/A Or Empty,
+LFD15ZR,LFD15Z,LFD15Z,NOT AVBL FOR TFC,,S,"Traffic is not allowed to flight plan across active military area
+Nearby points : ERCOZ, IDRIK, NOVAN, BADUR.",,LF,18 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA10R,LTTSA10,LTTSA10,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA11R,LTTSA11,LTTSA11,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA121R,LTTSA121,LTTSA121,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA122R,LTTSA122,LTTSA122,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA123R,LTTSA123,LTTSA123,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA14R,LTTSA14,LTTSA14,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA15R,LTTSA15,LTTSA15,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA16R,LTTSA16,LTTSA16,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA17R,LTTSA17,LTTSA17,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA18R,LTTSA18,LTTSA18,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA19R,LTTSA19,LTTSA19,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA1R,LTTSA1,LTTSA1,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA21R,LTTSA21,LTTSA21,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA22R,LTTSA22,LTTSA22,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA23R,LTTSA23,LTTSA23,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA2410R,LTTSA2410,LTTSA2410,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA2411R,LTTSA2411,LTTSA2411,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA241R,LTTSA241,LTTSA241,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA242R,LTTSA242,LTTSA242,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA243R,LTTSA243,LTTSA243,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA244R,LTTSA244,LTTSA244,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA245R,LTTSA245,LTTSA245,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA246R,LTTSA246,LTTSA246,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA247R,LTTSA247,LTTSA247,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA248R,LTTSA248,LTTSA248,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA249R,LTTSA249,LTTSA249,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA25R,LTTSA25,LTTSA25,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA26R,LTTSA26,LTTSA26,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA27R,LTTSA27,LTTSA27,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA28R,LTTSA28,LTTSA28,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA29R,LTTSA29,LTTSA29,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA2R,LTTSA2,LTTSA2,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA301R,LTTSA301,LTTSA301,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA302R,LTTSA302,LTTSA302,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA31R,LTTSA31,LTTSA31,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA321R,LTTSA321,LTTSA321,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA322R,LTTSA322,LTTSA322,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA33R,LTTSA33,LTTSA33,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA34R,LTTSA34,LTTSA34,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA35R,LTTSA35,LTTSA35,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA36R,LTTSA36,LTTSA36,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA37R,LTTSA37,LTTSA37,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA38R,LTTSA38,LTTSA38,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA39R,LTTSA39,LTTSA39,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA3R,LTTSA3,LTTSA3,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA40R,LTTSA40,LTTSA40,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA41R,LTTSA41,LTTSA41,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA42R,LTTSA42,LTTSA42,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA43R,LTTSA43,LTTSA43,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA4R,LTTSA4,LTTSA4,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA5R,LTTSA5,LTTSA5,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA61R,LTTSA61,LTTSA61,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA62R,LTTSA62,LTTSA62,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA63R,LTTSA63,LTTSA63,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA7R,LTTSA7,LTTSA7,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA8R,LTTSA8,LTTSA8,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+LTTSA9R,LTTSA9,LTTSA9,NOT AVBL FOR TFC,ALL ATS routes and DCTs unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across acive area as published via AUP/UUP, unless the ATS routes or DCTs are EXC in column Traffic Route Flow Rule applied",,LT,25 NOV 2025,N/A Or Empty,N/A Or Empty,
+EDNPZ13R,EDNPZ13 CIPPI,EDNPZ13,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Zone preventing planning of flight trajectories close to ATC sector boundaries. Zone is statically unavailable for flight planning.,,ED,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+EDR172R,EDR172,EDR172,"NOT AVBL FOR TFC
+EXC BIDI (RODIS L604 MOOCE)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+EDR201BZR,EDR201BZ,EDR201BZ,"NOT AVBL FOR TFC
 EXC 
-1. ARR/DEP EDJA
-2. DEP EDDM",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.","area active 01st OCT 2025 - 31st DEC 2025 GND-FL500, daily 1930(1830)-0300(0200)",ED,06 OCT 2025,N/A Or Empty,N/A Or Empty,
-EPTR72AR,EPTR72A,EPTR72A,"NOT AVBL FOR TFC
-EXC ARR EPKK",All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,11 SEP 2025,N/A Or Empty,N/A Or Empty,
-EGD497R,EGD497,EGD497,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA,,EG,04 SEP 2025,N/A Or Empty,N/A Or Empty,EGD497_Ground_to_Air_Trial
-EGD497Z1R,EGD497Z1,EGD497Z1,NOT AVBL FOR TFC,,S,"TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA, 60 NM Shanwick/5 NM NOTA Buffer.",,EG,04 SEP 2025,N/A Or Empty,N/A Or Empty,EGD497_Ground_to_Air_Trial
-EGD497Z2R,EGD497Z2,EGD497Z2,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA. 30 NM Shanwick/5 NM NOTA Buffer.,,EG,04 SEP 2025,N/A Or Empty,N/A Or Empty,EGD497_Ground_to_Air_Trial
-EGD902DR,EGD902D,EGD902D,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA (EGD902D SAXAVORD),,EG,28 SEP 2025,N/A Or Empty,N/A Or Empty,
-LPR51BNR,LPR51BN,LPR51BN,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
-LPR51BS1R,LPR51BS1,LPR51BS1,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
-LPR51BS2R,LPR51BS2,LPR51BS2,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
-LPT11R,LPT11,LPT11,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
-LPT12R,LPT12,LPT12,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
-LPTRA57R,LPTRA57,LPTRA57,NOT AVBL FOR TFC,,S,ETAP-C 2025         ,AIP SUP 89/25,LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,VIPER_SWORD_NATO_TIGER_MEET_2025_ETAP_C_2025
-EDD46ZR,EDD46Z,EDD46Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
-When this area is active, there will be live firing inside the area.",,ED,02 SEP 2025,N/A Or Empty,N/A Or Empty,
-LETR65R,LETR65,LETR65,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
-",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
-",TLP exercise,LE,27 AUG 2025,N/A Or Empty,N/A Or Empty,
-LETS64R,LETS64,LETS64,NOT AVBL FOR TFC,all ATS route/s/DCT/s,S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,N/A Or Empty,N/A Or Empty,
-END484ZR,END484Z,END484Z,NOT AVBL FOR TFC,ALL ATS-routes and DCTs,S,Traffic is not allowed to flight plan across active space launch area,ATHEAT space launch October 2025,EN,18 AUG 2025,N/A Or Empty,N/A Or Empty,Annex2C_ANDOYASPACE_END484Z
-LETR65S,LETR65,LETR65,"NOT AVBL FOR TFC
-EXC ARR/DEP (LELC, LEMI) & VIA ALT
+1. VIA (LABIL N873 HUNQI)
+2. VIA (MOXCI P174 KUBAT)
+3. VIA (AMCUB N872 KUBAT)
+4. VIA (TEMLU DCT JUIST)
+5. VIA (JUIST DCT ABFAD)
+6. VIA (JUIST DCT GASTU)
+7. VIA (OLWOF DCT JUIST)
+8. VIA (ABFAD DCT KUBAT)
+9. VIA (GASTU DCT KUBAT)
+10. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
+
+Option 10.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+EDR201BZT,EDR201BZ,EDR201BZ,"NOT AVBL FOR TFC
+EXC
+1. VIA (LABIL N873 HUNQI)
+2. VIA (MOXCI P174 KUBAT)
+3. VIA (TEMLU DCT JUIST)
+4. VIA (OLWOF DCT JUIST)
+5. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
+
+Option 5.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.
+
+This FUA TFR will be activated in case of booking of TRA201B in combination with AAR anchor LILLY and to close airway N872.",,ED,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+EDR201FZR,EDR201FZ,EDR201FZ,"NOT AVBL FOR TFC
+EXC 
+1. VIA (ALASA M852 SOKWO)
+2. BIDI (HAM M852 SOKWO)
+3. VIA (EKERN N125 ELSOB)
+4. BIDI (OTAHO Q800 NIGAD)
+5. VIA (BOGMU T909 OTAHO)
+6. VIA (BOGMU T814 EXNEL)
+7. VIA (EKERN T905 BOGMU)
+8. BIDI (RENSU Y348 OMWEG)
+09. VIA (OMWEG M105 AMRAK)
+10. BIDI (PIZID DCT EKERN)
+11. BIDI (RENSU DCT HINHU)
+12. DEP EDDH & SID (SOKWO)
+13. ARR EDDH & STAR (RARUP)
+14. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or DEP are EXC in column Traffic Flow Rule applied.
+
+Option 14.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+EDR202EZR,EDR202EZ,EDR202EZ,"NOT AVBL FOR TFC
+EXC 
+1. VIA (PABCO M105 OPWOT)
+2. VIA (MIZUH N125 ONTAZ)
+3. BIDI (ITMIZ Z529 SUQIF)
+4. VIA (YEFAW Z595 REVLA)
+5. VIA (REVLA T948 MIZUH)
+6. VIA (APNOC Z45 OMEPA)
+7. VIA (DOBAK DCT SUQIF)
+8. VIA (ITMIZ DCT DOBAK)
+9. VIA (REVLA DCT OKWEL)
+10. BIDI (SUQIF DCT ABFAD)
+11. BIDI (ITMIZ DCT ABFAD)
+12. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
+
+Option 12.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,17 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR108AUZR,LFR108AUZ,LFR108AUZ,"NOT AVBL FOR TFC
+1. EXC ARR/DEP (LFMA, LFMI, LFML, LFMO, LFMQ, LFMV, LFMY, LFTW)
+2. EXC VIA (MTL DCT MTG)
+3. EXC VIA (MTG A6 CM)
+4. EXC VIA (CM A6 MTG)", All DCTs (as allowed by RAD Annex3B or LFFRASE FRA),S,"Traffic is not allowed to flight plan across active military area.
+Traffic via MTL and then DIVKO should plan via MTL DCT  MTG DCT DIVKO.
+Traffic via  FJR and then  PADKO  should plan FJR DCT  SALIN DCT PADKO
+Traffic via PADKO and then FJR should plan PADKO DCT SALIN DCT FJR",,LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR108HNZR,LFR108HNZ,LFR108HNZ,"NOT AVBL FOR TFC
+1. EXC ARR/DEP (LFMT, LFTW, LFMI, LFMV, LFMY)
+2. EXC ARR (LFML, LFMQ) & VIA LERGA
 ----------
 NOT AVBL FOR TFC
-1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETR65_x000D_
-2. VIA LETR65 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)","all ATS route/s/DCT/s
-",S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,LETR65S,LETR65S,
-LETS64S,LETS64,LETS64,"NOT AVBL FOR TFC
-EXC ARR/DEP (LELC, LEMI) & VIA ALT
+DEP LFMT & SID (ETREK)"," All DCTs (as allowed by RAD Annex3B, LFFRASE or LFRASW FRA)",S,"Traffic is not allowed to flight plan accross active defence area
+Traffic via MTL and then DIVKO should plan via MTL DCT  MTG DCT DIVKO.
+DEP LFMT via ETREK shall file SID (NG)",,LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR108HSZR,LFR108HSZ,LFR108HSZ,"NOT AVBL FOR TFC
+1. EXC VIA (BADAM DCT KANIG)
+2. EXC ARR LFMP & VIA BADAM
+3. EXC DEP LFMP
+4. EXC DEP LFMT & VIA BRUSC
+5. EXC VIA  (FJR DCT AFRIC)","All DCTs (as allowed by RAD Annex3B, or LFRASE and LFFRASW FRA)",S,"Traffic is not allowed to flight plan across active defence area
+Traffic via DIVKO DCT  NILDU shall file DIVKO DCT  MAMES","In CACD define as per Annex3B:
+All DCTs: FL195-UNL",LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR108RTZR,LFR108RTZ,LFR108RTZ,"NOT AVBL FOR TFC
+1. EXC ARR/DEP (LFMT, LFTW, LFMI, LFMV, LFMY)
+2. EXC ARR (LFML, LFMQ) & VIA LERGA
 ----------
 NOT AVBL FOR TFC
-1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETS64_x000D_
-2. VIA LETS64 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)",all ATS route/s/DCT/s,S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,LETS64S,LETS64S,
-LGD3BSR,LGD3BS,LGD3BS,NOT AVBL FOR TFC,"LORNO (A145, UA145) RESPA
-PLH (M729/UM729) LORNO
-METRU  L81/UL81) LORNO
-RERSA (UN45) DILMO",S,Traffic is not allowed to flight plan across active military area,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.,LG,03 SEP 2025,N/A Or Empty,N/A Or Empty,LG_MILEX_SOT_2025
-LGD3BSZR,LGD3BSZ,LGD3BSZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,03 SEP 2025,N/A Or Empty,N/A Or Empty,LG_MILEX_SOT_2025
+DEP LFMT & SID (ETREK)","All DCTs (as allowed by RAD Annex3B, LFFRASE or LFFRASW FRA)",S,"Traffic is not allowed to flight plan accross active defence area
+Traffic via MTL and then DIVKO should plan via MTL DCT  MTG DCT DIVKO.
+DEP LFMT via ETREK shall file SID (NG)",,LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR138ZR,LFR138Z,LFR138Z,NOT AVBL FOR TFC,,S,"Traffic is not allowed to flight plan across active military area.
+Traffic should plan KOLON DCT SOKDI DCT GANGU",,LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR175BZ1R,LFR175BZ1,LFR175BZ1,NOT AVBL FOR TFC,All DCTs,S,"Traffic is not allowed to file a flight plan across active defence area
+Traffic departing PARIS_GROUP or LFOB should plan SID DIKOL Jthen  DIKOL DCT SUIPE DCT VALEK (cf LF7352/7354/7355)
+Traffic from UTELA to VALEK should plan UTELA DCT SUIPE DCT VALEK",,LF,29 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR222AZR,LFR222AZ,LFR222AZ,"NOT AVBL FOR TFC
+EXC VIA LFMMCTA AND-THEN VIA (EMMEF, ROBEX) AND-THEN ARR (LIMF, LIMW, LIMZ) & ABV FL245 IN LFMMCTA", All DCTs (as allowed by RAD Annex3B or LFFRASE FRA),S,"Traffic is not allowed to flight plan across active military area and associated buffer zone.
+OKTET DCT GIPNO should be bypassed via OKTET DCT NEDRU DCT  GIPNO.",,LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR222BZR,LFR222BZ,LFR222BZ,"NOT AVBL FOR TFC
+EXC VIA LFMMCTA & ABV FL245 IN LFMMCTA AND-THEN VIA (EMMEF, ROBEX) AND-THEN ARR (LIMF, LIMW, LIMZ)", All DCTs (as allowed by RAD Annex3B or LFFRASE FRA),S,"Traffic is not allowed to flight plan across active military area and associated buffer zone.
+OKTET DCT GIPNO should be bypassed via OKTET DCT NEDRU DCT  GIPNO.",,LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFR222CZR,LFR222CZ,LFR222CZ,"NOT AVBL FOR TFC
+EXC VIA LFMMCTA AND-THEN VIA (EMMEF, ROBEX) AND-THEN ARR (LIMF, LIMW, LIMZ) & ABV FL245 IN LFMMCTA", All DCTs (as allowed by RAD Annex3B or LFFRASE FRA),S,"Traffic is not allowed to flight plan across active military area and associated buffer zone.
+OKTET DCT GIPNO should be bypassed via OKTET DCT NEDRU DCT  GIPNO.",,LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT200AZ1R,LFTRA200AZ1,LFT200AZ1,"NOT AVBL FOR TFC
+1. EXC VIA (ROUSY DCT GTQ)
+2. EXC VIA (SORAL DCT IBERA)","SID LANVI, All DCTs (as published in RAD Annex 3B or LFFRAE FRA)",S,"Traffic is not allowed to file a flight plan across active defence area
+Traffic departing ROISSY_GROUP or LFOB should plan BUBLI SID",,"LF,NM",29 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT200CZR,LFTSA200CZ,LFT200CZ,NOT AVBL FOR TFC,All DCTs,S,Traffic is not allowed to file a flight plan across active defence area,,LF,29 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT200EZR,LFTRA200EZ,LFT200EZ,"NOT AVBL FOR TFC
+1. EXC VIA (ROUSY DCT GTQ)
+2. EXC VIA (SORAL DCT IBERA)",All DCTs (as published in RAD Annex 3B or LFFRAE FRA),S,Traffic is not allowed to file a flight plan across active defence area,,"LF,NM",29 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT200WZ1R,LFTRA200WZ1,LFT200WZ1,NOT AVBL FOR TFC,"SID LANVI, All DCTs (as published in RAD Annex 3B or LFFRAE FRA)",S,"Traffic is not allowed to file a flight plan across active defence area
+Traffic departing ROISSY_GROUP or LFOB should plan BUBLI SID",,"LF,NM",29 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT24AZ1R,LFTSA24AZ1,LFT24AZ1,NOT AVBL FOR TFC,All DCTs ,S,"Traffic is not allowed to file a flight plan across active defence area.
+Traffic destination ORLY_GROUP via BULOL should plan via PIBAT STAR
+Traffic from BULOL to BRY should plan via PIBAT
+Traffic departing GENEVA_GROUP destination ORLY_GROUP should plan via DJL STAR
+Traffic departing GENEVA_GROUP to CLM should plan via DJL
+Traffic departing GENEVA_GROUP to AMODO should plan VIA DJL DCT TUNOR",Change in the operational goal description (Flight plan suggestions for ORLY_GROUP arrivals and traffic from BULOL to BRY),LF,29 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT24BZ1R,LFTSA24BZ1,LFT24BZ1,NOT AVBL FOR TFC,All DCTs,S,"Traffic is not allowed to file a flight plan across active defence area.
+Traffic destination ORLY_GROUP via BULOL should plan via PIBAT STAR
+Traffic from BULOL to BRY should plan via PIBAT
+Traffic departing GENEVA_GROUP destination ORLY_GROUP should plan via DJL STAR
+Traffic departing GENEVA_GROUP to CLM should plan via DJL
+Traffic departing GENEVA_GROUP to AMODO should plan via DJL DCT OKRIX",,LF,29 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT42NTZR,LFTRA42NTZ,LFT42NTZ,"NOT AVBL FOR TFC
+1. EXC ARR (LFHO, LFME, LFMI, LFMS, LFMT, LFTW)
+2. EXC DEP (LFMT, LFTW, LFMI)
+3. EXC ARR LFMQ & VIA LERGA
+----------
+NOT AVBL FOR TFC
+DEP LFMT & SID (ETREK)",,S,"Traffic is not allowed to flight plan across active defence area
+Via MTL DCT PEQEF, traffic shall file BALSI DCT RETNO DCT TUPOX DCT MTG DCT DIVKO 
+DEP LFMT via ETREK shall file SID (NG)",,LF,20 OCT 2025,LFT42NTZR,LFT42NTZR,
+LFT42NZR,LFTRA42NZ,LFT42NZ,"NOT AVBL FOR TFC
+1. EXC ARR (LFHO, LFME, LFMI, LFMS, LFMT, LFTW)
+2. EXC DEP (LFMT, LFTW, LFMI)
+3. EXC ARR LFMQ & VIA LERGA
+----------
+NOT AVBL FOR TFC
+DEP LFMT & SID (ETREK)"," UM731, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA or LFFRASE FRA)",S,"Traffic is not allowed to flight plan across active defence area
+Via MTL DCT PEQEF, traffic shall file BALSI DCT RETNO DCT TUPOX DCT MTG DCT DIVKO 
+DEP LFMT via ETREK shall file SID (NG)",,LF,20 OCT 2025,LFT42NZR,LFT42NZR,
+LFT42SZR,LFTRA42SZ,LFT42SZ,"NOT AVBL FOR TFC
+1. EXC ARR/DEP (LFMT, LFTW, LFMI, LFMV, LFMY)
+2. EXC ARR (LFML, LFMQ) & VIA LERGA
+----------
+NOT AVBL FOR TFC
+DEP LFMT & SID (ETREK)"," UM731, All DCTs (as allowed by RAD Annex3B or LFFRASW & LFFRASE FRA)",S,"Traffic is not allowed to flight plan across active defence area
+Traffic shall file MTL DCT MTG DCT DIVKO
+Via MTL and then PEQEF, traffic shall file VIA BALSI and then  DIVKO
+If DEP Lyon_Group with ARR Barcelona_Group traffic shall file VIA MTG and then NILDU
+DEP LFMT via ETREK shall file SID (NG)",,LF,20 OCT 2025,LFT42SZR,LFT42SZR,
+LFT46NZR,LFTRA46NZ,LFT46NZ,"NOT AVBL FOR TFC
+1. EXC VIA (BADAM DCT KANIG)
+2. EXC ARR/DEP LFMP",All DCTs (as allowed by RAD Annex3B or LFRASE and LFFRASW FRA) ,S,"Traffic is not allowed to flight plan across active defence area
+If DEP Lyon_Group with ARR Barcelona_Group traffic shall file ROMAM A6 MTL DCT MTG DCT DIVKO
+Traffic via DIVKO DCT NILDU  shall file DIVKO DCT  MAMES","In CACD define as per Annex3B:
+All DCTs: FL195-UNL",LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+LFT46SZR,LFTRA46SZ,LFT46SZ,"NOT AVBL FOR TFC
+1. EXC VIA (BADAM DCT KANIG)
+2. EXC ARR/DEP LFMP",All DCTs (as allowed by RAD Annex3B or LFRASE and LFFRASW FRA) ,S,"Traffic is not allowed to flight plan across active defence area
+Traffic via DIVKO DCT NILDU  shall file DIVKO DCT  MAMES","In CACD define as per Annex3B:
+All DCTs: FL195-UNL",LF,20 OCT 2025,N/A Or Empty,N/A Or Empty,
+EDR831ZR,EDR831Z,EDR831Z,NOT AVBL FOR TFC,ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,04 SEP 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_III
+EDR832ZR,EDR832Z,EDR832Z,NOT AVBL FOR TFC,ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,04 SEP 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_III
+EDR833ZR,EDR833Z,EDR833Z,NOT AVBL FOR TFC,ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,04 SEP 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_III
+EDR835ZR,EDR835Z,EDR835Z,NOT AVBL FOR TFC,ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,04 SEP 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_III
+EDR837ZR,EDR837Z,EDR837Z,NOT AVBL FOR TFC,ALL ATS routes and DCT unless exempted in traffic flow rules (TFR),C,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,04 SEP 2025,N/A Or Empty,N/A Or Empty,WIC_25_Phase_III
+EHTRA12Z1R,EHTRA12Z1,EHTRA12Z1,NOT AVBL FOR TFC,"L179, N852, Z28, Z283
+DCT (as allowed by RAD Annex 3B or MUAC FRA) crossing this area.",S,Traffic is not allowed to flight plan across active military area,LENA FBZ,YX,15 OCT 2025,N/A Or Empty,N/A Or Empty,
+EHTRA12Z2R,EHTRA12Z2,EHTRA12Z2,NOT AVBL FOR TFC,"L179, N852
+DCT (as allowed by RAD Annex 3B or MUAC FRA) crossing this area.",S,Traffic is not allowed to flight plan across active military area,LENA corridor FBZ,YX,15 OCT 2025,N/A Or Empty,N/A Or Empty,
  LGD72A2ZR,LGD72A2Z, LGD72A2Z,NOT AVBL FOR TFC,,S, Traffic is not allowed to flight plan across active military area,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 EBR04R,EBR04,EBR04,NOT AVBL FOR TFC,"N853, T853",S,No civil traffic allowed in the military area when active,,EB,13 SEP 2021,N/A Or Empty,N/A Or Empty,
 EBR20R,EBR20,EBR20,NOT AVBL FOR TFC,Z311,S,No civil traffic allowed in the military area when active,,EB,02 APR 2025,N/A Or Empty,N/A Or Empty,
@@ -121,13 +421,14 @@ EDD41BZR,EDD41BZ,EDD41BZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted
 When this area is active, there will be live firing inside the area",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDD44ZR,EDD44Z,EDD44Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP. 
 When this area is active, there will be live firing inside the area.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
+EDD46ZR,EDD46Z,EDD46Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP.
+When this area is active, there will be live firing inside the area.",,ED,02 SEP 2025,N/A Or Empty,N/A Or Empty,
 EDD47AZR,EDD47AZ,EDD47AZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Traffic is not allowed to flight plan across active military area,,ED,15 JUL 2023,N/A Or Empty,N/A Or Empty,
 EDD47BZR,EDD47BZ,EDD47BZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP. 
 When this area is active, there will be live firing inside the area.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDD47CZR,EDD47CZ,EDD47CZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDNPZ10R,EDNPZ10 ABGUS,EDNPZ10,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Zone preventing planning of flight trajectories close to ATC sector boundaries. Zone is statically unavailable for flight planning.,,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDNPZ11R,EDNPZ11 LASIS,EDNPZ11,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Zone preventing planning of flight trajectories close to ATC sector boundaries. Zone is statically unavailable for flight planning.,,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
-EDNPZ13R,EDNPZ13 POBOX,EDNPZ13,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Zone preventing planning of flight trajectories close to ATC sector boundaries. Zone is statically unavailable for flight planning.,,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDNPZ15R,EDNPZ15 VAGAB,EDNPZ15,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Zone preventing planning of flight trajectories close to ATC sector boundaries. Zone is statically unavailable for flight planning.,,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDNPZ16R,EDNPZ16 LUX-NTM-LF,EDNPZ16,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Zone preventing planning of flight trajectories close to ATC sector boundaries. Zone is statically unavailable for flight planning. ,,"ED,YX",02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDNPZ17R,EDNPZ17 LUX-OLN-NTM,EDNPZ17,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,Zone preventing planning of flight trajectories close to ATC sector boundaries. Zone is statically unavailable for flight planning. ,,"ED,YX",02 JUN 2025,N/A Or Empty,N/A Or Empty,
@@ -184,46 +485,18 @@ EDR137CZR,EDR137CZ,EDR137CZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exemp
 EDR13AZR,EDR13AZ,EDR13AZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR13BZR,EDR13BZ,EDR13BZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR171ZR,EDR171Z,EDR171Z,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
-EDR172R,EDR172,EDR172,"NOT AVBL FOR TFC
-EXC VIA (RODIS L604 MOOCE)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR17ZR,EDR17Z,EDR17Z,"NOT AVBL FOR TFC
 EXC DEP EDDB & ABV FL175 AT ITZEG",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR201AZR,EDR201AZ,EDR201AZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
 EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
-EDR201BZR,EDR201BZ,EDR201BZ,"NOT AVBL FOR TFC
-EXC _x000D_
-1. VIA (BEDUM N873 HUNQI)_x000D_
-2. VIA (MOXCI P174 KUBAT)_x000D_
-3. VIA (AMCUB N872 EEL)_x000D_
-4. VIA (KUBAT T200 BLUFA)_x000D_
-5. VIA (TEMLU DCT JUIST)_x000D_
-6. VIA (JUIST DCT ABFAD)_x000D_
-7. VIA (JUIST DCT GASTU)_x000D_
-8. VIA (OLWOF DCT JUIST)_x000D_
-9. VIA (ABFAD DCT KUBAT)_x000D_
-10. VIA (GASTU DCT KUBAT)_x000D_
-11. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
-
-Option 11.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR201BZS,EDR201BZ,EDR201BZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
 EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.
 
 This FUA TFR will only be activated for major military exercises, when ALL traffic needs to be blocked out of the area.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
-EDR201BZT,EDR201BZ,EDR201BZ,"NOT AVBL FOR TFC
-EXC_x000D_
-1. VIA (BEDUM N873 HUNQI)_x000D_
-2. VIA (MOXCI P174 KUBAT)_x000D_
-3. VIA (TEMLU DCT JUIST)_x000D_
-4. VIA (OLWOF DCT JUIST)_x000D_
-5. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
-
-Option 5.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.
-
-This FUA TFR will be activated in case of booking of TRA201B in combination with AAR anchor LILLY and to close airway N872.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR201CZR,EDR201CZ,EDR201CZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
@@ -236,34 +509,6 @@ EDR201EZR,EDR201EZ,EDR201EZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
 EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
-EDR201FZR,EDR201FZ,EDR201FZ,"NOT AVBL FOR TFC
-EXC _x000D_
-1. VIA (ALASA M852 HAM)_x000D_
-2. VIA (HAM M852 SOKWO)_x000D_
-3. VIA (EKERN N125 ELSOB)_x000D_
-4. VIA (OTAHO Q800 NIGAD)_x000D_
-5. VIA (NIGAD Q800 OTAHO)_x000D_
-6. VIA (BOGMU T909 OTAHO)_x000D_
-7. VIA (BOGMU T814 EXNEL)_x000D_
-8. VIA (EKERN T905 BOGMU)_x000D_
-9. VIA (RENSU Y348 OMWEG)_x000D_
-10. VIA (OMWEG Y348 RENSU)_x000D_
-11. VIA (OMWEG M105 AMRAK)_x000D_
-12. VIA (EXNEL DCT OLDIP)_x000D_
-13. VIA (OLDIP DCT PIZID)_x000D_
-14. VIA (PIZID DCT EKERN)_x000D_
-15. VIA (EKERN DCT PIZID)_x000D_
-16. VIA (RENSU DCT HINHU)_x000D_
-17. VIA (HINHU DCT RENSU)_x000D_
-18. VIA (ABFAD DCT HINHU)_x000D_
-19. VIA (HINHU DCT ABFAD)_x000D_
-20. VIA (BADOS DCT OMWEG)_x000D_
-21. VIA (OMWEG DCT BADOS)_x000D_
-22. DEP EDDH & SID (SOKWO)_x000D_
-23. ARR EDDH & STAR (RARUP)_x000D_
-24. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or DEP are EXC in column Traffic Flow Rule applied.
-
-Option 24.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,03 JUL 2025,N/A Or Empty,N/A Or Empty,
 EDR202AZR,EDR202AZ,EDR202AZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
@@ -280,26 +525,6 @@ EDR202DZR,EDR202DZ,EDR202DZ,"NOT AVBL FOR TFC
 EXC FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
 
 EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
-EDR202EZR,EDR202EZ,EDR202EZ,"NOT AVBL FOR TFC
-EXC 
-1. VIA (PABCO M105 OPWOT)
-2. VIA (MIZUH N125 BLUFA)
-3. VIA (MALYK Z529 SUQIF)
-4. VIA (SUQIF Z529 MALYK)
-5. VIA (YEFAW Z595 REVLA)
-6. VIA (REVLA T948 MIZUH)
-7. VIA (APNOC Z45 OMEPA)
-8. VIA (DOBAK DCT SUQIF)
-9. VIA (ITMIZ DCT DOBAK)
-10. VIA (ABDIM DCT ITMIZ)
-11. VIA (REVLA DCT OKWEL)
-12. VIA (SUQIF DCT ABFAD)
-13. VIA (ABFAD DCT SUQIF)
-14. VIA (ITMIZ DCT ABFAD)
-15. VIA (ABFAD DCT ITMIZ)
-16. FLT-TYPE (M) & TYP (A10, EUFI, F15, F16, F18, F22, F35, JAS39, MIR2, RFAL, TOR)",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.
-
-Option 16.: EXC is granted for single/double seated military jets in accordance with MIL AIP Germany and added to enable EUR/OAT flightplanning.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR203AZR,EDR203AZ,EDR203AZ,"NOT AVBL FOR TFC
  EXC
  1. DEP EDLP & VIA GISDI
@@ -474,6 +699,10 @@ EDR4M120ZR,EDR4M120Z,EDR4M120Z,NOT AVBL FOR TFC,All ATS routes and DCT unless ex
 EDR73AZR,EDR73AZ,EDR73AZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR76AZR,EDR76AZ,EDR76AZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EDR76BZR,EDR76BZ,EDR76BZ,NOT AVBL FOR TFC,All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
+EDR850ZR,EDR850FZ,EDR850Z,"NOT AVBL FOR TFC
+EXC 
+1. ARR/DEP EDJA
+2. DEP EDDM",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes or DCT are EXC in column Traffic Flow Rule applied.","area active 01st OCT 2025 - 31st DEC 2025 GND-FL500, daily 1930(1830)-0300(0200)",ED,06 OCT 2025,N/A Or Empty,N/A Or Empty,
 EDR95AZR,EDR95AZ,EDR95AZ,"NOT AVBL FOR TFC
 EXC ARR/DEP EDDE",All ATS routes and DCT unless exempted in traffic flow rules (TFR),S,"Traffic is not allowed to flight plan across active area as published via AUP/UUP, unless the ATS routes, DCT or ARR/DEP are EXC in column Traffic Flow Rule applied.",,ED,02 JUN 2025,N/A Or Empty,N/A Or Empty,
 EETSA15BZR,EETSA15BZ,EETSA15BZ,"NOT AVBL FOR TFC
@@ -1169,6 +1398,7 @@ EGD902BR,EGD902B,EGD902B,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PL
 EGD902BZR,EGD902BZ,EGD902BZ,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA AND ASSOCIATED BUFFER ZONE (EGD902BZ SAXAVORD FBZ),,EG,13 SEP 2024,N/A Or Empty,N/A Or Empty,
 EGD902CR,EGD902C,EGD902C,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA (EGD902C SAXAVORD),,EG,13 SEP 2024,N/A Or Empty,N/A Or Empty,
 EGD902CZR,EGD902CZ,EGD902CZ,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA AND ASSOCIATED BUFFER ZONE (EGD902CZ SAXAVORD FBZ),,EG,13 SEP 2024,N/A Or Empty,N/A Or Empty,
+EGD902DR,EGD902D,EGD902D,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA (EGD902D SAXAVORD),,EG,28 SEP 2025,N/A Or Empty,N/A Or Empty,
 EGD902DZR,EGD902DZ,EGD902DZ,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA AND ASSOCIATED BUFFER ZONE (EGD902DZ SAXAVORD FBZ),,EG,13 SEP 2024,N/A Or Empty,N/A Or Empty,
 EGD902ER,EGD902E,EGD902E,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA (EGD902E SAXAVORD),,EG,13 SEP 2024,N/A Or Empty,N/A Or Empty,
 EGD902EZR,EGD902EZ,EGD902EZ,NOT AVBL FOR TFC,,S,TRAFFIC IS NOT ALLOWED TO FLIGHT PLAN ACROSS ACTIVE MILITARY AREA AND ASSOCIATED BUFFER ZONE (EGD902EZ SAXAVORD FBZ),,EG,13 SEP 2024,N/A Or Empty,N/A Or Empty,
@@ -1453,8 +1683,8 @@ EKD352R,EKD352,EKD352,NOT AVBL FOR TFC,"M869, T505, T506",S,"Traffic is not allo
 EKD352ZR,EKD352Z,EKD352Z,NOT AVBL FOR TFC,"M869, T505, T506",S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ASLID, ASVAN, LAPMA, ROKAM",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKD371R,EKD371,EKD371,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ALASA, GITER, POGUG",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKD371ZR,EKD371Z,EKD371Z,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ALASA, GITER, POGUG",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
-EKD373R,EKD373,EKD373,NOT AVBL FOR TFC,"P992, Z710",S,"Traffic is not allowed to flight plan across active military area. Nearby points: ATTUS, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
-EKD373ZR,EKD373Z,EKD373Z,NOT AVBL FOR TFC,"P992, Z710",S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ATTUS, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
+EKD373R,EKD373,EKD373,NOT AVBL FOR TFC,"P992, Z710",S,"Traffic is not allowed to flight plan across active military area. Nearby points: ATTUS, MIKRO, OKUSA, TUSKA",,EK,23 NOV 2025,N/A Or Empty,N/A Or Empty,
+EKD373ZR,EKD373Z,EKD373Z,NOT AVBL FOR TFC,"P992, Z710",S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ATTUS, MIKRO, OKUSA, TUSKA",,EK,23 NOV 2025,N/A Or Empty,N/A Or Empty,
 EKD389R,EKD389,EKD389,NOT AVBL FOR TFC,P615,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ELVAV, EVGUN, UNVUG",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKD389ZR,EKD389Z,EKD389Z,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ELVAV, EVGUN, UNVUG",,EK,09 AUG 2023,N/A Or Empty,N/A Or Empty,
 EKR11R,EKR11,EKR11,NOT AVBL FOR TFC,All ATS route/s,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ADSEN, ASLID, ROSBI",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
@@ -1501,16 +1731,16 @@ EKR34R,EKR34,EKR34,NOT AVBL FOR TFC,"L975, L983, M609, N607, N873, P601, P602, P
 EKR34ZR,EKR34Z,EKR34Z,NOT AVBL FOR TFC,"L975, L983, M609, N607, N873, P601, P602, P613, P614, P619, P992, T56",S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: DOREV, EPILO, MIKRO, RUVUD, NAVIK",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR35R,EKR35,EKR35,NOT AVBL FOR TFC,"L983, M609, N607, N873, P601, P602, P613, P619, P992, T56",S,"Traffic is not allowed to flight plan across active military area. Nearby points: DOREV, EPILO, MIKRO, RUVUD, NAVIK",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR35ZR,EKR35Z,EKR35Z,NOT AVBL FOR TFC,"L983, M609, N607, N873, P601, P602, P613, P619, P992, T56",S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: DOREV, EPILO, MIKRO, RUVUD, NAVIK",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
-EKR38R,EKR38,EKR38,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active military area. Nearby points:ABLEV, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
-EKR38ZR,EKR38Z,EKR38Z,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points:ABLEV, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
+EKR38R,EKR38,EKR38,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active military area. Nearby points:ABLEV, MIKRO, OKUSA, TUSKA",,EK,23 NOV 2025,N/A Or Empty,N/A Or Empty,
+EKR38ZR,EKR38Z,EKR38Z,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points:ABLEV, MIKRO, OKUSA, TUSKA",,EK,23 NOV 2025,N/A Or Empty,N/A Or Empty,
 EKR39R,EKR39,EKR39,NOT AVBL FOR TFC,"N607, N873, P60",S,"Traffic is not allowed to flight plan across active military area. Nearby points: BAMPI, TOMGU",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR39ZR,EKR39Z,EKR39Z,"NOT AVBL FOR TFC
 EXC DEP EKBI & SID (BAMPI5A, BAMPI5B)","(N607, N873, P60)",S,"To enable traffic from AD. Nearby points: BAMPI, TOMGU",,EK,27 AUG 2025,N/A Or Empty,N/A Or Empty,
 EKR40R,EKR40,EKR40,NOT AVBL FOR TFC,"N607, N873, P601",S,"Traffic is not allowed to flight plan across active military area. Nearby points: BAMPI, TOMGU",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR40ZR,EKR40Z,EKR40Z,"NOT AVBL FOR TFC
 EXC DEP EKBI & SID (BAMPI5A, BAMPI5B, RERPA2A, RERPA2B)","N607, N873, P601",S,"To enable traffic from AD. Nearby points: BAMPI, TOMGU",,EK,27 AUG 2025,N/A Or Empty,N/A Or Empty,
-EKR42R,EKR42,EKR42,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ABLEV, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
-EKR42ZR,EKR42Z,EKR42Z,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ABLEV, MIKRO, OKUSA, TUSKA",,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
+EKR42R,EKR42,EKR42,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active military area. Nearby points: ABLEV, MIKRO, OKUSA, TUSKA",,EK,23 NOV 2025,N/A Or Empty,N/A Or Empty,
+EKR42ZR,EKR42Z,EKR42Z,NOT AVBL FOR TFC,P992,S,"Traffic is not allowed to flight plan across active FBZ. Nearby points: ABLEV, MIKRO, OKUSA, TUSKA",,EK,23 NOV 2025,N/A Or Empty,N/A Or Empty,
 EKR44R,EKR44,EKR44,NOT AVBL FOR TFC,P729,S,Traffic is not allowed to flight plan across active military area. Nearby points: SKR,,EK,19 SEP 2021,N/A Or Empty,N/A Or Empty,
 EKR44ZR,EKR44Z,EKR44Z,"NOT AVBL FOR TFC
 EXC ARR/DEP EKSP",P729,S,To enable traffic to/from AD. Nearby points:  SKR,,EK,21 AUG 2024,N/A Or Empty,N/A Or Empty,
@@ -1541,6 +1771,9 @@ EKTSJY5R,EKTSAJY5,EKTSJY5,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic 
 EKTSJY5ZR,EKTSAJY5Z,EKTSJY5Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active FBZ.,,EK,09 APR 2025,N/A Or Empty,N/A Or Empty,
 EKTSJY6R,EKTSAJY6,EKTSJY6,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active military area.,,EK,09 APR 2025,N/A Or Empty,N/A Or Empty,
 EKTSJY6ZR,EKTSAJY6Z,EKTSJY6Z,NOT AVBL FOR TFC,"All ATS Routes, all DCTs",S,Traffic is not allowed to flight plan across active FBZ.,,EK,09 APR 2025,N/A Or Empty,N/A Or Empty,
+END486AZR,END486AZ,END486AZ,"NOT AVBL FOR TFC
+EXC VIA ENANTA",All ATS-routes and DCTs,S,Traffic is not allowed to flight plan across active space launch area,"ISAR II space launch, December 2025, Andoya space",EN,01 NOV 2025,N/A Or Empty,N/A Or Empty,
+END486BZR,END486BZ,END486BZ,NOT AVBL FOR TFC,All ATS-routes and DCTs,S,Traffic is not allowed to flight plan across active space launch area,"ISAR II space launch, December 2025, Andoya space",EN,01 NOV 2025,N/A Or Empty,N/A Or Empty,
 END513ZS,END513Z B15Z,END513Z,NOT AVBL FOR TFC,"P853, P600 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
 Nearby points: BEBGA, BETMA, KEGAX, LEVLO, PEPIV, ORTEN, IBETU, BEVIP",,EN,02 FEB 2024,N/A Or Empty,N/A Or Empty,
 END516ZS,END516Z B16Z,END516Z,NOT AVBL FOR TFC,All ATS routes / DCTs,S,"Traffic is not allowed to flight plan across active military area
@@ -1705,28 +1938,28 @@ NOT AVBL FOR TFC
 1. DEP ENDU AND-THEN VIA BARVI AND-THEN VIA ENT124Z
 2. VIA ENT124Z AND-THEN ARR ENEV & VIA (EVANI, PIKOX)
 3. DEP ENEV AND-THEN VIA (EVANI, PIKOX) AND-THEN VIA ENT124Z","Z201, Z202, P80, Z200, Z156, TR10, P600, M609",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: RIMER, PESIX, LULAX, RIXEM, GILEN, ICOMA, BOKIW",,EN,29 OCT 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: RIMER, PESIX, LULAX, RIXEM, GILEN, ICOMA, BOKIW",,EN,05 DEC 2025,N/A Or Empty,N/A Or Empty,
 ENT125ZR,ENT125Z G5Z,ENT125Z,"NOT AVBL FOR TFC
 EXC ARR/DEP ENEV & VIA (EVANI, PIKOX)
 ----------
 NOT AVBL FOR TFC
 1. DEP ENEV & VIA (EVANI, PIKOX) AND-THEN VIA ENT125Z
 2. VIA ENT125Z AND-THEN ARR ENEV & VIA (EVANI, PIKOX)","Z101, Z201, Z202, P80, Z156, TR10, P600, M609, T65",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: DIRIV, GEGNU, XALON, POBEL, TIPEL",,EN,29 OCT 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: DIRIV, GEGNU, XALON, POBEL, TIPEL",,EN,05 DEC 2025,N/A Or Empty,N/A Or Empty,
 ENT126ZR,ENT126Z G6Z,ENT126Z,"NOT AVBL FOR TFC
 EXC ARR/DEP ENEV & VIA (EVANI, PIKOX)
 ----------
 NOT AVBL FOR TFC
 1. DEP ENEV AND-THEN VIA (EVANI, PIKOX) AND-THEN VIA ENT126Z
 2. VIA ENT126Z AND-THEN ARR ENEV & VIA (EVANI, PIKOX)","Z101, Z201, Z202, Z156, TR10, M609",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: ANDOR, TITOT, NALAL, EDUTA, TIBTI",,EN,29 OCT 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: ANDOR, TITOT, NALAL, EDUTA, TIBTI",,EN,05 DEC 2025,N/A Or Empty,N/A Or Empty,
 ENT127ZR,ENT127Z G7Z,ENT127Z,"NOT AVBL FOR TFC
 EXC ARR/DEP ENEV & VIA (EVANI, PIKOX)
 ----------
 NOT AVBL FOR TFC
 1. DEP ENEV AND-THEN VIA (EVANI, PIKOX) AND-THEN VIA ENT127Z
 2. VIA ENT127Z AND-THEN ARR ENEV & VIA (EVANI, PIKOX)","Z101, Z201, P80, Z156, TR10, M609 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
-Nearby points: GILEN, UBABA, ABTUS, OBAPA, PIDUN, TIPEL",,EN,29 OCT 2024,N/A Or Empty,N/A Or Empty,
+Nearby points: GILEN, UBABA, ABTUS, OBAPA, PIDUN, TIPEL",,EN,05 DEC 2025,N/A Or Empty,N/A Or Empty,
 ENT128ZR,ENT128Z G8Z,ENT128Z,NOT AVBL FOR TFC,"Z101, Z201, P80, Z200, Z156, TR10, M609 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area Nearby points: TIPEL, OVBIG, PIKOX, GILEN, RUKEN",,EN,16 FEB 2022,N/A Or Empty,N/A Or Empty,
 ENT129ZR,ENT129Z G9Z,ENT129Z,NOT AVBL FOR TFC,"Z101, P5, Z201, Z202, Z200, T320, Z156, TR10, T63, M609, T65 / All  DCTs",S,"Traffic is not allowed to flight plan across active military area
 Nearby points: ASRED, DISMU, PENAX, KOXEN, GILEN, ROSAP, UBABA",,EN,16 FEB 2022,N/A Or Empty,N/A Or Empty,
@@ -2247,6 +2480,8 @@ EXC ARR/DEP (EPGD, EPCE)",All ATS route/s / DCT/s,S,Traffic is not allowed to fl
 EPTR70BZR,EPTR70BZ,EPTR70BZ,"NOT AVBL FOR TFC
 EXC ARR/DEP (EPGD, EPCE)",All ATS route/s / DCT/s,S,Traffic is not allowed to flight plan across active area,,EP,15 OCT 2024,N/A Or Empty,N/A Or Empty,
 EPTR71R,EPTR71,EPTR71,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
+EPTR72AR,EPTR72A,EPTR72A,"NOT AVBL FOR TFC
+EXC ARR EPKK",All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,11 SEP 2025,N/A Or Empty,N/A Or Empty,
 EPTR72BR,EPTR72B,EPTR72B,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
 EPTR72CR,EPTR72C,EPTR72C,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
 EPTR72DR,EPTR72D,EPTR72D,NOT AVBL FOR TFC,All ATS route/s/ DCT/s,S,Traffic is not allowed to flight plan across active area.,,EP,07 MAR 2024,N/A Or Empty,N/A Or Empty,
@@ -3874,6 +4109,16 @@ LETR62R,LETR62,LETR62,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 LETR63R,LETR63,LETR63,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
 ",TLP exercise,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
+LETR65R,LETR65,LETR65,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
+",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
+",TLP exercise,LE,27 AUG 2025,N/A Or Empty,N/A Or Empty,
+LETR65S,LETR65,LETR65,"NOT AVBL FOR TFC
+EXC ARR/DEP (LELC, LEMI) & VIA ALT
+----------
+NOT AVBL FOR TFC
+1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETR65_x000D_
+2. VIA LETR65 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)","all ATS route/s/DCT/s
+",S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,LETR65S,LETR65S,
 LETR66HR,LETR66H,LETR66H,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
 ",TLP exercise,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
@@ -3925,6 +4170,13 @@ LETS35R,LETS35,LETS35,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
 LETS36R,LETS36,LETS36,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
+LETS64R,LETS64,LETS64,NOT AVBL FOR TFC,all ATS route/s/DCT/s,S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,N/A Or Empty,N/A Or Empty,
+LETS64S,LETS64,LETS64,"NOT AVBL FOR TFC
+EXC ARR/DEP (LELC, LEMI) & VIA ALT
+----------
+NOT AVBL FOR TFC
+1. DEP (LELC, LEMI) AND-THEN VIA ALT AND-THEN VIA LETS64_x000D_
+2. VIA LETS64 AND-THEN VIA ALT AND-THEN ARR (LELC, LEMI)",all ATS route/s/DCT/s,S,TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA,TLP exercise,LE,27 AUG 2025,LETS64S,LETS64S,
 LETS91R,LETS91,LETS91,NOT AVBL FOR TFC,"all ATS route/s/DCT/s
 ",S,"TO PREVENT FLIGHT PLANNING THROUGH ACTIVE AREA
 ",TLP exercise,LE,23 SEP 2022,N/A Or Empty,N/A Or Empty,
@@ -3953,14 +4205,6 @@ LFD12SAZR,LFD12SAZ,LFD12SAZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD App4 or
 Nearby points : TURDO, MADEK, PEVIS, EBOMO, IDRIK, COQUE, XIDAN, KOLEK.",,LF,06 AUG 2021,N/A Or Empty,N/A Or Empty,
 LFD12SBZR,LFD12SBZ,LFD12SBZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD App4 or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area
 Nearby points : TURDO, MADEK, PEVIS, EBOMO, IDRIK, COQUE, XIDAN, KOLEK.",,LF,06 AUG 2021,N/A Or Empty,N/A Or Empty,
-LFD14AZR,LFD14AZ,LFD14AZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area
-Nearby points : ERCOZ, EBOMO, IDRIK, COQUE, NOVAN, KOLEK.",,LF,20 APR 2024,N/A Or Empty,N/A Or Empty,
-LFD14BZR,LFD14BZ,LFD14BZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area
-Nearby points : ERCOZ, EBOMO, IDRIK, COQUE, NOVAN, KOLEK.",,LF,20 APR 2024,N/A Or Empty,N/A Or Empty,
-LFD15AZR,LFD15AZ,LFD15AZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area
-Nearby points : ERCOZ, IDRIK, NOVAN, BADUR.",,LF,20 APR 2024,N/A Or Empty,N/A Or Empty,
-LFD15BZR,LFD15BZ,LFD15BZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area
-Nearby points : ERCOZ, IDRIK, NOVAN, BADUR.",,LF,20 APR 2024,N/A Or Empty,N/A Or Empty,
 LFD16AZR,LFD16AZ,LFD16AZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD App4 or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area
 Nearby points : TURDO, KOLEK, EBOM, NOVAN, INCEF, ERWAN.",,LF,06 AUG 2021,N/A Or Empty,N/A Or Empty,
 LFD16BZR,LFD16BZ,LFD16BZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD App4 or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area
@@ -4000,19 +4244,6 @@ EXC
 a. VIA LONSU M622 MERLU
 b. VIA NEGAT DCT (NESUL, BUKID, ORKUM)
 4. DEP TOULON_GROUP & VIA OMARD DCT RAPUR",,S,Traffic is not allowed to flight plan across active military area.,,LF,23 APR 2024,LFD540CZR,LFD540CZR,
-LFD540EZR,LFD540EZ,LFD540EZ,"NOT AVBL FOR TFC
-EXC
-1. DEP TOULON_GROUP & VIA OMARD DCT RAPUR
-2. DEP (LFKJ, LFKF, LFKO)
-a. VIA LONSU M622 MERLU AND-THEN VIA (PIGOS, PADKO)
-b. VIA TORTU
-3. DEP (LFKJ, LFKF, LFKB, LFKC, LFKS) & VIA NEGAT DCT (NESUL, BUKID, ORKUM)
-4. DEP (LFMN, LFMD, LFTZ) VIA LONSU AND-THEN VIA IWAZA
-5. ARR LIEO & VIA (PADKO, KOLON) AND-THEN VIA MERLU
-6. ARR LIEA & VIA KOLON AND-THEN VIA MERLU
-7. ARR (LFKJ, LFKF, LFKO) & VIA (LONSU, NEGAT, TORTU)
-8. ARR (LFMN, LFMD, LFTZ) & VIA NEGAT DCT IWAZA
-9. ARR (LFKB, LFKC, LFKS) & VIA NEGAT",,S,Traffic is not allowed to flight plan across active military area.,,LF,23 APR 2024,LFD540EZR,LFD540EZR,
 LFD540WZR,LFD540WZ,LFD540WZ,"NOT AVBL FOR TFC
 EXC
 1. DEP LFMN & VIA (RUBIT, LANKO, TURIL)
@@ -4046,13 +4277,6 @@ b. VIA STP AND THEN VIA (DIVUL, OMARD, PIGOS)
 3. VIA OLNUL DCT RASPA UN854 TINOT
 4. DEP ( LFML, LFMI, LFMQ, LFMO, LFMY, LFMA, LFMV)
 VIA TINOT UN854 RASPA DCT (FIRRA, LUNOR, NAFOQ, ADUZE, BALEN)",,S,Traffic is not allowed to flight plan across active military area and associated buffer zone.,,LF,05 JAN 2024,LFD54A4ZR,LFD54A4ZR,
-LFD54BNZR,LFD54BNZ,LFD54BNZ,"NOT AVBL FOR TFC
-EXC
-1. DEP LFTH AND VIA JULEE
-2. ARR LFTH AND VIA LIPSU DCT JULEE
-3. VIA NEVIX DCT JESOC
-4. VIA OBLAD DCT JESOC
-5. VIA JESOC DCT OBLAD",,S,	Traffic is not allowed to flight plan across active defence area.,,LF,05 JAN 2024,LFD54BNZR,LFD54BNZR,
 LFD54BSZR, LF D 54 BSZ,LFD54BSZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active defence area.,,LF,05 JAN 2024,N/A Or Empty,N/A Or Empty,
 LFD54CNZR,LFD54CNZ,LFD54CNZ,"NOT AVBL FOR TFC
 EXC
@@ -4103,31 +4327,6 @@ LFDB4ZR,LFDB4Z,LFDB4Z,NOT AVBL FOR TFC,"All ATS routes, All DCTs (as allowed by 
 LFDB5ZR,LFDB5Z,LFDB5Z,NOT AVBL FOR TFC,"All ATS routes, All DCTs (as allowed by RAD Annex3B or LFFRANW FRA)",S,Traffic is not allowed to fill a flight plan across active defence area,,LF,02 DEC 2022,N/A Or Empty,N/A Or Empty,
 LFDB6ZR,LFDB6Z,LFDB6Z,NOT AVBL FOR TFC,"All ATS routes, All DCTs (as allowed by RAD Annex3B or LFFRANW FRA)",S,Traffic is not allowed to fill a flight plan across active defence area,,LF,02 DEC 2022,N/A Or Empty,N/A Or Empty,
 LFDB7ZR,LFDB7Z,LFDB7Z,NOT AVBL FOR TFC,"All ATS routes, All DCTs (as allowed by RAD Annex3B or LFFRANW FRA)",S,Traffic is not allowed to fill a flight plan across active defence area,,LF,02 DEC 2022,N/A Or Empty,N/A Or Empty,
-LFR108AUZR,LFR108AUZ,LFR108AUZ,"NOT AVBL FOR TFC
-Except
-1.Dep/Arr LFMA/LFMI/LFML/LFMO/LFMQ/LFMV/LFMY/LFTW
-2.Dep LFMMFIR via MTL UL128 MTG","UT161, UL127, UL128",S,"Traffic is not allowed to flight plan across active military area.
-Traffic via MTL UT161 AVN should plan via MTL UL128 MTG.
-Traffic via  FJR UL127 PADKO  should plan FJR UY25 SALIN UY341 BULTO UY342 PADKO
-Traffic via PADKO UL127 FJR should plan PADKO UY342 BULTO UY341 SALIN UY25 FJR",,LF,01 OCT 2021,N/A Or Empty,N/A Or Empty,
-LFR108HNZR,LFR108HNZ,LFR108HNZ,"NOT AVBL FOR TFC
-1. EXC ARR/DEP (LFMT, LFTW, LFMI, LFMV, LFMY)
-2. EXC ARR (LFML, LFMQ) & VIA LERGA
-----------
-NOT AVBL FOR TFC
-DEP LFMT & SID (ETREK)",,S,"Traffic is not allowed to flight plan accross active defence area
-Via MTL UT161 DIVKO, traffic shall file MTL UL128 MTG UN852 DIVKO
-DEP LFMT via ETREK shall file SID (NG)",,LF,06 MAR 2025,N/A Or Empty,N/A Or Empty,
-LFR108HSZR,LFR108HSZ,LFR108HSZ,"NOT AVBL FOR TFC
-except
-1. Via BADAM DCT VEVUT
-2. BADAM DCT KANIG
-3. ARR LFMP VIA BADAM
-4. DEP LFMP
-5. DEP LFMT via BRUSC
-6. via FJR DCT AFRIC","UN975, UT21, all DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,"Traffic is not allowed to flight plan across active defence area
-Via DIVKO UN975 NILDU traffic shall file DIVKO UM984 MAMES","In CACD define as per Annex3B:
-All DCTs: FL195-UNL",LF,05 OCT 2022,N/A Or Empty,N/A Or Empty,
 LFR108HWZR,LFR108HWZ,LFR108HWZ,"NOT AVBL FOR TFC
 except
 1. via GAI DCT PPG
@@ -4146,17 +4345,7 @@ except
 5. DEP LFMT via BRUSC
 6. via FJR DCT AFRIC","UT21, all DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,Traffic is not allowed to flight plan across active defence area,"In CACD define as per Annex3B:
 All DCTs: FL195-UNL",LF,05 OCT 2022,N/A Or Empty,N/A Or Empty,
-LFR108RTZR,LFR108RTZ,LFR108RTZ,"NOT AVBL FOR TFC
-1. EXC ARR/DEP (LFMT, LFTW, LFMI, LFMV, LFMY)
-2. EXC ARR (LFML, LFMQ) & VIA LERGA
-----------
-NOT AVBL FOR TFC
-DEP LFMT & SID (ETREK)","UT161, all DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,"Traffic is not allowed to flight plan accross active defence area
-Via AVN UT161 DIVKO, traffic shall file MTL UL128 MTG UN852 DIVKO
-DEP LFMT via ETREK shall file SID (NG)",,LF,06 MAR 2025,N/A Or Empty,N/A Or Empty,
 LFR124R,LFR124R,LFR124,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to fill a flight plan across active defence area,,LF,14 SEP 2022,N/A Or Empty,N/A Or Empty,
-LFR138ZR,LFR138Z,LFR138Z,NOT AVBL FOR TFC,,S,"Traffic is not allowed to flight plan across active military area.
-Traffic should plan KOLON UZ184 GANGU",,LF,24 DEC 2021,N/A Or Empty,N/A Or Empty,
 LFR13A1ZR,LFR13A1Z,LFR13A1Z,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area.
 Nearby points : ERCOZ, IDRIK, NOVAN, TEJOP, EBOMO.",,LF,20 APR 2024,N/A Or Empty,N/A Or Empty,
 LFR13A2ZR,LFR13A2Z,LFR13A2Z,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex3B or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area.
@@ -4173,9 +4362,6 @@ LFR157HZR,LFR157HZ,LFR157HZ,NOT AVBL FOR TFC,All DCTs (as allowed by RAD App4 or
 Nearby points : TEJOP, ILTEC, EBOMO.",,LF,06 AUG 2021,N/A Or Empty,N/A Or Empty,
 LFR169BZR,LFR169BZ,LFR169BZ,"NOT AVBL FOR TFC
 except via BADAM",All DCTs (as allowed by RAD Annex3B or LFFRASW FRA),S,Traffic is not allowed to flight plan accross active defence area,,LF,24 FEB 2023,N/A Or Empty,N/A Or Empty,
-LFR175BZ1R,LFR175BZ1,LFR175BZ1,NOT AVBL FOR TFC,"UN858, UL15, All DCTs (as published in RAD App 4)",S,"Traffic is not allowed to fill a flight plan across active defence area
-Traffic departing PARIS_GROUP or LFOB should plan SID DIKOL J10 SUIPE DCT VALEK
-Traffic from UTELA to VALEK should plan UTELA DCT SUIPE DCT VALEK",,LF,25 OCT 2021,N/A Or Empty,N/A Or Empty,
 LFR175BZ2R,LFR175BZ2,LFR175BZ2,"NOT AVBL FOR TFC
 except via LFR175B",No affected ATS routes / DCT,S,To activate the bypass route UTELA-SUIPE-VALEK,,LF,25 OCT 2021,N/A Or Empty,N/A Or Empty,
 LFR221AZR,LFR221AZ,LFR221AZ,"NOT AVBL FOR TFC
@@ -4184,15 +4370,6 @@ Traffic via IRMAR should file via IRMAR DCT MEDAM DCT VANAS or IRMAR DCT MEDAM D
 LFR221BZR,LFR221BZ,LFR221BZ,"NOT AVBL FOR TFC
 EXC VIA (LFMMCTA ABV FL245) AND THEN VIA (EMMEF, ROBEX) AND THEN ARR (LIMF, LIMW, LIMZ)",,S,"Traffic is not allowed to flight plan across active military area and associated buffer zone.
 Traffic via IRMAR should file via IRMAR DCT MEDAM DCT VANAS or IRMAR DCT MEDAM DCT KINES (LSGG arrivals and associated AD),  see LSLF1137, LS2774",,LF,15 JUL 2023,N/A Or Empty,N/A Or Empty,
-LFR222AZR,LFR222AZ,LFR222AZ,"NOT AVBL FOR TFC
-EXC VIA (LFMMCTA ABV FL245) AND THEN VIA (EMMEF, ROBEX) AND THEN ARR (LIMF, LIMW, LIMZ)",,S,"Traffic is not allowed to flight plan across active military area and associated buffer zone.
-OKTET UM733 GIPNO should be bypassed via OKTET UY31 GIPNO.",,LF,02 JUN 2023,N/A Or Empty,N/A Or Empty,
-LFR222BZR,LFR222BZ,LFR222BZ,"NOT AVBL FOR TFC
-EXC VIA (LFMMCTA ABV FL245) AND THEN VIA (EMMEF, ROBEX) AND THEN ARR (LIMF, LIMW, LIMZ)",,S,"Traffic is not allowed to flight plan across active military area and associated buffer zone.
-OKTET UM733 GIPNO should be bypassed via OKTET UY31 GIPNO.",,LF,02 JUN 2023,N/A Or Empty,N/A Or Empty,
-LFR222CZR,LFR222CZ,LFR222CZ,"NOT AVBL FOR TFC
-EXC VIA (LFMMCTA ABV FL235) AND THEN VIA (EMMEF, ROBEX) AND THEN ARR (LIMF, LIMW, LIMZ)",,S,"Traffic is not allowed to flight plan across active military area and associated buffer zone.
-OKTET UM733 GIPNO should be bypassed via OKTET UY31 GIPNO.",,LF,25 AUG 2023,N/A Or Empty,N/A Or Empty,
 LFR25CR,LFR25C,LFR25C,"NOT AVBL FOR TFC
 except 
 1.via DOMOD A3 MOTAL
@@ -4261,20 +4438,8 @@ LFT10C3ZR,LFTRA10C3Z,LFT10C3Z,"NOT AVBL FOR TFC
 except ARR (ORLY_GROUP, LFOC/OJ/OZ)
 1. via TUDRA and-then BEVOL
 2. via NIMER","All ATS routes, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,	Traffic is not allowed to fill a flight plan across active defence area,,LF,10 SEP 2022,LFT10C3ZR,LFT10C3ZR,
-LFT200AZ1R,LFTRA200AZ1,LFT200AZ1,"NOT AVBL FOR TFC
-EXC VIA
-1. ROUSY DCT GTQ
-2. SORAL DCT IBERA","UL15, UM624, SID LANVI, All DCTs (as published in RAD Annex 3B or LFFRAE FRA)",S,"Traffic is not allowed to fill a flight plan across active defence area
-Traffic departing ROISSY_GROUP or LFOB should plan BUBLI SID",,"LF,NM",05 JAN 2024,N/A Or Empty,N/A Or Empty,
 LFT200AZ2R,LFTRA200AZ2,LFT200AZ2,"NOT AVBL FOR TFC
 EXC VIA LFT200A",No affected ATS routes / DCT (as allowed by RAD Annex3B or LFFRAE FRA),S,To guide departing traffic on specefic routes according to military activity,,"LF,NM",05 JAN 2024,N/A Or Empty,N/A Or Empty,
-LFT200CZR,LFTSA200CZ,LFT200CZ,NOT AVBL FOR TFC,"UL15, All DCTs (as published in RAD App 4)",S,Traffic is not allowed to fill a flight plan across active defence area,,LF,25 OCT 2021,N/A Or Empty,N/A Or Empty,
-LFT200EZR,LFTRA200EZ,LFT200EZ,"NOT AVBL FOR TFC
-EXC VIA
-1. ROUSY DCT GTQ
-2. SORAL DCT IBERA","UL15, UM624, All DCTs (as published in RAD Annex 3B or LFFRAE FRA)",S,Traffic is not allowed to fill a flight plan across active defence area,,"LF,NM",05 JAN 2024,N/A Or Empty,N/A Or Empty,
-LFT200WZ1R,LFTRA200WZ1,LFT200WZ1,NOT AVBL FOR TFC,"UL15, SID LANVI, All DCTs (as published in RAD Annex 3B or LFFRAE FRA)",S,"Traffic is not allowed to fill a flight plan across active defence area
-Traffic departing ROISSY_GROUP or LFOB should plan BUBLI SID",,"LF,NM",05 JAN 2024,N/A Or Empty,N/A Or Empty,
 LFT200WZ2R,LFTRA200WZ2,LFT200WZ2,"NOT AVBL FOR TFC
 EXC VIA LFT200W",No affected ATS routes / DCT  (as allowed by RAD Annex 3B or LFFRAE FRA),S,To guide departing traffic on specefic routes according to military activity,,"LF,NM",05 JAN 2024,N/A Or Empty,N/A Or Empty,
 LFT22A1ZR,LFTRA22A1Z,LFT22A1Z,"NOT AVBL FOR TFC
@@ -4282,22 +4447,9 @@ EXC DEP STRASBOURG_GROUP","All ATS routes, all DCTs",S,Traffic is not allowed to
 LFT22A2R,LFT22A2,LFT22A2,NOT AVBL FOR TFC,,S,                 Traffic not allowed to plan across military area,,LF,07 JUN 2024,N/A Or Empty,N/A Or Empty,
 LFT22BZR,LFTRA22BZ,LFT22BZ,"NOT AVBL FOR TFC
 EXC DEP STRASBOURG_GROUP","All ATS routes, All DCTs (as allowed by RAD Annex3B or LFFRAE FRA)",S,Traffic is not allowed to flight plan across active military area,,LF,20 DEC 2024,N/A Or Empty,N/A Or Empty,
-LFT24AZ1R,LFTSA24AZ1,LFT24AZ1,NOT AVBL FOR TFC,"UM733, UT133, UZ124, UH10, UM129, All DCTs (as published in RAD App 4)",S,"Traffic is not allowed to fill a flight plan across active defence area.
-Traffic destination ORLY_GROUP via BULOL should plan: BULOL DCT BUSIL DCT AMORO DCT PIBAT STAR
-Traffic from BULOL to BRY should plan: BULOL DCT BUSIL DCT PIBAT DCT CACHI DCT AVLON UM976 BRY
-Traffic departing GENEVA_GROUP destination ORLY_GROUP should plan: (IBABA UB37/ SIROD UH10)DJL STAR
-Traffic departing GENEVA_GROUP to CLM should plan: (IBABA UB37/ SIROD UH10) DJL UH37 LAULY UM733 CLM
-Traffic departing GENEVA_GROUP to AMODO should plan: (IBABA UB37/ SIROD UH10) DJL UH37 TUNOR DCT OKRIX UH10 AMODO
-Traffic from DJL to OKRIX should plan: DJL UH37 TUNOR DCT OKRIX",Change in the operational goal description (Flight plan suggestions for ORLY_GROUP arrivals and traffic from BULOL to BRY),LF,16 FEB 2022,N/A Or Empty,N/A Or Empty,
 LFT24AZ2R,LFTSA24AZ2,LFT24AZ2,"NOT AVBL FOR TFC
 except via LFT24A",No affected ATS routes / DCT,S,"To activate the bypass routes via TUNOR-OKRIX or BULOL-PIBAT
 To activate the bypass route for traffic departing GENEVA_GROUP via SIROD.  This Traffic should plan SIROD L615 DJL.",,LF,17 MAY 2024,N/A Or Empty,N/A Or Empty,
-LFT24BZ1R,LFTSA24BZ1,LFT24BZ1,NOT AVBL FOR TFC,"UM733, UT133, UZ124, UM129, All DCTs (as published in RAD App 4)",S,"Traffic is not allowed to fill a flight plan across active defence area.
-Traffic destination ORLY_GROUP via BULOL should plan: BULOL DCT BUSIL DCT AMORO DCT PIBAT STAR
-Traffic from BULOL to BRY should plan: BULOL DCT BUSIL DCT PIBAT DCT CACHI DCT AVLON UM976 BRY
-Traffic departing GENEVA_GROUP destination ORLY_GROUP should plan: (IBABA UB37/ SIROD UH10)DJL STAR
-Traffic departing GENEVA_GROUP to CLM should plan: (IBABA UB37/ SIROD UH10) DJL UH37 LAULY UM733 CLM
-Traffic departing GENEVA_GROUP to AMODO should plan: (IBABA UB37/ SIROD UH10) DJL UH37 TUNOR DCT OKRIX UH10 AMODO",,LF,21 FEB 2025,N/A Or Empty,N/A Or Empty,
 LFT24BZ2R,LFTSA24BZ2,LFT24BZ2,"NOT AVBL FOR TFC
 except via LFT24B",No affected ATS routes / DCT,S,"To activate the bypass route via BULOL-PIBAT
 To activate the bypass route for traffic departing GENEVA_GROUP via SIROD.  This Traffic should plan SIROD L615 DJL.",,LF,17 MAY 2024,N/A Or Empty,N/A Or Empty,
@@ -4343,36 +4495,6 @@ Via NAKIS UZ38 PEQEF, traffic shall file BALSI UN852 DIVKO
 If DEP Lyon_Group with ARR Barcelona_Group traffic shall file ROMAM UY23 MTL UL128 MTG UN852 DIVKO
 Via DIVKO UT21 YACIM, traffic shall file DIVKO UM731 FJR","In CACD define as per Annex3B:
 All DCTs: FL195-UNL",LF,17 JUL 2022,N/A Or Empty,N/A Or Empty,
-LFT42NTZR,LFTRA42NTZ,LFT42NTZ,"NOT AVBL FOR TFC
-1. EXC ARR (LFHO, LFME, LFMI, LFMS, LFMT, LFTW)
-2. EXC DEP (LFMT, LFTW, LFMI)
-3. EXC ARR LFMQ & VIA LERGA
-----------
-NOT AVBL FOR TFC
-DEP LFMT & SID (ETREK)",,S,"Traffic is not allowed to flight plan across active defence area
-Via MTL UZ38 PEQEF, traffic shall file BALSI UN852 DIVKO
-DEP LFMT via ETREK shall file SID (NG)",,LF,06 MAR 2025,N/A Or Empty,N/A Or Empty,
-LFT42NZR,LFTRA42NZ,LFT42NZ,"NOT AVBL FOR TFC
-1. EXC ARR (LFHO, LFME, LFMI, LFMS, LFMT, LFTW)
-2. EXC DEP (LFMT, LFTW, LFMI)
-3. EXC ARR LFMQ & VIA LERGA
-----------
-NOT AVBL FOR TFC
-DEP LFMT & SID (ETREK)","UM731, UZ38, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,"Traffic is not allowed to flight plan across active defence area
-Via MTL UT161 DIVKO, traffic shall file MTL UL128 MTG UN852 DIVKO 
-Via MTL UZ38 PEQEF, traffic shall file BALSI UN852 DIVKO
-If DEP Lyon_Group with ARR Barcelona_Group traffic shall file ROMAM UY23 MTL UL128 MTG UN852 DIVKO
-DEP LFMT via ETREK shall file SID (NG)",,LF,06 MAR 2025,N/A Or Empty,N/A Or Empty,
-LFT42SZR,LFTRA42SZ,LFT42SZ,"NOT AVBL FOR TFC
-1. EXC ARR/DEP (LFMT, LFTW, LFMI, LFMV, LFMY)
-2. EXC ARR (LFML, LFMQ) & VIA LERGA
-----------
-NOT AVBL FOR TFC
-DEP LFMT & SID (ETREK)"," UM731, UZ38, UT161, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,"Traffic is not allowed to flight plan across active defence area
-Via MTL UT161 DIVKO, traffic shall file MTL UL128 MTG UN852 DIVKO
-Via MTL UZ38 PEQEF, traffic shall file BALSI UN852 DIVKO
-If DEP Lyon_Group with ARR Barcelona_Group traffic shall file ROMAM UY23 MTL UL128 MTG UN852 DIVKO
-DEP LFMT via ETREK shall file SID (NG)",,LF,06 MAR 2025,N/A Or Empty,N/A Or Empty,
 LFT43AZR,LFTRA43AZ,LFT43AZ,"NOT AVBL FOR TFC
 except
 1. DEP LFCR/CU/LC/LW/SL  
@@ -4421,25 +4543,6 @@ LFT44D2ZR,LFTRA44D2Z,LFT44D2Z,"NOT AVBL FOR TFC
 EXC 
 1. ARR/DEP (AJACCIO_GROUP, BASTIA_GROUP)
 2. ARR (LIRP, LIRJ, LIRS, LIQS)",,S,Traffic is not allowed to flight plan across active military area,,LF,05 JAN 2024,N/A Or Empty,N/A Or Empty,
-LFT46NZR,LFTRA46NZ,LFT46NZ,"NOT AVBL FOR TFC
-except
-1. via BADAM DCT VEVUT
-2. via BADAM DCT KANIG
-3. ARR LFMP
-4. DEP LFMP","UZ38, UN975, UT21, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA) ",S,"Traffic is not allowed to flight plan across active defence area
-Via MTL UZ38 PEQEF, traffic shall file BALSI UN852 DIVKO
-If DEP Lyon_Group with ARR Barcelona_Group traffic shall file ROMAM UY23 MTL UL128 MTG UN852 DIVKO
-Via DIVKO UN975 NILDU  traffic shall file DIVKO UM984 MAMES
-Via DIVKO UT21 YACIM traffic shall file DIVKO UM731 FJR ","In CACD define as per Annex3B:
-All DCTs: FL195-UNL",LF,17 JUL 2022,N/A Or Empty,N/A Or Empty,
-LFT46SZR,LFTRA46SZ,LFT46SZ,"NOT AVBL FOR TFC
-except
-1. via BADAM DCT VEVUT
-2. via BADAM DCT KANIG
-3. ARR LFMP
-4. DEP LFMP","UN975, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA) ",S,"Traffic is not allowed to flight plan across active defence area
-Via DIVKO UN975 NILDU  traffic shall file DIVKO UM984 MAMES","In CACD define as per Annex3B:
-All DCTs: FL195-UNL",LF,17 JUL 2022,N/A Or Empty,N/A Or Empty,
 LFT6ZR,LFTRA6Z,LFT6Z,NOT AVBL FOR TFC,All DCTs (as allowed by RAD Annex 3B or LFFRANW FRA),S,"Traffic is not allowed to flight plan across active military area.
 Nearby points : DEGEX, BADUR, EBOMO, ERCOZ, NOVAN, TERKU.",,LF,20 APR 2024,N/A Or Empty,N/A Or Empty,
 LFT8AR,LFT8A,LFT8A,NOT AVBL FOR TFC,"UZ57, UN29, UY120, UN861
@@ -4456,16 +4559,10 @@ LFT9AR,LFTRA9A,LFT9A,NOT AVBL FOR TFC,"UN861, UP860, UY120,all DCTs (as allowed 
 LFT9BR,LFTRA9B,LFT9B,NOT AVBL FOR TFC,All DCT's (as allowed by RAD Annex3B or LFFRASW FRA),S,Traffic is not allowed to flight plan across active military area,,LF,10 SEP 2022,N/A Or Empty,N/A Or Empty,
 LFT9CR,LFTRA9C,LFT9C,NOT AVBL FOR TFC,"UP860, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,Traffic is not allowed to flight plan across active military area,,LF,10 SEP 2022,N/A Or Empty,N/A Or Empty,
 LFT9DR,LFTRA9D,LFT9D,NOT AVBL FOR TFC,"UP860, All DCTs (as allowed by RAD Annex3B or LFFRASW FRA)",S,Traffic is not allowed to flight plan across active military area,,LF,10 SEP 2022,N/A Or Empty,N/A Or Empty,
-LGD102AZR,LGD102AZ,LGD102AZ,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
-LGD102BZR,LGD102BZ,LGD102BZ,NOT AVBL FOR TFC,All ATS routes / DCTs,S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
-LGD102CZR,LGD102CZ,LGD102CZ,NOT AVBL FOR TFC,All ATS Routes  and DCTs,S,Traffic is not allowed to flight plan across active military area. ,Will be applied an additional 15 mins prior to and 30 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
 LGD61R,LGD61,LGD61,NOT AVBL FOR TFC,LORNO A/UA145 RESPA,S,"Traffic is not allowed to flight plan across active military area. 
  ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the  danger area,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
 LGD61ZR,LGD61Z,LGD61Z,NOT AVBL FOR TFC,LORNO A/UA145 RESPA,S,"Traffic is not allowed to flight plan across active military area. 
 ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
-LGD72A2R,LGD72A2,LGD72A2,NOT AVBL FOR TFC,"KFN (M872, UM872) ETILI
-LORNO (A145, UA145) RESPA
- ",S,  Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area.,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD72AR,LGD72A,LGD72A,NOT AVBL FOR TFC,"LASKO UM601 TRL
 ENESI M/UM872 ETILI",S,"Traffic is not allowed to flight plan across active military area. 
  ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the danger area. ,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
@@ -4486,17 +4583,7 @@ LGD72BZR,LGD72BZ,LGD72BZ,NOT AVBL FOR TFC,"LORNO A/UA145 RESPA
 ENESI M/UM872 ETILI
 SIT UP23 LORNO",S,"Traffic is not allowed to flight plan across active military area. 
 ",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area. ,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
-LGD72CR,LGD72C,LGD72C,NOT AVBL FOR TFC,"RESPA (A145, UA145) TRL, 
-SIT UP23 LORNO,
-KFN (M872,UM872) ETILI,
-BADOG UN45  DILMO,
-KAM J61 IPTAG,
-KAM (Y115, UY115) IPTAG",S,Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD72CZR,LGD72CZ,LGD72CZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
-LGD72DR,LGD72D,LGD72D,NOT AVBL FOR TFC,"LORNO (A145,  UA145)  TRL,
-KFN (M872, UM872) ETILI",S,"Traffic is not allowed to flight plan across active military area 
-
-",Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD72DZR,LGD72DZ,LGD72DZ,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area ,Will be applied an additional 15 mins prior to and 15 mins following the times of activity of the parent danger area,LG,30 JUN 2025,N/A Or Empty,N/A Or Empty,
 LGD83R,LGD83,LGD83,NOT AVBL FOR TFC,"IXIMA L/UL612 RUSOS 
 MONUV P/UP32 MIL
@@ -4542,10 +4629,6 @@ LGTRA1BR,LGTRA1B,LGTRA1B,"NOT AVBL FOR TFC
 EXC ARR/DEP LGAL", ,S, Traffic is not allowed to flight plan across active military area. ,,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
 LGTRA1CR,LGTRA1C,LGTRA1C,"NOT AVBL FOR TFC
 EXC ARR/DEP LGAL", ,S, Traffic is not allowed to flight plan across active military area. ,,LG,19 SEP 2024,N/A Or Empty,N/A Or Empty,
-LGTRA50AR,LGTRA50A,LGTRA50A,NOT AVBL FOR TFC,NEMES UB34 DDM,S,Laser beam activation for scientific purposes,,LG,05 MAR 2025,N/A Or Empty,N/A Or Empty,
-LGTRA50BR,LGTRA50B,LGTRA50B,NOT AVBL FOR TFC,,S,Laser beam activation for scientific purposes,,LG,05 MAR 2025,N/A Or Empty,N/A Or Empty,
-LGTRA50CR,LGTRA50C,LGTRA50C,NOT AVBL FOR TFC,"KOR (N604, UN604) ARA
-LGR53",S,Laser beam activation for scientific purposes,,LG,05 MAR 2025,N/A Or Empty,N/A Or Empty,
 LGTSA1R,LGTSA1,LGTSA1,NOT AVBL FOR TFC,"PIKOS UL607 XORKI
 BITLA  UN132  ROPOX  
 YNN UV651 AGH
@@ -4677,7 +4760,7 @@ LIP3R,LIP3,LIP3,NOT AVBL FOR TFC,,S,Permanent Validity.Traffic is not allowed to
 LIR107AR,LIR107A,LIR107A,NOT AVBL FOR TFC,,S, Permanent applicability. Procedures for crossing: see ENR 5.1,,LI,08 OCT 2024,N/A Or Empty,N/A Or Empty,
 LIR107BR,LIR107B,LIR107B,NOT AVBL FOR TFC,,S,"AMC manageable zone above FL315. 
 Procedures for crossing: see ENR 5.1",,LI,08 OCT 2024,N/A Or Empty,N/A Or Empty,
-LIR108AR,LIR108A,LIR108A,NOT AVBL FOR TFC,,S,Permanent Validity. Traffic is not allowed to flight plan across the area acoording to the  AIP SUP S34/23 (LI R108/B - Colico bis),,LI,14 NOV 2024,N/A Or Empty,N/A Or Empty,
+LIR108AR,LIR108A,LIR108A,NOT AVBL FOR TFC,,S,Permanent Validity. Traffic is not allowed to flight plan across the area acoording to the  AIP SUP S34/23 (LI R108/B - Colico bis),,LI,18 NOV 2025,N/A Or Empty,N/A Or Empty,
 LIR108BR,LIR108B,LIR108B,NOT AVBL FOR TFC,,S,Permanent Validity. Traffic is not allowed to flight plan across the area acoording to the AIP  SUP S34/23  (LI R108/B - Colico bis),,LI,08 OCT 2024,N/A Or Empty,N/A Or Empty,
 LIR10BR,LIR10B,LIR10B,NOT AVBL FOR TFC,,S,AMA - Activated by NOTAM. Defence focal point for the permission release to special activities within the area see section ENR 5.1 para. 2.3. ,,LI,27 FEB 2025,N/A Or Empty,N/A Or Empty,
 LIR26R,LIR26,LIR26,NOT AVBL FOR TFC,FL240/FL370,S,AMA - Activated via AUP/UUP,,LI,08 OCT 2024,N/A Or Empty,N/A Or Empty,
@@ -4922,10 +5005,6 @@ EXC DEP LOWW",SECSI FRA DCTs,S,Traffic is not allowed to flight plan across acti
 LOR5R,LOR5,LOR5,NOT AVBL FOR TFC,SECSI FRA DCTs,S,Traffic is not allowed to flight plan across active military area,,LO,17 JUL 2024,N/A Or Empty,N/A Or Empty,
 LOR6R,LOR6,LOR6,NOT AVBL FOR TFC,SECSI FRA DCTs,S,Traffic is not allowed to flight plan across active military area,,LO,17 JUL 2024,N/A Or Empty,N/A Or Empty,
 LPD63R,LPD63,LPD63,NOT AVBL FOR TFC,,S,Traffic is not allowed to flight plan across active military area,,LP,28 AUG 2024,N/A Or Empty,N/A Or Empty,
-LPT10R,LPT10,LPT10,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
-LPT1R,LPT1,LPT1,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
-LPT2R,LPT2,LPT2,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
-LPT3R,LPT3,LPT3,NOT AVBL FOR TFC,,S,"VIPER SWORD, NATO TIGER MEET 2025, ETAP-C 2025","AIP SUP 82/25, 83/25, 89/25",LP,15 SEP 2025,N/A Or Empty,N/A Or Empty,
 LPTRA54R,LPTRA54,LPTRA54,"NOT AVBL FOR TFC
 VIA (ARDID, BARDI, NETOS, NINOS, RIVRO)",,S,Traffic is not allowed to flight plan across active military area,,LP,28 AUG 2024,N/A Or Empty,N/A Or Empty,
 LPTRA55R,LPTRA55,LPTRA55,"NOT AVBL FOR TFC
@@ -5114,9 +5193,9 @@ EXC
 6. VIA (ELMUR N851 ROLSA)
 7. VIA (UTAVO DCT ROLSA)
 8. VIA (UTAVO DCT ELMUR)",,S,"Traffic is not allowed to flight plan across active military area
-7-8. FRA Switzerland connection",,LS,14 NOV 2024,N/A Or Empty,N/A Or Empty,
+7-8. FRA Switzerland connection",,LS,18 NOV 2025,N/A Or Empty,N/A Or Empty,
 LST40ZR,LST40Z,LST40Z,"NOT AVBL FOR TFC
-EXC VIA (ARGAX DCT ELMUR)",,S,Traffic is not allowed to flight plan across active military area,,LS,14 NOV 2024,N/A Or Empty,N/A Or Empty,
+EXC VIA (ARGAX DCT ELMUR)",,S,Traffic is not allowed to flight plan across active military area,,LS,18 NOV 2025,N/A Or Empty,N/A Or Empty,
 LST501PZR,LST501PZ,LST501PZ,"NOT AVBL FOR TFC
 1. EXC BIDI (KELIP Z50 SOPER)_x000D_
 2. EXC VIA (PIXOS N851 SOPER)_x000D_
@@ -5229,10 +5308,6 @@ LYTR108R,LYTRA108,LYTR108,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs UTEKA L610 DONIV, OKLOP M19 ETIDA, ANASA Y88 ESIRI, UTEKA Y520 ESIRI, DCT DONIV - ETIDA",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
 LYTR108ZR,LYTRA108Z,LYTR108Z,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs UTEKA L610 DONIV, OKLOP M19 ETIDA, OBLAK N188 OKLOP, ANASA Y88 ESIRI, UTEKA Y520 ESIRI, DCT DONIV - ETIDA",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
-LYTR901R,LYTRA901,LYTR901,"NOT AVBL FOR TFC
-EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs, SOMUN N978 MAVIT, IRGOR P129 MAVIT, DONIV L610 PELOV L610 TISAK,  OSVIX L617 PELOV L617 PARAK, TISAK P192 OKLOP, bidi: MAVIT N188 DONIV",S,Traffic is not allowed to flight plan through active military area,,LY,14 AUG 2025,N/A Or Empty,N/A Or Empty,Military_Exercise_Airsolution_LY_AIP_SUP_5_2025
-LYTR901ZR,LYTRA901Z,LYTR901Z,"NOT AVBL FOR TFC
-EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs, SOMUN N978 MAVIT, IRGOR P129 MAVIT, DIRER Z924 VAL, DIRER N164 DONIV, DONIV L610 PELOV L610 TISAK,  OSVIX L617 PELOV L617 PARAK,  TISAK P192 OKLOP, bidi: MAVIT N188 DONIV, bidi: TISAK M173 BGD",S,Traffic is not allowed to flight plan through active military area.,,LY,14 AUG 2025,N/A Or Empty,N/A Or Empty,Military_Exercise_Airsolution_LY_AIP_SUP_5_2025
 LYTSA02R,LYTSA02,LYTSA02,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTs PELOV L610 TISAK, bidi: BGD M173 TISAK, SOMUN N978 MAVIT, TISAK P192 OKLOP",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
 LYTSA02ZR,LYTSA02Z,LYTSA02Z,"NOT AVBL FOR TFC
@@ -5286,8 +5361,6 @@ LYTSA13R,LYTSA13,LYTSA13,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTsUTEKA L610 DONIV,bidi: NEPOS L617 OKLOP,OKLOP L617 OSVIX,bidi: SMI M19 OKLOP,OKLOP M19 ETIDA,OBLAK N188 OKLOP,bidi: OKLOP N188 DONIV,bidi: BGD N739 OKLOP,OKLOP N739 OBAGI,TISAK P192 OKLOP,ANASA Y88 ESIRI Y88 OSVIX,UTEKA Y520 ESIRI Y520 BGD,DCT DONIV - ETIDA Options for circumnavigation of the military area are given in Serbia / Montenegro AIP ENR 1.10 para 4.2.1",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
 LYTSA13ZR,LYTSA13Z,LYTSA13Z,"NOT AVBL FOR TFC
 EXC ARR/DEP (LYBE, LYBT, LYKV, LYNI, LYUZ, LYVR) & FLT-STS (HEAD, FFR, SAR, MEDEVAC)","SECSI FRA DCTsUTEKA L610 DONIV,bidi: RAVAK L617 NEPOS L617 OKLOP,OKLOP L617 OSVIX L617 PELOV,bidi: SMI M19 OKLOP,OKLOP M19 ETIDA,OBLAK N188 OKLOP,bidi: OKLOP N188 DONIV,bidi: BGD N739 OKLOP,OKLOP N739 OBAGI,TISAK P192 OKLOP,ANASA Y88 ESIRI Y88 OSVIX Y88 XENIT,UTEKA Y520 ESIRI Y520 BGD,DCT DONIV - ETIDA Options for circumnavigation of the military area are given in Serbia / Montenegro AIP ENR 1.10 para 4.2.1",S,Traffic is not allowed to flight plan through active military area,,LY,08 SEP 2024,N/A Or Empty,N/A Or Empty,
-LZNPZ10R,LZNPZ10,LZNPZ10,"NOT AVBL FOR TFC
-EXC VIA ETIPA",,S,Zone preventing inappropriate flight planning close to FIR border or sector border.,,LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
 LZNPZ1R,LZNPZ1,LZNPZ1,"NOT AVBL FOR TFC
 EXC 
 1. VIA (LADOB, LASOT, MALBE)
@@ -5295,20 +5368,6 @@ EXC
 LZNPZ3R,LZNPZ3,LZNPZ3,"NOT AVBL FOR TFC
 1. EXC VIA BIDI (XNG LZBBFIR - LKAAFIR BDRY)
 2. EXC VIA BIDI (BABNI DCT TUTPI)",,S,Zone within FRA preventing inappropriate flight planning close to FIR border.,"Permanent validity. Traffic is not allowed to flight plan across area, except where the set conditions are met.",LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
-LZNPZ5R,LZNPZ5,LZNPZ5,"NOT AVBL FOR TFC
-1. VIA LHCCNORTH & VIA LZBBEAST_x000D_
-2. VIA LZNPZ8",,S,"Zone within FRA preventing inappropriate flight planning close to FIR border.
-",,LZ,29 JUL 2024,LZNPZ5R,LZNPZ5R,
-LZNPZ6R,LZNPZ6,LZNPZ6,"NOT AVBL FOR TFC
-1. VIA LHCCWEST_x000D_
-2. VIA LHCCEAST & VIA LZBBWEST",,S,"Zone within FRA preventing inappropriate flight planning close to FIR border.
-1. This traffic may file via AMRAX
-2. This traffic may file via VALPI",,LZ,29 JUL 2024,LZNPZ6R,LZNPZ6R,
-LZNPZ7R,LZNPZ7,LZNPZ7,"NOT AVBL FOR TFC
-1. XNG EP - LZ BDRY AND-THEN VIA LHCCEAST_x000D_
-2. VIA LHCCEAST AND-THEN XNG LZ - EP BDRY_x000D_
-3. VIA (LZNPZ8, LZNPZ6)",,S,Zone within FRA preventing inappropriate flight planning close to FIR border.,,LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
-LZNPZ9R,LZNPZ9,LZNPZ9,NOT AVBL FOR TFC,,S,Zone preventing inappropriate flight planning close to FIR border or sector border.,,LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
 LZR28AR,LZR28A,LZR28A,NOT AVBL FOR TFC,,S,No traffic allowed in military areas when active,,LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
 LZR31AR,LZR31A,LZR31A,NOT AVBL FOR TFC,,S,No traffic allowed in military areas when active,,LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
 LZR31BR,LZR31B,LZR31B,NOT AVBL FOR TFC,,S,No traffic allowed in military areas when active,,LZ,27 JUL 2024,N/A Or Empty,N/A Or Empty,
