@@ -1,0 +1,66 @@
+# Docker ignore file
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Node modules (for globe-comparison)
+node_modules/
+globe-comparison/node_modules/
+globe-comparison/dist/
+globe-comparison/build/
+
+# Documentation
+doc/
+*.md
+README.md
+
+# Large files
+*.zip
+*.xlsx
+*.pdf
+*.docx
+
+# AIXM data
+AIXM 5.1/
+
+# Logs
+*.log
+
+# Environment
+.env
